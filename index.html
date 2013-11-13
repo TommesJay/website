@@ -36,7 +36,17 @@
 
 	<p>
 		Bitte richten Sie eventuelle Fragen an
-		<a href="mailto:info@accu-rate.de">info@accu-rate.de</a>.
+		<span id="mailadresse">(Bitte Javascript aktivieren.)</span>.
 	</p>
+
+	<script>
+		/* Sehr dumme Spambots blenden. */
+		var tmp1 = "info";
+		var tmp2 = "&#64;";
+		var tmp3 = "accu-rate.de"
+		var addr = tmp1 + tmp2 + tmp3;
+		var lnk = "<a href=\"mailto:" + addr + "\">" + addr + "</a>";
+		document.getElementById("mailadresse").innerHTML = lnk;
+	</script>
 </body>
 </html>
