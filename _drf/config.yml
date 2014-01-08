@@ -1,5 +1,6 @@
---- site wide
-siteTitle: 'accu:rate'
+---
+# site wide
+siteTitle: accu:rate
 baseurl: 
 htmlextension: .html
 tplextension: .html
@@ -9,7 +10,10 @@ directory:
     source: ../source/
     html: ../html/
 
---- page specific, optional overwrite in directory or source
+---
+# page specific, optional overwrite in directory or source
+lang:
+author: accu:rate
 template: accu-rate
 area:
     navigation: ../source/area/navigation.md
