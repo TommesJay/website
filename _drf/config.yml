@@ -1,0 +1,21 @@
+--- site wide
+siteTitle: 'accu:rate'
+baseurl: 
+htmlextension: .html
+tplextension: .html
+ymlseparator: '#meta#'
+directory:
+    template: ../template/
+    source: ../source/
+    html: ../html/
+
+--- page specific, optional overwrite in directory or source
+template: accu-rate
+area:
+    navigation: ../source/area/navigation.md
+    sidebar: ../source/area/sidebar.md 
+    footer: ../source/area/footer.md
+pagetitle: Title from root-config 
+comment: false
+description: Some general site wide description
+cssjsversion: 1
