@@ -1,6 +1,3 @@
-[submodule "lib/usefulclassroomphrases"]
-	path = lib/usefulclassroomphrases
-	url = https://github.com/klml/usefulclassroomphrases
 [submodule "lib/skeleton"]
 	path = lib/skeleton
 	url = https://github.com/dhg/Skeleton.git
