@@ -10,3 +10,6 @@
 [submodule "lib/js-markdown-extra"]
 	path = lib/js-markdown-extra
 	url = https://github.com/tanakahisateru/js-markdown-extra.git
+[submodule "lib/normalize.css"]
+	path = lib/normalize.css
+	url = https://github.com/necolas/normalize.css/
