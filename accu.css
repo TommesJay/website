@@ -1,0 +1,9 @@
+body {
+    background-color: #dfded9;
+    background-image: url("/img/accurate-bg-kachel.png");
+}
+
+.container {
+    background: #ffffff;
+    min-height: 900px;
+}
