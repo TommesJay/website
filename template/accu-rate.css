@@ -6,8 +6,14 @@ Hellgrau: e2e1da
 Text ist schwarz, Footer dunkelgrau, die Kästen Dunkel- auf Hellgrau. Linie ist Dunkelgrau, 1px. Die Farben in den beiden Seitenansichten entsprechen nicht zwangsläufig den finalen, richtigen Werten (s.o.).
 */
 
-body {
+/* Typographie */
+body, h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
+}
+
+
+/* Layout generell */
+body {
     background-color: #dfded9;
     background-image: url("/img/accurate-bg-kachel.png");
 }
@@ -17,6 +23,7 @@ body {
     background-image: url("/img/accurate-menue-grafik.png");
     background-repeat: no-repeat;
     background-position: 75% 0%;
+    margin-bottom: 2em;
 }
 
 
