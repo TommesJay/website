@@ -19,6 +19,7 @@ body {
     background-position: 75% 0%;
 }
 
+
 #logo {
     background-image: url("/img/accurate-logo.png");
     width: 200px;
@@ -29,6 +30,7 @@ body {
 #logo h2 {
     display: none;
 }
+
 
 .nav {
     text-align: center;
@@ -41,7 +43,6 @@ body {
 }
 .nav li a {
     color: #e84e0f;
-    text-decoration: none;
 }
 .nav li a:hover {
     text-decoration: underline;
@@ -49,6 +50,7 @@ body {
 .nav li a:visited {
     /* color: gray; */
 }
+
 
 #footer {
     background-color: #6e685d;

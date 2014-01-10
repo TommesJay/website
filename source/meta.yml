@@ -1,6 +1,7 @@
 ---
 siteTitle: accu:rate
 pagetitle: Directory wide title 
+creator: "Florian Sesser, accu:rate, 2014"
 baseurl: 
 template: accu-rate
 area:
@@ -9,5 +10,6 @@ area:
     footer: ../source/area/footer.md
 cssjsversion: 1
 comment: false
-description: Some general site  wide description
+description: accu:rate Institute for Crowd Simulation
+lang: de
 ---

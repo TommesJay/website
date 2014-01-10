@@ -4,14 +4,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-	<title>accu:rate</title>
+    <title>{{meta.pagetitle}} | {{meta.siteTitle}}</title>
+    <meta name="description" content="{{meta.description}}" />
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name="publisher" content="accu:rate" />
-	<meta name="description" content="accu:rate Institute for Crowd Simulation" />
-	<meta name="creator" content="Florian Sesser, accu:rate, 2014" />
-	<meta http-equiv="content-language" content="de" />
-	<meta name="DC.Language" content="de" />
+	<meta name="creator" content="{{meta.creator}}" />
+	<meta http-equiv="content-language" content="{{meta.lang}}" />
+	<meta name="DC.Language" content="{{meta.lang}}" />
 
 
     <!-- <link rel="stylesheet" type="text/css" media="all" href="/lib/normalize.css/normalize.css" /> -->
@@ -50,7 +50,7 @@
 
 
         <div class="row sixteen columns clearfix">
-            content!
+            {{{content.main}}}
         </div>
 
 
