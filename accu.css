@@ -1,10 +1,17 @@
+/*
+Orange: e84e0f
+Dunkelgrau: 6e685d
+Hellgrau: e2e1da
+
+Text ist schwarz, Footer dunkelgrau, die Kästen Dunkel- auf Hellgrau. Linie ist Dunkelgrau, 1px. Die Farben in den beiden Seitenansichten entsprechen nicht zwangsläufig den finalen, richtigen Werten (s.o.).
+*/
+
 body {
     background-color: #dfded9;
     background-image: url("/img/accurate-bg-kachel.png");
 }
 
 .container {
-    min-height: 900px;
     background-color: #ffffff;
     background-image: url("/img/accurate-menue-grafik.png");
     background-repeat: no-repeat;
@@ -17,14 +24,53 @@ body {
     margin-left: 30%;
 }
 
-.chrome#logo {
+#logo {
     background-image: url("/img/accurate-logo.png");
     width: 200px;
     height: 80px;
-    margin: 1em 0 0 3em;
+    margin: 2em 0 0 3em;
 }
-
-.chrome#logo h1,
-.chrome#logo h2 {
+#logo h1,
+#logo h2 {
     display: none;
 }
+
+.nav {
+    text-align: center;
+    margin: 2em 6% 1em 30%;
+}
+.nav ul {
+}
+.nav li {
+    display: inline;
+}
+.nav li a {
+    color: #e84e0f;
+    text-decoration: none;
+}
+.nav li a:hover {
+    text-decoration: underline;
+}
+.nav li a:visited {
+    /* color: gray; */
+}
+
+#footer {
+    background-color: #565044;
+}
+#footer,
+#footer strong,
+#footer a {
+    color: white;
+}
+#footer .column,
+#footer .columns {
+    margin: 1em 0 1em 0;
+}
+/* work around framework, because that's what it's for. */
+@media only screen and (min-width: 768px) {
+    #footer {
+        padding-right: 20px;
+    }
+}
+
