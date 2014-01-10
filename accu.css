@@ -7,6 +7,7 @@ Text ist schwarz, Footer dunkelgrau, die Kästen Dunkel- auf Hellgrau. Linie ist
 */
 
 body {
+    font-family: 'Lato', sans-serif;
     background-color: #dfded9;
     background-image: url("/img/accurate-bg-kachel.png");
 }
@@ -16,12 +17,6 @@ body {
     background-image: url("/img/accurate-menue-grafik.png");
     background-repeat: no-repeat;
     background-position: 75% 0%;
-}
-
-.chrome#stripes {
-    width: 570px;
-    height: 10px;
-    margin-left: 30%;
 }
 
 #logo {
