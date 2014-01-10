@@ -1,8 +1,6 @@
-[Home](./) {.three .columns .logo .alpha}
+* [startseite](startseite) :
+* [unsere methode](unsere_methode) :
+* [das team](das_team) :
+* [stellen](stellen) :
+* [kontakt](kontakt)
 
-* [Example](example)
-* [Foo](foo)
-* [New!](new)
-* [about?](about)
-
-* [Admin](admin)
