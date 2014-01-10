@@ -8,8 +8,9 @@
 
 require_once 'lib/Markdown.php';
 require_once 'lib/spyc/Spyc.php';
-require_once 'lib/Tools.php';
 require_once 'lib/mustache/src/Mustache/Autoloader.php';
+
+require_once 'lib/Tools.php';
 
 class MakeSite {
     protected $directories;
@@ -74,7 +75,7 @@ class MakeSite {
             $source['path'] = $sourcepath ;
             $source['pathinfo'] = pathinfo( $sourcepath );
 
-            $source['content'] = splitYamlProse( $source['path'] , $this->makeconfig['ymlseparator'] ) ; // TODO external function readSource
+            $source['content'] = splitYamlProse( $source['path'] , $this->makeconfig['metaseparator'] ) ; // TODO external function readSource
 
             $source['htmlPath'] = $this->directories['html'] . $source['pathinfo']['filename'] . $this->makeconfig['htmlextension']; // TODO fill inn $directoriesName
             $source['websourcepath'] = substr( $source['path'] , 3 ) ;        // remove leading "../"
@@ -85,13 +86,16 @@ class MakeSite {
 
     public function collectMeta() { // read page config (template, meta, etc) from file, directory or mainconf
 
-            $meta = $this->makeconfig ;                     // write general config
+            $meta = array();
 
-            if ( file_exists($directoriesConf = $this->source['pathinfo']['dirname'] . '/config.yml' ) ) { // overwrite with directory config
+            if ( file_exists($sourceDirectoriesConf = $this->directories['source'] . '/meta.yml' ) ) { // overwrite with general source config
+                $meta = array_merge( $meta , spyc_load_file( file_get_contents($sourceDirectoriesConf) ) ) ;
+            }
+            if ( file_exists($directoriesConf = $this->source['pathinfo']['dirname'] . '/meta.yml' ) ) { // overwrite with directory config
                 $meta = array_merge( $meta , spyc_load_file( file_get_contents($directoriesConf) ) ) ;
             }
-            if ( isset( $this->source['content']['yml']) ) {  // overwrite with page config
-                $metaPage = spyc_load_file( $this->source['content']['yml'] ) ;
+            if ( isset( $this->source['content']['meta']) ) {  // overwrite with page config
+                $metaPage = spyc_load_file( $this->source['content']['meta'] ) ;
                 $meta = array_merge( $meta , $metaPage ) ;
             }
             if ( !isset( $metaPage['pagetitle'] ) ) {  // use first markdown heading as title if not in pageconfig
@@ -131,7 +135,7 @@ class MakeSite {
 
             Mustache_Autoloader::register();
             // use .html instead of .mustache for default template extension
-            $mustacheopt =  array('extension' => $this->meta['tplextension']); // TODO Check other array
+            $mustacheopt =  array('extension' => $this->makeconfig['tplextension']);
             $mustache = new Mustache_Engine(array(
                 'loader' => new Mustache_Loader_FilesystemLoader( $this->directories['template'] , $mustacheopt),
             ));

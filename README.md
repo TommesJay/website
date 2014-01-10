@@ -19,14 +19,13 @@ All about editing, admin, setup and templates in the [wiki](https://github.com/k
 
 ## TODO
 
+- version source
 - _drf/config.yml to js serversite https://github.com/coolaj86/yamltojson.com
 - live preview without meta
-- [ ] minfy als webservice?
 - lib: https://github.com/lepture/editor or https://stackedit.io/
 - const public
 - https://github.com/blueimp/jQuery-File-Upload
 - http://php.net/manual/de/function.realpath.php PHP 5.3
-- source config without passwords etc
 - [ ] URL builing? root dir : absolute relative only one dir
 - [ ]* directory to namespace
 - [ ]* directory doubled
@@ -47,6 +46,7 @@ All about editing, admin, setup and templates in the [wiki](https://github.com/k
 - [ ]* index: dir as link include (for pix)
 
 ### Nice2Have
+- [ ] minfy als webservice?
 - trailing slash
 - [ ] etherpad
 - redirects with page
