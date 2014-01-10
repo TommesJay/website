@@ -1,9 +1,8 @@
+## Ihr oberstes Gebot, unser Beitrag: Sicherheit auf Veranstaltungen.
 
-# Mainpage
+Unsere Simulationsmodelle setzen neue Maßstäbe bei Exaktheit und Realitätsnähe. Veranstaltungen jeder Art und Größe schon bei der Planung simulieren, Sicherheitskonzepte optimieren und Gefahrensituationen gar nicht erst entstehen lassen. Fragen Sie uns! Wir beraten Sie gerne.
 
-[github.com/klml/drfrederson](https://github.com/klml/drfrederson)
 
 #meta#
-pagetitle: Main and startpage
-comment: false
-description: The start and mainpage
+pagetitle: Startseite
+description: Willkommen bei accu:rate!
