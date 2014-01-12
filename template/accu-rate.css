@@ -111,7 +111,7 @@ img {
     box-shadow: 10px 0 0 #e84e0f, -10px 0 0 #e84e0f;
 }
 .fancyheader-img {
-    border-top: 1px solid gray;
+    border-top: 1px solid #6e685d;
     padding-top: 3px;
 }
 
@@ -122,5 +122,17 @@ h3.greybox {
     padding: 1em;
     line-height: 1em;
     margin-bottom: 0.5em !important;
+}
+
+.teambox {
+    font-size: 0.9em;
+}
+.teambox img {
+    float: left;
+    margin-right: 0.4em;
+}
+.teambox.border {
+    border-top: 1px solid #6e685d;
+    padding-top: 0.5em;
 }
 

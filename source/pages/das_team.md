@@ -4,7 +4,36 @@ Unser Kompetenzteam berät Sie bei<br />
 Planung und Umsetzung Ihrer Projekte.
 </span></h1></div>
 
-Der Blindtext ist ein Text, der da steht, wo später der richtige Text steht. Jedenfalls ist er nur Platzhalter für den richtigen Text und sollte auf keinen Fall ernst genommen werden. Wenn doch, soll man bedenken, dass man Blindtexte grundsätzlich nicht ernst nehmen kann, weil es eben Blindtexte sind, die wiederum blinde Inhalte transportieren. Das ist der einzige Sinn von Blindtexten: Sie stehen da, wo später richtige Texte sind. Sie sehen halt dem echten Text sehr ähnlich und sind auch schon ungefähr so lang. Wenn man sich das Layout anschaut, den Text aber nicht liest, hat man einen ungefähren Eindruck vom Look und der Gestaltung des fertigen Layouts. Blindtexte lassen sich nahezu überall einbauen. Sie finden in Anzeigen Verwendung aber auch in Flyern, Prospekten, Postkarten und vielen anderen Drucksachen. Wenn man einen besonders langen Blindtext hat, kann man ihn sogar in Broschüren oder (1000 Zeichen) Jahresberichte einbauen. Dann muss der Blindtext aber schon etwas länger sein. Das Schöne an Blindtexten ist, dass es nicht zwingend notwendig ist, dass sie der neuen Rechtschreibung entsprechen. Sie können sogar orthographische und grammatikalische Fehler haben. Das stört nicht, da die Texte eh nicht gelesen werden sollen, da sie nur aussehen, wie richtige Texte. Es sind Blödtexte oder Fälschungen. Blindtexte verhalten sich zu echten Texten so wie falsche Rolex-Uhren vom Trödelmarkt in Bangkok zu echten Rolex-Uhren beim Juwelier in der Goethestraße in Frankfurt. Nur der Preis ist egal. Blindtexte haben keinen Preis, dafür gibt es sie in allen möglichen Langen und Schriften. Das ist ja das Schöne. Wenn man Blindtexte markiert, kann man sie in alle möglichen Schriften setzen. Von der bekannten Arial bis zur schrägen Designerschrift Zyks. Die Inhalte bleiben immer gleich. Länge, Breite und (2000 Zeichen) Dicke der Schrift ändern sich natürlich. So kann ein und derselbe Blindtext beispielsweise in einer ultracondensden Univers Light ein viertel so lang sein, als wenn der Text in einer fetten, breitlaufenden Poppl Ultrabrutal abgesetzt wird. Wobei diese Schrift schon ziemlich heftig ist und sogar einen völlig inhaltsleeren Blindtext wie diesen, ziemlich grausam aussehen lässt. Aber der Blindtext kenn keinen Schmerz und darf es auch nicht. Sogesehen hat der Blindtext eigentlich Glück. Über ihn regt sich keiner auf, niemand diskutiert ihn wild oder es werden wegen ihm auch keine Menschen umgebracht. Das Dumme ist eben, daß niemand den Blindtext liest. Sogesehen fristet der arme Blindtext ein sehr einsames Dasein und beneidet beispielsweise Karl Marx sein "Kapital" oder den neusten Roman von John Grisham. Auf der anderen Seite soll sich der Blindtext auch nicht beschweren. In ihm (3000 Zeichen) wird am nächsten Tag kein Fisch eingewickelt und Marcel Reich-Ranicki verreisst ihn auch nicht im nächsten literarischen Quartett. Was will der Blindtext? Provozieren, informieren oder nur da sein? Er will nur da sein und aussehen, wie ein richtiger Text. Aber sein wir doch ehrlich. Blindtext ist oft angenehmer, als die dumpfen Werbebotschaften, für die er in der Layoutphase stehen soll. Langweilig ist er natürlich, wenn er lateinisch ist oder auf englisch beschreibt, wie irgendwelche Füchse über irgendwas springen. Das hat man ja nun bis zum Abwinken gelesen. Nur weil in diesem blöden Satz alle Buchstaben vorkommen. Bei einem Typomusterbogen lassen wir uns das ja gefallen, Aber bei einem Blindtext? Wozu müssen in einem Blindtext alle Buchstaben vorkommen? Moment, Sie kennen den Satz nicht. Nun es gibt eben so einen gestelzten Satz auf Latein oder in Englisch, in dem alle Buchstaben (4000 Zeichen) des Alphabets vorkommen. Wie gesagt, in einem Typomusterbuch ist das alle schön und gut. Aber in einem Layout? Immer wieder derselbe blöde Satz? Das kann nicht funktionieren. Blindtext muss einem echten Text sehr ähnlich sein. Sonst ist es ein schlechter Blindtext. Und ein Blindtext, in dem permanent alle Buchstaben vorkommen, ist ein zu perfekter Blindtext. So einen gibt es in der Realität gar nicht. Quasi ein Hollywood-Blindtext. So was braucht eigentlich kein Mensch.
+Mehrjährige Forschung und Zusammenarbeit mit der technischen Universität München haben dazu beigetragen eine Software zu entwickeln, die Personenströme in Form von Simulationen exakter beschreibt um darauf zu reagieren. Fragen Sie uns! Wir beraten Sie gerne.
+
+<div class="teambox four columns alpha border" markdown="1">
+![Photo: Angelika Kneidl](/img/team-ak.png)
+__Angelika Kneidl__ <br />
+Dr. rer. nat. der Informatik<br />
+<ak@accu-rate.de>
+
+Modell- und Softwareentwicklung, Projektleitung und Teamführung
+Modellentwicklung und Innovation
+</div>
+
+<div class="teambox four columns border" markdown="1">
+![Photo: Merlin Bauer](/img/team-mb.png)
+__Merlin Bauer__ <br />
+Diplom Soziologie, cand. MBA
+<mb@accu-rate.de>
+
+Sales und Marketing 
+</div>
+
+<div class="teambox four columns omega border" markdown="1">
+![Photo: Florian Sesser](/img/team-fs.png)
+__Florian Sesser__ <br />
+Diplom Informatik <br /><br />
+<fs@accu-rate.de>
+
+Software-Architektur und Entwicklung
+</div>
+
 
 #meta#
 pagetitle: Team
