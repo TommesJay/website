@@ -1,6 +1,8 @@
-## Unsere Methode
+![](/img/accurate-bild-4.jpg) {.fancyheader-img}
+<div class="fancyheader"><h1><span>
+<br />Unsere Methode
+</span></h1></div>
 
-#### Bayerischer Blindtext!
 
 Bavaria ipsum dolor sit amet hea obacht, Haberertanz Kuaschwanz a ganze Hoiwe do legst di nieda. Griasd eich midnand is Fünferl Reiwadatschi nia pfundig ned Gidarn lem und lem lossn in da greana Au. Spuiratz hod hoam hallelujah sog i, luja schüds nei, kummd! Sowos resch zünftig singd nackata! Stubn auszutzeln ham Meidromml nia, nimmds wos Namidog Reiwadatschi d’. Baamwach do legst di nieda boarischer i hob di liab, .
 Af in da greana Au singan, Fünferl luja vui. Des is schee hod gelbe Rüam, geh Foidweg. Auf’d Schellnsau hoggd hoid hogg ma uns zamm. Leonhardifahrt anbandeln Broadwurschtbudn dei, di i sog ja nix, i red ja bloß. Hob i an Suri Radi Broadwurschtbudn, griaß God beinand etza. Hawadere midananda griaß God beinand zwoa gor heid gfoids ma sagrisch guad unbandig Schneid Jodler, Gaudi resch hod. Oans Stubn heid, !

@@ -1,3 +1,6 @@
-## Wir stellen ein!
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
+<div class="fancyheader"><h1><span>
+<br />Wir stellen ein!
+</span></h1></div>
 
-![Wir stellen ein](http://www.business-on.de/dateien/bilder/wir_stellen_ein_2.jpg)
+## Test
