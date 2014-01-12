@@ -1,9 +1,14 @@
 /*
+CSS for accu-rate.de
+(c) Florian Sesser for accu:rate 2014
+
 Orange: e84e0f
 Dunkelgrau: 6e685d
 Hellgrau: e2e1da
 
-Text ist schwarz, Footer dunkelgrau, die Kästen Dunkel- auf Hellgrau. Linie ist Dunkelgrau, 1px. Die Farben in den beiden Seitenansichten entsprechen nicht zwangsläufig den finalen, richtigen Werten (s.o.).
+Text ist schwarz, Footer dunkelgrau, die Kästen Dunkel- auf Hellgrau.
+Linie ist Dunkelgrau, 1px. Die Farben in den beiden Seitenansichten
+entsprechen nicht zwangsläufig den finalen, richtigen Werten (s.o.).
 */
 
 /* Typographie */
@@ -76,5 +81,24 @@ body {
     #footer {
         padding-left: 20px;
     }
+}
+
+
+
+/* Content */
+
+
+.fancyheader {
+    margin: -9em 0 3em 0;
+}
+.fancyheader h1 {
+    font-size: 34px;
+    line-height: 44px;
+    /* max-width: 450px; */
+}
+.fancyheader h1 span {
+    color: white;
+    background: #e84e0f;
+    box-shadow: 10px 0 0 #e84e0f, -10px 0 0 #e84e0f;
 }
 
