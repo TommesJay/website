@@ -1,10 +1,15 @@
-![](/img/accurate-bild-start.jpg)
+![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 <div class="fancyheader"><h1><span>
 Ihr oberstes Gebot, unser Beitrag:<br />
 Sicherheit auf Veranstaltungen.
 </span></h1></div>
 
 Unsere Simulationsmodelle setzen neue Maßstäbe bei Exaktheit und Realitätsnähe. Veranstaltungen jeder Art und Größe schon bei der Planung simulieren, Sicherheitskonzepte optimieren und Gefahrensituationen gar nicht erst entstehen lassen. Fragen Sie uns! Wir beraten Sie gerne.
+
+
+### Realitätsnahe Simulation {.columns .three .alpha .border}
+### Kurzfristige Planungsmöglichkeit {.columns .three .border}
+### Umfassende Maßnahmenableitung {.columns .three .omega .border}
 
 
 #meta#

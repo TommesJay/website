@@ -92,13 +92,17 @@ body {
     margin: -9em 0 3em 0;
 }
 .fancyheader h1 {
-    font-size: 34px;
-    line-height: 44px;
+    font-size: 2.5em;
+    line-height: 1.3em;
     /* max-width: 450px; */
 }
 .fancyheader h1 span {
     color: white;
     background: #e84e0f;
     box-shadow: 10px 0 0 #e84e0f, -10px 0 0 #e84e0f;
+}
+.fancyheader-img {
+    border-top: 1px solid gray;
+    padding-top: 3px;
 }
 
