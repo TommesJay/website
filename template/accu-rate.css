@@ -87,6 +87,11 @@ body {
 
 /* Content */
 
+img {
+    max-width: 100%;
+}
+
+
 
 .fancyheader {
     margin: -9em 0 3em 0;
@@ -104,5 +109,14 @@ body {
 .fancyheader-img {
     border-top: 1px solid gray;
     padding-top: 3px;
+}
+
+
+h3.greybox {
+    background-color: #e2e1da;
+    font-size: 1.5em;
+    padding: 1em;
+    line-height: 1em;
+    margin-bottom: 0.5em !important;
 }
 
