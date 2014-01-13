@@ -6,9 +6,30 @@
 
 Bavaria ipsum dolor sit amet hea obacht, Haberertanz Kuaschwanz a ganze Hoiwe do legst di nieda. Griasd eich midnand is Fünferl Reiwadatschi nia pfundig ned Gidarn lem und lem lossn in da greana Au. Spuiratz hod hoam hallelujah sog i, luja schüds nei, kummd! Sowos resch zünftig singd nackata! Stubn auszutzeln ham Meidromml nia, nimmds wos Namidog Reiwadatschi d’. Baamwach do legst di nieda boarischer i hob di liab, .
 Af in da greana Au singan, Fünferl luja vui. Des is schee hod gelbe Rüam, geh Foidweg. Auf’d Schellnsau hoggd hoid hogg ma uns zamm. Leonhardifahrt anbandeln Broadwurschtbudn dei, di i sog ja nix, i red ja bloß. Hob i an Suri Radi Broadwurschtbudn, griaß God beinand etza. Hawadere midananda griaß God beinand zwoa gor heid gfoids ma sagrisch guad unbandig Schneid Jodler, Gaudi resch hod. Oans Stubn heid, !
-Jodler um Godds wujn im Beidl gwiss wea nia ausgähd, kummt nia hoam Biazelt. Sowos Prosd oba Maibam von boarischer i moan scho aa o’ha Weibaleid! Do auf der Oim, da gibt’s koa Sünd und obacht Sauakraud auf der Oim, da gibt’s koa Sünd sowos sei Edlweiss aba i hob di liab. Des muas ma hoid kenna da aasgem Ohrwaschl koa dringma aweng dei. A ganze Hoiwe nackata d’ Radler resch Brodzeid, d’.
-Hawadere midananda geh schüds nei vo de auf’d Schellnsau, Spotzerl dahoam pfundig Wurschtsolod. A bravs i hob di narrisch gean hod, blärrd: Gelbe Rüam fei blärrd mim Radl foahn a ganze imma i. A liabs Deandl so gar nia need Hetschapfah i moan oiwei Jodler sei Hemad, Landla Diandldrahn obandeln? I daad obandeln im Beidl Schbozal mim Radl foahn Griasnoggalsubbm oa Auffisteign umananda?
-Schneid Foidweg Greichats etza nimma Biagadn Gidarn so schee, pfiad de. I mechad dee Schwoanshaxn ded hogg ma uns zamm wia da Buachbinda Wanninger back mas Steckerleis a Maß und no a Maß sog i Ramasuri, Foidweg. Naa no a Maß Gstanzl des basd scho nix schoo in da greana Au, wolln gscheid oans a Prosit der Gmiadlichkeit. Moand schoo ham Ramasuri kimmt mogsd a Bussal, boarischer pfundig wos Marei.
-Hoggd gscheckate a bravs Radler Ewig und drei Dog nia need, Kuaschwanz jedza! Heid gscheckate Lewakaas Mamalad gschmeidig hinter’m Berg san a no Leit, schüds nei. Hallelujah sog i, luja griasd eich midnand auf gehds beim Schichtl i bin a woschechta Bayer, is des liab. I sog ja nix, i red ja bloß vo de a Maß und no a Maß Biazelt, da, hog di hi Sauakraud i hob di liab: Gams nix und wia da Buachbinda Wanninger Wurscht Ewig und drei Dog scheans von: Woaß Wiesn Bradwurschtsemmal moand i!
-I Resi da, Bussal Landla Resi: So ma ebba des obandeln: Großherzig Maibam wea ko, dea ko Vergeltsgott wos fias singan, Landla gfreit mi! Dahoam Schdeckalfisch do Guglhupf hinter’m Berg san a no Leit Lewakaas und sei! Bittschön sei Weiznglasl koa guad dei oamoi dringma aweng! Gor ded a bissal Milli, Lewakaas.
+
+
+<div class="leistungsbox four columns alpha border" markdown="1">
+#### Leistungen für *Architekten*
+
+- Zeit- und Kostenersparnis durch frühzeitige Identifikation von Problemstellen.
+- Schnelle Neubewertung bei Änderungen in der Gebäude- / Infrastrukturplanung.
+</div>
+
+
+<div class="leistungsbox four columns border" markdown="1">
+#### Leistungen für *Sicherheitsfachplaner*
+
+- Qualitätssteigerung der Empfehlungen durch effiziente Szenariobetrachtung.
+- Umfassende (quantitative) Untermauerung der Empfehlungen und Maßnahmen für den Veranstalter, Behörden etc.
+- Steigerung der Sicherheit und Reduktion des Haftungsrisikos.
+</div>
+
+
+<div class="leistungsbox four columns omega border" markdown="1">
+#### Leistungen für *Sicherheitspersonal*
+
+- Schnelles und gründliches Training des Personals über die Simulationen.
+- Deutlich bessere Vorbereitung des Sicherheitspersonals.
+</div>
+
 
