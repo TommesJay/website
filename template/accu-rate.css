@@ -140,4 +140,7 @@ h3.greybox {
     border-top: 1px solid #6e685d;
     padding-top: 0.5em;
 }
+abbr {
+    border-bottom: 1px dotted #6e685d;
+}
 
