@@ -83,15 +83,11 @@ body {
     margin-bottom: 1em;
 }
 /* work around framework, because that's what it's for. */
-@media only screen and (min-width: 768px) {
+@media all and (min-width: 768px) {
     #footer {
         padding-left: 20px;
     }
 }
-.spacer10 {
-    margin-left: 10px !important;
-}
-
 
 
 /* Content */
@@ -99,8 +95,6 @@ body {
 img {
     max-width: 100%;
 }
-
-
 
 .fancyheader {
     margin: -9em 0 3em 0;
