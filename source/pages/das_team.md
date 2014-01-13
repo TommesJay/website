@@ -13,25 +13,24 @@ Dr. rer. nat. der Informatik<br />
 <ak@accu-rate.de>
 
 Modell- und Softwareentwicklung, Projektleitung und Teamführung
-Modellentwicklung und Innovation
 </div>
 
 <div class="teambox four columns border" markdown="1">
 ![Photo: Merlin Bauer](/img/team-mb.png)
 __Merlin Bauer__ <br />
-Diplom Soziologie, cand. MBA
+Diplom Soziologie, cand. MBA<br />
 <mb@accu-rate.de>
 
-Sales und Marketing 
+Business Development und Vertrieb, Marketing und Kommunikation, Projektleitung und Teamführung
 </div>
 
 <div class="teambox four columns omega border" markdown="1">
 ![Photo: Florian Sesser](/img/team-fs.png)
 __Florian Sesser__ <br />
-Diplom Informatik <br /><br />
+Diplom Informatik, NF Psychologie <br />
 <fs@accu-rate.de>
 
-Software-Architektur und Entwicklung
+Softwarearchitektur, Agile Individualsoftware-Entwicklung, Anforderungsanalyse, Projektleitung und Teamführung
 </div>
 
 
