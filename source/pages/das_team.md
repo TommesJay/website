@@ -1,6 +1,6 @@
 ![](/img/accurate-bild-team.jpg) {.fancyheader-img}
 <div class="fancyheader"><h1><span>
-Unser Kompetenzteam berät Sie bei<br />
+Unser Kompetenzteam berät Sie bei
 Planung und Umsetzung Ihrer Projekte.
 </span></h1></div>
 
@@ -8,8 +8,8 @@ Mehrjährige Forschung und Zusammenarbeit mit der technischen Universität Münc
 
 <div class="teambox four columns alpha border" markdown="1">
 ![Photo: Angelika Kneidl](/img/team-ak.png)
-__Angelika Kneidl__ <br />
-<abbr title="Technische Universität München">Dr. rer. nat. der Informatik</abbr><br />
+__Dr. rer. nat. Angelika Kneidl__ <br />
+<abbr title="Technische Universität München">Diplom Informatik</abbr><br />
 <span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>
 
 Modell- und Softwareentwicklung, Projektleitung und Teamführung

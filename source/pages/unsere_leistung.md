@@ -1,6 +1,6 @@
 ![](/img/accurate-bild-4.jpg) {.fancyheader-img}
 <div class="fancyheader"><h1><span>
-<br />Unsere Methode
+<br />Unsere Leistung
 </span></h1></div>
 
 

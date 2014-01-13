@@ -1,6 +1,6 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 <div class="fancyheader"><h1><span>
-Ihr oberstes Gebot, unser Beitrag:<br />
+Ihr oberstes Gebot, unser Beitrag:
 Sicherheit auf Veranstaltungen.
 </span></h1></div>
 

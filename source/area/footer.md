@@ -5,18 +5,19 @@
         Institute for crowd simulation
     </strong>
     <br />
-    &#x2105; Chair of Computational<br />Modeling and Simulation
+    c/o Chair of Computational<br />Modeling and Simulation
 </div>
 <div class="four columns">
     Arcisstra&szlig;e 21<br />
-    D&ndash;80290 Munich<br />
+    D&ndash;80290 M&uuml;nchen<br />
     +49 (0)89&ndash;21553869<br />
     <span class="mailadresse" data-to="info">info@javascript.anti.spam</span>
 </div>
 <div class="four columns">
-    UstID&ndash;Nr. DExxxxxxxxxxxxx<br />
-    Gerichtsstand<br />
-    Persönlicher Verantwortlicher<br />
+    Gerichtsstand:<br />
+    M&uuml;nchen<br />
+    Persönlich Verantwortlicher:<br />
+    Florian Sesser 
     &copy; 2014<br />
 </div>
 <div class="one column omega"></div>
