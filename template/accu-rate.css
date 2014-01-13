@@ -70,6 +70,7 @@ body {
 #footer {
     margin-top: 1em;
     background-color: #6e685d;
+    font-size: 0.9em;
 }
 #footer,
 #footer strong,
@@ -78,13 +79,17 @@ body {
 }
 #footer .column,
 #footer .columns {
-    margin: 1em 0 1em 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 /* work around framework, because that's what it's for. */
 @media only screen and (min-width: 768px) {
     #footer {
         padding-left: 20px;
     }
+}
+.spacer10 {
+    margin-left: 10px !important;
 }
 
 
