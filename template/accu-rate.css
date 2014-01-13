@@ -36,20 +36,12 @@ body {
 
 
 #logo {
-    background-image: url("/img/accurate-logo.png");
-    width: 200px;
-    height: 80px;
     margin: 2em 0 1em 3em;
-}
-#logo h1,
-#logo h2 {
-    display: none;
 }
 
 
 .nav {
     text-align: center;
-    margin: 2em 6% 1em 30%;
 }
 .nav ul {
 }
@@ -64,6 +56,11 @@ body {
 }
 .nav li a:visited {
     /* color: gray; */
+}
+@media all and (min-width: 768px) {
+    .nav {
+        margin: 2em 6% 1em 30%;
+    }
 }
 
 
@@ -97,10 +94,10 @@ img {
 }
 
 .fancyheader {
-    margin: -9em 0 3em 0;
+    margin: -6em 0 3em 0;
 }
 .fancyheader h1 {
-    font-size: 2.5em;
+    font-size: 1.5em;
     line-height: 1.3em;
     /* max-width: 450px; */
 }
@@ -112,16 +109,36 @@ img {
 .fancyheader-img {
     border-top: 1px solid #6e685d;
     padding-top: 3px;
+    min-height: 6em; /* Correct negative margin for UAs that don't d/l the img */
 }
+@media all and (min-width: 768px) {
+    .fancyheader {
+        margin: -9em 0 3em 0;
+    }
+    .fancyheader h1 {
+        font-size: 2.5em;
+    }
+    .fancyheader-img {
+        min-height: 9em; /* Correct negative margin for UAs that don't d/l the img */
+    }
+
+}
+
 
 
 h3.greybox {
     background-color: #e2e1da;
-    font-size: 1.5em;
+    font-size: 1.3em;
     padding: 1em;
     line-height: 1em;
     margin-bottom: 0.5em !important;
 }
+@media all and (min-width: 768px) {
+    h3.greybox {
+        font-size: 1.5em;
+    }
+}
+
 
 .teambox {
     font-size: 0.9em;
