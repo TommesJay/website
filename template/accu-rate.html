@@ -7,20 +7,21 @@
     <title>{{meta.pagetitle}} | {{meta.siteTitle}}</title>
     <meta name="description" content="{{meta.description}}" />
 
+    <meta name="viewport" content="width=device-width, user-scalable=0"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="publisher" content="accu:rate" />
     <meta name="creator" content="{{meta.creator}}" />
     <meta http-equiv="content-language" content="{{meta.lang}}" />
     <meta name="DC.Language" content="{{meta.lang}}" />
 
-    <link rel="stylesheet" type="text/css" href="/lib/skeleton/stylesheets/base.css" />
-    <link rel="stylesheet" type="text/css" href="/lib/skeleton/stylesheets/layout.css" />
-    <link rel="stylesheet" type="text/css" href="/lib/skeleton/stylesheets/skeleton.css" />
+    <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/skeleton/stylesheets/base.css" />
+    <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/skeleton/stylesheets/layout.css" />
+    <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/skeleton/stylesheets/skeleton.css" />
 
     <!-- Lato Light (300), Regular (400) and Bold (700) -->
-    <link rel="stylesheet" type="text/css" href="/lib/fonts/webfontkit-20140112-173602/stylesheet.css" />
+    <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/fonts/webfontkit-20140112-173602/stylesheet.css" />
 
-    <link rel="stylesheet" type="text/css" href="/template/accu-rate.css" />
+    <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/template/accu-rate.css" />
 </head>
 
 <body>
@@ -29,7 +30,7 @@
         <div class="row sixteen columns">
 
             <div class="four columns alpha">
-                <img id="logo" src="/img/accurate-logo.png" alt="accu:rate Institute for Crowd Simulation" />
+                <img id="logo" src="{{meta.baseurl}}/img/accurate-logo.png" alt="accu:rate Institute for Crowd Simulation" />
             </div>
 
             <div class="twelve columns omega">
@@ -52,7 +53,7 @@
 
 	</div>
 
-    <script type="text/javascript" src="/template/accu-rate.js"></script>
+    <script type="text/javascript" src="{{meta.baseurl}}/template/accu-rate.js"></script>
 </body>
 
 </html>
