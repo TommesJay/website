@@ -10,7 +10,7 @@ Mehrjährige Forschung und Zusammenarbeit mit der technischen Universität Münc
 ![Photo: Angelika Kneidl](/img/team-ak.png)
 __Angelika Kneidl__ <br />
 <abbr title="Technische Universität München">Dr. rer. nat. der Informatik</abbr><br />
-<ak@accu-rate.de>
+<span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>
 
 Modell- und Softwareentwicklung, Projektleitung und Teamführung
 </div>
@@ -19,7 +19,7 @@ Modell- und Softwareentwicklung, Projektleitung und Teamführung
 ![Photo: Merlin Bauer](/img/team-mb.png)
 __Merlin Bauer__ <br />
 <abbr title="Ludwig-Maximilians-Universität München">Diplom Soziologie</abbr>, <abbr title="FOM Hochschule für Oekonomie & Management">cand. MBA</abbr><br />
-<mb@accu-rate.de>
+<span class="mailadresse" data-to="mb">mb@javascript.anti.spam</span>
 
 Business Development und Vertrieb, Marketing und Kommunikation, Projektleitung und Teamführung
 </div>
@@ -28,7 +28,7 @@ Business Development und Vertrieb, Marketing und Kommunikation, Projektleitung u
 ![Photo: Florian Sesser](/img/team-fs.png)
 __Florian Sesser__ <br />
 <abbr title="Technische Universität München">Diplom Informatik</abbr>, <abbr title="Ludwig-Maximilians-Universität München">NF Psychologie</abbr> <br />
-<fs@accu-rate.de>
+<span class="mailadresse" data-to="fs">fs@javascript.anti.spam</span>
 
 Softwarearchitektur, Agile Individualsoftware-Entwicklung, Anforderungsanalyse, Projektleitung und Teamführung
 </div>

@@ -11,7 +11,7 @@
     Arcisstra&szlig;e 21<br />
     D-80290 Munich<br />
     +49 (0)89&ndash;21553869<br />
-            <span id="mailadresse">(Bitte Javascript aktivieren.)</span>
+    <span class="mailadresse" data-to="info">info@javascript.anti.spam</span>
 </div>
 <div class="four columns">
     UstID-Nr. DExxxxxxxxxxxxx<br />
