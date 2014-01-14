@@ -4,12 +4,35 @@ Ihr oberstes Gebot, unser Beitrag:
 Sicherheit auf Veranstaltungen.
 </span></h1></div>
 
-Unsere Simulationsmodelle setzen neue Maßstäbe bei Exaktheit und Realitätsnähe. Veranstaltungen jeder Art und Größe schon bei der Planung simulieren, Sicherheitskonzepte optimieren und Gefahrensituationen gar nicht erst entstehen lassen. Fragen Sie uns! Wir beraten Sie gerne.
+Wir analysieren für Sie die Bewegungen von Menschenmengen bevor Ihre Veranstaltung überhaupt begonnen hat. Unsere modernen Simulationsmodelle setzen dabei neue Maßstäbe bei Exaktheit und Realitätsnähe.
 
+Veranstaltungen jeder Art und Größe können schon in der Planungsphase simuliert, Sicherheitskonzepte optimiert und Gefahrensituationen gebannt werden, bevor sie entstehen.
 
-### Realitätsnahe Simulation {.greybox .columns .three .alpha .border}
-### Kurzfristige Planung {.greybox .columns .three .border}
-### Umfassendere Maßnahmen {.greybox .columns .three .omega .border}
+Wie das geht? Fragen Sie uns, wir beraten Sie gerne!
+
+<div class="leistungsbox three columns alpha border" markdown="1">
+#### Wir ver&shy;stehen Sie
+
+Wir haben unsere Wur&shy;zeln in der Ver&shy;an&shy;stal&shy;tungs&shy;bran&shy;che und sprechen Ihre Sprache.
+</div>
+
+<div class="leistungsbox three columns border" markdown="1">
+#### Hohe Realitäts&shy;nähe
+
+Unsere Software wird konstant und mit jeder Veranstaltung überprüft und	verbessert.
+</div>
+
+<div class="leistungsbox three columns border" markdown="1">
+#### Schnellere Planung
+
+Szenarien und Optionen können schnell simuliert, analysiert und bewertet werden.
+</div>
+
+<div class="leistungsbox three columns omega border" markdown="1">
+#### Belastbare Empfehlungen
+
+Um&shy;setz&shy;ungs&shy;orien&shy;tier&shy;ung ist bei allen Em&shy;pfehl&shy;ungen die oberste Maß&shy;gabe.
+</div>
 
 
 #meta#
