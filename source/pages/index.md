@@ -4,11 +4,23 @@ Ihr oberstes Gebot, unser Beitrag:
 Sicherheit auf Veranstaltungen.
 </span></h1></div>
 
-Wir analysieren für Sie die Bewegungen von Menschenmengen bevor Ihre Veranstaltung überhaupt begonnen hat. Unsere modernen Simulationsmodelle setzen dabei neue Maßstäbe bei Exaktheit und Realitätsnähe.
+Wir analysieren für Sie die Bewegungen von Menschenmengen bevor Ihre Veranstaltung überhaupt begonnen hat. Unsere wissenschaftlich fundierten Simulationsmodelle setzen dabei neue Maßstäbe bei Exaktheit und Realitätsnähe.
+
+
+### Mehrwert für Sicherheitsfachplaner
+
+- Effiziente Erstellung erforderlicher Analysen
+- Detailreiche, objektive und quantitative Ergebnisse
+- Schnelles Durchspielen von Varianten und Szenarien
+- Qualitativ hochwertige Dokumentationen für alle Stakeholder
+- Differenzierungsmerkmal insbesondere bei Großprojekten
+- Umsatz- und Profitsteigerung ohne eigenes wirtschaftliches Risiko
+
 
 Veranstaltungen jeder Art und Größe können schon in der Planungsphase simuliert, Sicherheitskonzepte optimiert und Gefahrensituationen gebannt werden, bevor sie entstehen.
 
 Wie das geht? Fragen Sie uns, wir beraten Sie gerne!
+
 
 <div class="leistungsbox three columns alpha border" markdown="1">
 #### Wir ver&shy;stehen Sie
