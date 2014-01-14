@@ -194,3 +194,16 @@ abbr {
     padding-left: 1.1em;
 }
 
+
+/* vcards */
+.vcard span,
+.vcard abbr {
+    display: block;
+}
+.vcard span.email,
+.adr span.postal-code,
+.adr span.locality {
+    display: inline;
+}
+
+

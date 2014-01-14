@@ -10,7 +10,7 @@
 <div class="four columns">
     Arcisstra&szlig;e 21<br />
     D&ndash;80290 M&uuml;nchen<br />
-    +49 (0)89&ndash;21553869<br />
+    <a class="tel" href="callto:+498921553869">+49 (0)89&ndash;21553869</a><br />
     <span class="mailadresse" data-to="info">info@javascript.anti.spam</span>
 </div>
 <div class="four columns">
