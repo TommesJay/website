@@ -4,14 +4,15 @@
 </span></h1></div>
 
 
+Personenstromanalysen spielen ihre Leistungen je nach Anwendungsgebiet sehr
+flexibel aus.
 
-Personenstromanalysen spielen ihre Leistungen je nach Anwendungsgebiet sehr flexibel aus.
+Zu unseren Basisleistungen zählen die Simulation von Personen- und
+Besucherströmen, der Vergleich von unterschiedlichen Varianten sowie die
+Detailanalyse von bestimmten Auswertungsbereichen der Simulationsszenarios. 
 
-### Basisleistungen
-
-- Simulation von Personen- und Besucherströmen.
-- Vergleich mehrerer „Was wäre wenn“ Szenarien.
-- Analyse von bestimmten Bereichen bzgl. zu erwartenden Dichten, Engstellen, Evakuierungszeiten etc.
+Die Leistungen werden individuell kombiniert und auf Ihre Bedürfnisse
+zugeschitten. Fragen Sie uns, wir beraten Sie gerne!
 
 
 <div class="leistungsbox four columns alpha border" markdown="1">
