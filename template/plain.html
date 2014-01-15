@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=0"/>
+    <title>{{meta.pagetitle}} | {{meta.siteTitle}}</title>
+    <meta http-equiv="description" content="{{meta.description}}"/>
+
+    <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+    <meta name="dcterms.source" content="{{source.websourcepath}}"/>
+
+</head>
+<body class="d2c_{{meta.lemma}} {{meta.d2c}}" >
+
+<div>
+    <header id="header" >
+        <nav id="nav" role="navigation" >
+            <article>{{{content.navigation}}}</article>
+        </nav>
+    </header>
+
+    <div id="main" role="main" >
+        <section class="page">
+            <article>{{{content.main}}}</article>
+        </section>
+    </div>
+
+    <div id="sidebar" role="complementary" >
+        {{{content.sidebar}}}
+    </div>
+
+    <footer id="footer" role="contentinfo" >
+        {{{content.footer}}}
+    </footer>
+</div>
+    <script src="{{meta.baseurl}}lib/jquery-1.10.1.min.js"></script>
+    <script src="{{meta.baseurl}}template/drf-edit.js?v={{meta.cssjsversion}}" type="text/javascript"></script>
+</body>
+</html>

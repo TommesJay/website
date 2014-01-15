@@ -1,0 +1,7 @@
+htmlextension: .html
+tplextension: .html
+metaseparator: '#meta#'
+directory:
+    template: ../template/
+    source: ../source/
+    html: ../html/

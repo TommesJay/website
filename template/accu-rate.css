@@ -1,0 +1,240 @@
+/*
+CSS for accu-rate.de
+(c) Florian Sesser for accu:rate 2014
+
+Orange: e84e0f
+Dunkelgrau: 6e685d
+Hellgrau: e2e1da
+
+Text ist schwarz, Footer dunkelgrau, die Kästen Dunkel- auf Hellgrau.
+Linie ist Dunkelgrau, 1px. Die Farben in den beiden Seitenansichten
+entsprechen nicht zwangsläufig den finalen, richtigen Werten (s.o.).
+*/
+
+/* Typographie */
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+}
+body {
+    font-size: 16px;
+}
+
+h1 { font-size: 2.5em; }
+h2 { font-size: 1.8em;}
+h3 { font-size: 1.5em; }
+
+#contentmain ul {
+    list-style: square outside;
+    padding-left: 2em;
+}
+
+p, li {
+    /* Automatische Silbentrennung (CSS3) */
+   -moz-hyphens: auto;
+   -o-hyphens: auto;
+   -webkit-hyphens: auto;
+   -ms-hyphens: auto;
+   hyphens: auto;
+}
+
+
+/* Layout generell */
+body {
+    background-color: #dfded9;
+    background-image: url("/img/accurate-bg-kachel.png");
+    padding-bottom: 2em;
+}
+
+.container {
+    background-color: #ffffff;
+    background-image: url("/img/accurate-menue-grafik.png");
+    background-repeat: no-repeat;
+    background-position: 75% 0%;
+}
+
+
+#logo {
+    margin: 2em 0 1em 3em;
+}
+#logo figcaption {
+    display: none;
+}
+
+
+.nav {
+    text-align: center;
+}
+.nav ul {
+}
+.nav li {
+    display: inline;
+}
+.nav li a {
+    color: #e84e0f;
+}
+.nav li a:hover {
+    text-decoration: underline;
+}
+.nav li a:visited {
+    color: #6e685d;
+}
+@media all and (min-width: 768px) {
+    .nav {
+        margin: 2em 6% 1em 30%;
+    }
+}
+
+
+#footer {
+    margin-top: 1em;
+    background-color: #6e685d;
+    font-size: 0.9em;
+}
+#footer,
+#footer strong,
+#footer a {
+    color: white;
+}
+#footer .column,
+#footer .columns {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+/* work around framework, because that's what it's for. */
+@media all and (min-width: 768px) {
+    #footer {
+        padding-left: 20px;
+    }
+}
+
+
+/* Content */
+
+img {
+    max-width: 100%;
+}
+
+.fancyheader {
+    margin: -6em 0 3em 0;
+}
+.fancyheader h1 {
+    font-size: 1.5em;
+    line-height: 1.3em;
+    /* max-width: 450px; */
+}
+.fancyheader h1 span {
+    color: white;
+    background: #e84e0f;
+    box-shadow: 10px 0 0 #e84e0f, -10px 0 0 #e84e0f;
+}
+.fancyheader-img {
+    border-top: 1px solid #6e685d;
+    padding-top: 3px;
+    min-height: 6em; /* Correct negative margin for UAs that don't d/l the img */
+}
+@media all and (min-width: 768px) {
+    .fancyheader {
+        margin: -9em 0 3em 0;
+    }
+    .fancyheader h1 {
+        font-size: 2.5em;
+    }
+    .fancyheader-img {
+        min-height: 9em; /* Correct negative margin for UAs that don't d/l the img */
+    }
+
+}
+
+
+
+h3.greybox {
+    background-color: #e2e1da;
+    font-size: 1.3em;
+    padding: 1em;
+    line-height: 1em;
+    margin-bottom: 0.5em !important;
+}
+@media all and (min-width: 768px) {
+    h3.greybox {
+        font-size: 1.5em;
+    }
+}
+
+
+.startbox,
+.teambox,
+.leistungsbox {
+    margin-top: 1em;
+}
+.startbox,
+.teambox {
+    font-size: 0.9em;
+}
+.teambox img {
+    float: left;
+    margin-right: 0.4em;
+}
+.startbox.border,
+.teambox.border,
+.leistungsbox.border {
+    border-top: 1px solid #6e685d;
+    padding-top: 0.5em;
+}
+abbr {
+    border-bottom: 1px dotted #6e685d;
+}
+
+
+.startbox h4 {
+    font-size: 1.1em;
+    line-height: 1.3em;
+    font-weight: bold;
+}
+
+.leistungsbox h4 {
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin-bottom: 0.6em;
+}
+.leistungsbox h4 em {
+    color: #e84e0f;
+    font-style: normal;
+}
+#contentmain .leistungsbox ul {
+    padding-left: 1.1em;
+}
+
+
+/* vcards */
+.vcard span,
+.vcard abbr {
+    display: block;
+}
+.vcard span.email,
+.adr span.postal-code,
+.adr span.locality {
+    display: inline;
+}
+
+
+
+/* Skeleton has no styling for the 'date' form field,
+   copy it from Skeleton's base.css */
+input[type="date"] {
+    border: 1px solid #ccc;
+    padding: 6px 4px;
+    outline: none;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #777;
+    margin: 0;
+    width: 210px;
+    max-width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    background: #fff;
+}
+

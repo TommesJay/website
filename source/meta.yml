@@ -1,0 +1,15 @@
+---
+siteTitle: accu:rate
+pagetitle: Directory wide title 
+creator: "Florian Sesser, accu:rate, 2014"
+baseurl: 
+template: accu-rate
+area:
+    navigation: ../source/area/navigation.md
+    sidebar: ../source/area/sidebar.md 
+    footer: ../source/area/footer.md
+cssjsversion: 1
+comment: false
+description: accu:rate Institute for Crowd Simulation
+lang: de
+---
