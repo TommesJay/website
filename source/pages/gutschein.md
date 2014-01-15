@@ -30,7 +30,7 @@ Ihr accu:rate Team
 <dd><input type="text" name="Firma" /></dd>
 
 <dt>Ihre eMail-Adresse:</dt>
-<dd><input type="text" name="eMail" /></dd>
+<dd><input type="email" name="eMail" /></dd>
 
 <dt>Ihre Telefonnummer:</dt>
 <dd><input type="text" name="Tel" /></dd>
