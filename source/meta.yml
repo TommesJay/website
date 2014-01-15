@@ -2,7 +2,7 @@
 siteTitle: accu:rate
 pagetitle: Directory wide title 
 creator: "Florian Sesser, accu:rate, 2014"
-baseurl: /wip
+baseurl: 
 template: accu-rate
 area:
     navigation: ../source/area/navigation.md
