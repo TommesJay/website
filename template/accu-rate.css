@@ -76,7 +76,7 @@ body {
     text-decoration: underline;
 }
 .nav li a:visited {
-    /* color: gray; */
+    color: #6e685d;
 }
 @media all and (min-width: 768px) {
     .nav {
