@@ -13,25 +13,25 @@ Veranstaltungen jeder Art und Größe können schon in der Planungsphase simulie
 Wie das geht? Fragen Sie uns, wir beraten Sie gerne!
 
 
-<div class="leistungsbox three columns alpha border" markdown="1">
-#### Wir ver&shy;stehen Sie
+<div class="startbox three columns alpha border" markdown="1">
+#### Wir verstehen Sie
 
 Wir haben unsere Wur&shy;zeln in der Ver&shy;an&shy;stal&shy;tungs&shy;bran&shy;che und sprechen Ihre Sprache.
 </div>
 
-<div class="leistungsbox three columns border" markdown="1">
-#### Hohe Realitäts&shy;nähe
+<div class="startbox three columns border" markdown="1">
+#### Hohe Realitätsnähe
 
 Unsere Software wird konstant und mit jeder Veranstaltung überprüft und	verbessert.
 </div>
 
-<div class="leistungsbox three columns border" markdown="1">
+<div class="startbox three columns border" markdown="1">
 #### Schnellere Planung
 
 Szenarien und Optionen können schnell simuliert, analysiert und bewertet werden.
 </div>
 
-<div class="leistungsbox three columns omega border" markdown="1">
+<div class="startbox three columns omega border" markdown="1">
 #### Belastbare Empfehlungen
 
 Um&shy;setz&shy;ungs&shy;orien&shy;tier&shy;ung ist bei allen Em&shy;pfehl&shy;ungen die oberste Maß&shy;gabe.
@@ -39,7 +39,7 @@ Um&shy;setz&shy;ungs&shy;orien&shy;tier&shy;ung ist bei allen Em&shy;pfehl&shy;u
 
 -----------
 
-### Wir danken unseren Unterstützern
+Wir danken unseren Unterstützern
 
 ![BMWi](/img/associates/bmwi.jpg)
 ![ESF](/img/associates/esf.jpg)

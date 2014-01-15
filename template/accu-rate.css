@@ -14,18 +14,11 @@ entsprechen nicht zwangsläufig den finalen, richtigen Werten (s.o.).
 /* Typographie */
 body, h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
-
-    /* Automatische Silbentrennung (CSS3) */
-   -moz-hyphens: auto;
-   -o-hyphens: auto;
-   -webkit-hyphens: auto;
-   -ms-hyphens: auto;
-   hyphens: auto; 
 }
-
 body {
     font-size: 16px;
 }
+
 h1 { font-size: 2.5em; }
 h2 { font-size: 1.8em;}
 h3 { font-size: 1.5em; }
@@ -33,6 +26,15 @@ h3 { font-size: 1.5em; }
 #contentmain ul {
     list-style: square outside;
     padding-left: 2em;
+}
+
+p, li {
+    /* Automatische Silbentrennung (CSS3) */
+   -moz-hyphens: auto;
+   -o-hyphens: auto;
+   -webkit-hyphens: auto;
+   -ms-hyphens: auto;
+   hyphens: auto;
 }
 
 
@@ -159,10 +161,12 @@ h3.greybox {
 }
 
 
+.startbox,
 .teambox,
 .leistungsbox {
     margin-top: 1em;
 }
+.startbox,
 .teambox {
     font-size: 0.9em;
 }
@@ -170,6 +174,7 @@ h3.greybox {
     float: left;
     margin-right: 0.4em;
 }
+.startbox.border,
 .teambox.border,
 .leistungsbox.border {
     border-top: 1px solid #6e685d;
@@ -179,6 +184,12 @@ abbr {
     border-bottom: 1px dotted #6e685d;
 }
 
+
+.startbox h4 {
+    font-size: 1.1em;
+    line-height: 1.3em;
+    font-weight: bold;
+}
 
 .leistungsbox h4 {
     font-size: 1.2em;
