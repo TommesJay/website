@@ -1,8 +1,16 @@
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
+<div class="fancyheader"><h1><span>
+<br />Herzlich Willkommen!
+</span></h1></div>
 
-# Supergeheime Gutscheinseite
 
-Das Formular ist noch nicht fertig.  Wir arbeiten momentan noch mit Hochdruck an unserem Angebot, und können frühestesn:
+Hier können Sie Ihren Gutschein schnell und unkompliziert einlösen. Bitte füllen Sie dazu die folgenden Felder aus &ndash; wir melden uns umgehend bei Ihnen, um mit Ihnen die Details rund um Ihren Auftrag zu besprechen.
 
+Wir freuen uns auf eine gute und erfolgreiche Zusammenarbeit mit Ihnen!
+
+Ihr accu:rate Team
+
+----------------
 <!-- Formular:
 * Name
 * Firma
@@ -11,26 +19,39 @@ Das Formular ist noch nicht fertig.  Wir arbeiten momentan noch mit Hochdruck an
 * Wann
 -->
 
-<h1>Beispielformular</h1>
-<form action="" method="post">
-<!-- Hier die eigentlichen Formularfelder eintragen. Die folgenden sind Beispielangaben. -->
+
+<form action="/lib/gutscheinmailer.php" method="post">
+<!-- Hier die eigentlichen Formularfelder eintragen. -->
 <dl>
 <dt>Ihr Name:</dt>
-<dd><input type="text" name="Versender" /></dd>
-<dt>Ihre E-Mail:</dt>
-<dd><input type="text" name="E-Mail" /></dd>
-<dt>Sie können:</dt>
-<dd><input type="checkbox" name="kannwas[]" value="HTML" />HTML <input type="checkbox" name="kannwas[]" value="PHP" />PHP</dd>
-<dt>Sie sind:</dt>
-<dd><input type="radio" name="sexus" value="M" />Mann <input type="radio" name="sexus" value="Frau" />Frau</dd>
-<dt>Sie mögen:</dt>
-<dd><select name="Browser"><option value="Opera">Opera</option><option value="Mozilla">Mozilla</option></select></dd>
-<dt>Bemerkungen:</dt>
-<dd><textarea name="Bemerkungen" rows="3" cols="20">Bemerkungen</textarea></dd>
-</dl>
-<!-- Ende der Beispielangaben -->
+<dd><input type="text" name="Name" /></dd>
+
+<dt>Ihre Firma:</dt>
+<dd><input type="text" name="Firma" /></dd>
+
+<dt>Ihre eMail-Adresse:</dt>
+<dd><input type="text" name="eMail" /></dd>
+
+<dt>Ihre Telefonnummer:</dt>
+<dd><input type="text" name="Tel" /></dd>
+
+<dt>Weitere Kontaktdaten (optional):</dt>
+<dd><textarea name="Weitere_Kontaktdaten" cols="70" rows="5"></textarea></dd>
+
+<dt>Wo haben Sie unseren Gutschein erhalten?</dt>
+<dd><input type="text" name="Gutschein_Woher" /></dd>
+
+<dt>&hellip;wann?</dt>
+<dd><input type="date" name="Gutschein_Wann" /></dd>
+
+<dt>&hellip;und von wem? (optional) </dt>
+<dd><input type="text" name="Gutschein_Von_Wem" /></dd>
+
+<dt>Bemerkungen (optional):</dt>
+<dd><textarea name="Bemerkungen" cols="70" rows="5"></textarea></dd>
 <p>
-<input type="submit" value="Senden" />
 <input type="reset" value="Zurücksetzen" />
+<input type="submit" value="Senden" />
 </p>
 </form>
+
