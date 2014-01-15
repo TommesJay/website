@@ -6,18 +6,9 @@ Sicherheit auf Veranstaltungen.
 
 Wir analysieren für Sie die Bewegungen von Menschenmengen bevor Ihre Veranstaltung überhaupt begonnen hat. Unsere wissenschaftlich fundierten Simulationsmodelle setzen dabei neue Maßstäbe bei Exaktheit und Realitätsnähe.
 
+So können Sie erforderliche Analysen effizient erstellen und erhalten detailreiche, objektive und quantitative Ergebnisse, die qualtitativ hochwertig und klar verständlich aufbereitet werden. Die computergestützte Simulation erlaubt ein schnelles Durchspielen von Varianten und "Was-wäre-Wenn"-Szenarien zur Analyse und Bewertung unterschiedlicher Optionen.
 
-### Mehrwert für Sicherheitsfachplaner
-
-- Effiziente Erstellung erforderlicher Analysen
-- Detailreiche, objektive und quantitative Ergebnisse
-- Schnelles Durchspielen von Varianten und Szenarien
-- Qualitativ hochwertige Dokumentationen für alle Stakeholder
-- Differenzierungsmerkmal insbesondere bei Großprojekten
-- Umsatz- und Profitsteigerung ohne eigenes wirtschaftliches Risiko
-
-
-Veranstaltungen jeder Art und Größe können schon in der Planungsphase simuliert, Sicherheitskonzepte optimiert und Gefahrensituationen gebannt werden, bevor sie entstehen.
+Veranstaltungen jeder Art und Größe können schon in der Planungsphase simuliert, Sicherheitskonzepte optimiert und Gefahrensituationen gebannt werden, bevor sie entstehen.
 
 Wie das geht? Fragen Sie uns, wir beraten Sie gerne!
 
@@ -46,6 +37,13 @@ Szenarien und Optionen können schnell simuliert, analysiert und bewertet werde
 Um&shy;setz&shy;ungs&shy;orien&shy;tier&shy;ung ist bei allen Em&shy;pfehl&shy;ungen die oberste Maß&shy;gabe.
 </div>
 
+-----------
+
+### Wir danken unseren Unterstützern
+
+![BMWi](/img/associates/bmwi.jpg)
+![ESF](/img/associates/esf.jpg)
+![EXiST](/img/associates/exist.jpg)
 
 #meta#
 pagetitle: Startseite
