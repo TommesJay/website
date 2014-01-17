@@ -42,7 +42,11 @@ p, li {
 body {
     background-color: #dfded9;
     background-image: url("/img/accurate-bg-kachel.png");
-    padding-bottom: 2em;
+}
+@media all and (min-width: 768px) {
+    body {
+        padding-bottom: 2em;
+    }
 }
 
 .container {
@@ -50,6 +54,16 @@ body {
     background-image: url("/img/accurate-menue-grafik.png");
     background-repeat: no-repeat;
     background-position: 75% 0%;
+}
+
+@media all and (max-width: 767px) {
+    .container {
+        padding: 0 10px;
+    }
+    #footer {
+        padding: 0 10px;
+        margin-left: -10px;
+    }
 }
 
 
@@ -98,12 +112,12 @@ body {
 #footer .column,
 #footer .columns {
     margin-top: 1em;
-    margin-bottom: 1em;
 }
 /* work around framework, because that's what it's for. */
 @media all and (min-width: 768px) {
     #footer {
         padding-left: 20px;
+        padding-bottom: 1em;
     }
 }
 
