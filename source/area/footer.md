@@ -14,10 +14,9 @@
     <span class="mailadresse" data-to="info">info@javascript.anti.spam</span>
 </div>
 <div class="four columns">
-    Gerichtsstand:<br />
-    M&uuml;nchen<br />
-    Persönlich Verantwortlicher:<br />
-    Florian Sesser 
-    &copy; 2014<br />
+    Gerichtsstand: M&uuml;nchen<br />
+    Persönlich verantwortlich:<br />
+    Florian Sesser<br />
+    &copy; 2014
 </div>
 <div class="one column omega"></div>
