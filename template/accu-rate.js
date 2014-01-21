@@ -9,3 +9,18 @@ for (var i = 0; i < addrViews.length; i++) {
     addrViews[i].innerHTML = lnk;
 }
 
+
+/* Piwik tracker (thx klml!) */
+var _paq = _paq || [];
+_paq.push(["trackPageView"]);
+_paq.push(["enableLinkTracking"]);
+
+(function() {
+  var u=(("https:" == document.location.protocol) ? "https" : "http") + "://tr.umija.net/";
+  _paq.push(["setTrackerUrl", u+"piwik.php"]);
+  _paq.push(["setSiteId", "14"]);
+  var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+  g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+})();
+
+
