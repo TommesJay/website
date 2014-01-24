@@ -41,9 +41,9 @@ Um&shy;setz&shy;ungs&shy;orien&shy;tier&shy;ung ist bei allen Em&shy;pfehl&shy;u
 
 Wir danken unseren Unterstützern
 
-![BMWi](/img/associates/bmwi.jpg)
-![ESF](/img/associates/esf.jpg)
-![EXiST](/img/associates/exist.jpg)
+[![BMWi](/img/associates/bmwi.jpg)](http://www.bmwi.de/)
+[![ESF](/img/associates/esf.jpg)](http://www.esf.de)
+[![EXiST](/img/associates/exist.jpg)](http://www.exist.de/)
 
 #meta#
 pagetitle: Startseite
