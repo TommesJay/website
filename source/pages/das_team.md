@@ -21,7 +21,7 @@ __Wir suchen!__ <br />
 <abbr title="oder &auml;hnliches">Be&shy;triebs&shy;wirt&shy;schaft</abbr>, <abbr title="oder &auml;hnliches">Soziologie</abbr> o.&auml;.<br />
 <span class="mailadresse" data-to="info">info@javascript.anti.spam</span>
 
-Business Developer, Sales und Marketing
+Business Development, Sales und Marketing
 </div>
 
 <div class="teambox four columns omega border" markdown="1">
