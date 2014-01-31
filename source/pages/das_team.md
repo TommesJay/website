@@ -16,12 +16,12 @@ Modellentwicklung und Innovation
 </div>
 
 <div class="teambox four columns border" markdown="1">
-![Photo: Merlin Bauer](/img/team-mb.png)
-__Merlin Bauer__ <br />
-<abbr title="Ludwig-Maximilians-Universität München">Diplom Soziologie</abbr>, <abbr title="FOM Hochschule für Oekonomie & Management">cand. MBA</abbr><br />
-<span class="mailadresse" data-to="mb">mb@javascript.anti.spam</span>
+![Photo: N/A](/img/team-NA.png)
+__Wir suchen!__ <br />
+<abbr title="oder &auml;hnliches">Be&shy;triebs&shy;wirt&shy;schaft</abbr>, <abbr title="oder &auml;hnliches">Soziologie</abbr> o.&auml;.<br />
+<span class="mailadresse" data-to="info">info@javascript.anti.spam</span>
 
-Sales und Marketing
+Business Developer, Sales und Marketing
 </div>
 
 <div class="teambox four columns omega border" markdown="1">
