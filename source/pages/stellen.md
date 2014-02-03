@@ -24,7 +24,7 @@ Schreib uns eine kurze eMail an <span class="mailadresse" data-to="info">info@js
 - Ein entspanntes, freundschaftliches Klima
 - Teamarbeit, die wir aktiv leben
 
-Falls Du Dir nicht sicher bist, ob wir aktuell eine für Dich passende Arbeit haben oder sonstige Fragen an uns hast: Schreib uns einfach eine kurze eMail (<span class="mailadresse" data-to="info">info@js.anti.spam</span>) und/oder triff' uns auf einen Kaffee!
+Falls Du Dir nicht sicher bist, ob wir aktuell eine für Dich passende Arbeit haben oder sonstige Fragen an uns hast: Schreib uns einfach eine kurze eMail (<span class="mailadresse" data-to="info">info@js.anti.spam</span>)!
 
 
 
