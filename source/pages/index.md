@@ -4,7 +4,7 @@ Ihr oberstes Gebot, unser Beitrag:
 Sicherheit auf Veranstaltungen.
 </span></h1></div>
 
-Wir analysieren für Sie die Bewegungen von Menschenmengen bevor Ihre Veranstaltung überhaupt begonnen hat. Unsere wissenschaftlich fundierten Simulationsmodelle setzen dabei neue Maßstäbe bei Exaktheit und Realitätsnähe.
+Wir analysieren für Sie die Bewegungen von Menschenmengen, bevor Ihre Veranstaltung überhaupt begonnen hat. Unsere wissenschaftlich fundierten Simulationsmodelle setzen dabei neue Maßstäbe für Exaktheit und Realitätsnähe.
 
 So können Sie erforderliche Analysen effizient erstellen und erhalten detailreiche, objektive und quantitative Ergebnisse, die qualtitativ hochwertig und klar verständlich aufbereitet werden. Die computergestützte Simulation erlaubt ein schnelles Durchspielen von Varianten und "Was-wäre-Wenn"-Szenarien zur Analyse und Bewertung unterschiedlicher Optionen.
 
