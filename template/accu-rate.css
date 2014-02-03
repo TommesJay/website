@@ -29,7 +29,8 @@ h4 { font-size: 1.3em; }
     padding-left: 2em;
 }
 
-p, li {
+#contentmain p,
+#contentmain li {
     /* Automatische Silbentrennung (CSS3) */
    -moz-hyphens: auto;
    -o-hyphens: auto;
