@@ -1,8 +1,5 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-<div class="fancyheader"><h1><span>
-<br />Herzlich Willkommen!
-</span></h1></div>
-
+# *<br />Herzlich Willkommen!* {.fancyheader}
 
 Hier können Sie Ihren Gutschein schnell und unkompliziert einlösen. Bitte füllen Sie dazu die folgenden Felder aus &ndash; wir melden uns umgehend bei Ihnen, um mit Ihnen die Details rund um Ihren Auftrag zu besprechen.
 

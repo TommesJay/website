@@ -1,10 +1,9 @@
 ![](/img/accurate-bild-team.jpg) {.fancyheader-img}
-<div class="fancyheader"><h1><span>
-Unser Kompetenzteam berät Sie bei
-Planung und Umsetzung Ihrer Projekte.
-</span></h1></div>
+# *Unser Kompetenzteam berät Sie bei Planung und Umsetzung Ihrer Projekte.* {.fancyheader}
 
-Mehrjährige Forschung und Zusammenarbeit mit der technischen Universität München haben dazu beigetragen eine Software zu entwickeln, die Personenströme in Form von Simulationen exakter beschreibt um darauf zu reagieren. Fragen Sie uns! Wir beraten Sie gerne.
+
+
+Mehrjährige Forschung und Zusammenarbeit mit der Technischen Universität München haben dazu beigetragen eine Software zu entwickeln, die Personenströme in Form von Simulationen exakter beschreibt um darauf zu reagieren. Fragen Sie uns! Wir beraten Sie gerne.
 
 <div class="teambox four columns alpha border" markdown="1">
 ![Photo: Angelika Kneidl](/img/team-ak.png)
