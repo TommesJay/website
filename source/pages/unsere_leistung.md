@@ -1,8 +1,5 @@
 ![](/img/accurate-bild-4.jpg) {.fancyheader-img}
-<div class="fancyheader"><h1><span>
-<br />Unsere Leistung
-</span></h1></div>
-
+# *<br />Unsere Leistung* {.fancyheader}
 
 Personenstromanalysen spielen ihre Leistungen je nach Anwendungsgebiet sehr
 flexibel aus.

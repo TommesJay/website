@@ -1,7 +1,5 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-<div class="fancyheader"><h1><span>
-<br />Wir stellen ein!
-</span></h1></div>
+# *<br />Wir stellen ein!* {.fancyheader}
 
 Wir sind immer auf der Suche nach inspirierten und inspirierenden Persönlichkeiten, die Lust haben, mit uns etwas zu bewegen.  Momentan suchen wir __Praktikanten__ und __Studenten__ (inkl. Studienarbeiten, Softwarepraktika etc.). Es gibt viel zu tun!
 
