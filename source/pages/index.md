@@ -20,7 +20,7 @@ Wir haben unsere Wur&shy;zeln in der Ver&shy;an&shy;stal&shy;tungs&shy;bran&shy;
 <div class="startbox three columns border" markdown="1">
 #### Hohe Realitätsnähe
 
-Unsere Software wird konstant und mit jeder Veranstaltung überprüft und	verbessert.
+Wir liefern Ihnen exakte Vor&shy;aus&shy;sa&shy;gen über Be&shy;we&shy;gung&shy;en von Men&shy;schen&shy;men&shy;gen an&shy;hand derer Sie ihre Sicher&shy;heits&shy;pla&shy;nung opti&shy;mieren können.
 </div>
 
 <div class="startbox three columns border" markdown="1">
