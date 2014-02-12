@@ -1,5 +1,5 @@
 /* Sehr dumme Spambots blenden. */
-var addrViews = window.document.getElementsByClassName("mailadresse");
+var addrViews = window.document.querySelectorAll(".mailadresse");
 for (var i = 0; i < addrViews.length; i++) {
     var tmp1 = addrViews[i].attributes.getNamedItem("data-to").value;
     var tmp2 = "&#64;";
