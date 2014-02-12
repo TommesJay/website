@@ -6,10 +6,10 @@ flexibel aus.
 
 Zu unseren Basisleistungen zählen die Simulation von Personen- und
 Besucherströmen, der Vergleich von unterschiedlichen Varianten sowie die
-Detailanalyse von bestimmten Auswertungsbereichen der Simulationsszenarios. 
+Detailanalyse von bestimmten Auswertungsbereichen der Simulationsszenarien. 
 
 Die Leistungen werden individuell kombiniert und auf Ihre Bedürfnisse
-zugeschitten. Fragen Sie uns, wir beraten Sie gerne!
+zugeschnitten. Fragen Sie uns, wir beraten Sie gerne!
 
 
 <div class="leistungsbox four columns alpha border" markdown="1">
