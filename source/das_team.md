@@ -15,12 +15,12 @@ Modellentwicklung und Innovation
 </div>
 
 <div class="teambox four columns border" markdown="1">
-![Photo: N/A](/img/team-NA.png)
-__Wir suchen!__ <br />
-<abbr title="oder &auml;hnliches">Be&shy;triebs&shy;wirt&shy;schaft</abbr>, <abbr title="oder &auml;hnliches">Soziologie</abbr> o.&auml;.<br />
-<span class="mailadresse" data-to="info">info@javascript.anti.spam</span>
+![Photo: Michael Schölkopf](/img/team-ms.png)
+__Michael Sch&ouml;lkopf__ <br />
+<abbr title="Technische Universität München">Diplom Maschinen&shy;wesen</abbr><br />
+<span class="mailadresse" data-to="ms">ms@javascript.anti.spam</span>
 
-Business Development, Sales und Marketing ([Stellenanzeige als PDF](/downloads/Suche_Teammitglied_Sales_v1.03.pdf))
+Business Development, Sales und Marketing
 </div>
 
 <div class="teambox four columns omega border" markdown="1">
