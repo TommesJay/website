@@ -43,6 +43,7 @@ Wir danken unseren Unterstützern
 [![ESF](/img/associates/esf.jpg)](http://www.esf.de)
 [![EXiST](/img/associates/exist.jpg)](http://www.exist.de/)
 [![UnternehmerTUM](/img/associates/unternehmertum.png)](http://www.unternehmertum.de/)
+[![Hochschule München](/img/associates/hm.png)](http://www.hm.de/)
 
 #meta#
 pagetitle: Startseite
