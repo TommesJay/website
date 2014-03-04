@@ -239,6 +239,13 @@ abbr {
 }
 
 
+.associates-logos {
+    text-align: center;
+}
+.associates-logos img {
+    vertical-align: middle;
+}
+
 
 /* Skeleton has no styling for the 'date' form field,
    copy it from Skeleton's base.css */
