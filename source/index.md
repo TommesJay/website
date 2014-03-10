@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Ihr oberstes Gebot, unser Beitrag:<br />Sicherheit auf Veranstaltungen.* {.fancyheader}
+# *Ihr oberstes Gebot, unser Beitrag: Sicherheit auf Veranstaltungen.* {.fancyheader}
 
 
 Wir analysieren für Sie die Bewegungen von Menschenmengen, bevor Ihre Veranstaltung überhaupt begonnen hat. Unsere wissenschaftlich fundierten Simulationsmodelle setzen dabei neue Maßstäbe für Exaktheit und Realitätsnähe.
