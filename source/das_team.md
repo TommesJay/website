@@ -1,9 +1,7 @@
 ![](/img/accurate-bild-team.jpg) {.fancyheader-img}
 # *Unser Kompetenzteam berät Sie bei Planung und Umsetzung Ihrer Projekte.* {.fancyheader}
 
-
-
-Mehrjährige Forschung und Zusammenarbeit mit der [Technischen Universität München](https://www.tum.de/) haben dazu beigetragen eine Software zu entwickeln, die Personenströme in Form von Simulationen exakter beschreibt um darauf zu reagieren. Fragen Sie uns! Wir beraten Sie gerne.
+![Photo v.l.n.r. Angelika Kneidl, Michael Schölkopf, Florian Sesser](/img/team-20140305.jpg)
 
 <div class="teambox four columns alpha border" markdown="1">
 ![Photo: Angelika Kneidl](/img/team-ak.png)
@@ -26,7 +24,7 @@ Business Development, Sales und Marketing
 <div class="teambox four columns omega border" markdown="1">
 ![Photo: Florian Sesser](/img/team-fs.png)
 __Florian Sesser__ <br />
-<abbr title="Technische Universität München">Diplom Informatik</abbr>, <abbr title="Ludwig-Maximilians-Universität München">NF Psychologie</abbr> <br />
+<abbr title="Technische Universität München">Diplom Informatik</abbr>, <abbr title="Ludwig-Maximilians-Universität München">Psychologie</abbr><br />
 <span class="mailadresse" data-to="fs">fs@javascript.anti.spam</span>
 
 Softwarearchitektur und -entwicklung
