@@ -1,4 +1,6 @@
 User-agent: *
+
+# Dr. Frederson
 Disallow: /_drf/
 Disallow: /.git*
 Disallow: /html/
@@ -7,3 +9,8 @@ Disallow: /make.sh
 Disallow: /README.md
 Disallow: /source/
 Disallow: /template/
+
+# accu-rate.de
+Disallow: /gutschein
+Disallow: /gutschein-eingeloest
+
