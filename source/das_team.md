@@ -30,6 +30,21 @@ __Florian Sesser__ <br />
 Softwarearchitektur und -entwicklung
 </div>
 
+# Partner
+
+### Hochschule M&uuml;nchen, Prof. Gerta K&ouml;ster
+
+Die [Hochschule München](http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html) erforscht die Modellierung und Simulation von Fußg&auml;ngerstr&ouml;men seit 2010, als Frau Prof. Dr. rer. nat. Gerta K&ouml;ster ihre Professur f&uuml;r Wissenschaftliches Rechnen antrat. 
+Prof. K&ouml;ster ist seit 2007 in der Sicherheitsforschung t&auml;tig, im Besonderen in der Erforschung und Modellierung von Personenstromsimulationen.
+Bei der Siemens AG, Abteilung Corporate Technology, war sie bis 2010 für das Thema „Crowd Control“ verantwortlich und leitete die Teilprojekte zu Personenstromsimulation in den BMBF-Projekten [SinoVE](http://www.bmbf.de/de/22453.php) und [REPKA](http://www.bmbf.de/de/22399.php).
+Sie legt bei ihrer Forschung Wert auf robuste Verfahren und Anwendungsn&auml;he, um wissenschaftlichen Fortschritt praktisch umzusetzen zu k&ouml;nnen.
+
+Seit 2010 leitet sie ein Forschungsteam an der Hochschule M&uuml;nchen zu Personenstromsimulationen.
+Im BMBF-Projekt [MEPKA](http://www.cs.hm.edu/aktuelles/news/newsarchiv2008/news_detailseite_19648.de.html) entstand das entwickelte „[Optimal Steps Model](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.86.046108)“, das Personen eine variable Schrittl&auml;nge erlaubt, um ihrem Ziel n&auml;her zu kommen. 
+Im BMBF-Projekt [MultikOSi](http://www.multikosi.de/teilvorhaben-der-hm) erforscht sie mit ihrem Team, wie psycho-soziale Verhaltensweisen sinnvoll in Computer-Modelle eingebaut werden können.
+
+Prof. Dr. K&ouml;ster ist Mitglied der wissenschaftlichen Ausschüsse der [PED 2012](http://www.ivt.ethz.ch/news/archive/20120606_conference_ped_2012//), der [TGF 2013](http://www.fz-juelich.de/conferences/tgf13/EN/Home/home_node.html) und der [PED 2014](http://www.ped2014.nl/en), einige der wichtigsten Konferenzen zu Personenstromsimulationen.
+
 
 #meta#
 pagetitle: Team
