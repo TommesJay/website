@@ -181,20 +181,13 @@ h3.greybox {
 
 
 .startbox,
-.teambox,
 .leistungsbox {
     margin-top: 1em;
 }
-.startbox,
-.teambox {
+.startbox {
     font-size: 0.9em;
 }
-.teambox img {
-    float: left;
-    margin-right: 0.4em;
-}
 .startbox.border,
-.teambox.border,
 .leistungsbox.border {
     border-top: 1px solid #6e685d;
     padding-top: 0.5em;
@@ -224,6 +217,11 @@ abbr {
     padding-left: 1.1em;
 }
 
+img.mugshot  {
+    float: left;
+    margin: 0 1em 0.4em 0;
+    padding: 0.3em 0 0 0.1em;
+}
 
 /* vcards */
 .vcard span,
