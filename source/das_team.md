@@ -1,40 +1,49 @@
 ![](/img/accurate-bild-team.jpg) {.fancyheader-img}
-# *Unser Kompetenzteam berät Sie bei Planung und Umsetzung Ihrer Projekte.* {.fancyheader}
+# *Wir beraten Sie bei der Planung und Umsetzung Ihrer Projekte.* {.fancyheader}
 
-![Photo v.l.n.r. Angelika Kneidl, Michael Schölkopf, Florian Sesser](/img/team-20140305.jpg)
+## Team
 
-<div class="teambox four columns alpha border" markdown="1">
+<div class="twelve columns alpha border" markdown="1">
+### Dr. rer. nat. Angelika Kneidl 
 ![Photo: Angelika Kneidl](/img/team-ak.png)
-__Dr. rer. nat. Angelika Kneidl__ <br />
-<abbr title="Technische Universität München">Diplom Informatik</abbr><br />
-<span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>
+Nach ihrem Informatik&shy;studium an der TU München arbeitete Dr. rer. nat. Angelika Kneidl als IT-Consultant in der Finanz&shy;dienst&shy;leistungs&shy;branche. 
+2009 kehrte sie an die Technische Universität München zurück und promovierte über „Methoden zur Abbildung menschlichem Navigations&shy;verhaltens bei der Modellierung von Fußgänger&shy;strömen" am Lehrstuhl für Computer&shy;gestützte Modellierung und Simulation. 
+Während dieser Zeit wurde sie mehrmals für ihre Arbeit ausgezeichnet: Ihr wurden zwei Best Paper Awards und der Promotionspreis des Bundes der Freunde der TU München verliehen, der herausragende Promotionen würdigt.
 
-Modellentwicklung und Innovation
+Sie ist bei accu:rate die Expertin für die Modellierung und verantwortlich für die Weiterentwicklung der Software. 
+Kontaktieren Sie Frau Kneidl für alle wissenschaftlichen Fragen unter <span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>.
 </div>
 
-<div class="teambox four columns border" markdown="1">
+<div class="twelve columns border" markdown="1">
+### Michael Schölkopf
 ![Photo: Michael Schölkopf](/img/team-ms.png)
-__Michael Schölkopf__ <br />
-<abbr title="Technische Universität München">Diplom Maschinen&shy;wesen</abbr><br />
-<span class="mailadresse" data-to="ms">ms@javascript.anti.spam</span>
+Michael Schölkopf ist Diplom-Ingenieur für Maschinenbau. 
+Er studierte an der TU München und schloss sein Studium mit seiner Diplomarbeit an der TU Delft ab. 
+Er war Manage&More-Stipendiat der UnternehmerTUM, dem Zentrum für Innovation und Gründung der TU München. 
+Als Mitgründer in technologie&shy;orientierten Startups sammelte er wertvolle Erfahrung in frühen Entwicklungsphasen von Unternehmen. 
+Bis 2013 arbeitete er als Produktmanager bei der Next Generation Mobility GmbH & Co. KG.
 
-Business Development, Sales und Marketing
+Bei accu:rate ist Herr Schölkopf für die Weiterentwicklung des Vertriebs und Marketings verantwortlich. 
+Kontaktieren Sie ihn, wenn Sie wissen wollen, ob accu:rate auch für Sie eine Lösung bietet unter <span class="mailadresse" data-to="ms">ms@javascript.anti.spam</span>.
 </div>
 
-<div class="teambox four columns omega border" markdown="1">
+<div class="twelve columns omega border" markdown="1">
+### Florian Sesser
 ![Photo: Florian Sesser](/img/team-fs.png)
-__Florian Sesser__ <br />
-<abbr title="Technische Universität München">Diplom Informatik</abbr>, <abbr title="Ludwig-Maximilians-Universität München">Psychologie</abbr><br />
-<span class="mailadresse" data-to="fs">fs@javascript.anti.spam</span>
+Florian Sesser schloss sein Informatikstudium an der TU München 2011 erfolgreich ab. 
+Er arbeitet bereits seit 2001 freiberuflich in der IT-Branche und beschäftigt sich mit der Architektur, Entwicklung und Qualitätssicherung von Software. 
+Im Jahr 2010 rief er zusammen mit weiteren Experten den Workshop Softwarearchitektur ins Leben. 
+Bei seinem früheren Arbeitgeber, den IT:Agenten - einem Dienstleister für Individuallösungen im Web- und Internetumfeld - übernahm er neben Entwicklungsaufgaben die Leitung von Kundenprojekten.
 
-Softwarearchitektur und -entwicklung
+Bei accu:rate hat Herr Sesser die Verantwortung für die Softwarearchitektur und die Schnittstellen zu CAD-Software. 
+Kontaktieren Sie ihn für technische Fragen, unter <span class="mailadresse" data-to="fs">fs@javascript.anti.spam</span>.
 </div>
 
-# Partner
+## Partner & Unterstützer
 
 ### Hochschule München, Prof. Gerta Köster
 
-Die [Hochschule München](http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html) erforscht die Modellierung und Simulation von Fußgängerströmen seit 2010, als Frau Prof. Dr. rer. nat. Gerta Köster ihre Professur für Wissenschaftliches Rechnen antrat. 
+![Photo: Hochschule München](/img/hm-logo.png)Die [Hochschule München](http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html) erforscht die Modellierung und Simulation von Fußgängerströmen seit 2010, als Frau Prof. Dr. rer. nat. Gerta Köster ihre Professur für Wissenschaftliches Rechnen antrat. 
 Prof. Köster ist seit 2007 in der Sicherheitsforschung tätig, im Besonderen in der Erforschung und Modellierung von Personenstromsimulationen.
 Bei der Siemens AG, Abteilung Corporate Technology, war sie bis 2010 für das Thema „Crowd Control“ verantwortlich und leitete die Teilprojekte zu Personenstromsimulation in den BMBF-Projekten [SinoVE](http://www.bmbf.de/de/22453.php) und [REPKA](http://www.bmbf.de/de/22399.php).
 Sie legt bei ihrer Forschung Wert auf robuste Verfahren und Anwendungsnähe, um wissenschaftlichen Fortschritt praktisch umzusetzen zu können.
@@ -43,7 +52,7 @@ Seit 2010 leitet sie ein Forschungsteam an der Hochschule München zu Personenst
 Im BMBF-Projekt [MEPKA](http://www.cs.hm.edu/aktuelles/news/newsarchiv2008/news_detailseite_19648.de.html) entstand das entwickelte „[Optimal Steps Model](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.86.046108)“, das Personen eine variable Schrittlänge erlaubt, um ihrem Ziel näher zu kommen. 
 Im BMBF-Projekt [MultikOSi](http://www.multikosi.de/teilvorhaben-der-hm) erforscht sie mit ihrem Team, wie psycho-soziale Verhaltensweisen sinnvoll in Computer-Modelle eingebaut werden können.
 
-Prof. Dr. Köster ist Mitglied der wissenschaftlichen Ausschüsse der [PED 2012](http://www.ivt.ethz.ch/news/archive/20120606_conference_ped_2012//), der [TGF 2013](http://www.fz-juelich.de/conferences/tgf13/EN/Home/home_node.html) und der [PED 2014](http://www.ped2014.nl/en), einige der wichtigsten Konferenzen zu Personenstromsimulationen.
+Frau Prof. Dr. Köster ist Mitglied der wissenschaftlichen Ausschüsse der [PED 2012](http://www.ivt.ethz.ch/news/archive/20120606_conference_ped_2012//), der [TGF 2013](http://www.fz-juelich.de/conferences/tgf13/EN/Home/home_node.html) und der [PED 2014](http://www.ped2014.nl/en), einige der wichtigsten Konferenzen zu Personenstromsimulationen.
 
 
 #meta#
