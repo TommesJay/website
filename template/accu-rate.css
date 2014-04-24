@@ -262,3 +262,9 @@ input[type="date"] {
     background: #fff;
 }
 
+
+/* Hide Google translate widget */
+#google_translate_element {
+    display: none;
+}
+

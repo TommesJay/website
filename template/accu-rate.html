@@ -8,6 +8,7 @@
     <meta name="creator" content="{{meta.creator}}" />
     <meta name="DC.Language" content="{{meta.lang}}" />
     <meta http-equiv="content-language" content="{{meta.lang}}" />
+    <meta name="google-translate-customization" content="8adb9eee40db37ea-118fd9e473434363-g773d2845c22477b5-10"></meta>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
@@ -62,6 +63,16 @@
         <script src="{{meta.baseurl}}/lib/css3-mediaqueries-for-ie8-min.js"></script>
     <![endif]-->
     <script type="text/javascript" src="{{meta.baseurl}}/template/accu-rate.js"></script>
+
+    <!-- Google Translate integration -->
+    <div id="google_translate_element"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'de', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 </body>
 
 </html>
