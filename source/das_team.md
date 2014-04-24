@@ -58,7 +58,7 @@ Frau Prof. Dr. Köster ist Mitglied der wissenschaftlichen Ausschüsse der [PED 
 ### Technische Universität München, Lehrstuhl [CMS](https://www.cms.bgu.tum.de/)
 
 ![Photo: Prof. Dr-Ing. André Borrmann](/img/team-borrmann.jpg) {.mugshot}
-Der [Lehrstuhl für Computergestützte Modellierung und Simulation](https://www.cms.bgu.tum.de/) erforscht unter der Leitung von [Prof. Dr.-Ing. André Borrmann](https://www.cms.bgu.tum.de/en/team/borrmann) die Modellierung und Simulation von Personenströmen seit seiner Gründung im Jahr 2012.
+Der [Lehrstuhl für Computergestützte Modellierung und Simulation](https://www.cms.bgu.tum.de/) erforscht unter der Leitung von [Prof. Dr.-Ing. André Borrmann](https://www.cms.bgu.tum.de/de/team/borrmann) die Modellierung und Simulation von Personenströmen seit seiner Gründung im Jahr 2012.
 Einer der Forschungsschwerpunkte des Lehrstuhls sind Skalenübergänge zwischen unterschiedlichen Modellierungsebenen (makroskopisch, mesoskopisch, mikroskopisch) bei Personenstromsimulationen.
 Der Lehrstuhl ist u.a. am Forschungsverbund [MultikOSi](http://www.multikosi.de/) beteiligt, der vom [BMBF](http://www.bmbf.de) gefördert wird.
 
