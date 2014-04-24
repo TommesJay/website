@@ -10,8 +10,7 @@ Nach ihrem Informatik&shy;studium an der TU München arbeitete Dr. rer. nat. Ang
 2009 kehrte sie an die Technische Universität München zurück und promovierte über „Methoden zur Abbildung menschlichem Navigations&shy;verhaltens bei der Modellierung von Fußgänger&shy;strömen" am Lehrstuhl für Computer&shy;gestützte Modellierung und Simulation.
 Während dieser Zeit wurde sie mehrmals für ihre Arbeit ausgezeichnet: Ihr wurden zwei Best Paper Awards und der Promotionspreis des Bundes der Freunde der TU München verliehen, der herausragende Promotionen würdigt.
 
-Sie ist bei accu:rate die Expertin für die Modellierung und verantwortlich für die Weiterentwicklung der Software.
-Kontaktieren Sie Frau Kneidl für alle wissenschaftlichen Fragen unter <span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>.
+Sie ist bei accu:rate Expertin für die Modellierung und für die Produktentwicklung verantwortlich. Kontaktieren Sie Frau Kneidl für alle wissenschaftlichen sowie produktspezifischen Fragen unter <span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>.
 
 
 ### Michael Schölkopf
@@ -54,6 +53,8 @@ Im BMBF-Projekt [MEPKA](http://www.cs.hm.edu/aktuelles/news/newsarchiv2008/news_
 Im BMBF-Projekt [MultikOSi](http://www.multikosi.de/teilvorhaben-der-hm) erforscht sie mit ihrem Team, wie psycho-soziale Verhaltensweisen sinnvoll in Computer-Modelle eingebaut werden können.
 
 Frau Prof. Dr. Köster ist Mitglied der wissenschaftlichen Ausschüsse der [PED 2012](http://www.ivt.ethz.ch/news/archive/20120606_conference_ped_2012//), der [TGF 2013](http://www.fz-juelich.de/conferences/tgf13/EN/Home/home_node.html) und der [PED 2014](http://www.ped2014.nl/en), einige der wichtigsten Konferenzen zu Personenstromsimulationen.
+
+### Technische Universität München, Prof. Gerta Köster
 
 
 #meta#
