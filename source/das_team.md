@@ -42,7 +42,7 @@ Kontaktieren Sie ihn für technische Fragen unter <span class="mailadresse" data
 
 ### Hochschule München, Prof. Gerta Köster
 
-![Photo: Hochschule München](/img/associates/hm.png) {.mugshot}
+![Logo: Hochschule München](/img/associates/hm.png) {.mugshot}
 Die [Hochschule München](http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html) erforscht die Modellierung und Simulation von Fußgängerströmen seit 2010, als Frau Prof. Dr. rer. nat. Gerta Köster ihre Professur für Wissenschaftliches Rechnen antrat.
 Prof. Köster ist seit 2007 in der Sicherheitsforschung tätig, im Besonderen in der Erforschung und Modellierung von Personenstromsimulationen.
 Bei der Siemens AG, Abteilung Corporate Technology, war sie bis 2010 für das Thema „Crowd Control“ verantwortlich und leitete die Teilprojekte zu Personenstromsimulation in den BMBF-Projekten [SinoVE](http://www.bmbf.de/de/22453.php) und [REPKA](http://www.bmbf.de/de/22399.php).
@@ -54,8 +54,13 @@ Im BMBF-Projekt [MultikOSi](http://www.multikosi.de/teilvorhaben-der-hm) erforsc
 
 Frau Prof. Dr. Köster ist Mitglied der wissenschaftlichen Ausschüsse der [PED 2012](http://www.ivt.ethz.ch/news/archive/20120606_conference_ped_2012//), der [TGF 2013](http://www.fz-juelich.de/conferences/tgf13/EN/Home/home_node.html) und der [PED 2014](http://www.ped2014.nl/en), einige der wichtigsten Konferenzen zu Personenstromsimulationen.
 
-### Technische Universität München, Prof. Gerta Köster
 
+### Technische Universität München, Lehrstuhl [CMS](https://www.cms.bgu.tum.de/)
+
+![Logo: Technische Universität München](/img/associates/tum.png) {.mugshot}
+Der [Lehrstuhl für Computergestützte Modellierung und Simulation](https://www.cms.bgu.tum.de/) erforscht unter der Leitung von [Prof. Dr.-Ing. André Borrmann](https://www.cms.bgu.tum.de/en/team/borrmann) die Modellierung und Simulation von Personenströmen seit seiner Gründung im Jahr 2012.
+Einer der Forschungsschwerpunkte des Lehrstuhls sind Skalenübergänge zwischen unterschiedlichen Modellierungsebenen (makroskopisch, mesoskopisch, mikroskopisch) bei Personenstromsimulationen.
+Der Lehrstuhl ist u.a. am Forschungsverbund [MultikOSi](http://www.multikosi.de/) beteiligt, der vom [BMBF](http://www.bmbf.de) gefördert wird.
 
 #meta#
 pagetitle: Team
