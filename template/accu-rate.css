@@ -90,6 +90,8 @@ body {
 }
 .nav li a {
     color: #e84e0f;
+    /* To help google with creating the sitelinks: */
+    text-transform: lowercase;
 }
 .nav li a:hover {
     text-decoration: underline;

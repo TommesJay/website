@@ -1,6 +1,6 @@
-* [startseite](/) :
-* [unsere&nbsp;leistung](/unsere_leistung) :
-* [das&nbsp;team](/das_team) :
-* [stellen](/stellen) :
-* [kontakt](/kontakt)
+* [Startseite](/) :
+* [Unsere&nbsp;Leistung](/unsere_leistung) :
+* [Das&nbsp;Team](/das_team) :
+* [Stellen](/stellen) :
+* [Kontakt](/kontakt)
 
