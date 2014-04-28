@@ -63,6 +63,16 @@ Einer der Forschungsschwerpunkte des Lehrstuhls sind Skalenübergänge zwischen 
 Der Lehrstuhl ist u.a. am Forschungsverbund [MultikOSi](http://www.multikosi.de/) beteiligt, der vom [BMBF](http://www.bmbf.de) gefördert wird.
 
 
+### VDS GmbH - Veranstaltung | Dienstleistung | Sicherheit, Roland G. Meier
+
+![Photo: Roland Meier, VDS GmbH](/img/team-pankow.jpg) {.mugshot}
+Die Leistungen der [VDS GmbH](http://www.vds-veranstaltung.de/) beruhen auf 25 Jahren fachlicher Qualifikation und praktischer Erfahrung in der Besucher- und Veranstaltungssicherheit.
+Dazu gehören Sicherheitsberatungen für Betreiber, Veranstalter und Behörden und die Erstellung und Umsetzung von Sicherheitskonzepten in Form der Sicherheitskoordination für Veranstaltungen.
+Ein Schwerpunkt des Unternehmens ist das Crowd Management (Besucherlenkung), das beispielsweise auf der Meisterfeier des FC Bayern Münchens 2013 erfolgreich eingesetzt wurde.
+Die VDS GmbH leitet als Verbundkoordinator seit 2013 das auf drei Jahre angelegte Forschungsprojekt [MultikOSi](http://www.multikosi.de/), das vom [Bundesministerium für Bildung und Forschung](http://www.bmbf.de/) gefördert wird. Ziel des Projekts ist es, Unterstützungssysteme für die sichere Konzeption und Durchführung von städtischen Großveranstaltungen zu erforschen.
+Der Geschäftsführer Roland G. Meier ist seit 2009 Sachverständiger für Veranstaltungssicherheit und Versammlungsstätten und seit 2013 durch den [Deutschen Gutachter- und Sachverständigenverband (DGSV)](http://www.dgusv.de/) zertifiziert sowie geprüfte "Sicherheitsfachperson für Versammlungsstätten" (Zertifikat des [TÜV Saarland](http://www.tuev-saar.net/)). Er ist 1. Vorsitzender des [Bundesverbands Veranstaltungssicherheit](http://bvvs.org/).
+
+
 
 #meta#
 pagetitle: Team
