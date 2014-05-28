@@ -62,3 +62,21 @@ Kontaktieren Sie uns, wir unterstützen Sie gerne!
 Telefon: 089 21 55 38 69
 
 Email: info@accu-rate.de
+
+-----------
+
+Wir danken unseren Unterstützern
+
+<div class="associates-logos" markdown="1">
+[![BMWi](/img/associates/bmwi.jpg)](http://www.bmwi.de/)
+[![ESF](/img/associates/esf.jpg)](http://www.esf.de)
+[![EXiST](/img/associates/exist.jpg)](http://www.exist.de/)
+[![Europäische Union](/img/associates/eu.png)](http://europa.eu/)
+[![Hochschule München](/img/associates/hm.png)](http://www.hm.edu/)
+[![TUM](/img/associates/tum.png)](http://www.tum.de/)
+[![UnternehmerTUM](/img/associates/unternehmertum.png)](http://www.unternehmertum.de/)
+</div>
+
+#meta#
+pagetitle: Startseite
+description: Willkommen bei accu:rate!
