@@ -29,11 +29,11 @@ Hauptzweck dieser Gebäude ist es, Menschen möglichst effizient zu lenken und z
 Mit Hilfe einer Personenstromsimulation kann effizient überprüft werden, ob dieser Zweck nachhaltig erfüllt wird. 
 Vergleichen Sie Planungskonzepte, um heute und in der Zukunft alle Anforderungen zu erfüllen.
 Wir liefern Ihnen Antworten auf folgende Fragen:
-•	Wie viele Passagiere können maximal pro Stunde abgefertigt werden?
-•	Wie werden Durchlaufzeiten von Passagieren durch das eingesetzte Personal beeinflusst?
-•	Wo kommt es zu Stauungen von Passagieren? Wie viel Platz beanspruchen die Warteschlangen?
-•	Wie kann die Umsteigezeit von Passagieren reduziert werden?
-•	Wie lassen sich Fahrgastwechselzeiten optimieren?
+- Wie viele Passagiere können maximal pro Stunde abgefertigt werden?
+-	Wie werden Durchlaufzeiten von Passagieren durch das eingesetzte Personal beeinflusst?
+-	Wo kommt es zu Stauungen von Passagieren? Wie viel Platz beanspruchen die Warteschlangen?
+-	Wie kann die Umsteigezeit von Passagieren reduziert werden?
+-	Wie lassen sich Fahrgastwechselzeiten optimieren?
 ### Veranstaltungen
 Keine Veranstaltung ist wie die Andere: 
 Veranstaltungsort, Anzahl und Zusammensetzung der Besucher, Standpläne, Bühnenaufbau und Ablauf – dies sind alles  Faktoren, die sich von Veranstaltung zu Veranstaltung deutlich unterscheiden können.
@@ -43,12 +43,12 @@ Wir bieten Ihnen die Möglichkeit Ihre Erfahrung durch quantitative Daten zu erg
 Die reibungslose Durchführung der Veranstaltung kann dabei ebenso im Fokus stehen, wie das Durchspielen verschiedener Notfallpläne. 
 Die Simulation und Analyse der Besucherströme bilden die Grundlage für Maßnahmen des Crowd Managements während der Veranstaltung.
 Beantworten Sie mit Hilfe einer Besucherstromsimulation folgende Fragen:
-•	Wie viele Besucher können die Veranstaltung besuchen, ohne dass die Sicherheit darunter leidet?
-•	Wo gibt es Engstellen, die bei hohen Besucherströmen zu Staus und einer Gefährdung der Besucher führen kann? Wie können diese aufgelöst werden?
-•	Wie hoch sind die maximalen Personendichten?
-•	Was sind die Anzeichen für eine gefährliche Situation? Wie kann auf diese rechtzeitig reagiert werden?
-•	Welche Auswirkungen haben Geländer und Bauzäune auf die Sicherheit der Besucher?
-•	Bei der Erstellung von Einsatzplänen für Sicherheits- und Rettungskräfte: Wie wirken sich verschiedene Maßnahmen auf die Besucherströme aus? 
+-	Wie viele Besucher können die Veranstaltung besuchen, ohne dass die Sicherheit darunter leidet?
+-	Wo gibt es Engstellen, die bei hohen Besucherströmen zu Staus und einer Gefährdung der Besucher führen kann? Wie können diese aufgelöst werden?
+-	Wie hoch sind die maximalen Personendichten?
+-	Was sind die Anzeichen für eine gefährliche Situation? Wie kann auf diese rechtzeitig reagiert werden?
+-	Welche Auswirkungen haben Geländer und Bauzäune auf die Sicherheit der Besucher?
+-	Bei der Erstellung von Einsatzplänen für Sicherheits- und Rettungskräfte: Wie wirken sich verschiedene Maßnahmen auf die Besucherströme aus? 
 ### Messen und Ausstellungen
 Bei Messen können Personenstromanalysen angewendet werden, um verschiedene Standpläne anhand quantitativer Daten zu vergleichen, potenzielle Engstellen zu identifizieren und durch eine Point-of-Interest-Analyse die Besucherströme optimiert werden.
 ### Kongresse und Tagungen
