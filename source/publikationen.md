@@ -11,7 +11,7 @@
 
 ### Dissertation
 
-- [Kneidl, Angelika (2013): Methoden zur Abbildung menschlichen Navigationsverhaltens bei der Modellierung von Fußgängerströmen](http://mediatum.ub.tum.de/node?id=1131501)
+- [Kneidl, Angelika (2013): Methoden zur Abbildung menschlichen Navigationsverhaltens bei der Modellierung von Fußgängerströmen](http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:bvb:91-diss-20130604-1131501-0-3)
 
 ### Zeitschriftenpublikationen
 
@@ -35,7 +35,7 @@
 
 - [Kneidl, A., Thiemann, M., Hartmann, D., Borrmann, A. (2011) Combining pedestrian simulation with a network flow optimization to support security staff in handling an evacuation of a soccer stadium. To appear in: Proceedings of 23rd European Conference Forum Bauinformatik, Cork, Ireland.](http://www.cms.bgu.tum.de/publications/Kneidl_2011_FBI.pdf)
 - [Borrmann, A., Butenuth, M., Chakraborty, S., Kneidl, A., Schäfer, M. (2011) Towards multi-layer pedestrian interaction models for simulation, tracking, interpretation and indoor navigation. To appear in: Proceedings of 23rd European Conference Forum Bauinformatik, Cork, Ireland.](http://www.cms.bgu.tum.de/publications/Borrmann_2011_FBI.pdf)
-- [Kneidl, A., Borrmann, A. (2011). How Do Pedestrians find their Way? Results of an experimental study with students compared to simulation results. Proceedings of Emergency Evacuation of people from buildings (EMEVAC 2010), Warsaw, Poland.](http://www.andre-borrmann.de/docs/Paper_Kneidl_EMEVAC_2011.pdf)
+- [Kneidl, A., Borrmann, A. (2011). How Do Pedestrians find their Way? Results of an experimental study with students compared to simulation results. Proceedings of Emergency Evacuation of people from buildings (EMEVAC 2010), Warsaw, Poland.](http://www.cms.bgu.tum.de/publications/Paper_Kneidl_EMEVAC_2011.pdf)
 - [Kneidl, A., Thiemann, M., Borrmann, A., Ruzika, S., Hamacher, H. W., Köster, G., Rank, E. (2010) Bidirectional Coupling of Macroscopic and Microscopic Approaches for Pedestrian Behavior Prediction. Pedestrian and evacuation dynamics, 2011, eds R. Peacock, E. Kuligowski & J. Averill, Springer, Berlin.](http://www.cms.bgu.tum.de/publications/paper_Kneidl_PED2010.pdf)
 
 
