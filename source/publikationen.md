@@ -15,7 +15,7 @@
 
 ### Zeitschriftenpublikationen
 
-- [Borrmann, André; Kneidl, Angelika; Köster, Gerta; Ruzika, Stefan; Thiemann, Markus (2012): Bidirectional coupling of macroscopic and microscopic pedestrian evacuation models. In: Safety Science 50 (8), S. 1695–1703.](http://www.cms.bgu.tum.de/publications/paper_Kneidl_PED2010.pdf)(ausgezeichnet mit dem Promotionspreis des[Bundes der Freunde der TU München](http://www.bund-der-freunde.tum.de/index.php?id=125) 2013)
+- [Borrmann, André; Kneidl, Angelika; Köster, Gerta; Ruzika, Stefan; Thiemann, Markus (2012): Bidirectional coupling of macroscopic and microscopic pedestrian evacuation models. In: Safety Science 50 (8), S. 1695–1703.](http://www.cms.bgu.tum.de/publications/paper_Kneidl_PED2010.pdf) (ausgezeichnet mit dem Promotionspreis des [Bundes der Freunde der TU München](http://www.bund-der-freunde.tum.de/index.php?id=125) 2013)
 
 
 - [Kneidl, Angelika; Hartmann, Dirk; Borrmann, André (2012): Generation and use of sparse navigation graphs for microscopic pedestrian simulation models. In: Advanced Engineering Informatics 26, S. 669–680.](http://www.cms.bgu.tum.de/publications/Paper_Kneidl_EG-ICE_2011.pdf)
