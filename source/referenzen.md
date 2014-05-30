@@ -14,7 +14,9 @@ Ein Ziel des Projekt war die Erstellung eines Trainingssimulators, um diesen u.a
 Dazu definierten Behörden und Organisationen mit Sicherheitsaufgaben (BOS) unterschiedliche Szenarien zur Simulation.
 Durch die graphische Aufbereitung der Simulationsergebnisse konnten Bereiche mit hohen Dichten schnell identifiziert werden.
 Die Simulation war Teil des Projekts "Regionale Evakuierung, Planung, Kontrolle und Anpassung (REPKA)", das durch das BMBF gefördert wurde (2009 - 2012).
-Unter anderem war der Lehrstuhl Computergestützte Modellierung und Simulation der TU München beteiligt [Link](http://www.repka-evakuierung.de/index.php?Site=Partner#repka-tum).
+Unter anderem [war der Lehrstuhl Computergestützte Modellierung und Simulation der TU München beteiligt](http://www.repka-evakuierung.de/index.php?Site=Partner#repka-tum).
+
+![Simulation Fritz-Walter-Stadion auf dem Betzenberg in Kaiserslautern](/img/referenzen-kaiserslautern.jpg)
 
 ## Überprüfen der Show-Wechselzeiten eines großen Freizeitparks*
 Zur Validierung von Simulationssoftware wurden Realdaten in einem großen Freizeitpark gesammelt: 
@@ -28,4 +30,10 @@ Dadurch verändert sich das Räumungskonzept des Gebäudes.
 Um die Verantwortlichen bei der Planung einer Räumung zu unterstützen, wurde eine Fußgängersimulation durchgeführt.
 Mit dem Simulationsprogramm konnten Szenarien mit unterschiedlicher Anzahl an Besuchern beispielhaft untersucht werden.
 
+![TUM, Fakultät für Maschinenwesen, Luftaufnahme und Simulationsergebnis Engstelle](/img/referenzen-ikom.jpg)
+
 \* Aufgrund von Geheimhaltungsvereinbarungen kann kein Bildmaterial des Projekts zur Vefügung gestellt werden.
+
+#meta#
+pagetitle: Referenzen
+
