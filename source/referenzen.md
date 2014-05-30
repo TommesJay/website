@@ -1,7 +1,7 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Referenzen* {.fancyheader}
+# <br /> *Referenzen* {.fancyheader}
 
-# Referenzprojekte von Dr. Angelika Kneidl während ihrer Promotion am Lehrstuhl für Simulation und Modellierung der TU München
+## Referenzprojekte von Dr. Angelika Kneidl während ihrer Promotion am Lehrstuhl für Simulation und Modellierung der TU München
 
 ## Evaluieren der Umbauplanung einer U-Bahnstation*
 Im Rahmen einer Masterarbeit wurde eine Fußgängersimulation dazu eingesetzt, die Auswirkungen des Umbaus einer U-Bahnstation zu untersuchen.
