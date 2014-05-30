@@ -39,10 +39,10 @@ Vergleichen Sie Planungskonzepte, um heute und in der Zukunft alle Anforderungen
 Wir liefern Ihnen Antworten auf folgende Fragen:
 
 - Wie viele Passagiere können maximal pro Stunde abgefertigt werden?
--	Wie werden Durchlaufzeiten von Passagieren durch das eingesetzte Personal beeinflusst?
--	Wo kommt es zu Stauungen von Passagieren? Wie viel Platz beanspruchen die Warteschlangen?
--	Wie kann die Umsteigezeit von Passagieren reduziert werden?
--	Wie lassen sich Fahrgastwechselzeiten optimieren?
+- Wie werden Durchlaufzeiten von Passagieren durch das eingesetzte Personal beeinflusst?
+- Wo kommt es zu Stauungen von Passagieren? Wie viel Platz beanspruchen die Warteschlangen?
+- Wie kann die Umsteigezeit von Passagieren reduziert werden?
+- Wie lassen sich Fahrgastwechselzeiten optimieren?
 
 ### Veranstaltungen
 Keine Veranstaltung ist wie die Andere: 
