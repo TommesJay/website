@@ -54,12 +54,12 @@ Die reibungslose Durchführung der Veranstaltung kann dabei ebenso im Fokus steh
 Die Simulation und Analyse der Besucherströme bilden die Grundlage für Maßnahmen des Crowd Managements während der Veranstaltung.
 Beantworten Sie mit Hilfe einer Besucherstromsimulation folgende Fragen:
 
--	Wie viele Besucher können die Veranstaltung besuchen, ohne dass die Sicherheit darunter leidet?
--	Wo gibt es Engstellen, die bei hohen Besucherströmen zu Staus und einer Gefährdung der Besucher führen kann? Wie können diese aufgelöst werden?
--	Wie hoch sind die maximalen Personendichten?
--	Was sind die Anzeichen für eine gefährliche Situation? Wie kann auf diese rechtzeitig reagiert werden?
--	Welche Auswirkungen haben Geländer und Bauzäune auf die Sicherheit der Besucher?
--	Bei der Erstellung von Einsatzplänen für Sicherheits- und Rettungskräfte: Wie wirken sich verschiedene Maßnahmen auf die Besucherströme aus? 
+- Wie viele Besucher können die Veranstaltung besuchen, ohne dass die Sicherheit darunter leidet?
+- Wo gibt es Engstellen, die bei hohen Besucherströmen zu Staus und einer Gefährdung der Besucher führen kann? Wie können diese aufgelöst werden?
+- Wie hoch sind die maximalen Personendichten?
+- Was sind die Anzeichen für eine gefährliche Situation? Wie kann auf diese rechtzeitig reagiert werden?
+- Welche Auswirkungen haben Geländer und Bauzäune auf die Sicherheit der Besucher?
+- Bei der Erstellung von Einsatzplänen für Sicherheits- und Rettungskräfte: Wie wirken sich verschiedene Maßnahmen auf die Besucherströme aus? 
 
 ### Messen und Ausstellungen
 Bei Messen können Personenstromanalysen angewendet werden, um verschiedene Standpläne anhand quantitativer Daten zu vergleichen, potenzielle Engstellen zu identifizieren und durch eine Point-of-Interest-Analyse die Besucherströme optimiert werden.
