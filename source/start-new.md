@@ -5,7 +5,9 @@
 Menschen bewegen sich nicht wie Maschinen. 
 Sie haben verschiedene Ziele, bewegen und verhalten sich unterschiedlich. 
 An Orten, an denen sich viele Menschen bewegen, folgt daraus ein komplexes  und dynamisches System, das nicht mehr intuitiv zu verstehen und vorherzusagen ist.
+
 Sie haben die Möglichkeit, diese Komplexität durch accu:rate begreifbarer zu machen - statt sich nur auf Ihr Bauchgefühl verlassen zu müssen.
+
 Das Ergebnis: Klare Vorstellungen, wie sich Entscheidungen auswirken.
 
 ## Vergleichen Sie verschiedene Konzepte in der Planungsphase
@@ -35,6 +37,7 @@ Hauptzweck dieser Gebäude ist es, Menschen möglichst effizient zu lenken und z
 Mit Hilfe einer Personenstromsimulation kann effizient überprüft werden, ob dieser Zweck nachhaltig erfüllt wird. 
 Vergleichen Sie Planungskonzepte, um heute und in der Zukunft alle Anforderungen zu erfüllen.
 Wir liefern Ihnen Antworten auf folgende Fragen:
+
 - Wie viele Passagiere können maximal pro Stunde abgefertigt werden?
 -	Wie werden Durchlaufzeiten von Passagieren durch das eingesetzte Personal beeinflusst?
 -	Wo kommt es zu Stauungen von Passagieren? Wie viel Platz beanspruchen die Warteschlangen?
@@ -50,6 +53,7 @@ Wir bieten Ihnen die Möglichkeit Ihre Erfahrung durch quantitative Daten zu erg
 Die reibungslose Durchführung der Veranstaltung kann dabei ebenso im Fokus stehen, wie das Durchspielen verschiedener Notfallpläne. 
 Die Simulation und Analyse der Besucherströme bilden die Grundlage für Maßnahmen des Crowd Managements während der Veranstaltung.
 Beantworten Sie mit Hilfe einer Besucherstromsimulation folgende Fragen:
+
 -	Wie viele Besucher können die Veranstaltung besuchen, ohne dass die Sicherheit darunter leidet?
 -	Wo gibt es Engstellen, die bei hohen Besucherströmen zu Staus und einer Gefährdung der Besucher führen kann? Wie können diese aufgelöst werden?
 -	Wie hoch sind die maximalen Personendichten?
