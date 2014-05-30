@@ -1,15 +1,15 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # <br /> *Referenzen* {.fancyheader}
 
-## Referenzprojekte von Dr. Angelika Kneidl während ihrer Promotion am Lehrstuhl für Simulation und Modellierung der TU München
+## Projekte aus Dr. Kneidls Promotionszeit
 
-## Evaluieren der Umbauplanung einer U-Bahnstation*
+### Evaluieren der Umbauplanung einer U-Bahnstation*
 Im Rahmen einer Masterarbeit wurde eine Fußgängersimulation dazu eingesetzt, die Auswirkungen des Umbaus einer U-Bahnstation zu untersuchen.
 Ausgangspunkt waren die Fahrpläne sowie die Daten von aktuellen Personenzählungen als Eingabeparameter. 
 Beide Konzepte – das Bestehende und das Neue – wurden anschließend simuliert. 
 Die Ergebnisse zeigten eine deutliche Verringerung der maximalen Dichte in den kritischen Bereichen des Bahnsteigs.
 
-## Evakuierungssimulation des Fritz-Walter-Stadions auf dem Betzenberg in Kaiserslautern
+### Evakuierungssimulation des Fritz-Walter-Stadions auf dem Betzenberg in Kaiserslautern
 Ein Ziel des Projekt war die Erstellung eines Trainingssimulators, um diesen u.a. auf Praxistauglichkeit und Mehrwert zu evaluieren.
 Dazu definierten Behörden und Organisationen mit Sicherheitsaufgaben (BOS) unterschiedliche Szenarien zur Simulation.
 Durch die graphische Aufbereitung der Simulationsergebnisse konnten Bereiche mit hohen Dichten schnell identifiziert werden.
@@ -18,12 +18,12 @@ Unter anderem [war der Lehrstuhl Computergestützte Modellierung und Simulation 
 
 ![Simulation Fritz-Walter-Stadion auf dem Betzenberg in Kaiserslautern](/img/referenzen-kaiserslautern.jpg)
 
-## Überprüfen der Show-Wechselzeiten eines großen Freizeitparks*
+### Überprüfen der Show-Wechselzeiten eines großen Freizeitparks*
 Zur Validierung von Simulationssoftware wurden Realdaten in einem großen Freizeitpark gesammelt: 
 Die Besucherzahlen einer Show dienten als Eingabewerte für die Modellierung, um die Zu- und Abströme in der Simulation gegen die realen Show-Wechselzeiten zu validieren. 
 Der Abgleich der Simulationsergebnisse mit den Realdaten ließ aussagekräftige Rückschlüsse über die Qualität der unterschiedlichen Simulationsmodelle zu.
 
-## Identifikation von Engstellen auf der IKOM in Garching
+### Identifikation von Engstellen auf der IKOM in Garching
 Die IKOM ist das größte Karriereforum Süddeutschlands und wird in der Fakultät für Maschinenwesen der TU München veranstaltet.
 Neben dem normalen Studienbetrieb befinden sich in der Magistrale während der Job-Messe zig Messestände und mehrere tausend Besucher.
 Dadurch verändert sich das Räumungskonzept des Gebäudes.
