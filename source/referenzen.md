@@ -27,10 +27,11 @@ Der Abgleich der Simulationsergebnisse mit den Realdaten ließ aussagekräftige 
 Die IKOM ist das größte Karriereforum Süddeutschlands und wird in der Fakultät für Maschinenwesen der TU München veranstaltet.
 Neben dem normalen Studienbetrieb befinden sich in der Magistrale während der Job-Messe zig Messestände und mehrere tausend Besucher.
 Dadurch verändert sich das Räumungskonzept des Gebäudes.
-Um die Verantwortlichen bei der Planung einer Räumung zu unterstützen, wurde eine Fußgängersimulation durchgeführt.
+Um die Verantwortlichen bei der Planung einer Räumung zu unterstützen, wurde eine im Rahmen einer [Bachelorarbeit](http://www.cms.bgu.tum.de/publications/theses/driesel_2012_kneidl.pdf) eine Fußgängersimulation durchgeführt.
 Mit dem Simulationsprogramm konnten Szenarien mit unterschiedlicher Anzahl an Besuchern beispielhaft untersucht werden.
 
 ![TUM, Fakultät für Maschinenwesen, Luftaufnahme und Simulationsergebnis Engstelle](/img/referenzen-ikom.jpg)
+Bildquelle: [Maria Driesels Bachelorarbeit](http://www.cms.bgu.tum.de/publications/theses/driesel_2012_kneidl.pdf)
 
 \* Aufgrund von Geheimhaltungsvereinbarungen kann kein Bildmaterial des Projekts zur Vefügung gestellt werden.
 
