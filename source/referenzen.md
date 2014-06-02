@@ -17,6 +17,7 @@ Die Simulation war Teil des Projekts "Regionale Evakuierung, Planung, Kontrolle 
 Unter anderem [war der Lehrstuhl Computergestützte Modellierung und Simulation der TU München beteiligt](http://www.repka-evakuierung.de/index.php?Site=Partner#repka-tum).
 
 ![Simulation Fritz-Walter-Stadion auf dem Betzenberg in Kaiserslautern](/img/referenzen-kaiserslautern.jpg)
+Die Simulation und Visualisierung wurde mit einer Software von Siemens angefertigt.
 
 ### Überprüfen der Show-Wechselzeiten eines großen Freizeitparks*
 Zur Validierung von Simulationssoftware wurden Realdaten in einem großen Freizeitpark gesammelt: 
@@ -31,6 +32,7 @@ Um die Verantwortlichen bei der Planung einer Räumung zu unterstützen, wurde e
 Mit dem Simulationsprogramm konnten Szenarien mit unterschiedlicher Anzahl an Besuchern beispielhaft untersucht werden.
 
 ![TUM, Fakultät für Maschinenwesen, Luftaufnahme und Simulationsergebnis Engstelle](/img/referenzen-ikom.jpg)
+Die Simulation und Visualisierung wurde mit einer Software von Siemens angefertigt.<br />
 Bildquelle: [Bachelorarbeit von Maria Driesel](http://www.cms.bgu.tum.de/publications/theses/driesel_2012_kneidl.pdf)
 
 \* Aufgrund von Geheimhaltungsvereinbarungen kann kein Bildmaterial des Projekts zur Vefügung gestellt werden.
