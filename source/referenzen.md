@@ -3,7 +3,7 @@
 
 ## Projekte aus der Promotionszeit von Dr. Angelika Kneidl
 
-### Umbauplanung einer U-Bahnstation - Fußgängersimulation als Werkzeug zum Evaluieren der Umbaupläne*
+### Umbauplanung einer U-Bahnstation - Fußgängersimulation als Werkzeug zum Evaluieren unterschiedlicher Konzepte*
 Im Rahmen einer Masterarbeit wurde eine Fußgängersimulation dazu eingesetzt, die Auswirkungen des Umbaus einer U-Bahnstation zu untersuchen.
 Ausgangspunkt waren die Fahrpläne sowie die Daten von aktuellen Personenzählungen als Eingabeparameter. 
 Beide Konzepte – das Bestehende und das Neue – wurden anschließend simuliert. 
@@ -23,7 +23,7 @@ Zur Validierung von Simulationssoftware wurden Realdaten in einem großen Freize
 Die Besucherzahlen einer Show dienten als Eingabewerte für die Modellierung, um die Zu- und Abströme in der Simulation gegen die realen Show-Wechselzeiten zu validieren. 
 Der Abgleich der Simulationsergebnisse mit den Realdaten ließ aussagekräftige Rückschlüsse über die Qualität der unterschiedlichen Simulationsmodelle zu.
 
-### IKOM in Garching als Anwendungsbeispiel für den Einsatz einer Personenstromsimulation bei Veranstaltungen 
+### IKOM - Anwendungsbeispiel für den Einsatz einer Personenstromsimulation bei Veranstaltungen 
 Die IKOM ist das größte Karriereforum Süddeutschlands und wird in der Fakultät für Maschinenwesen der TU München veranstaltet.
 Neben dem normalen Studienbetrieb befinden sich in der Magistrale während der Job-Messe zig Messestände und mehrere tausend Besucher.
 Dadurch verändert sich das Räumungskonzept des Gebäudes.
