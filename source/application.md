@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Anwendungsgebiete* {.fancyheader}
+# *Anwendungsgebiete für Personenströme* {.fancyheader}
 
 ## Infrastrukturelle Gebäude
 In Flughäfen und Bahnhöfen bewegen sich täglich tausende von Menschen: 
