@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Anwendungsgebiete für Personenströme* {.fancyheader}
+# *Anwendungsgebiete für Personenstromsimulationen* {.fancyheader}
 
 ## Infrastrukturelle Gebäude
 In Flughäfen und Bahnhöfen bewegen sich täglich tausende von Menschen: 
@@ -41,10 +41,3 @@ Bei Kongressen und Tagungen erlaubt die Simulation von Menschenströmen die Prog
 ### Brandschutz bei Bestandsgebäuden
 Bei der Sanierung von Bestandsgebäuden können moderne Anforderungen der Bauordnung nicht immer wirtschaftlich umgesetzt werden.
 Weisen Sie durch eine Personenstromsimulation nach, dass die Räumungszeiten ohne bauliche Änderungen vertretbar sind.
-
-### Wie können wir Sie unterstützen?
-Kontaktieren Sie uns, wir unterstützen Sie gerne!
-
-Telefon: 089 21 55 38 69
-
-Email: info@accu-rate.de
