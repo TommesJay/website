@@ -28,6 +28,7 @@ Ihre Erfahrung ist wichtig.
 Wir geben Ihnen Daten an die Hand, um Entscheidungen auch rational zu begründen und zu belegen. 
 Und falls Sie vor neuen Herausforderungen stehen, helfen wir Ihnen sie zu bewältigen.
 
+Die Simulation von Personenströmen ist in vielen Bereichen sinnvoll: [Mögliche Anwendungen](/applications.md)
 -----------
 
 Wir danken unseren Unterstützern
