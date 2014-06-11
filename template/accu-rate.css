@@ -104,6 +104,11 @@ body {
         margin: 3em 6% 1em 30%;
     }
 }
+@media only print {
+    .nav {
+        display: none;
+    }
+}
 
 
 #footer {
@@ -127,6 +132,17 @@ body {
         padding-bottom: 1em;
     }
 }
+@media only print {
+    #footer {
+        background-color: transparent;
+        color: #6e685d;
+    }
+    #footer,
+    #footer strong,
+    #footer a {
+        color: #6e685d;
+    }
+}
 
 
 /* Content */
@@ -135,25 +151,27 @@ img {
     max-width: 100%;
 }
 
-.fancyheader {
-    margin: -4em 0 2em;
-    font-size: 1.5em;
-    line-height: 1.3em;
-}
-.fancyheader em {
-    font-style: normal;
-    font-weight: normal;
-    /* max-width: 450px; */
-}
-.fancyheader em {
-    color: white;
-    background: #e84e0f;
-    box-shadow: 10px 0 0 #e84e0f, -10px 0 0 #e84e0f;
-}
-.fancyheader-img {
-    border-top: 1px solid #6e685d;
-    padding-top: 3px;
-    min-height: 6em; /* Correct negative margin for UAs that don't d/l the img */
+@media only screen {
+    .fancyheader {
+        margin: -4em 0 2em;
+        font-size: 1.5em;
+        line-height: 1.3em;
+    }
+    .fancyheader em {
+        font-style: normal;
+        font-weight: normal;
+        /* max-width: 450px; */
+    }
+    .fancyheader em {
+        color: white;
+        background: #e84e0f;
+        box-shadow: 10px 0 0 #e84e0f, -10px 0 0 #e84e0f;
+    }
+    .fancyheader-img {
+        border-top: 1px solid #6e685d;
+        padding-top: 3px;
+        min-height: 6em; /* Correct negative margin for UAs that don't d/l the img */
+    }
 }
 @media all and (min-width: 768px) {
     .fancyheader {
@@ -164,6 +182,18 @@ img {
         min-height: 9em; /* Correct negative margin for UAs that don't d/l the img */
     }
 
+}
+@media only print {
+    .fancyheader {
+        margin: -1em 0 1.2em;
+    }
+    .fancyheader-img {
+        display: none;
+    }
+    .fancyheader em {
+        font-style: normal;
+        font-weight: normal;
+    }
 }
 
 
@@ -268,5 +298,10 @@ input[type="date"] {
 /* Hide Google translate widget */
 #google_translate_element {
     display: none;
+}
+@media only print {
+    .skiptranslate {
+        display: none;
+    }
 }
 
