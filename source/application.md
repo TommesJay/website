@@ -45,3 +45,8 @@ Weisen Sie durch eine Personenstromsimulation nach, dass die Räumungszeiten ohn
 ### Weitere Anwendungsmöglichkeiten
 Sie haben eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die nicht aufgeführt ist? 
 Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob auch in Ihrem Fall eine Simulation sinnvoll ist.
+
+
+#meta#
+pagetitle: Anwendungsgebiete
+
