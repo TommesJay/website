@@ -104,7 +104,7 @@ body {
         margin: 3em 6% 1em 30%;
     }
 }
-@media only print {
+@media print {
     .nav {
         display: none;
     }
@@ -132,7 +132,7 @@ body {
         padding-bottom: 1em;
     }
 }
-@media only print {
+@media print {
     #footer {
         background-color: transparent;
         color: #6e685d;
@@ -151,7 +151,7 @@ img {
     max-width: 100%;
 }
 
-@media only screen {
+@media screen {
     .fancyheader {
         margin: -4em 0 2em;
         font-size: 1.5em;
@@ -183,7 +183,7 @@ img {
     }
 
 }
-@media only print {
+@media print {
     .fancyheader {
         margin: -1em 0 1.2em;
     }
@@ -299,7 +299,7 @@ input[type="date"] {
 #google_translate_element {
     display: none;
 }
-@media only print {
+@media print {
     .skiptranslate {
         display: none;
     }
