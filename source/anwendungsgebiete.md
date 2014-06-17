@@ -1,20 +1,6 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # *Anwendungsgebiete für Personenstromsimulationen* {.fancyheader}
 
-## Infrastrukturelle Gebäude
-In Flughäfen und Bahnhöfen bewegen sich täglich tausende von Menschen: 
-Auf dem Weg zur Arbeit, zu Freunden oder in den Urlaub.
-Hauptzweck dieser Gebäude ist es, Menschen möglichst effizient zu lenken und zu leiten. 
-Mit Hilfe einer Personenstromsimulation kann effizient überprüft werden, ob dieser Zweck nachhaltig erfüllt wird. 
-Vergleichen Sie Planungskonzepte, um heute und in der Zukunft alle Anforderungen zu erfüllen.
-Wir liefern Ihnen Antworten auf folgende Fragen:
-
-- Wie viele Passagiere können maximal pro Stunde abgefertigt werden?
-- Wie werden Durchlaufzeiten von Passagieren durch das eingesetzte Personal beeinflusst?
-- Wo kommt es zu Stauungen von Passagieren? Wie viel Platz beanspruchen die Warteschlangen?
-- Wie kann die Umsteigezeit von Passagieren reduziert werden?
-- Wie lassen sich Fahrgastwechselzeiten optimieren?
-
 ## Veranstaltungen
 Keine Veranstaltung ist wie die Andere: 
 Veranstaltungsort, Anzahl und Zusammensetzung der Besucher, Standpläne, Bühnenaufbau und Ablauf – dies sind alles  Faktoren, die sich von Veranstaltung zu Veranstaltung deutlich unterscheiden können.
