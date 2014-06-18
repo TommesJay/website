@@ -47,6 +47,7 @@ Wir danken unseren Unterstützern
 [![Hochschule München](/img/associates/hm.png)](http://www.hm.edu/)
 [![TUM](/img/associates/tum.png)](http://www.tum.de/)
 [![UnternehmerTUM](/img/associates/unternehmertum.png)](http://www.unternehmertum.de/)
+[![The best Java profiler: JProfile by ej-technologies](/img/associates/jprofiler_medium.png)](http://www.ej-technologies.com/products/jprofiler/overview.html)
 </div>
 
 #meta#
