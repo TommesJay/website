@@ -5,7 +5,7 @@ Keine Veranstaltung ist wie die Andere:
 Veranstaltungsort, Anzahl und Zusammensetzung der Besucher, Standpläne, Bühnenaufbau und Ablauf – dies sind alles  Faktoren, die sich von Veranstaltung zu Veranstaltung deutlich unterscheiden können.
 Um bei jeder Veranstaltung gut vorbereitet zu sein, müssen alle Faktoren bedacht und die Auswirkungen vorhergesehen werden. 
 
-![Shortest path SumoViz3D](/img/shortest_path.jpg) {.float-left}
+[![Public Viewing im Olympiastadium, EM2012 - ITA-DEU, by Ole.Pophal on Flickr (CC BY-SA 2.0)](/img/public_viewing_olympiastadion_by_Ole_Pophal_on_flickr.jpg) {.float-left}](https://www.flickr.com/photos/olepophal/7466279868)
 
 Die Dynamik bei Veranstaltungen mit mehreren tausend Personen kann nicht immer hinreichend durch menschliche Intuition erfasst werden. Was bleibt ist ein ungutes Gefühl.
 Wir bieten Ihnen die Möglichkeit Ihre Erfahrung durch quantitative Daten zu ergänzen und Ihnen damit Vertrauen in Ihre Entscheidungen zu geben.
