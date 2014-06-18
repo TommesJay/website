@@ -20,10 +20,10 @@ Wir liefern Ihnen Antworten auf folgende Fragen:
 - Wie kann die Umsteigezeit von Passagieren reduziert werden?
 - Wie lassen sich Fahrgastwechselzeiten optimieren?
 
-Viele weitere [Einsatzgebiete](/referenzen) sind denkbar. Wir freuen uns auf ein Gespräch mit Ihnen &ndash; entweder vor Ort (bitte [kontaktieren Sie uns](/kontakt)), oder telefonisch unter der Nummer <a class="tel" href="tel:+498921553869">+49 (0)89&ndash;21553869</a>.
+Viele weitere [Einsatzgebiete](/referenzen) sind denkbar. Wir freuen uns auf ein Gespräch mit Ihnen! Entweder vor Ort (bitte [kontaktieren Sie uns](/kontakt)), oder telefonisch unter der Nummer <a class="tel" href="tel:+498921553869">+49 (0)89&ndash;21553869</a>.
 
 
 
 #meta#
-pagetitle: Personenstromsimulation für öffentlice Infrastruktur
+pagetitle: Personenstromsimulation für öffentliche Infrastruktur
 
