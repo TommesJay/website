@@ -1,39 +1,52 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Ihr oberstes Gebot, unser Beitrag: Sicherheit auf Veranstaltungen.* {.fancyheader}
+# *Sicherheit statt Bauchgefühl durch Simulation von Personenströmen* {.fancyheader}
 
+## Menschliches Verhalten ist komplex
 
-Wir analysieren für Sie die Bewegungen von Menschenmengen, bevor Ihre Veranstaltung überhaupt begonnen hat. Unsere wissenschaftlich fundierten Simulationsmodelle setzen dabei neue Maßstäbe für Exaktheit und Realitätsnähe.
+![Shortest path SumoViz3D](/img/shortest_path.jpg) {.float-left}
 
-So können Sie erforderliche Analysen effizient erstellen und erhalten detailreiche, objektive und quantitative Ergebnisse, die qualtitativ hochwertig und klar verständlich aufbereitet werden. Die computergestützte Simulation erlaubt ein schnelles Durchspielen von Varianten und "Was-wäre-Wenn"-Szenarien zur Analyse und Bewertung unterschiedlicher Optionen.
+Menschen bewegen sich nicht wie Maschinen. 
+Sie haben verschiedene Ziele, bewegen und verhalten sich unterschiedlich. 
 
-Veranstaltungen jeder Art und Größe können schon in der Planungsphase simuliert, Sicherheitskonzepte optimiert und Gefahrensituationen gebannt werden, bevor sie entstehen.
+An Orten, an denen sich viele Menschen bewegen, folgt daraus ein komplexes und dynamisches System, das nicht mehr intuitiv zu verstehen und vorherzusagen ist.
 
-Wie das geht? Fragen Sie uns, wir beraten Sie gerne!
+Sie haben die Möglichkeit, diese Komplexität durch accu:rate begreifbarer zu machen - statt sich nur auf Ihr Bauchgefühl verlassen zu müssen.
 
+Das Ergebnis: Klare Vorstellungen, wie sich Entscheidungen auswirken.
 
-<div class="startbox three columns alpha border" markdown="1">
-#### Wir verstehen Sie
+## Vergleichen Sie verschiedene Konzepte in der Planungsphase
 
-Wir haben unsere Wur&shy;zeln in der Ver&shy;an&shy;stal&shy;tungs&shy;bran&shy;che und sprechen Ihre Sprache.
-</div>
+Entscheiden Sie anhand von Simulationsergebnissen, welches Konzept Ihre Anforderungen am besten erfüllt. 
+Durch das frühe Evaluieren verschiedener Konzepte erhöhen Sie die Planungssicherheit und senken dadurch Kosten.
 
-<div class="startbox three columns border" markdown="1">
-#### Hohe Realitätsnähe
+## Verbessern Sie die Kommunikation mit allen Interessensgruppen
 
-Wir liefern Ihnen exakte Vor&shy;aus&shy;sa&shy;gen über Be&shy;we&shy;gung&shy;en von Men&shy;schen&shy;men&shy;gen an&shy;hand derer Sie ihre Sicher&shy;heits&shy;pla&shy;nung opti&shy;mieren können.
-</div>
+Ein gemeinsames Verständnis wird am besten durch Bilder geschaffen. 
+Vergleichen Sie verschiedene Konzepte mit Hilfe von Fotos und Videos. 
+Untermauern Sie Ihre Vorschläge und Entscheidungen mit der graphischen Aufbereitung von Daten. 
 
-<div class="startbox three columns border" markdown="1">
-#### Schnellere Planung
+- Wo bewegen sich Personen? 
+- Wo gibt es Engstellen, an denen sich Personen stauen? 
+- Wie hoch ist die maximale Personendichte? 
 
-Szenarien und Optionen können schnell simuliert, analysiert und bewertet werden.
-</div>
+Ein ausführlicher Bericht gibt Ihnen alle wichtigen Informationen an die Hand.
 
-<div class="startbox three columns omega border" markdown="1">
-#### Belastbare Empfehlungen
+## Vertrauen durch objektive Bewertungskriterien
 
-Um&shy;setz&shy;ungs&shy;orien&shy;tier&shy;ung ist bei allen Em&shy;pfehl&shy;ungen die oberste Maß&shy;gabe.
-</div>
+Ihre Erfahrung ist wichtig. 
+Wir geben Ihnen Daten an die Hand, um Entscheidungen rational zu begründen und quantifiziert zu belegen. 
+Und falls Sie vor neuen Herausforderungen stehen, helfen wir Ihnen sie zu bewältigen.
+
+Die Simulation von Personenströmen ist in vielen Bereichen sinnvoll:
+
+- In der [Veranstaltungssicherheit](/veranstaltungssicherheit)
+- Bei der Planung von [Infrastruktur](/infrastrukturelle-gebaeude) wie z.B. öffentlichem Nah- und Fernverkehr
+- Bei der Sanierung von Bestandsgebäuden
+- Zur Erstellung von Entfluchtungsnachweisen für den Brandschutz 
+
+### Weitere Anwendungsmöglichkeiten
+Sie haben eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die nicht aufgeführt ist? 
+Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob auch in Ihrem Fall eine Simulation sinnvoll ist.
 
 -----------
 
