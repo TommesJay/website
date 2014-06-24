@@ -1,7 +1,7 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Sicherheits- und Kapazitätsplanung für Verkehrsanbieter* {.fancyheader}
+# *Sicherheits- und Kapazitätsplanung für Verkehrsbetriebe* {.fancyheader}
 
-## Fußgängersimulation für Flughäfen, Bahnhöfe, und andere öffentliche Infrastruktur
+## Fußgängersimulation für Flughäfen und Bahnhöfe
 
 ![Menschen in der Münchner S-Bahn](/img/menschen-in-der-sbahn.jpg) {.float-left}
 In Flughäfen und Bahnhöfen bewegen sich täglich tausende von Menschen: 
@@ -25,5 +25,5 @@ Viele weitere [Einsatzgebiete](/referenzen) sind denkbar. Wir freuen uns auf ein
 
 
 #meta#
-pagetitle: Personenstromsimulation für öffentliche Infrastruktur
+pagetitle: Personenstromsimulation für Flughäfen und Bahnhöfe
 

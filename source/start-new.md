@@ -7,6 +7,7 @@
 
 Menschen bewegen sich nicht wie Maschinen. 
 Sie haben verschiedene Ziele, bewegen und verhalten sich unterschiedlich. 
+
 An Orten, an denen sich viele Menschen bewegen, folgt daraus ein komplexes und dynamisches System, das nicht mehr intuitiv zu verstehen und vorherzusagen ist.
 
 Sie haben die Möglichkeit, diese Komplexität durch accu:rate begreifbarer zu machen - statt sich nur auf Ihr Bauchgefühl verlassen zu müssen.
