@@ -23,15 +23,21 @@ Beantworten Sie mit Hilfe einer Besucherstromsimulation folgende Fragen:
 - Welche Auswirkungen haben Geländer und Bauzäune auf die Sicherheit der Besucher?
 - Bei der Erstellung von Einsatzplänen für Sicherheits- und Rettungskräfte: Wie wirken sich verschiedene Maßnahmen auf die Besucherströme aus?
 
+
 ### Messen und Ausstellungen
+
 Bei Messen können Personenstromanalysen angewendet werden, um verschiedene Standpläne anhand quantitativer Daten zu vergleichen, potenzielle Engstellen zu identifizieren und durch eine Point-of-Interest-Analyse die Besucherströme optimiert werden.
 
+
 ### Kongresse und Tagungen
+
 Bei Kongressen und Tagungen erlaubt die Simulation von Menschenströmen die Prognose von Füllungs- und Leerungszeiten, den Vergleich verschiedener Bestuhlungsvarianten und eine schnelle Neubewertung von Planungsänderungen – auch bei individuellen Lösungen.
 
 
-Es gibt noch viele weitere Einsatzgebiete für Personenstromsimulationen (siehe z.B. [Referenzen](/referenzen)). Wir freuen uns auf ein Gespräch mit Ihnen! Entweder vor Ort (bitte [kontaktieren Sie uns](/kontakt)), oder telefonisch unter der Nummer <a class="tel" href="tel:+498921553869">+49 (0)89&ndash;21553869</a>.
+### Weitere Anwendungsmöglichkeiten
 
+Sie haben eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die nicht aufgeführt ist?
+Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob auch in Ihrem Fall eine Simulation sinnvoll ist.
 
 
 #meta#
