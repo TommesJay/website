@@ -46,7 +46,7 @@
 ## Prof. Dr. Gerta Köster
 
 - F. Dietrich, G. Köster, M. J. Seitz, I. v. Sivers (2014): [Bridging the gap: From cellular automata to differential equation models for pedestrian dynamics](http://www.sciencedirect.com/science/article/pii/S1877750314000738), Journal of Computational Science, in print
-- M. J. Seitz, G. Köster (2014): How update schemes influence crowd simulations, Journal of Statistical Mechanics, in print.
+- M. J. Seitz, G. Köster (2014): [How update schemes influence crowd simulations](http://iopscience.iop.org/1742-5468/2014/7/P07002/pdf/1742-5468_2014_7_P07002.pdf), Journal of Statistical Mechanics, in print.
 - I.v. Sivers, G. Köster (2014): [How stride adaptation in pedestrian models improves navigation](http://arxiv.org/abs/1401.7838), arXiv 1401.7838
 - Isabella von Sivers, Anne Templeton, Gerta Köster and John Drury (2014): Humans Do Not Always Act Selfishly: Social Identity and Helping in Emergency Evacuation Simulation, PED 2014.
 - Gerta Köster and Benedikt Zönnchen (2014): Queuing at bottlenecks using a dynamic floor field for navigation, PED 2014.
