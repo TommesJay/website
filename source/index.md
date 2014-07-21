@@ -1,12 +1,12 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Sicherheit lässt sich planen – durch Simulation von Personenströmen* {.fancyheader}
+# *Sicherheit lässt sich planen –<br /> durch Simulation von Personenströmen* {.fancyheader}
 
 
 ## Menschliches Verhalten ist komplex
 
 ![Shortest path SumoViz3D](/img/shortest_path.jpg) {.float-left}
 
-Menschen bewegen sich nicht wie Maschinen. Sie haben verschiedene Ziele und Motive, also bewegen und verhalten sich unterschiedlich und vor allem: nicht immer nach Plan.
+Menschen bewegen sich nicht wie Maschinen. Sie haben verschiedene Ziele und Motive, bewegen und verhalten sich unterschiedlich und vor allem: nicht immer nach Plan.
 
 An Orten, an denen viele Menschen aufeinandertreffen, existieren daher komplexe dynamische Systeme, deren Entwicklung intuitiv nicht mehr vollständig zu erfassen oder vorherzusagen ist.
 
@@ -16,7 +16,7 @@ Sie haben die Möglichkeit, die Komplexität von Personenströmen durch accu:rat
 ## Risiken erkennen und ausschließen
 
 Die Simulation von Personenströmen hilft, bereits in der Planung von Großevents oder Bauprojekten mögliche Engstellen und Risiken zu erkennen und zu vermeiden.
-Detaillierte Grafiken und Filmanimationen leisten genau dort Unterstützung, wo selbst erfahrene Sicherheitstechniker an ihre Grenzen geraten.
+Detaillierte Grafiken und Filmanimationen leisten genau dort Unterstützung, wo selbst erfahrene Sicherheitsexperten an ihre Grenzen geraten.
 Zwar lässt sich jeder einzelne Parameter und jede einzelne Engstelle isoliert betrachtet problemlos kalkulieren und durchdenken, deren komplexes Zusammenspiel wird jedoch erst in der Simulation sichtbar:
 
 - Wo und wie schnell bewegen sich Personen?
