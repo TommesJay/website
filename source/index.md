@@ -1,52 +1,61 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Sicherheit statt Bauchgefühl durch Simulation von Personenströmen* {.fancyheader}
+# *Sicherheit lässt sich planen – durch Simulation von Personenströmen* {.fancyheader}
+
 
 ## Menschliches Verhalten ist komplex
 
 ![Shortest path SumoViz3D](/img/shortest_path.jpg) {.float-left}
 
-Menschen bewegen sich nicht wie Maschinen. 
-Sie haben verschiedene Ziele, bewegen und verhalten sich unterschiedlich. 
+Menschen bewegen sich nicht wie Maschinen. Sie haben verschiedene Ziele und Motive, also bewegen und verhalten sich unterschiedlich und vor allem: nicht immer nach Plan.
 
-An Orten, an denen sich viele Menschen bewegen, folgt daraus ein komplexes und dynamisches System, das nicht mehr intuitiv zu verstehen und vorherzusagen ist.
+An Orten, an denen viele Menschen aufeinandertreffen, existieren daher komplexe dynamische Systeme, deren Entwicklung intuitiv nicht mehr vollständig zu erfassen oder vorherzusagen ist.
 
-Sie haben die Möglichkeit, diese Komplexität durch accu:rate begreifbarer zu machen - statt sich nur auf Ihr Bauchgefühl verlassen zu müssen.
+Sie haben die Möglichkeit, die Komplexität von Personenströmen durch accu:rate nachvollziehbar zu machen.
 
-Das Ergebnis: Klare Vorstellungen, wie sich Entscheidungen auswirken.
+
+## Risiken erkennen und ausschließen
+
+Die Simulation von Personenströmen hilft, bereits in der Planung von Großevents oder Bauprojekten mögliche Engstellen und Risiken zu erkennen und zu vermeiden.
+Detaillierte Grafiken und Filmanimationen leisten genau dort Unterstützung, wo selbst erfahrene Sicherheitstechniker an ihre Grenzen geraten.
+Zwar lässt sich jeder einzelne Parameter und jede einzelne Engstelle isoliert betrachtet problemlos kalkulieren und durchdenken, deren komplexes Zusammenspiel wird jedoch erst in der Simulation sichtbar:
+
+- Wo und wie schnell bewegen sich Personen?
+- Wo gibt es Engstellen, an denen sich Personen stauen?
+- Wie hoch ist die maximale Personendichte?
+
+accu:rate berechnet sowohl den Regelfall, beispielsweise die Besucherströme in einer Konzertpause, als auch Ausnahmesituationen wie die Räumung bei Feueralarm, und bereitet diese graphisch anschaulich auf: von den Wegen einzelner Personen bis zum Strom der großen Masse.
+Anhand der Ergebnisse können Sie rechtzeitig verantwortungsvoll planen – sei es in der Veranstaltungssicherheit, bei Bauvorhaben oder der Sanierung öffentlicher Gebäude.
+accu:rate liefert eine valide Entscheidungsgrundlage, wo sich die Sicherheitsplanung bisher oft auf das Bauchgefühl verlassen musste.
+
 
 ## Vergleichen Sie verschiedene Konzepte in der Planungsphase
 
-Entscheiden Sie anhand von Simulationsergebnissen, welches Konzept Ihre Anforderungen am besten erfüllt. 
-Durch das frühe Evaluieren verschiedener Konzepte erhöhen Sie die Planungssicherheit und senken dadurch Kosten.
+Bereits in der Planungsphase können Sie mit accu:rate unterschiedliche Lösungen zur Lenkung großer Besucherströme durchspielen.
+In der graphischen Darstellung werden sowohl die Risikofaktoren sichtbar, als auch die Vor- und Nachteile verschiedener Lösungsszenarien.
+Anhand der Simulationsergebnisse wird nachvollziehbar, welches Konzept Ihre Anforderungen am besten erfüllt.
+Durch das frühe Evaluieren verschiedener Möglichkeiten erhöhen Sie die Planungssicherheit und senken die Kosten.
 
-## Verbessern Sie die Kommunikation mit allen Interessensgruppen
 
-Ein gemeinsames Verständnis wird am besten durch Bilder geschaffen. 
-Vergleichen Sie verschiedene Konzepte mit Hilfe von Fotos und Videos. 
-Untermauern Sie Ihre Vorschläge und Entscheidungen mit der graphischen Aufbereitung von Daten. 
+## Entscheiden Sie auf der Basis objektiver Bewertungskriterien
 
-- Wo bewegen sich Personen? 
-- Wo gibt es Engstellen, an denen sich Personen stauen? 
-- Wie hoch ist die maximale Personendichte? 
-
-Ein ausführlicher Bericht gibt Ihnen alle wichtigen Informationen an die Hand.
-
-## Vertrauen durch objektive Bewertungskriterien
-
-Ihre Erfahrung ist wichtig. 
-Wir geben Ihnen Daten an die Hand, um Entscheidungen rational zu begründen und quantifiziert zu belegen. 
-Und falls Sie vor neuen Herausforderungen stehen, helfen wir Ihnen sie zu bewältigen.
-
-Die Simulation von Personenströmen ist in vielen Bereichen sinnvoll:
+Erfahrung und Fachwissen sind die Basis jedes verantwortungsvollen Sicherheitskonzepts.
+Wir geben Ihnen Daten an die Hand, um Ihre Entscheidungen objektiv zu begründen und quantifiziert zu belegen.
+Die Simulation von Personenströmen wird in vielen Bereichen eingesetzt:
 
 - In der [Veranstaltungssicherheit](/veranstaltungssicherheit)
-- Bei der Planung von [Infrastruktur](/infrastrukturelle-gebaeude) wie z.B. öffentlichem Nah- und Fernverkehr
+- Bei der Planung von [Infrastruktur](/infrastrukturelle-gebaeude), zum Beispiel im öffentlichen Nah- und Fernverkehr
 - Bei der Sanierung von Bestandsgebäuden
-- Zur Erstellung von Entfluchtungsnachweisen für den Brandschutz 
+- Zur Erstellung von Entfluchtungsnachweisen für den Brandschutz
 
-### Weitere Anwendungsmöglichkeiten
-Sie haben eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die nicht aufgeführt ist? 
-Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob auch in Ihrem Fall eine Simulation sinnvoll ist.
+
+## Schaffen Sie Vertrauen durch Transparenz
+
+Der graphisch aufbereitete Vergleich verschiedener Konzepte macht Ihre Argumentation für Projektbeteiligte wie für Außenstehende transparent und nachvollziehbar, denn ein gemeinsames Verständnis wird am besten durch Bilder geschaffen.
+Die verschieden visualisierten Berechnungen von accu:rate liefern objektive Bewertungskriterien.
+Zudem gibt Ihnen ein ausführlicher Bericht alle wichtigen Informationen an die Hand.
+
+Viele weitere Einsatzbereiches sind denkbar und simulierbar: Haben eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
+Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in welchem Umfang eine Simulation weiterhilft.
 
 -----------
 
