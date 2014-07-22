@@ -54,7 +54,7 @@ Der graphisch aufbereitete Vergleich verschiedener Konzepte macht Ihre Argumenta
 Die als Diagramme, Tabellen, Bilder und Videos visualisierten Berechnungen von accu:rate liefern objektive Bewertungskriterien.
 Zudem gibt Ihnen ein ausführlicher Bericht alle wichtigen Informationen an die Hand.
 
-Viele weitere Einsatzbereiche sind denkbar und simulierbar: Haben eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
+Viele weitere Einsatzbereiche sind denkbar und simulierbar: Haben Sie eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
 Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in welchem Umfang eine Simulation weiterhilft.
 
 -----------
