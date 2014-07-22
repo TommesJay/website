@@ -15,7 +15,7 @@ Sie haben die Möglichkeit, die Komplexität von Personenströmen durch accu:rat
 
 ## Risiken erkennen und ausschließen
 
-Die Simulation von Personenströmen hilft, bereits in der Planung von Großevents oder Bauprojekten mögliche Engstellen und Risiken zu erkennen und zu vermeiden.
+Die Simulation von Personenströmen hilft bereits in der Planung von Großevents oder Bauprojekten, mögliche Engstellen und Risiken zu erkennen und zu vermeiden.
 Detaillierte Grafiken und Filmanimationen leisten genau dort Unterstützung, wo selbst erfahrene Sicherheitsexperten an ihre Grenzen geraten.
 Zwar lässt sich jeder einzelne Parameter und jede einzelne Engstelle isoliert betrachtet problemlos kalkulieren und durchdenken, deren komplexes Zusammenspiel wird jedoch erst in der Simulation sichtbar:
 
@@ -51,10 +51,10 @@ Die Simulation von Personenströmen wird in vielen Bereichen eingesetzt:
 ## Schaffen Sie Vertrauen durch Transparenz
 
 Der graphisch aufbereitete Vergleich verschiedener Konzepte macht Ihre Argumentation für Projektbeteiligte wie für Außenstehende transparent und nachvollziehbar, denn ein gemeinsames Verständnis wird am besten durch Bilder geschaffen.
-Die verschieden visualisierten Berechnungen von accu:rate liefern objektive Bewertungskriterien.
+Die als Diagramme, Tabellen, Bilder und Videos visualisierten Berechnungen von accu:rate liefern objektive Bewertungskriterien.
 Zudem gibt Ihnen ein ausführlicher Bericht alle wichtigen Informationen an die Hand.
 
-Viele weitere Einsatzbereiches sind denkbar und simulierbar: Haben eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
+Viele weitere Einsatzbereiche sind denkbar und simulierbar: Haben eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
 Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in welchem Umfang eine Simulation weiterhilft.
 
 -----------
