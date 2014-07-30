@@ -37,3 +37,12 @@ function isMobileDevice() {
     return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
 }
 
+/* Insert HTML tag to load script programmatically.
+ * Thanks to http://www.stevesouders.com/blog/2009/04/27/loading-scripts-without-blocking/ */
+function loadScript(path) {
+    var s = document.createElement("script");
+    s.type = "text/javascript";
+    s.src = path;
+    document.getElementsByTagName("head")[0].appendChild(s);
+}
+
