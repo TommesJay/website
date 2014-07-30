@@ -31,3 +31,9 @@ if (window.location.href.indexOf("local") == -1) {
     })();
 }
 
+/* Mobile device detection one-liner.
+ * Thanks to https://coderwall.com/p/i817wa */
+function isMobileDevice() {
+    return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
+}
+
