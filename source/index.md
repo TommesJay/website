@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Sicherheit lässt sich planen –<br /> durch Simulation von Personenströmen* {.fancyheader}
+# *Sicherheit lässt sich planen – durch Simulation von Personenströmen* {.fancyheader}
 
 
 ## Menschliches Verhalten ist komplex
