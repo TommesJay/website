@@ -1,39 +1,61 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Ihr oberstes Gebot, unser Beitrag: Sicherheit auf Veranstaltungen.* {.fancyheader}
+# *Sicherheit lässt sich planen – durch Simulation von Personenströmen* {.fancyheader}
 
 
-Wir analysieren für Sie die Bewegungen von Menschenmengen, bevor Ihre Veranstaltung überhaupt begonnen hat. Unsere wissenschaftlich fundierten Simulationsmodelle setzen dabei neue Maßstäbe für Exaktheit und Realitätsnähe.
+## Menschliches Verhalten ist komplex
 
-So können Sie erforderliche Analysen effizient erstellen und erhalten detailreiche, objektive und quantitative Ergebnisse, die qualtitativ hochwertig und klar verständlich aufbereitet werden. Die computergestützte Simulation erlaubt ein schnelles Durchspielen von Varianten und "Was-wäre-Wenn"-Szenarien zur Analyse und Bewertung unterschiedlicher Optionen.
+![Shortest path SumoViz3D](/img/shortest_path.jpg) {.float-left}
 
-Veranstaltungen jeder Art und Größe können schon in der Planungsphase simuliert, Sicherheitskonzepte optimiert und Gefahrensituationen gebannt werden, bevor sie entstehen.
+Menschen bewegen sich nicht wie Maschinen. Sie haben verschiedene Ziele und Motive, bewegen und verhalten sich unterschiedlich und vor allem: nicht immer nach Plan.
 
-Wie das geht? Fragen Sie uns, wir beraten Sie gerne!
+An Orten, an denen viele Menschen aufeinandertreffen, existieren daher komplexe dynamische Systeme, deren Entwicklung intuitiv nicht mehr vollständig zu erfassen oder vorherzusagen ist.
+
+Sie haben die Möglichkeit, die Komplexität von Personenströmen durch accu:rate nachvollziehbar zu machen.
 
 
-<div class="startbox three columns alpha border" markdown="1">
-#### Wir verstehen Sie
+## Risiken erkennen und ausschließen
 
-Wir haben unsere Wur&shy;zeln in der Ver&shy;an&shy;stal&shy;tungs&shy;bran&shy;che und sprechen Ihre Sprache.
-</div>
+Die Simulation von Personenströmen hilft bereits in der Planung von Großevents oder Bauprojekten, mögliche Engstellen und Risiken zu erkennen und zu vermeiden.
+Detaillierte Grafiken und Filmanimationen leisten genau dort Unterstützung, wo selbst erfahrene Sicherheitsexperten an ihre Grenzen geraten.
+Zwar lässt sich jeder einzelne Parameter und jede einzelne Engstelle isoliert betrachtet problemlos kalkulieren und durchdenken, deren komplexes Zusammenspiel wird jedoch erst in der Simulation sichtbar:
 
-<div class="startbox three columns border" markdown="1">
-#### Hohe Realitätsnähe
+- Wo und wie schnell bewegen sich Personen?
+- Wo gibt es Engstellen, an denen sich Personen stauen?
+- Wie hoch ist die maximale Personendichte?
 
-Wir liefern Ihnen exakte Vor&shy;aus&shy;sa&shy;gen über Be&shy;we&shy;gung&shy;en von Men&shy;schen&shy;men&shy;gen an&shy;hand derer Sie ihre Sicher&shy;heits&shy;pla&shy;nung opti&shy;mieren können.
-</div>
+accu:rate berechnet sowohl den Regelfall, beispielsweise die Besucherströme in einer Konzertpause, als auch Ausnahmesituationen wie die Räumung bei Feueralarm, und bereitet diese graphisch anschaulich auf: von den Wegen einzelner Personen bis zum Strom der großen Masse.
+Anhand der Ergebnisse können Sie rechtzeitig verantwortungsvoll planen – sei es in der Veranstaltungssicherheit, bei Bauvorhaben oder der Sanierung öffentlicher Gebäude.
+accu:rate liefert eine valide Entscheidungsgrundlage, wo sich die Sicherheitsplanung bisher oft auf das Bauchgefühl verlassen musste.
 
-<div class="startbox three columns border" markdown="1">
-#### Schnellere Planung
 
-Szenarien und Optionen können schnell simuliert, analysiert und bewertet werden.
-</div>
+## Vergleichen Sie verschiedene Konzepte in der Planungsphase
 
-<div class="startbox three columns omega border" markdown="1">
-#### Belastbare Empfehlungen
+Bereits in der Planungsphase können Sie mit accu:rate unterschiedliche Lösungen zur Lenkung großer Besucherströme durchspielen.
+In der graphischen Darstellung werden sowohl die Risikofaktoren sichtbar, als auch die Vor- und Nachteile verschiedener Lösungsszenarien.
+Anhand der Simulationsergebnisse wird nachvollziehbar, welches Konzept Ihre Anforderungen am besten erfüllt.
+Durch das frühe Evaluieren verschiedener Möglichkeiten erhöhen Sie die Planungssicherheit und senken die Kosten.
 
-Um&shy;setz&shy;ungs&shy;orien&shy;tier&shy;ung ist bei allen Em&shy;pfehl&shy;ungen die oberste Maß&shy;gabe.
-</div>
+
+## Entscheiden Sie auf der Basis objektiver Bewertungskriterien
+
+Erfahrung und Fachwissen sind die Basis jedes verantwortungsvollen Sicherheitskonzepts.
+Wir geben Ihnen Daten an die Hand, um Ihre Entscheidungen objektiv zu begründen und quantifiziert zu belegen.
+Die Simulation von Personenströmen wird in vielen Bereichen eingesetzt:
+
+- In der [Veranstaltungssicherheit](/veranstaltungssicherheit)
+- Bei der Planung von [Infrastruktur](/infrastrukturelle-gebaeude), zum Beispiel im öffentlichen Nah- und Fernverkehr
+- Bei der Sanierung von Bestandsgebäuden
+- Zur Erstellung von Entfluchtungsnachweisen für den Brandschutz
+
+
+## Schaffen Sie Vertrauen durch Transparenz
+
+Der graphisch aufbereitete Vergleich verschiedener Konzepte macht Ihre Argumentation für Projektbeteiligte wie für Außenstehende transparent und nachvollziehbar, denn ein gemeinsames Verständnis wird am besten durch Bilder geschaffen.
+Die als Diagramme, Tabellen, Bilder und Videos visualisierten Berechnungen von accu:rate liefern objektive Bewertungskriterien.
+Zudem gibt Ihnen ein ausführlicher Bericht alle wichtigen Informationen an die Hand.
+
+Viele weitere Einsatzbereiche sind denkbar und simulierbar: Haben Sie eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
+Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in welchem Umfang eine Simulation weiterhilft.
 
 -----------
 
@@ -47,6 +69,7 @@ Wir danken unseren Unterstützern
 [![Hochschule München](/img/associates/hm.png)](http://www.hm.edu/)
 [![TUM](/img/associates/tum.png)](http://www.tum.de/)
 [![UnternehmerTUM](/img/associates/unternehmertum.png)](http://www.unternehmertum.de/)
+[![The best Java profiler: JProfile by ej-technologies](/img/associates/jprofiler_medium.png)](http://www.ej-technologies.com/products/jprofiler/overview.html)
 </div>
 
 #meta#
