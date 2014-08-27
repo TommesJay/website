@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Manche Dinge müssen auf Anhieb funktionieren.* {.fancyheader}
+# *Komplexe Entscheidungen treffen – wir unterstützen Sie durch die Simulation und Analyse von Personenströmen* {.fancyheader}
 
 ## Menschliches Verhalten ist komplex
 Menschen bewegen sich nicht wie Maschinen. 
