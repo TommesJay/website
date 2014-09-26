@@ -11,11 +11,12 @@ Die Personenstromsimulation wurde für den vollbesetzten Hörsaal durchgeführt 
 2. Die Entfluchtung über beide Ausgänge
 3. Die Entfluchtung über den rechten Ausgang, falls der linke Ausgang versperrt ist
 
+In den folgenden Abbildungen sind zum einen die Laufwege der Personen zum anderen die Verteilung der Geschwindigkeiten im Hörsaal dargestellt.
 ![Klinikum Großhadern, Hörsaal 2, Trajektorien](/img/referenzen/klinikum-1.jpg)
-Trajektorien
+Laufwege der Personen
 
 ![Klinikum Großhadern, Hörsaal 2, Heatmap Geschwindigkeiten](/img/referenzen/klinikum-3.jpg)
-Heatmap Geschwindigkeiten
+Verteilung der Geschwindigkeiten
 
 Um über Umbaumaßnahmen entscheiden zu können, die im Falle eines Alarms eine schnellere und sichere Entfluchtung gewährleisten sollten, wurde neben der Bestandsgeometrie eine Variante simuliert, die den heutigen Anforderungen der Bauordnung entspricht.
 Das Ergebnis: Die Entfluchtung über nur eine der Türen war bei der bauordnungskonformen Variante schneller als bei der Bestandsgeometrie. Beim Szenario mit zwei nutzbaren Ausgängen war dagegen die Bestandsgeometrie leicht im Vorteil.
