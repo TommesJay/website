@@ -2,8 +2,6 @@
 # *Räumungskonzepte nach (Muster-)&#8203;Versammlungs&shy;stätten&shy;verordnung* {.fancyheader}
 
 
-
-
 - Aussage Manuel Huber:
 Nachweis, er erbracht wird, dass die Vorgabe, dass zwischen der ersten
 Person, die den Ausgang passiert und der letzten Person, die den Ausgang
@@ -19,10 +17,10 @@ Maximale Anzahl zulässiger Gäste für eine Veranstaltung herausfinden
 
 ## Hintergrund
 
-Die neue <cite id="MVStaettV"><a href="http://www.bauministerkonferenz.de/IndexSearch.aspx?method=get&File=b8a84yy3y8b984808abb4yb8y9ya8ayyb9y884b94ya2a0a149aaa0a2ay49aaa0a3484b80b8y00tlswan1sun2g2ixhrm4yngi">Musterversammlungsstättenverordnung</a></cite> (<abbr title="Musterversammlungsstättenverordnung">MVStättV</abbr>) verlangt für Versammlungsstätten, die für mehr als 1.000 Besucher bestimmt sind, die Aufstellung eines Räumungskonzepts.
-(Rechtsanwalt Thomas Waetke geht <a href="http://www.eventfaq.de/24614-wann-ist-ein-raeumungskonzept-erforderlich-und-was-muss-darin-enthalten-sein-teil-1/">hier</a> näher auf die Kriterien ein.)
+Die neue <cite id="MVStaettV">[Musterversammlungsstättenverordnung](http://www.bauministerkonferenz.de/IndexSearch.aspx?method=get&File=b8a84yy3y8b984808abb4yb8y9ya8ayyb9y884b94ya2a0a149aaa0a2ay49aaa0a3484b80b8y00tlswan1sun2g2ixhrm4yngi)</cite> (MVStättV) verlangt für Versammlungsstätten, die für mehr als 1.000 Besucher bestimmt sind, die Aufstellung eines Räumungskonzepts.
+(Rechtsanwalt Thomas Waetke geht [hier](http://www.eventfaq.de/24614-wann-ist-ein-raeumungskonzept-erforderlich-und-was-muss-darin-enthalten-sein-teil-1/) näher auf die Kriterien ein.)
 
-Aus der <cite><a href="http://www.bauministerkonferenz.de/IndexSearch.aspx?method=get&File=b8a84yy3y8b984808abb4yb8y9ya8ayyb9y884b94ya2a0a149aaa4a0494b80b8y00tlswan1sun2g2ixhrm4yngi">Begründung der Änderungen der <abbr title="Musterversammlungsstättenverordnung">MVStättV</abbr></a></cite>:
+Aus dem <cite>[Dokument zur Begründung der Änderungen](http://www.bauministerkonferenz.de/IndexSearch.aspx?method=get&File=b8a84yy3y8b984808abb4yb8y9ya8ayyb9y884b94ya2a0a149aaa4a0494b80b8y00tlswan1sun2g2ixhrm4yngi)</cite>:
 
 > Versammlungsstätten sind so zu planen, zu errichten und zu betreiben, dass es für die Personenrettung in der Regel nicht der Mitwirkung der Feuerwehr bedarf.
 > [...]
@@ -32,31 +30,18 @@ und weiters
 
 > **Hierfür kann bei komplexen Versammlungsstätten eine Evakuierungssimulation notwendig werden.**
 
-Die einzelnen Bundesländer setzen nach und nach die <abbr title="Musterversammlungsstättenverordnung">MVStättV</abbr> in Landesrecht um.
-Eine <a href="http://de.wikipedia.org/wiki/Versammlungsst%C3%A4ttenverordnung#Weblinks">Liste der unterschiedlichen <abbr title="Versammlungsstättenverordnung">VStättV</abbr>s nach Bundesland</a> ist auf der Wikipedia zu finden.
+Die einzelnen Bundesländer setzen nach und nach die MVStättV in Landesrecht um.
+Eine [Liste der unterschiedlichen <abbr title="Versammlungsstättenverordnung">VStättV</abbr>s nach Bundesland](http://de.wikipedia.org/wiki/Versammlungsst%C3%A4ttenverordnung#Weblinks) ist in der Wikipedia zu finden.
 
-Die wichtigsten von uns identifizierten Paragraphen der neuen <cite href="#MVStaettV"><abbr title="Musterversammlungsstättenverordnung">MVStättV</abbr></cite>:
+Die wichtigsten von uns identifizierten Paragraphen der neuen MVStättV:
 
-- <cite href="#MVStaettV">§ 6 Abs 5 Satz 2</cite>: <q>"Die nach § 7 Abs. 4 Satz 1 ermittelte Breite ist
-möglichst gleichmäßig auf die Ausgänge zu verteilen; die Mindestbreiten
-nach § 7 Abs. 4 Satz 3 und 4 bleiben unberührt."</q>
+- <cite href="#MVStaettV">§ 6 Abs 5 Satz 2</cite>: <q>"Die nach § 7 Abs. 4 Satz 1 ermittelte Breite ist möglichst gleichmäßig auf die Ausgänge zu verteilen; die Mindestbreiten nach § 7 Abs. 4 Satz 3 und 4 bleiben unberührt."</q>
 
-- <cite href="#MVStaettV">§ 42 Abs 1</cite>: <q>"Der Betreiber oder ein von ihm Beauftragter hat im Einvernehmen mit der
-Brandschutzdienststelle eine Brandschutzordnung und gegebenenfalls ein
-Räumungskonzept aufzustellen"</q>, u.a. falls <q>"die Maßnahmen, die im
-Gefahrenfall für eine schnelle und geordnete Räumung der gesamten
-Versammlungsstätte oder einzelner Bereiche unter besonderer Berücksichtigung
-von Menschen mit Behinderung erforderlich sind"</q> und die Versammlungsstätte
-mehr als 1000 Besucher fasst.
+- <cite href="#MVStaettV">§ 42 Abs 1</cite>: <q>"Der Betreiber oder ein von ihm Beauftragter hat im Einvernehmen mit der Brandschutzdienststelle eine Brandschutzordnung und gegebenenfalls ein Räumungskonzept aufzustellen"</q>, u.a. falls <q>"die Maßnahmen, die im Gefahrenfall für eine schnelle und geordnete Räumung der gesamten Versammlungsstätte oder einzelner Bereiche unter besonderer Berücksichtigung von Menschen mit Behinderung erforderlich sind"</q> und die Versammlungsstätte mehr als 1000 Besucher fasst.
 
-- <cite href="#MVStaettV">§ 42 Abs. 2</cite>: Die Unterweisung des Betriebspersonals über die
-Brandschutzordnung und <q>"bei einer sonstigen Gefahrenlage, gegebenenfalls in
-Verbindung mit dem Räumungskonzept"</q>
+- <cite href="#MVStaettV">§ 42 Abs. 2</cite>: Die Unterweisung des Betriebspersonals über die Brandschutzordnung und <q>"bei einer sonstigen Gefahrenlage, gegebenenfalls in Verbindung mit dem Räumungskonzept"</q>
 
-- <cite href="#MVStaettV">§ 44 Abs 1 Satz 2</cite>: Falls eine höhere Anzahl an Besuchern je m²
-Grundfläche als in §1 vorgesehen ist, so <q>"sind die schnelle und sichere
-Erreichbarkeit der Ausgänge ins Freie und die Möglichkeit zur Durchführung
-wirksamer Lösch- und Rettungsmaßnahmen gesondert darzustellen."</q>
+- <cite href="#MVStaettV">§ 44 Abs 1 Satz 2</cite>: Falls eine höhere Anzahl an Besuchern je m² Grundfläche als in §1 vorgesehen ist, so <q>"sind die schnelle und sichere Erreichbarkeit der Ausgänge ins Freie und die Möglichkeit zur Durchführung wirksamer Lösch- und Rettungsmaßnahmen gesondert darzustellen."</q>
 
 
 ## Herausforderungen statischer Berechnungen
@@ -95,9 +80,14 @@ Ausgänge)
 
 Quellen:
 
-- <cite><a href="http://www.bauministerkonferenz.de/verzeichnis.aspx?id=991&o=759O986O991">Bauministerkonferenz (ARGEBAU) Mustervorschriften und Mustererlasse</a></cite>
-- <a href="http://schutt-waetke.de/fachanwalt-urheberrecht-medienrecht-thomas-waetke/">Thomas Waetke</a> auf <a href="http://www.eventfaq.de/">www.eventfaq.de</a>: <cite><a href="http://www.eventfaq.de/10714-aenderungen-der-mvstaettvo-im-anmarsch/">Änderungen der MVStättVO im Anmarsch</a></cite>
+- <cite>[Bauministerkonferenz (ARGEBAU) Mustervorschriften und Mustererlasse](http://www.bauministerkonferenz.de/verzeichnis.aspx?id=991&o=759O986O991)</cite>
+- <cite>[Thomas Waetke](http://schutt-waetke.de/fachanwalt-urheberrecht-medienrecht-thomas-waetke/): [Änderungen der MVStättVO im Anmarsch](http://www.eventfaq.de/10714-aenderungen-der-mvstaettvo-im-anmarsch/)</cite>
 
+<!-- Abkürzungen: -->
+
+*[MVStättV]: Musterversammlungsstättenverordnung
+*[VStättV]: Versammlungsstättenverordnung
+*[ARGEBAU]: Die deutsche Bauministerkonferenz
 
 #meta#
 pagetitle: Räumungskonzepte
