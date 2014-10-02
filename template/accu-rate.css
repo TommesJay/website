@@ -174,7 +174,12 @@ img {
         color: white;
         background: #e84e0f;
         box-shadow: 10px 0 0 #e84e0f, -10px 0 0 #e84e0f;
-        box-decoration-break: clone; /* Fix for recent Firefoxes (v32, at least) */
+
+         /* Fix for recent Firefoxes (v32, at least) */
+        -ms-box-decoration-break: clone;
+        -webkit-box-decoration-break: clone;
+        -o-box-decoration-break: clone;
+        box-decoration-break: clone;
     }
     .fancyheader-img {
         border-top: 1px solid #6e685d;
