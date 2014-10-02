@@ -2,18 +2,57 @@
 # *Räumungskonzepte nach (Muster-)&#8203;Versammlungs&shy;stätten&shy;verordnung* {.fancyheader}
 
 
-- Aussage Manuel Huber:
-Nachweis, er erbracht wird, dass die Vorgabe, dass zwischen der ersten
-Person, die den Ausgang passiert und der letzten Person, die den Ausgang
-passiert, nicht mehr als 6 Minuten liegen.
+Mit einem Räumungskonzept beschreibt der Betreiber einer Versammlungsstätte Mittel und Wege zur effizienten Räumung.
+Es soll belegt werden, dass zwischen der ersten und der letzten Person, die den Ausgang passiert, nicht mehr als eine gewisse Zeit liegt.
 
-- Ich würde ergänzen:
-Zusätzliche Verteilung der Personen auf Fluchtwege, Sicherheitspersonal
-platzieren, unterschiedliche Schadensereignisse betrachten
+Ein Räumungskonzept beinhaltet unter anderem die Verteilung der Personen auf Fluchtwege und die Platzierung von Sicherheitspersonal.
+Außerdem werden unterschiedliche Schadensereignisse betrachtet.
+Eins der Ziele ist die Ergründung der maximalen Anzahl zulässiger Gäste für eine Veranstaltung beziehungsweise Veranstaltungsstätte.
 
-Ziel von Räumungskonzepten:
-Maximale Anzahl zulässiger Gäste für eine Veranstaltung herausfinden
+Wie kann die Tragfähigkeit eines solchen Konzepts nachgewiesen werden?
 
+Hat man es mit einer übersichtlichen Anzahl von Unterwiesenen zu tun - wie zum Beispiel Schulkinder oder Angestellte - kann man Übungen durchführen und die benötigte Zeit messen.
+
+Manchmal ist dies jedoch nicht möglich, etwa weil es sich um eine einmalige Veranstaltung handelt.
+Bei einem simplen Gebäude oder Gelände können Formeln weiterhelfen, die eine Abschätzung der Entfluchtungsdauer mittels Berechnung ermöglichen.
+
+
+## Herausforderungen statischer Berechnungen
+
+- Es gibt keine Formel, die sowohl Ebene als auch Treppen berücksichtigen kann.
+- Wie kann man die Ungleichverteilung der Personen im Veranstaltungsgelände berücksichtigen?
+- Wie kann man erkennen, ob es sich an einem Fluchtweg mehr staut als an anderen?
+- Wie kann man Einsatzpläne für Sicherheitspersonal konzipieren bzw.  Personen gleichverteilen?
+- Wie können die <cite href="MVStaettV">lt.§ 7 Absatz 4</cite> geforderten Zwischenwerte bei den Rettungswegbreiten miteinbezogen werden?
+- Es gibt nicht *das eine* Fundamentaldiagramm: Vielmehr ist es wichtig, dass die Relation zunehmende Dichte vs. abnehmende Geschwindigkeit eingehalten wird.
+
+
+Ist das Gelände unübersichtlich und/oder die Anzahl der Gäste groß, helfen statische Berechnungsverfahren nicht weiter.
+Besonders bei größeren Veranstaltungen oder komplexen Geometrien bringen Simulationen einen großen Mehrwert - oder machen eine sichere Abschätzung überhaupt erst möglich.
+
+## Mehrwert von Simulationen
+
+- Der Computer bildet dynamische Entwicklungen ab - ganz ohne Formel
+- Es wird kein Fundamentaldiagramm benötigt, durch die gegenseitige Beeinflussung der Agenten wird ganz automatisch das Abbremsen erzeugt
+- Durch unterschiedliche Annahmen der Anfangsverteilung der Personen können auf einfache Weise unterschiedliche Szenarien betrachtet werden
+- Simulationen liefern nicht nur per Knopfdruck Räumungszeiten, sie liefern gleichzeitig die Verteilungen und Dichten der Personen auf dem Veranstaltungsgelände während der gesamten Entluchtungsdauer
+- Variieren Fluchtwegsbreiten ist sehr einfach möglich
+- Überbeanspruchte Ausgänge können auf einen Blick identifiziert werden
+- Schnelles Durchspielen unterschiedlicher Szenarien (wie zum Beispiel versperrte Ausgänge)
+
+
+## Visualisierung der Ergebnisse
+
+Ein weiterer Pluspunkt sind die aussagekräftigen Visualisierungen, die mittels Simulation erstellt werden können.
+
+![Beispiel Heatmap](img/raeumungskonzepte/heatmap-cds.png "Beispiel Heatmap")
+
+![Beispiel 3D-Visualisierung](img/raeumungskonzepte/office_v1.jpg "Beispiel 3D-Visualisierung")
+
+![Beispiel Entfluchtungsverlauf](img/raeumungskonzepte/entfluchtungsverlauf.png "Beispiel Entfluchtungsverlauf")
+
+<video src="img/raeumungskonzepte/entfluchtung.mp4" controls></video>
+[Link zum Beispiel-Video Entfluchtung](img/raeumungskonzepte/entfluchtung.mp4)
 
 ## Hintergrund
 
@@ -26,12 +65,12 @@ Aus dem <cite>[Dokument zur Begründung der Änderungen](http://www.bauministerk
 > [...]
 > Die Feuerwehren sollen davon ausgehen können, dass bei ihrem Eintreffen die Räumung bereits durchgeführt ist.
 
-und weiters
+und weiter
 
 > **Hierfür kann bei komplexen Versammlungsstätten eine Evakuierungssimulation notwendig werden.**
 
 Die einzelnen Bundesländer setzen nach und nach die MVStättV in Landesrecht um.
-Eine [Liste der unterschiedlichen <abbr title="Versammlungsstättenverordnung">VStättV</abbr>s nach Bundesland](http://de.wikipedia.org/wiki/Versammlungsst%C3%A4ttenverordnung#Weblinks) ist in der Wikipedia zu finden.
+Eine [Liste der <abbr title="Versammlungsstättenverordnung">VStättV</abbr>s nach Bundesland](http://de.wikipedia.org/wiki/Versammlungsst%C3%A4ttenverordnung#Weblinks) ist in der Wikipedia zu finden.
 
 Die wichtigsten von uns identifizierten Paragraphen der neuen MVStättV:
 
@@ -42,40 +81,6 @@ Die wichtigsten von uns identifizierten Paragraphen der neuen MVStättV:
 - <cite href="#MVStaettV">§ 42 Abs. 2</cite>: Die Unterweisung des Betriebspersonals über die Brandschutzordnung und <q>"bei einer sonstigen Gefahrenlage, gegebenenfalls in Verbindung mit dem Räumungskonzept"</q>
 
 - <cite href="#MVStaettV">§ 44 Abs 1 Satz 2</cite>: Falls eine höhere Anzahl an Besuchern je m² Grundfläche als in §1 vorgesehen ist, so <q>"sind die schnelle und sichere Erreichbarkeit der Ausgänge ins Freie und die Möglichkeit zur Durchführung wirksamer Lösch- und Rettungsmaßnahmen gesondert darzustellen."</q>
-
-
-## Herausforderungen statischer Berechnungen
-
-- Es gibt keine Formel, die sowohl Ebene als auch Treppen berücksichtigen
-kann
-- Es gibt nicht DAS EINE Fundamentaldiagramm: Vielmehr ist es wichtig, dass
-die Relation zunehmende Dichte vs. abnehmende Geschwindigkeit eingehalten
-wird
-- Wie kann man die Ungleichverteilung der Personen im Veranstaltungsgelände
-berücksichtigen?
-- Wie kann man erkennen, ob es sich an einem Fluchtweg mehr staut als an
-anderen?
-- Wie kann man Einsatzpläne für Sicherheitspersonal konzipieren bzw.
-Personen gleichverteilen?
-- Wie können die lt.§ 7 Absatz 4 geforderten Zwischenwerte bei den
-Rettungswegbreiten miteinbezogen werden?
-
-
-## Mehrwert Simulation Räumungskonzept
-
-- Der Computer bildet durch passenden Input dynamische Entwicklungen ab -
-ganz ohne Formel
-- Es wird kein Fundamentaldiagramm benötigt, durch die gegenseitige
-Beeinflussung der Agenten wird ganz automatisch das Abbremsen erzeugt
-- Durch unterschiedliche Annahmen der Anfangsverteilung der Personen können
-einfach unterschiedliche Szenarien betrachtet werden
-- Simulationen liefern nicht nur per Knopfdruck Räumungszeiten, sie liefern
-gleichzeitig die Verteilungen und Dichten der Personen auf dem
-Veranstaltungsgelände während der gesamten Entluchtungsdauer
-- Einfaches Variieren unterschiedlicher Fluchtwegsbreiten
-- Überbeanspruchte Ausgänge können einfach identifiziert werden
-- Schnelles Durchspielen unterschiedlicher Szenarien (z. B. versperrte
-Ausgänge)
 
 
 Quellen:
