@@ -2,22 +2,33 @@
 <html lang="{{meta.lang}}">
 <head>
     <title>{{meta.pagetitle}} | {{meta.siteTitle}}</title>
+    <meta name="DC.Title" content="{{meta.pagetitle}} | {{meta.siteTitle}}" >
 
     <meta name="description" content="{{meta.description}}" />
+    <meta name="Keywords" content="{{meta.keywords}}" />
+
     <meta name="publisher" content="{{meta.publisher}}" />
+    <meta name="DC.Publisher" content="{{meta.publisher}}" >
     <meta name="creator" content="{{meta.creator}}" />
+    <meta name="DC.Rights" content="2014 accu-rate GbR" >
+
     <meta name="DC.Language" content="{{meta.lang}}" />
     <meta http-equiv="content-language" content="{{meta.lang}}" />
-    <meta name="google-translate-customization" content="8adb9eee40db37ea-118fd9e473434363-g773d2845c22477b5-10" />
+
+    <meta name="city" content="Munich" />
+    <meta name="zipcode" content="80333" />
+    <meta name="geo.placename" content="Munich" />
+    <meta name="geo.region" content="DE-BY" />
+    <meta name="geo.position" content="48.1483;11.5679" />
+    <meta name="ICBM" content="48.1483, 11.5679" />
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+    <meta name="google-translate-customization" content="8adb9eee40db37ea-118fd9e473434363-g773d2845c22477b5-10" />
 
     <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/skeleton/stylesheets/base.css" />
     <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/skeleton/stylesheets/layout.css" />
     <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/skeleton/stylesheets/skeleton.css" />
-    <!-- Lato Light (300), Regular (400) and Bold (700) -->
-    <!-- <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'> -->
     <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/fonts/webfontkit-20140112-173602/stylesheet_custom.css" />
     <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/template/accu-rate.css" />
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
@@ -67,7 +78,7 @@
     <!-- Google Translate integration -->
     <div id="google_translate_element"></div>
     <script type="text/javascript">
-        // Only include the google translate on mobile
+        // Don't init the google translate widget on mobiles, it's too heavy
         if (!isMobileDevice()) {
             function googleTranslateElementInit() {
               new google.translate.TranslateElement({pageLanguage: 'de', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
