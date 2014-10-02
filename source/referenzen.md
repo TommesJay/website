@@ -3,24 +3,23 @@
 
 ## Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern
 
-Im Auftrag des [Staatlichen Bauamts München 2](http://www.stbam2.bayern.de/) und der [CAD-Stelle Bayern](http://www.cad-stelle.bayern.de/) wurde mithilfe einer Notfall-Simulation von accu:rate die schnellste und sicherste Variante ermittelt, einen Hörsaal zu entfluchten.
-Der Hörsaal II des [Klinikum Großhadern](http://www.klinikum.uni-muenchen.de/) bietet Sitzplätze für 162 Studierende, die den Raum, etwa im Fall einer Evakuierung, schnellstmöglich über zwei Ausgänge verlassen müssen.
+Im Auftrag des [Staatlichen Bauamts München 2](http://www.stbam2.bayern.de/) und der [CAD-Stelle Bayern](http://www.cad-stelle.bayern.de/) wurde mithilfe einer Simulation die Bestandsgeometrie eines Hörsaals evaluiert und mit einer möglichen Umbauvariante verglichen. 
+Der Hörsaal II des [Klinikum Großhadern](http://www.klinikum.uni-muenchen.de/) bietet Sitzplätze für 162 Studierende, die den Raum, etwa im Fall einer Feueralarms, schnellstmöglich über zwei Ausgänge verlassen müssen.
 Die Personenstromsimulation wurde für den vollbesetzten Hörsaal durchgeführt und betrachtet drei Szenarien.
 
-1. Die Entfluchtung über beide Ausgänge
-2. Die Entfluchtung über den linken Ausgang, falls der rechte Ausgang versperrt ist
+1. Die Entfluchtung über den linken Ausgang, falls der rechte Ausgang versperrt ist
+2. Die Entfluchtung über beide Ausgänge
 3. Die Entfluchtung über den rechten Ausgang, falls der linke Ausgang versperrt ist
 
-![Klinikum Großhadern, Hörsaal 2, Trajektorien](/img/referenzen/klinikum-1.jpg)
-Trajektorien
+In den folgenden Abbildungen sind zum einen die Laufwege der Personen zum anderen die Verteilung der Geschwindigkeiten im Hörsaal dargestellt.
 
-![Klinikum Großhadern, Hörsaal 2, Heatmap Geschwindigkeiten](/img/referenzen/klinikum-3.jpg)
-Heatmap Geschwindigkeiten
+![Klinikum Großhadern, Hörsaal 2, Trajektorien](/img/referenzen/klinikum-1.jpg "Laufwege der Personen")
+
+![Klinikum Großhadern, Hörsaal 2, Heatmap Geschwindigkeiten](/img/referenzen/klinikum-3.jpg "Verteilung der Geschwindigkeiten")
 
 Um über Umbaumaßnahmen entscheiden zu können, die im Falle eines Alarms eine schnellere und sichere Entfluchtung gewährleisten sollten, wurde neben der Bestandsgeometrie eine Variante simuliert, die den heutigen Anforderungen der Bauordnung entspricht.
-Der Vergleich ergab geringe zeitliche Vorteile der bauordnungskonformen  Variante bei der Entfluchtung über nur eine der Türen.
-Beim Szenario mit zwei nutzbaren Ausgängen war dagegen die Bestandsgeometrie leicht im Vorteil.
-Anhand der Simulations-Ergebnisse können das [Staatliche Bauamt München 2](http://www.stbam2.bayern.de/) und die [CAD-Stelle Bayern](http://www.cad-stelle.bayern.de/) entscheiden, mit welche Maßnahmen tatsächlich die erhoffte Verbesserung der Fluchtwege erreicht wird.
+Das Ergebnis: Die Entfluchtung über nur eine der Türen war bei der bauordnungskonformen Variante schneller als bei der Bestandsgeometrie. Beim Szenario mit zwei nutzbaren Ausgängen war dagegen die Bestandsgeometrie leicht im Vorteil.
+Die Ergebnisse der Simulations unterstützen das [Staatliche Bauamt München 2](http://www.stbam2.bayern.de/) eine Entscheidung bezüglich des Umbaus zu treffen.
 
 
 ## Umbauplanung einer U-Bahnstation – Fußgängersimulation als Werkzeug zum Evaluieren von Sicherheitskonzepten\*
