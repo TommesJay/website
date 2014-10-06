@@ -2,14 +2,16 @@
 # *Räumungskonzepte nach (Muster-)&#8203;Versammlungs&shy;stätten&shy;verordnung* {.fancyheader}
 
 
-Mit einem Räumungskonzept beschreibt der Betreiber einer Versammlungsstätte Mittel und Wege zur effizienten Räumung.
+In einem Räumungskonzept beschreibt der Betreiber einer Versammlungsstätte Mittel und Wege zur effizienten Räumung.
 Es soll belegt werden, dass zwischen der ersten und der letzten Person, die den Ausgang passiert, nicht mehr als eine gewisse Zeit liegt.
+
+![Deko Paragraph-Zeichen](img/paragraph.png) {.float-right}
 
 Ein Räumungskonzept beinhaltet unter anderem die Verteilung der Personen auf Fluchtwege und die Platzierung von Sicherheitspersonal.
 Außerdem werden unterschiedliche Schadensereignisse betrachtet.
 Eins der Ziele ist die Ergründung der maximalen Anzahl zulässiger Gäste für eine Veranstaltung beziehungsweise Veranstaltungsstätte.
 
-Wie kann die Tragfähigkeit eines solchen Konzepts nachgewiesen werden?
+## Wie kann die Tragfähigkeit eines solchen Konzepts nachgewiesen werden?
 
 Hat man es mit einer übersichtlichen Anzahl von Unterwiesenen zu tun - wie zum Beispiel Schulkinder oder Angestellte - kann man Übungen durchführen und die benötigte Zeit messen.
 
