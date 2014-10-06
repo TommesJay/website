@@ -25,7 +25,7 @@ Bei einem simplen Gebäude oder Gelände können Formeln weiterhelfen, die eine 
 - Wie kann man die Ungleichverteilung der Personen im Veranstaltungsgelände berücksichtigen?
 - Wie kann man erkennen, ob es sich an einem Fluchtweg mehr staut als an anderen?
 - Wie kann man Einsatzpläne für Sicherheitspersonal konzipieren bzw.  Personen gleichverteilen?
-- Wie können die <cite href="MVStaettV">lt.§ 7 Absatz 4</cite> geforderten Zwischenwerte bei den Rettungswegbreiten miteinbezogen werden?
+- Wie können die lt. <cite href="MVStaettV">§ 7 Absatz 4</cite> geforderten Zwischenwerte bei den Rettungswegbreiten miteinbezogen werden?
 - Es gibt nicht *das eine* Fundamentaldiagramm: Vielmehr ist es wichtig, dass die Relation zunehmende Dichte vs. abnehmende Geschwindigkeit eingehalten wird.
 
 
