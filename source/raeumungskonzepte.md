@@ -2,31 +2,30 @@
 # *Räumungskonzepte nach (Muster-)&#8203;Versammlungs&shy;stätten&shy;verordnung* {.fancyheader}
 
 
-In einem Räumungskonzept beschreibt der Betreiber einer Versammlungsstätte Mittel und Wege zur effizienten Räumung.
-Es soll belegt werden, dass zwischen der ersten und der letzten Person, die den Ausgang passiert, nicht mehr als eine gewisse Zeit liegt.
+In einem Räumungskonzept erbringt der Betreiber einer Versammlungsstätte den Nachweis über eine effiziente Räumung der Versammlungsstätte bei Störung des Regelbetriebs.
 
 ![Deko Paragraph-Zeichen](img/paragraph.png) {.float-right}
 
 Ein Räumungskonzept beinhaltet unter anderem die Verteilung der Personen auf Fluchtwege und die Platzierung von Sicherheitspersonal.
 Außerdem werden unterschiedliche Schadensereignisse betrachtet.
-Eins der Ziele ist die Ergründung der maximalen Anzahl zulässiger Gäste für eine Veranstaltung beziehungsweise Veranstaltungsstätte.
+Eins der Ziele ist die Ergründung der maximalen Anzahl zulässiger Gäste einer Veranstaltung beziehungsweise Veranstaltungsstätte.
 
 ## Wie kann die Tragfähigkeit eines solchen Konzepts nachgewiesen werden?
 
-Hat man es mit einer übersichtlichen Anzahl von Unterwiesenen zu tun - wie zum Beispiel Schulkinder oder Angestellte - kann man Übungen durchführen und die benötigte Zeit messen.
+Hat man es mit einer übersichtlichen Anzahl von Unterwiesenen zu tun - wie zum Beispiel Schulkinder oder Angestellte - können Räumungsübungen durchgeführt und so die benötigte Zeit ermittelt werden.
 
 Manchmal ist dies jedoch nicht möglich, etwa weil es sich um eine einmalige Veranstaltung handelt.
-Bei einem simplen Gebäude oder Gelände können Formeln weiterhelfen, die eine Abschätzung der Entfluchtungsdauer mittels Berechnung ermöglichen.
+Bei einer einfachen Geometrie des Veranstaltungsgebäudes bzw. -geländes und einer homogenen Gästeliste kann mit Hilfe von statischen Berechnungen die Entfluchtungsdauer abgeschätzt werden.
 
 
 ## Herausforderungen statischer Berechnungen
 
-- Es gibt keine Formel, die sowohl Ebene als auch Treppen berücksichtigen kann.
+- Die Kombination von unterschiedlichen Geometrien (beispielweise Ebene, Treppen, Lieft) und deren gegenseitige Beeinflussung ist nur schwer möglich
 - Wie kann man die Ungleichverteilung der Personen im Veranstaltungsgelände berücksichtigen?
 - Wie kann man erkennen, ob es sich an einem Fluchtweg mehr staut als an anderen?
-- Wie kann man Einsatzpläne für Sicherheitspersonal konzipieren bzw.  Personen gleichverteilen?
+- Wie kann man Einsatzpläne für Sicherheitspersonal konzipieren bzw. Personen gleich verteilen?
 - Wie können die lt. <cite href="MVStaettV">§ 7 Absatz 4</cite> geforderten Zwischenwerte bei den Rettungswegbreiten miteinbezogen werden?
-- Es gibt nicht *das eine* Fundamentaldiagramm: Vielmehr ist es wichtig, dass die Relation zunehmende Dichte vs. abnehmende Geschwindigkeit eingehalten wird.
+- Das *eine* bei statischen Berechnungen zugrunde liegende Fundamentaldiagramm existiert nicht: Vielmehr ist es wichtig, dass die Relation zunehmende Dichte vs. abnehmende Geschwindigkeit eingehalten wird.
 
 
 Ist das Gelände unübersichtlich und/oder die Anzahl der Gäste groß, helfen statische Berechnungsverfahren nicht weiter.
