@@ -147,7 +147,7 @@ body {
 
 /* Content */
 
-img,video {
+img,video,iframe {
     max-width: 100%;
 }
 @media (min-width: 768px), print {
@@ -291,6 +291,26 @@ img.mugshot  {
 }
 .associates-logos img {
     vertical-align: middle;
+}
+
+/* Embed youtube videos responsively,
+ * thanks http://embedresponsively.com/ */
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 
