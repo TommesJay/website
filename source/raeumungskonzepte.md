@@ -48,14 +48,7 @@ Besonders bei größeren Veranstaltungen oder komplexen Geometrien bringen Simul
 
 Ein weiterer Pluspunkt sind die aussagekräftigen Visualisierungen, die mittels Simulation erstellt werden können.
 
-![Beispiel Heatmap](img/raeumungskonzepte/heatmap-cds.png "Beispiel Heatmap")
-
-![Beispiel 3D-Visualisierung](img/raeumungskonzepte/office_v1.jpg "Beispiel 3D-Visualisierung")
-
-![Beispiel Entfluchtungsverlauf](img/raeumungskonzepte/entfluchtungsverlauf.png "Beispiel Entfluchtungsverlauf")
-
-<video src="img/raeumungskonzepte/entfluchtung.mp4" controls></video>
-[Link zum Beispiel-Video Entfluchtung](img/raeumungskonzepte/entfluchtung.mp4)
+![Beispielvisualisierungen](img/raeumungskonzepte/combined.jpg "Beispielvisualisierungen")
 
 ## Hintergrund
 
