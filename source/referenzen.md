@@ -1,7 +1,7 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # <br /> *Referenzen* {.fancyheader}
 
-## Entfluchtungs-Simulation eines großen Festzeltes
+## Entfluchtungs-Simulation eines Festzeltes
 
 Für ein großes deutsches Volksfest sollte ein umfassendes Sicherheitskonzept erstellt werden.
 Dieses beinhaltete u.a. die Dimensionierung und Lage von Flucht- und Rettungswegen im Gefahrenfall.
