@@ -45,15 +45,21 @@
 
 ## Prof. Dr. Gerta Köster
 
+- F. Dietrich and G. Köster (2014): [Gradient navigation model for pedestrian dynamics](http://arxiv.org/abs/1401.0451). Physical Review E, 89:062801
 - F. Dietrich, G. Köster, M. J. Seitz, I. v. Sivers (2014): [Bridging the gap: From cellular automata to differential equation models for pedestrian dynamics](http://www.sciencedirect.com/science/article/pii/S1877750314000738), Journal of Computational Science, in print
 - M. J. Seitz, G. Köster (2014): [How update schemes influence crowd simulations](http://iopscience.iop.org/1742-5468/2014/7/P07002/pdf/1742-5468_2014_7_P07002.pdf), Journal of Statistical Mechanics, in print.
 - I.v. Sivers, G. Köster (2014): [How stride adaptation in pedestrian models improves navigation](http://arxiv.org/abs/1401.7838), arXiv 1401.7838
-- Isabella von Sivers, Anne Templeton, Gerta Köster and John Drury (2014): Humans Do Not Always Act Selfishly: Social Identity and Helping in Emergency Evacuation Simulation, PED 2014.
-- Gerta Köster and Benedikt Zönnchen (2014): Queuing at bottlenecks using a dynamic floor field for navigation, PED 2014.
-- Isabella von Sivers, G. Köster (2013): Realistic Stride Length Adaptation in the Optimal Steps Model, Traffic and Granular Flow '13
+- Isabella von Sivers, Anne Templeton, Gerta Köster and John Drury (2014): [Humans Do Not Always Act Selfishly: Social Identity and Helping in Emergency Evacuation Simulation](http://www.sciencedirect.com/science/article/pii/S2352146514001355), [PED 2014](http://www.ped2014.nl/).
+- Gerta Köster and Benedikt Zönnchen (2014): [Queuing at bottlenecks using a dynamic floor field for navigation](http://www.sciencedirect.com/science/article/pii/S2352146514000659), [PED 2014](http://www.ped2014.nl/)
+- Isabella von Sivers, G. Köster (2013): Realistic Stride Length Adaptation in the Optimal Steps Model, [TGF '13](http://www.fz-juelich.de/conferences/tgf13/EN/Home/home_node.html)
 - M. J. Seitz and G. Köster (2012): [Natural discretization of pedestrian movement in continuous space](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.86.046108), American Physical Society, PHYSICAL REVIEW E, 2012, 86, 046108
 - G. Köster, M. Seitz, F. Treml, D. Hartmann, W. Klein (2011): [On modelling the influence of group formations in a crowd](http://www.tandfonline.com/doi/abs/10.1080/21582041.2011.619867), Contemporary Social Science, 6:3, 397-414, 2011
 
+
+<!-- Abkürzungen: -->
+
+*[PED]: Conference on Pedestrian and Evacuation Dynamics
+*[TGF]: Conference on Traffic and Granular Flow
 
 #meta#
 pagetitle: Publikationen
