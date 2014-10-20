@@ -24,7 +24,14 @@ Schreib uns eine kurze E-Mail an <span class="mailadresse" data-to="info">info@j
 - Ein entspanntes, freundschaftliches Klima
 - Teamarbeit, die wir aktiv leben
 
-Falls Du Dir nicht sicher bist, ob wir aktuell eine für Dich passende Arbeit haben oder sonstige Fragen an uns hast: Schreib uns einfach eine kurze E-Mail (<span class="mailadresse" data-to="info">info@js.anti.spam</span>)!
+
+## Werkstudentenjobs
+
+- [Stellengesuch Werkstudent(-in) Architektur/Bauingenieurwesen: Technisches Zeichnen/CAD (2D)](img/stellen/suche-werkstudent-cad-v01.pdf)
+- [Stellengesuch Werkstudent(-in) Mathe: Validierung](img/stellen/suche-werkstudent-mathe-v03.pdf)
+- [Stellengesuch Werkstudent(-in) Informatik: Anbindung 3D-Visualisierung](img/stellen/suche-werkstudent-postvis-v02.pdf)
+
+Auch wenn Du nicht in dem angeführten Bereich studierst, freuen wir uns natürlich über Bewerbungen auf die jeweiligen Stellen.
 
 
 #meta#
