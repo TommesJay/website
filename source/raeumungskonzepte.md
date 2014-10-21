@@ -23,7 +23,7 @@ Bei einer simplen Geometrie des Veranstaltungsgebäudes bzw. -geländes und eine
 Es gibt eine Reihe von Formeln, die bei einfachen Fällen hinreichend gute Abschätzungen geben.
 Diese Berechnungen können die Dynamik von Personenströmen jedoch nicht erfassen, und haben eine Reihe von Nachteilen:
 
-- Die Kombination von unterschiedlichen Geometrien (beispielweise Ebene, Treppen, Lieft) und deren gegenseitige Beeinflussung ist nur schwer möglich
+- Die Kombination von unterschiedlichen Geometrien (beispielweise Ebene, Treppen, Lift) und deren gegenseitige Beeinflussung ist nur schwer möglich
 - Wie kann man die Ungleichverteilung der Personen im Veranstaltungsgelände berücksichtigen?
 - Wie kann man erkennen, ob es sich an einem Fluchtweg mehr staut als an anderen?
 - Wie können die lt. <cite href="MVStaettVO">§ 7 Absatz 4</cite> geforderten Zwischenwerte bei den Rettungswegbreiten miteinbezogen werden?
