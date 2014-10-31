@@ -75,5 +75,5 @@ Wir danken unseren Unterstützern
 </div>
 
 #meta#
-pagetitle: Startseite
+pagetitle: accu:rate Institute for crowd simulation
 description: Willkommen bei accu:rate!
