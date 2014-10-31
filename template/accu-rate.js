@@ -46,3 +46,27 @@ function loadScript(path) {
     document.getElementsByTagName("head")[0].appendChild(s);
 }
 
+/* Hint non-german speaking users to the Google Translate bar (in English)
+ * works in IE/SAFARI/CHROME/FF
+ * Thanks Annibigi and Marco Demaio in
+ * http://stackoverflow.com/q/1043339/1181063 */
+function userSpeaksGerman() {
+    var language = window.navigator.userLanguage || window.navigator.language || "de";
+    return language.indexOf("de") != -1;
+}
+
+/* Thanks https://developer.mozilla.org/en-US/docs/Web/API/document.cookie */
+function getCookie(sKey) {
+    if (!sKey) {
+        return null;
+    }
+    return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+}
+
+if (!userSpeaksGerman() && (getCookie("seenIntlNotice") !== "true")) {
+    alert("Hello international visitor! So far, our website is only available in German. We had good results using Google Translate, so we included Google's toolbar for your convenience. Please contact us, we're happy to speak English (and some Spanish, French and Dutch too).");
+
+    // save for the current session:
+    document.cookie = "seenIntlNotice=true";
+}
+

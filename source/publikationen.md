@@ -41,9 +41,9 @@
 - Kneidl, A., Thiemann, M., Borrmann, A., Ruzika, S., Hamacher, H. W., Köster, G., Rank, E. (2010): [Bidirectional Coupling of Macroscopic and Microscopic Approaches for Pedestrian Behavior Prediction](http://www.cms.bgu.tum.de/publications/paper_Kneidl_PED2010.pdf). Pedestrian and evacuation dynamics, 2011, eds R. Peacock, E. Kuligowski & J. Averill, Springer, Berlin.
 
 
-# Publikationen unserer Partner
+## Publikationen unserer Partner
 
-## Prof. Dr. Gerta Köster
+### Prof. Dr. Gerta Köster
 
 - F. Dietrich and G. Köster (2014): [Gradient navigation model for pedestrian dynamics](http://arxiv.org/abs/1401.0451). Physical Review E, 89:062801
 - F. Dietrich, G. Köster, M. J. Seitz, I. v. Sivers (2014): [Bridging the gap: From cellular automata to differential equation models for pedestrian dynamics](http://www.sciencedirect.com/science/article/pii/S1877750314000738), Journal of Computational Science, in print

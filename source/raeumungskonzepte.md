@@ -21,14 +21,13 @@ Bei einer simplen Geometrie des Veranstaltungsgebäudes bzw. -geländes und eine
 ## Herausforderungen von Berechnungen mittels Formeln
 
 Es gibt eine Reihe von Formeln, die bei einfachen Fällen hinreichend gute Abschätzungen geben.
-Diese Berechnungen können die Dynamik von Personenströmen jedoch nicht erfassen, und haben eine Reihe von Nachteilen:
+Diese Berechnungen können die Dynamik von Personenströmen jedoch nicht erfassen und haben eine Reihe von Nachteilen:
 
-- Die Kombination von unterschiedlichen Geometrien (beispielweise Ebene, Treppen, Lieft) und deren gegenseitige Beeinflussung ist nur schwer möglich
+- Die Kombination von unterschiedlichen Geometrien (beispielweise Ebenen, Treppen, Lift) und das Miteinbeziehen ihrer gegenseitigen Beeinflussung ist nur schwer möglich
 - Wie kann man die Ungleichverteilung der Personen im Veranstaltungsgelände berücksichtigen?
 - Wie kann man erkennen, ob es sich an einem Fluchtweg mehr staut als an anderen?
 - Wie können die lt. <cite href="MVStaettVO">§ 7 Absatz 4</cite> geforderten Zwischenwerte bei den Rettungswegbreiten miteinbezogen werden?
 - Das *eine* bei statischen Berechnungen zugrunde liegende Fundamentaldiagramm existiert nicht: Vielmehr ist es wichtig, dass die Relation zunehmende Dichte vs. abnehmende Geschwindigkeit eingehalten wird.
-
 
 Ist das Gelände unübersichtlich, die Räumungsszenarien komplex und/oder die Anzahl der Gäste groß, helfen statische Berechnungsverfahren nicht weiter.
 Besonders bei größeren Veranstaltungen oder komplexen Geometrien bringen Simulationen einen großen Mehrwert - oder machen eine sichere Abschätzung überhaupt erst möglich.
@@ -37,7 +36,7 @@ Besonders bei größeren Veranstaltungen oder komplexen Geometrien bringen Simul
 
 - Der Computer bildet dynamische Entwicklungen ab - ganz ohne Formel
 - Es wird kein Fundamentaldiagramm benötigt, durch die gegenseitige Beeinflussung der Agenten wird ganz automatisch das Abbremsen erzeugt
-- Durch unterschiedliche Annahmen der Anfangsverteilung der Personen können auf einfache Weise unterschiedliche Szenarien betrachtet werden
+- Durch unterschiedliche Annahmen der räumlichen Verteilung der Personen können auf einfache Weise unterschiedliche Szenarien betrachtet werden
 - Simulationen liefern nicht nur per Knopfdruck Räumungszeiten, sie liefern gleichzeitig die zu erwartenden Verteilungen und Dichten der Personen auf dem Veranstaltungsgelände während der gesamten Entluchtungsdauer
 - Variieren Fluchtwegsbreiten ist sehr einfach möglich
 - Überbeanspruchte Ausgänge können auf einen Blick identifiziert werden
