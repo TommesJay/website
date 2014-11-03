@@ -10,7 +10,9 @@ Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffangflächen des g
 
 Die Simulation wurde mit der maximalen Besucheranzahl von 6.300 Personen durchgeführt. Mithilfe des CAD-Plans sowie des Flucht- und Rettungswegeplans wurde die Geometrie erfasst und das oben beschriebene Szenario simuliert.
 
-Die Ergebnisse zeigen, das die Auffangflächen groß genug sind, jedoch ein Großteil der Zeltbesucher in Richtung eines Ausgangs streben. Als Folge daraus wurde ein weiteres Notausgangsschild so platziert, dass die Besucher auch den zweiten Notausgang in gleicher Anzahl nutzen.
+Die Ergebnisse zeigen, dass die Auffangflächen groß genug sind, jedoch ein Großteil der Zeltbesucher in Richtung eines Ausgangs streben.
+Als Folge daraus wurde ein weiteres Notausgangsschild so platziert, dass die Besucher auch den zweiten Notausgang in gleicher Anzahl nutzen.
+Die Durchgangsbreite zwischen dem Nachbarzelt und dem Versorgungscontainer entspricht zwar den Forderungen der VStättVO, da die Simulation jedoch gezeigt hat, dass es an dieser Stelle zu Stauungen kommt, soll der Durchgang zukünftig verbreitert werden.
 
 ![2D-Visualisierung Festzelt](img/referenzen/volksfest-screenshot.png)
 Screenshot der Simulation - jeder Punkt entspricht einer Person, die Personen sind nach ihren Zielen eingefärbt.
@@ -86,6 +88,7 @@ Bildquelle: [Bachelorarbeit von Maria Driesel](http://www.cms.bgu.tum.de/publica
 
 \* Aufgrund von Geheimhaltungsvereinbarungen kann kein Bildmaterial des Projekts zur Verfügung gestellt werden.
 
+*[VStättVO]: Versammlungsstättenverordnung
 
 #meta#
 pagetitle: Referenzen Personenstromsimulation
