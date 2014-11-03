@@ -61,7 +61,7 @@ Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in we
 
 -----------
 
-Wir danken unseren Unterstützern
+Wir danken unseren Unterstützern:
 
 <div class="associates-logos" markdown="1">
 [![BMWi](/img/associates/bmwi.jpg)](http://www.bmwi.de/)
