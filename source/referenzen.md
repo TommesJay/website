@@ -4,7 +4,9 @@
 
 ## Entfluchtungs-Simulation eines Festzeltes
 
-Für ein großes deutsches Volksfest sollte ein umfassendes Sicherheitskonzept erstellt werden. Dieses beinhaltete u.a. die Dimensionierung und Lage der Flucht- und Rettungswege. Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffangflächen des größten Bierzelts für eine Entfluchtung im Ernstfall ausreichend groß kalkuliert worden sind.
+Für ein großes deutsches Volksfest erstellte die Firma [dvb - Friedrich Baer](http://dvb-fb.de/) ein umfassendes Sicherheitskonzept.
+Dieses beinhaltete u.a. die Dimensionierung und Lage der Flucht- und Rettungswege.
+Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffangflächen des größten Bierzelts für eine Entfluchtung im Ernstfall ausreichend groß kalkuliert worden sind.
 
 Die Simulation wurde mit der maximalen Besucheranzahl von 6.300 Personen durchgeführt. Mithilfe des CAD-Plans sowie des Flucht- und Rettungswegeplans wurde die Geometrie erfasst und das oben beschriebene Szenario simuliert.
 
