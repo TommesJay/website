@@ -13,10 +13,10 @@ Die Simulation wurde mit der maximalen Besucheranzahl von 6.300 Personen durchge
 Die Ergebnisse zeigen, das die Auffangflächen groß genug sind, jedoch ein Großteil der Zeltbesucher in Richtung eines Ausgangs streben. Als Folge daraus wurde ein weiteres Notausgangsschild so platziert, dass die Besucher auch den zweiten Notausgang in gleicher Anzahl nutzen.
 
 ![2D-Visualisierung Festzelt](img/referenzen/volksfest-screenshot.png)
-Screenshot der Simulation - jeder Punkt entspricht einer Person, die Personen sind nach ihren Zielen eingefärbt
+Screenshot der Simulation - jeder Punkt entspricht einer Person, die Personen sind nach ihren Zielen eingefärbt.
 
 ![Geschwindigkeits-Heatmap Festzelt](img/referenzen/volksfest-heatmap-geschwindigkeit.png)
-Die Geschwindigkeitsheatmap des Zeltes: Es ist zu erkennen, dass Personen zwischen den Bierbänken deutlich abgebremst werden, ebenso erkennt man eine Verlangsamung nördlich des Zeltes
+Die Geschwindigkeitsheatmap des Zeltes: Es ist zu erkennen, dass Personen zwischen den Bierbänken deutlich abgebremst werden, ebenso erkennt man eine Verlangsamung nördlich des Zeltes.
 
 ![Entfluchtungsverlauf Festzelt](img/referenzen/volksfest-entfluchtungsverlauf.png) Zeitlicher Entfluchtungsverlauf der einzelnen Zeltausgänge: Pro Zeltausgang wird die Anzahl der Personen angetragen, die sich noch im Zelt befinden.
 
