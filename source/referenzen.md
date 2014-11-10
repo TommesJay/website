@@ -92,4 +92,5 @@ Bildquelle: [Bachelorarbeit von Maria Driesel](http://www.cms.bgu.tum.de/publica
 
 #meta#
 pagetitle: Referenzen Personenstromsimulation
+description: Eine Vorstellung bisheriger Projekte und Kunden des accu:rate Institute for Crowd Simulation.
 

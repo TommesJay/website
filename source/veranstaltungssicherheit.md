@@ -42,4 +42,5 @@ Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob auch in I
 
 #meta#
 pagetitle: Personenstromsimulation für Veranstaltungen
+description: Überblick über den Einsatz von Personenstromsimulation für die Verbesserung von Sicherheit und Komfort von Großveranstaltungen.
 

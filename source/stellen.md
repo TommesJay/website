@@ -18,4 +18,5 @@ Schreib uns eine kurze E-Mail an <span class="mailadresse" data-to="info">info@j
 
 #meta#
 pagetitle: Stellenangebote
+description: Aktuelle Liste von Stellenanzeigen. Auch Initiativbewerbungen sehen wir gerne.
 
