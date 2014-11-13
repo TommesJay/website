@@ -29,4 +29,5 @@ Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob auch in I
 
 #meta#
 pagetitle: Personenstromsimulation für Flughäfen und Bahnhöfe
+description: accu:rate bietet Betreibern von infrastrukturiellen Gebäuden wie Flughäfen und Bahnhöfen Unterstützung bei der Planung durch Simulation von Fußgängerströmen.
 

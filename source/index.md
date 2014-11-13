@@ -61,7 +61,7 @@ Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in we
 
 -----------
 
-Wir danken unseren Unterstützern
+Wir danken unseren Unterstützern:
 
 <div class="associates-logos" markdown="1">
 [![BMWi](/img/associates/bmwi.jpg)](http://www.bmwi.de/)
@@ -76,4 +76,5 @@ Wir danken unseren Unterstützern
 
 #meta#
 pagetitle: accu:rate Institute for crowd simulation
-description: Willkommen bei accu:rate!
+description: Die Ausgründung der TU München bietet Simulation und Analyse von Personenströmen für Architekten und Veranstalter zur Verbesserung von Sicherheit und Komfort.
+

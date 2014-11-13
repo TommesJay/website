@@ -4,17 +4,21 @@
 
 ## Entfluchtungs-Simulation eines Festzeltes
 
-Für ein großes deutsches Volksfest sollte ein umfassendes Sicherheitskonzept erstellt werden. Dieses beinhaltete u.a. die Dimensionierung und Lage der Flucht- und Rettungswege. Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffangflächen des größten Bierzelts für eine Entfluchtung im Ernstfall ausreichend groß kalkuliert worden sind.
+Für ein großes deutsches Volksfest erstellte die Firma [dvb - Friedrich Baer](http://dvb-fb.de/) ein umfassendes Sicherheitskonzept.
+Dieses beinhaltete u.a. die Dimensionierung und Lage der Flucht- und Rettungswege.
+Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffangflächen des größten Bierzelts für eine Entfluchtung im Ernstfall ausreichend groß kalkuliert worden sind.
 
 Die Simulation wurde mit der maximalen Besucheranzahl von 6.300 Personen durchgeführt. Mithilfe des CAD-Plans sowie des Flucht- und Rettungswegeplans wurde die Geometrie erfasst und das oben beschriebene Szenario simuliert.
 
-Die Ergebnisse zeigen, das die Auffangflächen groß genug sind, jedoch ein Großteil der Zeltbesucher in Richtung eines Ausgangs streben. Als Folge daraus wurde ein weiteres Notausgangsschild so platziert, dass die Besucher auch den zweiten Notausgang in gleicher Anzahl nutzen.
+Die Ergebnisse zeigen, dass die Auffangflächen groß genug sind, jedoch ein Großteil der Zeltbesucher in Richtung eines Ausgangs streben.
+Als Folge daraus wurde ein weiteres Notausgangsschild so platziert, dass die Besucher auch den zweiten Notausgang in gleicher Anzahl nutzen.
+Die Durchgangsbreite zwischen dem Nachbarzelt und dem Versorgungscontainer entspricht zwar den Forderungen der VStättVO, da die Simulation jedoch gezeigt hat, dass es an dieser Stelle zu Stauungen kommt, soll der Durchgang zukünftig verbreitert werden.
 
 ![2D-Visualisierung Festzelt](img/referenzen/volksfest-screenshot.png)
-Screenshot der Simulation - jeder Punkt entspricht einer Person, die Personen sind nach ihren Zielen eingefärbt
+Screenshot der Simulation - jeder Punkt entspricht einer Person, die Personen sind nach ihren Zielen eingefärbt.
 
 ![Geschwindigkeits-Heatmap Festzelt](img/referenzen/volksfest-heatmap-geschwindigkeit.png)
-Die Geschwindigkeitsheatmap des Zeltes: Es ist zu erkennen, dass Personen zwischen den Bierbänken deutlich abgebremst werden, ebenso erkennt man eine Verlangsamung nördlich des Zeltes
+Die Geschwindigkeitsheatmap des Zeltes: Es ist zu erkennen, dass Personen zwischen den Bierbänken deutlich abgebremst werden, ebenso erkennt man eine Verlangsamung nördlich des Zeltes.
 
 ![Entfluchtungsverlauf Festzelt](img/referenzen/volksfest-entfluchtungsverlauf.png) Zeitlicher Entfluchtungsverlauf der einzelnen Zeltausgänge: Pro Zeltausgang wird die Anzahl der Personen angetragen, die sich noch im Zelt befinden.
 
@@ -84,7 +88,9 @@ Bildquelle: [Bachelorarbeit von Maria Driesel](http://www.cms.bgu.tum.de/publica
 
 \* Aufgrund von Geheimhaltungsvereinbarungen kann kein Bildmaterial des Projekts zur Verfügung gestellt werden.
 
+*[VStättVO]: Versammlungsstättenverordnung
 
 #meta#
 pagetitle: Referenzen Personenstromsimulation
+description: Eine Vorstellung bisheriger Projekte und Kunden des accu:rate Institute for Crowd Simulation.
 

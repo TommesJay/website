@@ -91,3 +91,5 @@ Quellen:
 
 #meta#
 pagetitle: Räumungskonzepte
+description: accu:rate bietet Sicherheitsnachweise für Räumungskonzepte nach MVStättVO durch Simulation und Analyse von Fußgängerströmen.
+
