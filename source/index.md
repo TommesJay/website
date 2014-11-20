@@ -72,6 +72,7 @@ Wir danken unseren Unterstützern:
 [![TUM](/img/associates/tum.png)](http://www.tum.de/)
 [![UnternehmerTUM](/img/associates/unternehmertum.png)](http://www.unternehmertum.de/)
 [![The best Java profiler: JProfile by ej-technologies](/img/associates/jprofiler_medium.png)](http://www.ej-technologies.com/products/jprofiler/overview.html)
+[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png)](https://www.hvb-frauenbeirat.de/)
 </div>
 
 #meta#
