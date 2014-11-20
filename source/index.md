@@ -66,12 +66,12 @@ Wir danken unseren Unterstützern:
 <div class="associates-logos" markdown="1">
 [![BMWi](/img/associates/bmwi.jpg)](http://www.bmwi.de/)
 [![ESF](/img/associates/esf.jpg)](http://www.esf.de)
-[![EXiST](/img/associates/exist.jpg)](http://www.exist.de/)
+[![EXiST](/img/associates/exist.jpg)](https://www.exist.de/)
 [![Europäische Union](/img/associates/eu.png)](http://europa.eu/)
 [![Hochschule München](/img/associates/hm.png)](http://www.hm.edu/)
-[![TUM](/img/associates/tum.png)](http://www.tum.de/)
-[![UnternehmerTUM](/img/associates/unternehmertum.png)](http://www.unternehmertum.de/)
-[![The best Java profiler: JProfile by ej-technologies](/img/associates/jprofiler_medium.png)](http://www.ej-technologies.com/products/jprofiler/overview.html)
+[![TUM](/img/associates/tum.png)](https://www.tum.de/)
+[![UnternehmerTUM](/img/associates/unternehmertum.png)](https://www.unternehmertum.de/)
+[![The best Java profiler: JProfile by ej-technologies](/img/associates/jprofiler_medium.png)](https://www.ej-technologies.com/products/jprofiler/overview.html)
 [![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png)](https://www.hvb-frauenbeirat.de/)
 </div>
 
