@@ -2,6 +2,24 @@
 # <br /> *Referenzen* {.fancyheader}
 
 
+## Firmen-Großveranstaltung in einem Kreuzfahrthafen
+
+Die Event-Agentur [Zweiplan DAS PRODUKTIONSBÜRO GmbH](http://www.zweiplan.de/) realisierte eine Firmen&shy;veranstaltung in einem Kreuzfahrthafen für 7.000 Gäste.
+accu:rate wurde beauftragt, die im Falle einer Entfluchtung geplanten Maßnahmen auf ihre Wirksamkeit zu überprüfen.
+
+![Kreuzfahrthafen Übersichtsplan mit Zoom-Ausschnitt](img/referenzen/zweiplan-uebersicht-zoom-web.png)
+
+Der Übersichtsplan des Hafens inklusive den vier anliegenden [AIDA](https://www.aida.de/) Luxus-Linern.
+Der vergrößerte Ausschnitt zeigt den hohen Detailgrad mit einzelnen Bistrotischen und -stühlen.
+
+
+![](img/referenzen/zweiplan-detail-stauung.png)
+![](img/referenzen/zweiplan-dichte-ueber-zeit.png)
+![](img/referenzen/zweiplan-nach-ziel.png)
+![](img/referenzen/zweiplan-uebersicht.png)
+![](img/referenzen/zweiplan-uebersicht-zoom.png)
+
+
 ## Entfluchtungs-Simulation eines Festzeltes
 
 Für ein großes deutsches Volksfest erstellte die Firma [dvb - Friedrich Baer](http://dvb-fb.de/) ein umfassendes Sicherheitskonzept.
