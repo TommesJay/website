@@ -150,6 +150,13 @@ body {
 img,video,iframe {
     max-width: 100%;
 }
+
+img.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 @media (min-width: 768px), print {
     img.float-left {
         float: left;

@@ -1,23 +1,31 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # <br /> *Referenzen* {.fancyheader}
 
+Hier finden Sie einige Beispiele unserer Projekte.
+Selbstverständlich beantworten gerne Ihre Fragen!
+Bitte [kontaktieren](kontakt) Sie uns.
 
 ## Firmen-Großveranstaltung in einem Kreuzfahrthafen
 
 Die Event-Agentur [Zweiplan DAS PRODUKTIONSBÜRO GmbH](http://www.zweiplan.de/) realisierte eine Firmen&shy;veranstaltung in einem Kreuzfahrthafen für 7.000 Gäste.
 accu:rate wurde beauftragt, die im Falle einer Entfluchtung geplanten Maßnahmen auf ihre Wirksamkeit zu überprüfen.
 
-![Kreuzfahrthafen Übersichtsplan mit Zoom-Ausschnitt](img/referenzen/zweiplan-uebersicht-zoom-web.png)
-
+![Kreuzfahrthafen Übersichtsplan mit Zoom-Ausschnitt](img/referenzen/zweiplan-uebersicht-zoom-web.png)  
 Der Übersichtsplan des Hafens inklusive den vier anliegenden [AIDA](https://www.aida.de/) Luxus-Linern.
 Der vergrößerte Ausschnitt zeigt den hohen Detailgrad mit einzelnen Bistrotischen und -stühlen.
 
+![Kreuzfahrthafen Übersicht Agenten nach Ziel eingefärbt](img/referenzen/zweiplan-nach-ziel.png)
+Ein Screenshot der 2D-Visualisierung zeigt die Simulation eines Entfluchtungsszenarios.
+In diesem Beispiel sind die Agenten nach ihrem jeweiligen Ziel eingefärbt.
+Dies erleichtert das Verständnis und die Anpassung des Räumungsplanes.
 
-![](img/referenzen/zweiplan-detail-stauung.png)
-![](img/referenzen/zweiplan-dichte-ueber-zeit.png)
-![](img/referenzen/zweiplan-nach-ziel.png)
-![](img/referenzen/zweiplan-uebersicht.png)
-![](img/referenzen/zweiplan-uebersicht-zoom.png)
+![Kreuzfahrthafen mikroskopische Simulation Detail Stauung](img/referenzen/zweiplan-detail-stauung.png)  
+Der Ausschnitt zeigt eine Stauung vor einer als Fluchtweg genutzten Brücke.
+Die farbliche Kodierung visualisiert die Dichte, das heißt die Anzahl Personen pro Quadratmeter, hier berechnet mittels [Voronoi-Diagramm](https://de.wikipedia.org/wiki/Voronoi-Diagramm).
+
+![Kreuzfahrthafen mikroskopische Simulation Dichteauswertung über Zeit](img/referenzen/zweiplan-dichte-ueber-zeit.png) {.center}  
+Dieses Diagramm lässt erkennen, dass im oben gezeigten Abschnitt eine unverändert hohe Dichte über eine lange Zeit fortbesteht.
+Grafiken wie diese erlauben - auch ohne Video - Aussagen über den zeitlichen Verlauf der simulierten Entfluchtungsmaßnahme in den gedruckten Report aufzunehmen.
 
 
 ## Entfluchtungs-Simulation eines Festzeltes
