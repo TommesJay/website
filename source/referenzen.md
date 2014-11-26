@@ -17,14 +17,14 @@ Der vergrößerte Ausschnitt zeigt den hohen Detailgrad mit einzelnen Bistrotisc
 ![Kreuzfahrthafen Übersicht Agenten nach Ziel eingefärbt](img/referenzen/zweiplan-nach-ziel.png)
 Ein Screenshot der 2D-Visualisierung zeigt die Simulation eines Entfluchtungsszenarios.
 In diesem Beispiel sind die Agenten nach ihrem jeweiligen Ziel eingefärbt.
-Dies erleichtert das Verständnis und die Anpassung des Räumungsplanes.
+Dies verbessert das Verständnis für den Räumungsplan und die erleichtert Anpassung.
 
 ![Kreuzfahrthafen mikroskopische Simulation Detail Stauung](img/referenzen/zweiplan-detail-stauung.png)  
 Der Ausschnitt zeigt eine Stauung vor einer als Fluchtweg genutzten Brücke.
 Die farbliche Kodierung visualisiert die Dichte, das heißt die Anzahl Personen pro Quadratmeter, hier berechnet mittels [Voronoi-Diagramm](https://de.wikipedia.org/wiki/Voronoi-Diagramm).
 
 ![Kreuzfahrthafen mikroskopische Simulation Dichteauswertung über Zeit](img/referenzen/zweiplan-dichte-ueber-zeit.png) {.center}  
-Dieses Diagramm lässt erkennen, dass im oben gezeigten Abschnitt eine unverändert hohe Dichte über eine lange Zeit fortbesteht.
+Dieses Diagramm lässt erkennen, dass im oben gezeigten Bereich eine hohe Dichte über eine lange Zeit fortbesteht.
 Grafiken wie diese erlauben - auch ohne Video - Aussagen über den zeitlichen Verlauf der simulierten Entfluchtungsmaßnahme in den gedruckten Report aufzunehmen.
 
 
