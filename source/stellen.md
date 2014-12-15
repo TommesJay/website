@@ -6,7 +6,7 @@ Wir sind immer auf der Suche nach inspirierten und inspirierenden Persönlichkei
 
 ## Aktuelle Werkstudentenjobs
 
-- [Stellengesuch Werkstudent(-in) Architektur/Bauingenieurwesen: Technisches Zeichnen/CAD (2D)](img/stellen/suche-werkstudent-cad-v01.pdf)
+- <s>[Stellengesuch Werkstudent(-in) Architektur/Bauingenieurwesen: Technisches Zeichnen/CAD (2D)](img/stellen/suche-werkstudent-cad-v01.pdf)</s> Die Stelle wurde im November 2014 besetzt.
 - [Stellengesuch Werkstudent(-in) Mathe: Validierung](img/stellen/suche-werkstudent-mathe-v04.pdf)
 - [Stellengesuch Werkstudent(-in) Informatik: Anbindung 3D-Visualisierung](img/stellen/suche-werkstudent-postvis-v02.pdf)
 
