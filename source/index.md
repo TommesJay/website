@@ -64,15 +64,12 @@ Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in we
 Wir danken unseren Unterstützern:
 
 <div class="associates-logos" markdown="1">
-[![BMWi](/img/associates/bmwi.jpg)](http://www.bmwi.de/)
-[![ESF](/img/associates/esf.jpg)](http://www.esf.de)
-[![EXiST](/img/associates/exist.jpg)](https://www.exist.de/)
-[![Europäische Union](/img/associates/eu.png)](http://europa.eu/)
 [![Hochschule München](/img/associates/hm.png)](http://www.hm.edu/)
+[![EXiST gefördert Jan - Dec 2014](/img/associates/exist.jpg)](https://www.exist.de/)
+[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png)](https://www.hvb-frauenbeirat.de/)  
 [![TUM](/img/associates/tum.png)](https://www.tum.de/)
 [![UnternehmerTUM](/img/associates/unternehmertum.png)](https://www.unternehmertum.de/)
 [![The best Java profiler: JProfile by ej-technologies](/img/associates/jprofiler_medium.png)](https://www.ej-technologies.com/products/jprofiler/overview.html)
-[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png)](https://www.hvb-frauenbeirat.de/)
 </div>
 
 #meta#
