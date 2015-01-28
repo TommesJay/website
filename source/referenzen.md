@@ -5,6 +5,25 @@ Hier finden Sie einige Beispiele unserer Projekte.
 Selbstverständlich beantworten gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+## Kapazitätsplanung eines Museums
+Die [Architechnic International AG](http://www.architechnic.ch/deutsch/unternehmen/) beauftragte accu:rate die Planung eines Museums zu unterstützen. accu:rate simulierte die Besucherströme bei der Entfluchtung der Gebäude, im Eingangsbereich des Museums und bei den Rundgängen durch das Museum.
+
+### Analyse der Entfluchtung
+accu:rate analysiert die Entfluchtung der mehrstöckigen Museumsgebäude und konnte dabei zwei kritische Bereiche identifizieren, die in der weiteren Planung besondere Berücksichtigung finden werden.
+
+![Entfluchtung](img/referenzen/architechnic-entfluchtung.png)
+Im Erdgeschoss eines Gebäudes ist die Stauung (rot eingefärbt) vor dem Ausgang auf der rechten Seite gut zu erkennen.
+
+### Analyse des Eingangsbereichs
+In der Simulation bewegen sich drei Gruppen à 16 Personen gleichzeitig im Eingangsbereich des Museums. 
+accu:rate wies nach, dass keine Stauungen auftreten und zeigte in welchen Bereichen eine Besucherlenkung sinnvoll wäre.
+
+![Eingangsbereich Museum](img/referenzen/architechnic-eingangsbereich.png)
+Auf dem Screenshot des Simulationsvideos sind die Personen je nach Gruppe verschieden eingefärbt.
+
+### Optimierung der Rundgänge
+Die Architechnic International AG wird die Verteilung der 60 Exponate anpassen, aufgrund verschiedener simulierter Varianten der Rundgänge und dadurch die Besucherführung optimieren sowie unnötige Staus vermeiden. 
+
 ## Firmen-Großveranstaltung in einem Kreuzfahrthafen
 
 Die Event-Agentur [Zweiplan DAS PRODUKTIONSBÜRO GmbH](http://www.zweiplan.de/) realisierte eine Firmen&shy;veranstaltung in einem Kreuzfahrthafen für 7.000 Gäste.
