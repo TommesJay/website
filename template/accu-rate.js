@@ -64,7 +64,8 @@ function getCookie(sKey) {
 }
 
 if (!userSpeaksGerman() && (getCookie("seenIntlNotice") !== "true")) {
-    window.setTimeout(function(){window.alert("Hello international visitor! So far, our website is only available in German. We had good results using Google Translate, so we included Google's toolbar for your convenience. Please contact us, we're happy to speak English (and some Spanish, French and Dutch too).")}, 500);
+  document.addEventListener("load", function(event) {
+    window.alert("Hello international visitor! So far, our website is only available in German. We had good results using Google Translate, so we included Google's toolbar for your convenience. Please contact us, we're happy to speak English (and some Spanish, French and Dutch too).");
 
     // save for the current session:
     document.cookie = "seenIntlNotice=true";
