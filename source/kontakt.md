@@ -27,5 +27,5 @@ Diese Website benutzt Piwik, eine Open-Source-Software zur statistischen Auswert
 
 #meta#
 pagetitle: Kontakt und Impressum
-description: Kontaktinformationen und Impressum
+description: Impressum, Kontaktinformationen sowie Rechtliches zu accu:rate
 

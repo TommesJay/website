@@ -76,5 +76,5 @@ Der Geschäftsführer Roland G. Meier ist seit 2009 Sachverständiger für Veran
 
 #meta#
 pagetitle: Team
-description: Lernen Sie das Team und unsere Partner kennen.
+description: Lernen Sie das Team hinter accu:rate sowie unsere Partner kennen.
 
