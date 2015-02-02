@@ -69,5 +69,6 @@ if (!userSpeaksGerman() && (getCookie("seenIntlNotice") !== "true")) {
 
     // save for the current session:
     document.cookie = "seenIntlNotice=true";
+  });
 }
 
