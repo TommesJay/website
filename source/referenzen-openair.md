@@ -7,13 +7,14 @@ Bitte [kontaktieren](kontakt) Sie uns.
 
 # Open-Air Konzert
 
-Eines unserer ersten Projekte ist aus einer fruchtbaren Kooperation mit dem Meister für Veranstaltungstechnik [Andreas Litger](http://litger.de/) (Sicherheitsfachperson [TÜV Saarland](http://www.tuev-saar.net/), [Vabeg](http://www.vabeg.com/)) entstanden:
+Eines der ersten Projekte der damals frisch gegründeten accu:rate GbR ist aus einer fruchtbaren Kooperation mit dem Meister für Veranstaltungstechnik [Andreas Litger](http://litger.de/) (Sicherheitsfachperson [TÜV Saarland](http://www.tuev-saar.net/), [Vabeg](http://www.vabeg.com/)) entstanden:
 Die Simulation unterschiedlicher Räumungsszenarien für das [Schlosspark Open Air Paderborn 2014](http://www.schlosspark-open-air-paderborn.de/).
 
 ![Ausschnitt des durch den accu:rate Simulator berechneten Sichtbarkeitsgraph des Open Air Geländes in Paderborn](/img/referenzen/nena-graph.png)
 Ausschnitt des durch den accu:rate Simulator berechneten Sichtbarkeitsgraph des Open Air Geländes in Paderborn
 
-Damals kam der accu:rate Simulationskern gerade aus der Forschung, und die Freifläche von über 240,000 Quadratmetern war für die Software noch eine Herausforderung.
+Damals kam der accu:rate Simulationskern frisch aus der Forschung, und die Freifläche von über 240,000 Quadratmetern war für die Software noch eine Herausforderung.
+Aber natürlich nicht lange!
 
 [TODO: Videoausschnitt einbinden]
 
