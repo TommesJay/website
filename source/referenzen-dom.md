@@ -23,7 +23,6 @@ Eine solide Planung von erfahrenen Experten, untermauert mit objektiven Analysen
 
 [TODO: Heraus finden, um was für eine Veranstaltung es sich gehandelt hat]
 
-\* Aufgrund von Geheimhaltungsvereinbarungen kann kein Bildmaterial des Projekts zur Verfügung gestellt werden.
 
 *[VStättVO]: Versammlungsstättenverordnung
 

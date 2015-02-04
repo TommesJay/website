@@ -23,7 +23,6 @@ Während Litger den Detaillierungsgrad seines Räumungskonzeptes iterativ erhöh
 
 [TODO: Aussage Andreas Litger einbinden]
 
-\* Aufgrund von Geheimhaltungsvereinbarungen kann kein Bildmaterial des Projekts zur Verfügung gestellt werden.
 
 *[VStättVO]: Versammlungsstättenverordnung
 
