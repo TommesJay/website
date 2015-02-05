@@ -1,7 +1,7 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # <br /> *Referenzen* {.fancyheader}
 
-Hier finden Sie einige Beispiele unserer Projekte.
+Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
@@ -14,17 +14,35 @@ Die Simulation unterschiedlicher Räumungsszenarien für das [Schlosspark Open A
 Ausschnitt des durch den accu:rate Simulator berechneten Sichtbarkeitsgraph des Open Air Geländes in Paderborn
 
 Damals kam der accu:rate Simulationskern frisch aus der Forschung, und die Freifläche von über 240,000 Quadratmetern war für die Software noch eine Herausforderung.
-Aber natürlich nicht lange!
+Solch (und auch größere) Flächen stellen inzwischen kein Problem mehr dar.
 
-[TODO: Videoausschnitt einbinden]
-
-Die langjährige Erfahrung Litgers half bei der Einschätzung der Realitätstreue unserer Simulation.
+Die langjährige Erfahrung Litgers half uns bei der Einschätzung der Realitätstreue unserer Simulation.
 Während Litger den Detaillierungsgrad seines Räumungskonzeptes iterativ erhöhte, konnte accu:rate Fortschritte in der Berechnungsgeschwindigkeit und der Darstellung der Ergebnisse erzielen.
 
-[TODO: Aussage Andreas Litger einbinden]
+![Ausschnitt einer 2D-Visualisierung der Besucherstromsimulation des Open Air Geländes in Paderborn](/img/referenzen/nena-screenshot.png)
+Ausschnitt einer 2D-Visualisierung der Besucherstromsimulation des Open Air Geländes in Paderborn
 
+Herr Litger, welche Fragen wollten Sie beantwortet haben, als Sie damals dieses Pilotprojekt mit uns umgesetzt haben?
 
-*[VStättVO]: Versammlungsstättenverordnung
+> Lorem ipsum dolor sit amet ...
+
+Was sagen Sie zu den Ergebnissen des Projekts? Wie können Sie diese Ergebnisse verwenden?
+
+> Lorem ipsum dolor sit amet ...
+
+Was sagen Sie zur Zusammenarbeit mit accu:rate?
+
+> Lorem ipsum dolor sit amet ...
+
+Gibt es noch weiteren Erkenntnisgewinn, oder etwas, das Sie teilen wollen?
+
+> Lorem ipsum dolor sit amet ...
+
+Vielen Dank Andreas!
+
+Wenn auch Sie von unserer Expertise profitieren möchten, [kontaktieren Sie uns](kontakt)!
+Wir freuen uns auf Sie.
+
 
 #meta#
 pagetitle: Referenzen Personenstromsimulation
