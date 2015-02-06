@@ -27,12 +27,12 @@ Ausschnitt einer 2D-Visualisierung der Besucherstromsimulation des Open Air Gel�
 Andreas, welche Fragen wolltest Du beantwortet haben, als Du damals
 dieses Pilotprojekt mit uns umgesetzt hast?	
 
-> Zunächst einmal ging es mir ganz allgemein darum, herausfinden, in wie weit eine Personenstromsimulation mich in den verschiedenen Phasen einer Planung unterstützen kann.	
+> Zunächst einmal ging es mir ganz allgemein darum, herauszufinden, in wie weit eine Personenstromsimulation mich in den verschiedenen Phasen einer Planung unterstützen kann.	
 > 
 > Zum anderen wollte ich für diesen konkreten Fall herausfinden, ob sich meine getroffenen Annahmen über Personenströme und Zeiträume bei verschiedenen Räumungsszenarien mit der Simulation decken, oder ob es starke Abweichungen gibt. 	
 > 
 > Die Veranstaltungsfläche war vorher noch nie auf diese Weise genutzt worden.
-> Bis auf wenige Beschränkung, z.B. die Beschallungsrichtung und damit die Grundausrichtung der Bühne, gab mir der Veranstalter mehr oder minder freie Hand in der Aufplanung des Geländes.
+> Bis auf wenige Beschränkungen, z.B. die Beschallungsrichtung und damit die Grundausrichtung der Bühne, gab mir der Veranstalter mehr oder minder freie Hand in der Aufplanung des Geländes.
 > So war ich z.B. in der Positionierung der Rettungswege und im Design der Besucherführung z.B. von den Parkplätzen zu den Eingängen und zurück frei.	
 > 
 > Es wurden Annahmen getroffen über die Räumungszeiten des Geländes bei verschiedenen Räumungsszenarien.
@@ -48,7 +48,7 @@ Wie konntest Du diese Ergebnisse verwenden?
 > So wurden aus der Analyse der Simulation Änderungen in der Wegeführung hinter den Ausgängen abgeleitet.
 > Darüber hinaus konnten die Simulationen als Anschauungsmaterial für den Sicherheits- und Ordnungsdienst verwendet werden, dem ja eine Schlüsselrolle bei der Räumung zufällt.	
 > 
-> Z.b. konnte die Notwendigkeit zum Entfernen von Engstellen bei einer Räumung konnte mit Vorher-/Nachher-Vergleichen gut dargestellt werden.	
+> Z.B. konnte die Notwendigkeit zum Entfernen von Engstellen bei einer Räumung mit Vorher-/Nachher-Vergleichen gut dargestellt werden.	
 
 
 Wie war die Zusammenarbeit mit accu:rate?	
