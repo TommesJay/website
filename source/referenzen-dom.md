@@ -29,7 +29,7 @@ Eine solide Planung von erfahrenen Experten, untermauert mit objektiven Analysen
 
 (Aussage [4D-Event](http://www.4d-event.de/)/[VDS](http://www.vds-veranstaltung.de/))
 
-Wenn auch Sie eine Veranstaltung in einer historischen Location planen, und einen Nachweis über die Wirksamkeit Ihres Räumungskonzepts benötigen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören .
+Wenn auch Sie eine Veranstaltung in einer historischen Location planen, und einen Nachweis über die Wirksamkeit Ihres Räumungskonzepts benötigen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
 
 *[VStättVO]: Versammlungsstättenverordnung
