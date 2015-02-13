@@ -92,8 +92,10 @@ Auf dem Screenshot des Simulationsvideos sind die Personen je nach Gruppe versch
 Aufgrund verschiedener simulierter Varianten der Rundgänge wird die Architechnic International AG die Verteilung der 60 Exponate anpassen.
 Dadurch wird die Besucherführung optimiert sowie unnötige Staus vermieden. 
 
-> "Mit den erarbeiteten Erkenntnissen lässt sich nun der Museums- und Sammlungsrundgang aus der Sicht der Besucherströme und aus der Sicht Notfallszenario planen.
-Ich denke, das ist eine völlig neue Herangehensmethode für die Planung solcher Art Projekte." (Felix Aries, Geschäftsführer der Architechnic International AG)
+> Mit den erarbeiteten Erkenntnissen lässt sich nun der Museums- und Sammlungsrundgang aus der Sicht der Besucherströme und aus der Sicht Notfallszenario planen.
+> Ich denke, das ist eine völlig neue Herangehensmethode für die Planung solcher Art Projekte.
+
+(Felix Aries, Geschäftsführer der Architechnic International AG)
 
 ## Firmen-Großveranstaltung in einem Kreuzfahrthafen
 
