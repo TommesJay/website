@@ -71,7 +71,7 @@ Vielen Dank Andreas!
 
 
 
-## Kapazitätsplanung eines Museums
+# Kapazitätsplanung eines Museums
 
 Die [Architechnic International AG](http://www.architechnic.ch/deutsch/unternehmen/) beauftragte accu:rate die Planung eines Museums zu unterstützen. accu:rate simulierte die Besucherströme bei der Entfluchtung der Gebäude, im Eingangsbereich des Museums und bei den Rundgängen durch das Museum.
 
@@ -97,7 +97,7 @@ Dadurch wird die Besucherführung optimiert sowie unnötige Staus vermieden.
 
 (Felix Aries, Geschäftsführer der Architechnic International AG)
 
-## Firmen-Großveranstaltung in einem Kreuzfahrthafen
+# Firmen-Großveranstaltung in einem Kreuzfahrthafen
 
 Die Event-Agentur [Zweiplan DAS PRODUKTIONSBÜRO GmbH](http://www.zweiplan.de/) realisierte eine Firmen&shy;veranstaltung in einem Kreuzfahrthafen für 7.000 Gäste.
 accu:rate wurde beauftragt, die im Falle einer Entfluchtung geplanten Maßnahmen auf ihre Wirksamkeit zu überprüfen.
@@ -120,7 +120,7 @@ Dieses Diagramm lässt erkennen, dass im oben gezeigten Bereich eine hohe Dichte
 Grafiken wie diese erlauben - auch ohne Video - Aussagen über den zeitlichen Verlauf der simulierten Entfluchtungsmaßnahme in den gedruckten Report aufzunehmen.
 
 
-## Entfluchtungs-Simulation eines Festzeltes
+# Entfluchtungs-Simulation eines Festzeltes
 
 Für ein großes deutsches Volksfest erstellte die Firma [dvb - Friedrich Baer](http://dvb-fb.de/) ein umfassendes Sicherheitskonzept.
 Dieses beinhaltete u.a. die Dimensionierung und Lage der Flucht- und Rettungswege.
@@ -141,7 +141,7 @@ Die Geschwindigkeitsheatmap des Zeltes: Es ist zu erkennen, dass Personen zwisch
 ![Entfluchtungsverlauf Festzelt](img/referenzen/volksfest-entfluchtungsverlauf.png) Zeitlicher Entfluchtungsverlauf der einzelnen Zeltausgänge: Pro Zeltausgang wird die Anzahl der Personen angetragen, die sich noch im Zelt befinden.
 
 
-## Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern
+# Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern
 
 Im Auftrag des [Staatlichen Bauamts München 2](http://www.stbam2.bayern.de/) und der [CAD-Stelle Bayern](http://www.cad-stelle.bayern.de/) wurde mithilfe einer Simulation die Bestandsgeometrie eines Hörsaals evaluiert und mit einer möglichen Umbauvariante verglichen. 
 Der Hörsaal II des [Klinikum Großhadern](http://www.klinikum.uni-muenchen.de/) bietet Sitzplätze für 162 Studierende, die den Raum, etwa im Fall einer Feueralarms, schnellstmöglich über zwei Ausgänge verlassen müssen.
@@ -162,7 +162,9 @@ Das Ergebnis: Die Entfluchtung über nur eine der Türen war bei der bauordnungs
 Die Ergebnisse der Simulations unterstützen das [Staatliche Bauamt München 2](http://www.stbam2.bayern.de/) eine Entscheidung bezüglich des Umbaus zu treffen.
 
 
-## Umbauplanung einer U-Bahnstation – Fußgängersimulation als Werkzeug zum Evaluieren von Sicherheitskonzepten\*
+# Umbauplanung einer U-Bahnstation\*
+
+Fußgängersimulation als Werkzeug zum Evaluieren von Sicherheitskonzepten
 
 In der Planungsphase zum Umbau einer Münchner U-Bahn-Station wurde einer Passagiersimulation durchgeführt, um die Auswirkungen der Maßnahme auf die Fahrgastströme zu untersuchen.
 Als Datenbasis dienten die Fahrpläne sowie die Daten aktueller Personenzählungen zu verschiedenen Tageszeiten.
@@ -170,7 +172,7 @@ Simuliert wurden beide Konzepte – das bestehende und das neue.
 Das [Ergebnis der Personenstromsimulation](https://www.cms.bgu.tum.de/de/lehre/forschungspraktika/abgeschlossene-forschungspraktika#goto1210230), die im Rahmen eines Forschungspraktikums an der TU München stattfand, zeigt eine deutliche Verringerung der maximalen Personendichte und damit des Gefahrenpotential in den kritischen Bereichen des Bahnsteigs durch den Umbau.
 
 
-## Evakuierungssimulation des Fritz-Walter-Stadions auf dem Betzenberg in Kaiserslautern
+# Evakuierungssimulation des Fritz-Walter-Stadions auf dem Betzenberg in Kaiserslautern
 
 Das [Fritz-Walter-Stadion](http://fck.de/de/1-fc-kaiserslautern/stadion/fritz-walter-stadion.html) fasst 49.780 Personen, die im Fall einer Entfluchtung schnellstmöglich in Sicherheit gebracht werden müssen.
 Diese Situation wurde im Rahmen des breit angelegten Projektes „Regionale Evakuierung: Planung, Kontrolle und Anpassung“ simuliert.
@@ -184,14 +186,14 @@ Unter anderem [war der Lehrstuhl Computergestützte Modellierung und Simulation 
 Die Simulation und Visualisierung wurde mit einer Software von Siemens angefertigt.
 
 
-## Überprüfen der Show-Wechselzeiten eines großen Freizeitparks\*
+# Überprüfen der Show-Wechselzeiten eines großen Freizeitparks\*
 
 Zur Validierung von Simulationssoftware wurden Realdaten in einem großen Freizeitpark gesammelt:
 Die Besucherzahlen einer Show dienten als Eingabewerte für die Modellierung, um die Zu- und Abströme in der Simulation gegen die realen Show-Wechselzeiten zu validieren.
 Der Abgleich der Simulationsergebnisse mit den Realdaten ließ aussagekräftige Rückschlüsse über die Qualität der unterschiedlichen Simulationsmodelle zu.
 
 
-## IKOM – Personenstromsimulation Groß-Veranstaltungen
+# IKOM – Personenstromsimulation Groß-Veranstaltungen
 
 Die [IKOM](http://www.ikom.tum.de/) ist das größte Karriereforum Süddeutschlands und wird in der Fakultät für Maschinenwesen der TU München veranstaltet.
 Die Job-Messe findet während des normalen Studienbetriebs statt, so dass sich das Personenaufkommen rund um die Messestände in der Magistrale, der zentralen Verbindungsachse der Uni-Gebäude, noch um mehrere tausend Besucher erhöht.
