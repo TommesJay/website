@@ -35,13 +35,12 @@ Wenn auch Sie eine Veranstaltung in einer historischen Location planen, und eine
 
 Eines der ersten Pilotprojekte der damals frisch gegründeten accu:rate GbR ist aus einer fruchtbaren Kooperation mit Andreas Litger ([LITGER Ziel: Sicherheit!](http://www.litger.de/)) entstanden.
 Andreas ist Meister für Veranstaltungstechnik und Sicherheitsfachperson für Versammlungsstätten nach [Vabeg® Deutschland](http://www.vabeg.com/) und [TÜV® Saarland Gruppe](http://www.tuev-saar.net/) und war mit der Erstellung eines Sicherheitskonzeptes betraut.
-accu:rate erstellte die die Simulation unterschiedlicher Räumungsszenarien für das [Schlosspark Open Air Paderborn 2014](http://www.schlosspark-open-air-paderborn.de/).
+accu:rate erstellte die Simulation unterschiedlicher Räumungsszenarien für das [Schlosspark Open Air Paderborn 2014](http://www.schlosspark-open-air-paderborn.de/).
 
 ![Ausschnitt des durch den accu:rate Simulator berechneten Sichtbarkeitsgraphen des Open Air Geländes in Paderborn](/img/referenzen/nena-graph.png)
 Ausschnitt des durch den accu:rate Simulator berechneten Sichtbarkeitsgraphen des Open Air Geländes in Paderborn.
 
-Damals kam der accu:rate Simulationskern frisch aus der Forschung, und die Freifläche von über 240,000 Quadratmetern war für die Software noch eine Herausforderung.
-Solche (und auch wesentlich größere) Flächen stellen inzwischen (seit Sommer/Herbst 2014) kein Problem mehr dar.
+Damals kam der accu:rate Simulationskern frisch aus der Forschung, und wurde aufgrund der Freifläche von mehr als 240,000 Quadratmetern auf die Probe gestellt. Heutzutage können solch große Flächen - dank vieler Weiterentwicklungen - problemlos gemeistert werden.  
 
 Die langjährige Erfahrung von Andreas half uns bei der Einschätzung der Realitätstreue unserer Simulation.
 Während er den Detaillierungsgrad seines Räumungskonzeptes iterativ erhöhte, konnte accu:rate Fortschritte in der Berechnungsgeschwindigkeit und der Darstellung der Ergebnisse erzielen.
@@ -98,7 +97,7 @@ Vielen Dank Andreas!
 
 # Kapazitätsplanung eines Museums
 
-Die [Architechnic International AG](http://www.architechnic.ch/deutsch/unternehmen/) beauftragte accu:rate die Planung eines Museums zu unterstützen. accu:rate simulierte die Besucherströme bei der Entfluchtung der Gebäude, im Eingangsbereich des Museums und bei den Rundgängen durch das Museum.
+Die [Architechnic International AG](http://www.architechnic.ch/deutsch/unternehmen/) beauftragte accu:rate, die Planung eines Museums zu unterstützen. accu:rate simulierte die Besucherströme bei der Entfluchtung der Gebäude, im Eingangsbereich des Museums sowie bei den Rundgängen durch das Museum.
 
 ### Analyse der Entfluchtung
 accu:rate analysierte die Entfluchtung der mehrstöckigen Museumsgebäude und konnte dabei zwei kritische Bereiche identifizieren, die in der weiteren Planung besondere Berücksichtigung finden werden.
@@ -108,7 +107,7 @@ Im Erdgeschoss eines Gebäudes ist die Stauung (rot eingefärbt) vor dem Ausgang
 
 ### Analyse des Eingangsbereichs
 In der Simulation bewegen sich drei Gruppen à 16 Personen gleichzeitig im Eingangsbereich des Museums. 
-accu:rate wies nach, dass keine Stauungen auftreten und zeigte in welchen Bereichen eine Besucherlenkung sinnvoll wäre.
+accu:rate wies nach, dass keine Stauungen auftreten und zeigte auf, in welchen Bereichen eine Besucherlenkung sinnvoll wäre.
 
 ![Analyse Eingangsbereich Museum](img/referenzen/architechnic-eingangsbereich.jpg)
 Auf dem Screenshot des Simulationsvideos sind die Personen je nach Gruppe verschieden eingefärbt.
