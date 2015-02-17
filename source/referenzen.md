@@ -40,7 +40,8 @@ accu:rate erstellte die Simulation unterschiedlicher Räumungsszenarien für das
 ![Ausschnitt des durch den accu:rate Simulator berechneten Sichtbarkeitsgraphen des Open Air Geländes in Paderborn](/img/referenzen/nena-graph.png)
 Ausschnitt des durch den accu:rate Simulator berechneten Sichtbarkeitsgraphen des Open Air Geländes in Paderborn.
 
-Damals kam der accu:rate Simulationskern frisch aus der Forschung, und wurde aufgrund der Freifläche von mehr als 240,000 Quadratmetern auf die Probe gestellt. Heutzutage können solch große Flächen - dank vieler Weiterentwicklungen - problemlos gemeistert werden.  
+Damals kam der accu:rate Simulationskern frisch aus der Forschung, und wurde aufgrund der Freifläche von mehr als 240.000 Quadratmetern auf die Probe gestellt.
+Heutzutage können solch große Flächen - dank vieler Weiterentwicklungen - problemlos gemeistert werden.
 
 Die langjährige Erfahrung von Andreas half uns bei der Einschätzung der Realitätstreue unserer Simulation.
 Während er den Detaillierungsgrad seines Räumungskonzeptes iterativ erhöhte, konnte accu:rate Fortschritte in der Berechnungsgeschwindigkeit und der Darstellung der Ergebnisse erzielen.
