@@ -1,6 +1,7 @@
 DirectoryIndex html/index.html
 
 RewriteEngine On
+# RewriteCond %{REQUEST_URI} !^/google [NC]
 RewriteRule ^([^\.]+)$ html/$1.html [NC,L]
 RewriteRule ^(.*)_ver(.*).css$ $1.css [NC,L]
 
