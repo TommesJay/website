@@ -26,7 +26,7 @@ Diese Berechnungen können die Dynamik von Personenströmen jedoch nicht erfasse
 - Die Kombination von unterschiedlichen Geometrien (beispielweise Ebenen, Treppen, Lift) und das Miteinbeziehen ihrer gegenseitigen Beeinflussung ist nur schwer möglich
 - Wie kann man die Ungleichverteilung der Personen im Veranstaltungsgelände berücksichtigen?
 - Wie kann man erkennen, ob es sich an einem Fluchtweg mehr staut als an anderen?
-- Wie können die lt. <cite href="MVStaettVO">§ 7 Absatz 4</cite> geforderten Zwischenwerte bei den Rettungswegbreiten miteinbezogen werden?
+- Wie können die lt. <cite href="MVStaettVO">§ 7 Absatz 4 MVStättVO</cite> geforderten Zwischenwerte bei den Rettungswegbreiten miteinbezogen werden?
 - Das *eine* bei statischen Berechnungen zugrunde liegende Fundamentaldiagramm existiert nicht: Vielmehr ist es wichtig, dass die Relation zunehmende Dichte vs. abnehmende Geschwindigkeit eingehalten wird.
 
 Ist das Gelände unübersichtlich, die Räumungsszenarien komplex und/oder die Anzahl der Gäste groß, helfen statische Berechnungsverfahren nicht weiter.
@@ -37,8 +37,8 @@ Besonders bei größeren Veranstaltungen oder komplexen Geometrien bringen Simul
 - Der Computer bildet dynamische Entwicklungen ab - ganz ohne Formel
 - Es wird kein Fundamentaldiagramm benötigt, durch die gegenseitige Beeinflussung der Agenten wird ganz automatisch das Abbremsen erzeugt
 - Durch unterschiedliche Annahmen der räumlichen Verteilung der Personen können auf einfache Weise unterschiedliche Szenarien betrachtet werden
-- Simulationen liefern nicht nur per Knopfdruck Räumungszeiten, sie liefern gleichzeitig die zu erwartenden Verteilungen und Dichten der Personen auf dem Veranstaltungsgelände während der gesamten Entluchtungsdauer
-- Variieren Fluchtwegsbreiten ist sehr einfach möglich
+- Simulationen liefern nicht nur Räumungszeiten, sie liefern gleichzeitig die zu erwartenden Verteilungen und Dichten der Personen auf dem Veranstaltungsgelände während der gesamten Entluchtungsdauer
+- Variieren der Fluchtwegsbreiten ist sehr einfach möglich
 - Überbeanspruchte Ausgänge können auf einen Blick identifiziert werden
 - Schnelles Durchspielen unterschiedlicher Szenarien (wie zum Beispiel versperrte Ausgänge)
 
@@ -71,7 +71,7 @@ Die wichtigsten von uns identifizierten Paragraphen der neuen MVStättVO:
 
 - <cite href="#MVStaettVO">§ 6 Abs 5 Satz 2</cite>: <q>"Die nach § 7 Abs. 4 Satz 1 ermittelte Breite ist möglichst gleichmäßig auf die Ausgänge zu verteilen; die Mindestbreiten nach § 7 Abs. 4 Satz 3 und 4 bleiben unberührt."</q>
 
-- <cite href="#MVStaettVO">§ 42 Abs 1</cite>: <q>"Der Betreiber oder ein von ihm Beauftragter hat im Einvernehmen mit der Brandschutzdienststelle eine Brandschutzordnung und gegebenenfalls ein Räumungskonzept aufzustellen"</q>, u.a. falls <q>"die Maßnahmen, die im Gefahrenfall für eine schnelle und geordnete Räumung der gesamten Versammlungsstätte oder einzelner Bereiche unter besonderer Berücksichtigung von Menschen mit Behinderung erforderlich sind"</q> und die Versammlungsstätte mehr als 1000 Besucher fasst.
+- <cite href="#MVStaettVO">§ 42 Abs 1</cite>: <q>"Der Betreiber oder ein von ihm Beauftragter hat im Einvernehmen mit der Brandschutzdienststelle eine Brandschutzordnung und gegebenenfalls ein Räumungskonzept aufzustellen"</q>, u.a. falls <q>"die Maßnahmen, die im Gefahrenfall für eine schnelle und geordnete Räumung der gesamten Versammlungsstätte oder einzelner Bereiche unter besonderer Berücksichtigung von Menschen mit Behinderung erforderlich sind"</q> und die Versammlungsstätte mehr als 1.000 Besucher fasst.
 
 - <cite href="#MVStaettVO">§ 42 Abs. 2</cite>: Die Unterweisung des Betriebspersonals über die Brandschutzordnung und <q>"bei einer sonstigen Gefahrenlage, gegebenenfalls in Verbindung mit dem Räumungskonzept"</q>
 
