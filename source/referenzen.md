@@ -166,6 +166,17 @@ Die Geschwindigkeitsheatmap des Zeltes: Es ist zu erkennen, dass Personen zwisch
 ![Entfluchtungsverlauf Festzelt](img/referenzen/volksfest-entfluchtungsverlauf.png) Zeitlicher Entfluchtungsverlauf der einzelnen Zeltausgänge: Pro Zeltausgang wird die Anzahl der Personen angetragen, die sich noch im Zelt befinden.
 
 
+Friedrich Baer, Inhaber der Fa. [dvb - Dienstleistungen für Versammlungsstättenbetreiber](http://www.dvb-fb.de/):
+
+> Die Fa. accu:rate wurde von der Fa. dvb beauftragt, die Räumung eines großen Bierzeltes (ca. 6500 Plätze) über Sammelflächen bis hin zu den öffentlichen Verkehrsflächen zu simulieren um die händischen Berechnungen zu validieren.
+
+> Der Vorteil der Personenstromsimulation zeigte sich vor allem darin, dass die Dynamik der Räumung erfasst und dargestellt wird und Hotspots klar zu Tage treten, was insbesondere zu deren Verdeutlichung dem Veranstalter gegenüber sehr hilfreich ist.
+
+> Auch kann überprüft werden, ob die Annahme der VStättVO (1,20 m / 200 Personen) immer zutreffend ist, oder ob aufgrund der baulichen Gegebenheiten ggf. breitere Ausgänge notwendig werden.
+
+> Die Vielzahl der durch accu:rate anfangs und im Prozess abgefragten Parameter zeigt, dass sich die Mitarbeiter intensiv mit der Thematik beschäftigen und hilft dabei, keine wichtigen Randbedingungen zu übersehen. 
+
+
 # Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern
 
 Im Auftrag des [Staatlichen Bauamts München 2](http://www.stbam2.bayern.de/) und der [CAD-Stelle Bayern](http://www.cad-stelle.bayern.de/) wurde mithilfe einer Simulation die Bestandsgeometrie eines Hörsaals evaluiert und mit einer möglichen Umbauvariante verglichen. 
