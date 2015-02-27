@@ -23,31 +23,15 @@ accu:rate erstellte die Simulation unterschiedlicher Räumungsszenarien für das
 [Mehr lesen...](simulation-open-air-konzert)
 
 
-# Kapazitätsplanung eines Museums
+## Kapazitätsplanung eines Museums
 
-Die [Architechnic International AG](http://www.architechnic.ch/deutsch/unternehmen/) beauftragte accu:rate, die Planung eines Museums zu unterstützen. accu:rate simulierte die Besucherströme bei der Entfluchtung der Gebäude, im Eingangsbereich des Museums sowie bei den Rundgängen durch das Museum.
+[![Thumbnail Heatmap Entfluchtungssimulation Museum](/img/referenzen/architechnic-entfluchtung-thumb.png)](kapazitaetsplanung-museum) {.referenzpreview}
 
-### Analyse der Entfluchtung
-accu:rate analysierte die Entfluchtung der mehrstöckigen Museumsgebäude und konnte dabei zwei kritische Bereiche identifizieren, die in der weiteren Planung besondere Berücksichtigung finden werden.
+Die [Architechnic International AG](http://www.architechnic.ch/deutsch/unternehmen/) beauftragte accu:rate, die Planung eines Museums zu unterstützen.
+accu:rate simulierte die Besucherströme bei der Entfluchtung der Gebäude, im Eingangsbereich des Museums sowie bei den Rundgängen durch das Museum.
+Bei der Analyse der Entfluchtung der mehrstöckigen Museumsgebäude konnten zwei kritische Bereiche identifiziert werden, die in der weiteren Planung besondere Berücksichtigung finden werden.
+[Mehr lesen...](kapazitaetsplanung-museum)
 
-![Entfluchtungssimulation des geplanten Museums](img/referenzen/architechnic-entfluchtung.png)
-Im Erdgeschoss eines Gebäudes ist die Stauung (rot eingefärbt) vor dem Ausgang auf der rechten Seite gut zu erkennen.
-
-### Analyse des Eingangsbereichs
-In der Simulation bewegen sich drei Gruppen à 16 Personen gleichzeitig im Eingangsbereich des Museums. 
-accu:rate wies nach, dass keine Stauungen auftreten und zeigte auf, in welchen Bereichen eine Besucherlenkung sinnvoll wäre.
-
-![Analyse Eingangsbereich Museum](img/referenzen/architechnic-eingangsbereich.jpg)
-Auf dem Screenshot des Simulationsvideos sind die Personen je nach Gruppe verschieden eingefärbt.
-
-### Optimierung der Rundgänge
-Aufgrund verschiedener simulierter Varianten der Rundgänge wird die Architechnic International AG die Verteilung der 60 Exponate anpassen.
-Dadurch wird die Besucherführung optimiert sowie unnötige Staus vermieden. 
-
-> Mit den erarbeiteten Erkenntnissen lässt sich nun der Museums- und Sammlungsrundgang aus der Sicht der Besucherströme und aus der Sicht Notfallszenario planen.
-> Ich denke, das ist eine völlig neue Herangehensmethode für die Planung solcher Art Projekte.
-
-(Felix Aries, Geschäftsführer der Architechnic International AG)
 
 # Firmen-Großveranstaltung in einem Kreuzfahrthafen
 
