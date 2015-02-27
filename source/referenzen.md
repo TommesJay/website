@@ -9,6 +9,7 @@ Bitte [kontaktieren](kontakt) Sie uns.
 ## Jugend&shy;korbinians&shy;wall&shy;fahrt im Freisinger Dom
 
 [![Thumbnail Freisinger Dom](/img/referenzen/freisinger-dom-thumb.png)](simulation-freisinger-dom) {.referenzpreview}
+
 Die [4D-Event GmbH](http://www.4d-event.de/) und die [VDS GmbH](http://www.vds-veranstaltung.de/) wurden vom Veranstalter mit der Erstellung eines Sicherheitskonzeptes für die Jugendkorbinianswallfahrt beauftragt.  
 Zum ursprünglichen Auftrag gehörte auch die Bewertung der Besuchersicherheit im Freisinger Dom.
 [Mehr lesen...](simulation-freisinger-dom)
@@ -17,6 +18,7 @@ Zum ursprünglichen Auftrag gehörte auch die Bewertung der Besuchersicherheit i
 ## Open-Air Konzert
 
 [![Thumbnail Open Air Konzert Simulation Sichterbarkeitsgraph](/img/referenzen/nena-graph-thumb.png)](simulation-open-air-konzert) {.referenzpreview}
+
 Eines der ersten Pilotprojekte der damals frisch gegründeten accu:rate GbR ist aus einer fruchtbaren Kooperation mit Andreas Litger ([LITGER Ziel: Sicherheit!](http://www.litger.de/)) entstanden.
 Andreas ist Meister für Veranstaltungstechnik und Sicherheitsfachperson für Versammlungsstätten nach [Vabeg® Deutschland](http://www.vabeg.com/) und [TÜV® Saarland Gruppe](http://www.tuev-saar.net/) und war mit der Erstellung eines Sicherheitskonzeptes betraut.
 accu:rate erstellte die Simulation unterschiedlicher Räumungsszenarien für das [Schlosspark Open Air Paderborn 2014](http://www.schlosspark-open-air-paderborn.de/).
@@ -33,27 +35,13 @@ Bei der Analyse der Entfluchtung der mehrstöckigen Museumsgebäude konnten zwei
 [Mehr lesen...](kapazitaetsplanung-museum)
 
 
-# Firmen-Großveranstaltung in einem Kreuzfahrthafen
+## Firmen-Groß&shy;veranstalt&shy;ung in einem Kreuz&shy;fahrt&shy;hafen
+
+[![Thumbnail Übersicht Kreuzfahrthafen](/img/referenzen/zweiplan-uebersicht-zoom-thumb.png)](simulation-firmengroszveranstaltung-in-einem-kreuzfahrthafen) {.referenzpreview}
 
 Die Event-Agentur [Zweiplan DAS PRODUKTIONSBÜRO GmbH](http://www.zweiplan.de/) realisierte eine Firmen&shy;veranstaltung in einem Kreuzfahrthafen für 7.000 Gäste.
 accu:rate wurde beauftragt, die im Falle einer Entfluchtung geplanten Maßnahmen auf ihre Wirksamkeit zu überprüfen.
-
-![Kreuzfahrthafen Übersichtsplan mit Zoom-Ausschnitt](img/referenzen/zweiplan-uebersicht-zoom-web.png)  
-Der Übersichtsplan des Hafens inklusive den vier anliegenden [AIDA](https://www.aida.de/) Luxus-Linern.
-Der vergrößerte Ausschnitt zeigt den hohen Detailgrad mit einzelnen Bistrotischen und -stühlen.
-
-![Kreuzfahrthafen Übersicht Agenten nach Ziel eingefärbt](img/referenzen/zweiplan-nach-ziel.png)
-Ein Screenshot der 2D-Visualisierung zeigt die Simulation eines Entfluchtungsszenarios.
-In diesem Beispiel sind die Agenten nach ihrem jeweiligen Ziel eingefärbt.
-Dies verbessert das Verständnis für den Räumungsplan und die erleichtert Anpassung.
-
-![Kreuzfahrthafen mikroskopische Simulation Detail Stauung](img/referenzen/zweiplan-detail-stauung.png)  
-Der Ausschnitt zeigt eine Stauung vor einer als Fluchtweg genutzten Brücke.
-Die farbliche Kodierung visualisiert die Dichte, das heißt die Anzahl Personen pro Quadratmeter, hier berechnet mittels [Voronoi-Diagramm](https://de.wikipedia.org/wiki/Voronoi-Diagramm).
-
-![Kreuzfahrthafen mikroskopische Simulation Dichteauswertung über Zeit](img/referenzen/zweiplan-dichte-ueber-zeit.png) {.center}  
-Dieses Diagramm lässt erkennen, dass im oben gezeigten Bereich eine hohe Dichte über eine lange Zeit fortbesteht.
-Grafiken wie diese erlauben - auch ohne Video - Aussagen über den zeitlichen Verlauf der simulierten Entfluchtungsmaßnahme in den gedruckten Report aufzunehmen.
+[Mehr lesen...](simulation-firmengroszveranstaltung-in-einem-kreuzfahrthafen)
 
 
 # Entfluchtungs-Simulation eines Festzeltes
