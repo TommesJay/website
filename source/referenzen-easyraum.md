@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *accu:rate bietet Per&shy;sonen&shy;strom&shy;simulationen für EasyRAUM Nutzer*  {.fancyheader}
+# *accu:rate bietet Per&shy;sonen&shy;strom&shy;simulationen für easyRAUM Nutzer*  {.fancyheader}
 
 
 accu:rate und [easyRAUM](http://easyraum.de/) haben gemeinsam eine Machbarkeitsstudie durchgeführt, um Nutzern der 3D CAD Software [easy&shy;RAUM&shy;pro](http://easyraum.de/de-easyraum) einen reibungslosen Zugang zur Simulation von  Personenströmen zu ermöglichen.
