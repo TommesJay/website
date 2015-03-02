@@ -54,25 +54,15 @@ Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffangflächen des g
 [Mehr lesen...](entfluchtung-simulation-festzelt)
 
 
-# Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern
+## Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern
+
+[![Thumbnail Ausschnitt Laufwege der simulierten Personen](/img/referenzen/klinikum-1-thumb.png)](simulation-entfluchtung-hoersaal) {.referenzpreview}
 
 Im Auftrag des [Staatlichen Bauamts München 2](http://www.stbam2.bayern.de/) und der [CAD-Stelle Bayern](http://www.cad-stelle.bayern.de/) wurde mithilfe einer Simulation die Bestandsgeometrie eines Hörsaals evaluiert und mit einer möglichen Umbauvariante verglichen. 
 Der Hörsaal II des [Klinikum Großhadern](http://www.klinikum.uni-muenchen.de/) bietet Sitzplätze für 162 Studierende, die den Raum, etwa im Fall einer Feueralarms, schnellstmöglich über zwei Ausgänge verlassen müssen.
+
 Die Personenstromsimulation wurde für den vollbesetzten Hörsaal durchgeführt und betrachtet drei Szenarien.
-
-1. Die Entfluchtung über den linken Ausgang, falls der rechte Ausgang versperrt ist
-2. Die Entfluchtung über beide Ausgänge
-3. Die Entfluchtung über den rechten Ausgang, falls der linke Ausgang versperrt ist
-
-In den folgenden Abbildungen sind zum einen die Laufwege der Personen zum anderen die Verteilung der Geschwindigkeiten im Hörsaal dargestellt.
-
-![Klinikum Großhadern, Hörsaal 2, Trajektorien](/img/referenzen/klinikum-1.jpg "Laufwege der Personen") Die Laufwege der Personen für die drei simulierten Szenarien.
-
-![Klinikum Großhadern, Hörsaal 2, Heatmap Geschwindigkeiten](/img/referenzen/klinikum-3.jpg "Verteilung der Geschwindigkeiten") Mittlere Geschwindigkeiten der Personen im Hörsaal.
-
-Um über Umbaumaßnahmen entscheiden zu können, die im Falle eines Alarms eine schnellere und sichere Entfluchtung gewährleisten sollten, wurde neben der Bestandsgeometrie eine Variante simuliert, die den heutigen Anforderungen der Bauordnung entspricht.
-Das Ergebnis: Die Entfluchtung über nur eine der Türen war bei der bauordnungskonformen Variante schneller als bei der Bestandsgeometrie. Beim Szenario mit zwei nutzbaren Ausgängen war dagegen die Bestandsgeometrie leicht im Vorteil.
-Die Ergebnisse der Simulations unterstützen das [Staatliche Bauamt München 2](http://www.stbam2.bayern.de/) eine Entscheidung bezüglich des Umbaus zu treffen.
+[Mehr lesen...](simulation-entfluchtung-hoersaal)
 
 
 # Umbauplanung einer U-Bahnstation\*
