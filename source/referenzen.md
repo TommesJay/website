@@ -46,12 +46,12 @@ accu:rate wurde beauftragt, die im Falle einer Entfluchtung geplanten Maßnahmen
 
 ## Entfluchtungs-Simulation eines Festzeltes
 
-[![Thumbnail Entfluchtungsverlauf Bierzelt](/img/referenzen/volksfest-entfluchtungsverlauf-thumb.png)](entfluchtung-simulation-festzelt) {.referenzpreview}
+[![Thumbnail Entfluchtungsverlauf Bierzelt](/img/referenzen/volksfest-entfluchtungsverlauf-thumb.png)](entfluchtungssimulation-festzelt) {.referenzpreview}
 
 Für ein großes deutsches Volksfest erstellte die Firma [dvb - Friedrich Baer](http://dvb-fb.de/) ein umfassendes Sicherheitskonzept.
 Dieses beinhaltete u.a. die Dimensionierung und Lage der Flucht- und Rettungswege.
 Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffangflächen des größten Bierzelts für eine Entfluchtung im Ernstfall ausreichend groß kalkuliert worden sind.
-[Mehr lesen...](entfluchtung-simulation-festzelt)
+[Mehr lesen...](entfluchtungssimulation-festzelt)
 
 
 ## Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern
