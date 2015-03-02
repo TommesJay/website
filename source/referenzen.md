@@ -5,6 +5,14 @@ Hier finden Sie einige Beispiele unserer Projekte.
 Selbstverständlich beantworten gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+## Per&shy;sonen&shy;strom&shy;simulation für easyRAUM Nutzer
+
+[![Thumbnail Personenstromsimulation für EasyRAUMpro 3D CAD Software](img/referenzen/easyraumpro-thumb.png)](personenstromsimulation-fuer-easyraum) {.referenzpreview}
+
+accu:rate und [easyRAUM](http://easyraum.de/) haben gemeinsam eine Machbarkeitsstudie durchgeführt, um Nutzern der 3D CAD Software [easy&shy;RAUM&shy;pro](http://easyraum.de/de-easyraum) einen reibungslosen Zugang zur Simulation von  Personenströmen zu ermöglichen.
+CAD-Pläne inkl. der verschiedener Bestuhlungsvarianten, die mit easy&shy;RAUM erstellt wurden, sollten genutzt werden, um eine Entfluchtung der Räumlichkeiten zu simulieren.
+[Mehr lesen...](personenstromsimulation-fuer-easyraum)
+
 
 ## Jugend&shy;korbinians&shy;wall&shy;fahrt im Freisinger Dom
 
