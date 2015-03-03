@@ -1,3 +1,6 @@
+/* Javascript for accu-rate.de. Copyright by Florian Sesser 2014, 2015.
+ * http://vanilla-js.com/ */
+
 /* Sehr dumme Spambots blenden. */
 if(typeof(window.document.querySelectorAll) == "undefined") {
     // Thanks to http://www.codecouch.com/2012/05/adding-document-queryselectorall-support-to-ie-7/
