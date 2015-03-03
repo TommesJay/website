@@ -1,9 +1,9 @@
 ---
-siteTitle: accu:rate
+siteTitle: "accu:rate"
 pagetitle: Directory wide title 
-creator: Florian Sesser, accu:rate, 2014
-publisher: accu:rate Institute for Crowd Simulation
-rights: 2014, 2015 accu-rate GbR
+creator: "Florian Sesser, accu:rate, 2014"
+publisher: "accu:rate Institute for Crowd Simulation"
+rights: "2014, 2015 accu-rate GbR"
 baseurl: 
 template: accu-rate
 area:
@@ -13,7 +13,7 @@ area:
 cssversion: 9e55
 jsversion: caf8
 comment: false
-description: accu:rate Institute for Crowd Simulation
+description: "accu:rate Institute for Crowd Simulation"
 lang: de
 keywords: personenstrom,simulation,fußgänger,versammlungsstätte,entfluchtung,location,event,veranstaltung,konzert,festival,altbestand,entfluchtungsnachweis,evakuierungsnachweis,evakuierungssimulation,sondernutzung,sicherheitskonzept,räumungskonzept,veranstaltungssicherheit,betreiber,risikominimierung,evakuierungsplanung,sicherheitsnachweis
 ---
