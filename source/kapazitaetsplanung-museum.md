@@ -31,6 +31,8 @@ Dadurch wird die Besucherführung optimiert sowie unnötige Staus vermieden.
 
 Wenn auch Sie als Betreiber Ihr Konzept schon vor Inbetriebnahme überprüfen möchten, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
+[Weitere Referenzen ansehen](referenzen).
+
 
 #meta#
 pagetitle: Kapazitätsplanung eines Museums

@@ -26,6 +26,8 @@ Die Ergebnisse der Simulations unterstützen das [Staatliche Bauamt München 2](
 
 Wenn auch Sie unterschiedliche Varianten einer baulichen Maßnahme vorab vergleichen möchten, um den Nutzen zu maximieren und Kosten zu sparen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
+[Weitere Referenzen ansehen](referenzen).
+
 
 #meta#
 pagetitle: Entfluchtungs-Simulation eines Hörsaals

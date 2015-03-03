@@ -28,6 +28,8 @@ Grafiken wie diese erlauben - auch ohne Video - Aussagen über den zeitlichen Ve
 
 Wenn auch Sie eine Veranstaltung für viele Menschen planen, und einen Nachweis über die Wirksamkeit Ihres Räumungskonzepts benötigen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
+[Weitere Referenzen ansehen](referenzen).
+
 
 #meta#
 pagetitle: Firmen-Großveranstaltung in einem Kreuzfahrthafen

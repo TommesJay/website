@@ -20,6 +20,11 @@ Neben verschiedener Entfluchtungsvarianten können wir auch die Füllung von Ver
 
 Wenn Sie easyRAUM für die Planung Ihrer Veranstaltungen einsetzen und Interesse an einer Simulation der Personenströme haben, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
+[Weitere Referenzen ansehen](referenzen).
+
+
+
+*[CAD]: Computer-Aided Design (Rechnerunterstütztes Konstruieren)
 
 #meta#
 pagetitle: Personenstromsimulation für easyRAUM
