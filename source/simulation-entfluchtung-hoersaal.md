@@ -5,8 +5,12 @@ Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
-Im Auftrag des [Staatlichen Bauamts München 2](http://www.stbam2.bayern.de/) und der [CAD-Stelle Bayern](http://www.cad-stelle.bayern.de/) wurde mithilfe einer Simulation die Bestandsgeometrie eines Hörsaals evaluiert und mit einer möglichen Umbauvariante verglichen. 
+![Foto leerer Hörsaal im Klinikum Großhadern](/img/referenzen/klinikum-hoersaal-foto.jpg) {.float-right}
+
+Im Auftrag des [Staatlichen Bauamts München 2](http://www.stbam2.bayern.de/) und der [CAD-Stelle Bayern](http://www.cad-stelle.bayern.de/) wurde mithilfe einer Simulation die Bestandsgeometrie eines Hörsaals evaluiert und mit einer möglichen Umbauvariante verglichen.
+
 Der Hörsaal II des [Klinikum Großhadern](http://www.klinikum.uni-muenchen.de/) bietet Sitzplätze für 162 Studierende, die den Raum, etwa im Fall einer Feueralarms, schnellstmöglich über zwei Ausgänge verlassen müssen.
+
 Die Personenstromsimulation wurde für den vollbesetzten Hörsaal durchgeführt und betrachtet drei Szenarien.
 
 1. Die Entfluchtung über den linken Ausgang, falls der rechte Ausgang versperrt ist
