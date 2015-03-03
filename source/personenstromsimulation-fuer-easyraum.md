@@ -1,10 +1,10 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *accu:rate bietet Per&shy;sonen&shy;strom&shy;simulationen für easyRAUM Nutzer*  {.fancyheader}
+# *accu:rate bietet Per&shy;sonen&shy;strom&shy;simulation für easyRAUM Nutzer*  {.fancyheader}
 
 
 accu:rate und [easyRAUM](http://easyraum.de/) haben gemeinsam eine Machbarkeitsstudie durchgeführt, um Nutzern der 3D CAD Software [easy&shy;RAUM&shy;pro](http://easyraum.de/de-easyraum) einen reibungslosen Zugang zur Simulation von  Personenströmen zu ermöglichen.
 
-CAD-Pläne inkl. der verschiedener Bestuhlungsvarianten, die mit easyRAUM erstellt wurden, sollten genutzt werden, um eine Entfluchtung der Räumnlichkeiten zu simulieren.
+CAD-Pläne inkl. der verschiedener Bestuhlungsvarianten, die mit easyRAUM erstellt wurden, sollten genutzt werden, um eine Entfluchtung der Räumlichkeiten zu simulieren.
 
 Dazu haben wir die Pläne des [Mövenpick Hotels in Stuttgart](http://www.moevenpick-hotels.com/en/europe/germany/stuttgart/hotel-stuttgart-airport/meetings/meeting-rooms/) verwendet.
 Dieses Hotel bietet unterschiedliche Konferenzräume mit verschiedenen Bestuhlungsvarianten an.
@@ -20,7 +20,12 @@ Neben verschiedener Entfluchtungsvarianten können wir auch die Füllung von Ver
 
 Wenn Sie easyRAUM für die Planung Ihrer Veranstaltungen einsetzen und Interesse an einer Simulation der Personenströme haben, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
+[Weitere Referenzen ansehen](referenzen).
+
+
+
+*[CAD]: Computer-Aided Design (Rechnerunterstütztes Konstruieren)
 
 #meta#
 pagetitle: Personenstromsimulation für easyRAUM
-description: accu:rate arbeitet hervorragend mit easyRAUM zusammen. Die Simulation von Fußgängerströmen bietet vorab einen Überblick über Abläufe, zeigt Auslastung von Fluchtwegen auf und erleichtert auch die Planung für den Ernstfall.
+description: "accu:rate arbeitet hervorragend mit easyRAUM zusammen. Die Simulation von Fußgängerströmen bietet vorab einen Überblick über Abläufe, zeigt Auslastung von Fluchtwegen auf und erleichtert auch die Planung für den Ernstfall."
