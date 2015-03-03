@@ -10,7 +10,8 @@ area:
     navigation: ../source/area/navigation.md
     sidebar: ../source/area/sidebar.md 
     footer: ../source/area/footer.md
-cssjsversion: 23
+cssversion: 9e55
+jsversion: caf8
 comment: false
 description: accu:rate Institute for Crowd Simulation
 lang: de
