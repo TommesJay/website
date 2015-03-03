@@ -10,8 +10,8 @@ area:
     navigation: ../source/area/navigation.md
     sidebar: ../source/area/sidebar.md 
     footer: ../source/area/footer.md
-cssversion: 9e55
-jsversion: caf8
+cssversion: v9e55
+jsversion: vcaf8
 comment: false
 description: "accu:rate Institute for Crowd Simulation"
 lang: de
