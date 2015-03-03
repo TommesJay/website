@@ -27,6 +27,11 @@ Eine solide Planung von erfahrenen Experten, untermauert mit objektiven Analysen
 
 (Aussage [4D-Event](http://www.4d-event.de/)/[VDS](http://www.vds-veranstaltung.de/))
 
+> Das Team von accu:rate ist flexibel und spontan, genauso wie die Agenten in der Personenstromsimulation.
+> Auch in kürzester Zeit werden alle Hebel in Bewegung gesetzt, um dem Sicherheitsfachplaner verschiedene Simulationen in Eiltempo zu erstellen.
+
+(Florian Appelt, [4D-Event](http://www.4d-event.de/))
+
 Wenn auch Sie eine Veranstaltung in einer historischen Location planen, und einen Nachweis über die Wirksamkeit Ihres Räumungskonzepts benötigen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
 [Weitere Referenzen ansehen](referenzen).
