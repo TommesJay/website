@@ -19,7 +19,7 @@ CAD-Pläne inkl. der verschiedener Bestuhlungsvarianten, die mit easy&shy;RAUM e
 
 [![Thumbnail Freisinger Dom](/img/referenzen/freisinger-dom-thumb.png)](entfluchtungssimulation-freisinger-dom) {.referenzpreview}
 
-Die [4D-Event GmbH](http://www.4d-event.de/) und die [VDS GmbH](http://www.vds-veranstaltung.de/) wurden vom Veranstalter mit der Erstellung eines Sicherheitskonzeptes für die Jugendkorbinianswallfahrt beauftragt.  
+Die [4D-Event GmbH](http://www.4d-event.de/) und die [VDS GmbH](http://www.vds-veranstaltung.de/) wurden vom Veranstalter mit der Erstellung eines Sicherheitskonzeptes für die Jugendkorbinianswallfahrt beauftragt.
 Zum ursprünglichen Auftrag gehörte auch die Bewertung der Besuchersicherheit im Freisinger Dom.
 [Mehr lesen...](entfluchtungssimulation-freisinger-dom)
 
