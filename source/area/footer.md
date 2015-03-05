@@ -15,8 +15,7 @@
 </div>
 <div class="four columns">
     Gerichtsstand: M&uuml;nchen<br />
-    Persönlich verantwortlich:<br />
-    Florian Sesser<br />
+    Dr. Angelika Kneidl, Michael Schölkopf, Florian Sesser<br />
     &copy; 2014, 2015
 </div>
 <div class="one column omega"></div>
