@@ -2,7 +2,7 @@
 # <br /> *Referenzen* {.fancyheader}
 
 Hier finden Sie einige Beispiele unserer Projekte.
-Selbstverständlich beantworten gerne Ihre Fragen!
+Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 

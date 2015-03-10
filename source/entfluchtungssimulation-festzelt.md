@@ -2,7 +2,7 @@
 # <br /> *Entfluchtungs-Simulation eines Fest&shy;zeltes* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
-Selbstverständlich beantworten gerne Ihre Fragen!
+Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 Für ein großes deutsches Volksfest erstellte die Firma [dvb - Friedrich Baer](http://dvb-fb.de/) ein umfassendes Sicherheitskonzept.

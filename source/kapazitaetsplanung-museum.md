@@ -2,7 +2,7 @@
 # <br /> *Kapazitätsplanung eines Museums* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
-Selbstverständlich beantworten gerne Ihre Fragen!
+Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 Die [Architechnic International AG](http://www.architechnic.ch/deutsch/unternehmen/) beauftragte accu:rate, die Planung eines Museums zu unterstützen. accu:rate simulierte die Besucherströme bei der Entfluchtung der Gebäude, im Eingangsbereich des Museums sowie bei den Rundgängen durch das Museum.

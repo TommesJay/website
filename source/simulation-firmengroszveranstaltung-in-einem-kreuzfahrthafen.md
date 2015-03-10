@@ -2,7 +2,7 @@
 # <br /> *Firmen-Großveranstaltung in einem Kreuzfahrthafen* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
-Selbstverständlich beantworten gerne Ihre Fragen!
+Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 Die Event-Agentur [Zweiplan DAS PRODUKTIONSBÜRO GmbH](http://www.zweiplan.de/) realisierte eine Firmen&shy;veranstaltung in einem Kreuzfahrthafen für 7.000 Gäste.

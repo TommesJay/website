@@ -2,7 +2,7 @@
 # <br /> *Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
-Selbstverständlich beantworten gerne Ihre Fragen!
+Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 ![Foto leerer Hörsaal im Klinikum Großhadern](/img/referenzen/klinikum-hoersaal-foto.jpg) {.float-right}

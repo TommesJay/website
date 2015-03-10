@@ -2,7 +2,7 @@
 # <br /> *Entfluchtungs&shy;simulation der Jugend&shy;korbinians&shy;wall&shy;fahrt im Freisinger Dom* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
-Selbstverständlich beantworten gerne Ihre Fragen!
+Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 

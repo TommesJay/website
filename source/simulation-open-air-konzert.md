@@ -2,7 +2,7 @@
 # <br /> *Simulation unter&shy;schied&shy;licher Räum&shy;ungs&shy;szenarien für ein Open-Air Konzert* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
-Selbstverständlich beantworten gerne Ihre Fragen!
+Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 Eines der ersten Pilotprojekte der damals frisch gegründeten accu:rate GbR ist aus einer fruchtbaren Kooperation mit Andreas Litger ([LITGER Ziel: Sicherheit!](http://www.litger.de/)) entstanden.
