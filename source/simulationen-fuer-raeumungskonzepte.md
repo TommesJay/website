@@ -7,7 +7,7 @@ Bitte [kontaktieren](kontakt) Sie uns.
 
 ## accu:rate erarbeitet gemeinsam mit der [Vabeg® Deutschland](http://www.vabeg.com/), [s-cape](http://www.s-cape.me/) und [LITGER Ziel: Sicherheit!](http://www.litger.de/) einen Vorschlag für ein Räumungskonzept. 
 
-Anhand der [Saturn-Arena](http://www.saturn-arena.de/) in Ingolstadt - einem Eishockeystadion - hat die VABEG (s-cape und ALVT) gemeinsam mit der accu:rate unterschiedliche Räumungsszenarien betrachtet: Unterschiedliche Szenarien wurden entfluchtet und die Räumungszeiten von Simulation und Handrechenformel miteinander vergleichen. 
+Anhand der [Saturn-Arena](http://www.saturn-arena.de/) in Ingolstadt - einem Eishockeystadion - hat die Vabeg, s-cape und ALVT gemeinsam mit der accu:rate unterschiedliche Räumungsszenarien betrachtet: Unterschiedliche Szenarien wurden entfluchtet und die Räumungszeiten von Simulation und Handrechenformel miteinander vergleichen. 
 
 accu:rate führte die Simulationen durch, während Vabeg® Deutschland eine Handrechenformel entwickelte. Für simple Szenarien stellte sich heraus, dass die Handrechenformel ähnliche Ergebnisse wie die Simulation liefert. Sobald aber Bestuhlung und Ränge mit einfließen, kann die Dynamik per statischer Formel nicht mehr abgebildet werden.
 
