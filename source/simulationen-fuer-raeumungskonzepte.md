@@ -11,12 +11,14 @@ Anhand der [Saturn-Arena](http://www.saturn-arena.de/) in Ingolstadt - einem Eis
 
 accu:rate führte die Simulationen durch, während Vabeg® Deutschland eine Handrechenformel entwickelte. Für simple Szenarien stellte sich heraus, dass die Handrechenformel ähnliche Ergebnisse wie die Simulation liefert. Sobald aber Bestuhlung und Ränge mit einfließen, kann die Dynamik per statischer Formel nicht mehr abgebildet werden.
 
-Die Erkenntnisse wurden auf dem jährlichen Get together der Vabeg® Deutschland (http://www.vabeg.com/publikationen/news-stellungnahmen/news/522-4-vabeg-get-together-in-eisenach) vorgestellt und diskutiert. 
+Die Erkenntnisse wurden auf dem jährlichen [Get together der Vabeg® Deutschland](http://www.vabeg.com/publikationen/news-stellungnahmen/news/522-4-vabeg-get-together-in-eisenach) vorgestellt und diskutiert. 
 
 Ein Webinar zum Thema Räumungskonzept findet sich in Bearbeitung und werden Sie auf der Webseite der Vabeg bald angeboten bekommen. Dieses wird in Kooperation von accu:rate und VABEG durchgeführt.
 
 
-![Verteilung beim Start der Simulation des Freisinger Doms sowie Ausschnitt bei der Entfluchtung](img/referenzen/freisinger-dom.png)
+![Entfluchtungssimulation der Eisfläche nach 90 Sekunden: Insgesamt wurden 6.727 Personen entfluchtet, was der maximal zulässigen Personenanzahl nach VStättVO entspricht ](img/referenzen/raeumung-simulation-stadion-nach-90-sekunden.png)
+
+![Entfluchtungssimulation der Tribüne nach 60 Sekunden: 1.550 Personen verlassen die Tribüne](img/referenzen/entfluchtung-stadion-tribuene-simulation-60s.png)
 
 Wenn auch Sie ein Räumungskonzept erstellen und die Entfluchtungszeiten mittels Simulation überprüfen lassen wollen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
