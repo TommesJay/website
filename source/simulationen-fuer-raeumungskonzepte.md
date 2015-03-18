@@ -7,9 +7,13 @@ Bitte [kontaktieren](kontakt) Sie uns.
 
 ## accu:rate erarbeitet gemeinsam mit der [Vabeg® Deutschland](http://www.vabeg.com/), [s-cape](http://www.s-cape.me/) und [LITGER Ziel: Sicherheit!](http://www.litger.de/) einen Vorschlag für ein Räumungskonzept. 
 
-Anhand der [Saturn-Arena](http://www.saturn-arena.de/) in Ingolstadt - einem Eishockeystadion - hat die VABEG (s-cape und ALVT) gemeinsam mit der accu:rate unterschiedliche Räumungsszenarien betrachtet: Idee war - angefangen mit einem simplen Szenario - unterschiedliche Szenarien zu entfluchten und die Räumungszeiten von Simulation und Handrechenformel miteinander zu vergleichen. accu:rate hat eine Simulation durchgeführt, während VABEG eine Handrechenformel entwickelt hat. Für simple Szenarien stellte sich heraus, dass die Handrechenformel ähnliche Ergebnisse wie die Simulation liefert. Sobald aber Bestuhlung und Ränge mit einfließen, kann die Dynamik per statischer Formel nicht mehr abgebildet werden.
+Anhand der [Saturn-Arena](http://www.saturn-arena.de/) in Ingolstadt - einem Eishockeystadion - hat die VABEG (s-cape und ALVT) gemeinsam mit der accu:rate unterschiedliche Räumungsszenarien betrachtet: Unterschiedliche Szenarien wurden entfluchtet und die Räumungszeiten von Simulation und Handrechenformel miteinander vergleichen. 
 
-Die Erkenntnisse wurden auf der jährlichen Fachplanertagung der VABEG vorgestellt und diskutiert. Ein Webinar zum Thema Räumungskonzept finden Sie auf der Webseite der VABEG. Dieses wird in Kooperation von accu:rate und VABEG durchgeführt.
+accu:rate führte die Simulationen durch, während Vabeg® Deutschland eine Handrechenformel entwickelte. Für simple Szenarien stellte sich heraus, dass die Handrechenformel ähnliche Ergebnisse wie die Simulation liefert. Sobald aber Bestuhlung und Ränge mit einfließen, kann die Dynamik per statischer Formel nicht mehr abgebildet werden.
+
+Die Erkenntnisse wurden auf dem jährlichen Get together der VABEG (http://www.vabeg.com/publikationen/news-stellungnahmen/news/522-4-vabeg-get-together-in-eisenach) vorgestellt und diskutiert. 
+
+Ein Webinar zum Thema Räumungskonzept findet sich in Bearbeitung und werden Sie auf der Webseite der Vabeg bald angeboten bekommen. Dieses wird in Kooperation von accu:rate und VABEG durchgeführt.
 
 
 ![Verteilung beim Start der Simulation des Freisinger Doms sowie Ausschnitt bei der Entfluchtung](img/referenzen/freisinger-dom.png)
