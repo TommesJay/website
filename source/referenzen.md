@@ -10,7 +10,7 @@ Bitte [kontaktieren](kontakt) Sie uns.
 
 [![Thumbnail Personenstromsimulation für EasyRAUMpro 3D CAD Software](img/referenzen/easyraumpro-thumb.png)](personenstromsimulation-fuer-easyraum) {.referenzpreview}
 
-accu:rate und [easyRAUM](http://easyraum.de/) haben gemeinsam eine Machbarkeitsstudie durchgeführt, um Nutzern der 3D CAD Software [easy&shy;RAUM&shy;pro](http://easyraum.de/de-easyraum) einen reibungslosen Zugang zur Simulation von  Personenströmen zu ermöglichen.
+accu:rate und [easyRAUM](http://easyraum.de/) haben gemeinsam eine Mach&shy;bar&shy;keits&shy;studie durch&shy;geführt, um Nutzern der 3D CAD Software [easy&shy;RAUM&shy;pro](http://easyraum.de/de-easyraum) einen reibungslosen Zugang zur Simulation von  Personenströmen zu ermöglichen.
 CAD-Pläne inkl. der verschiedener Bestuhlungsvarianten, die mit easy&shy;RAUM erstellt wurden, sollten genutzt werden, um eine Entfluchtung der Räumlichkeiten zu simulieren.
 [Mehr lesen...](personenstromsimulation-fuer-easyraum)
 
@@ -19,7 +19,7 @@ CAD-Pläne inkl. der verschiedener Bestuhlungsvarianten, die mit easy&shy;RAUM e
 
 [![Thumbnail Freisinger Dom](/img/referenzen/freisinger-dom-thumb.png)](entfluchtungssimulation-freisinger-dom) {.referenzpreview}
 
-Die [4D-Event GmbH](http://www.4d-event.de/) und die [VDS GmbH](http://www.vds-veranstaltung.de/) wurden vom Veranstalter mit der Erstellung eines Sicherheitskonzeptes für die Jugendkorbinianswallfahrt beauftragt.
+Die [4D-Event GmbH](http://www.4d-event.de/) und die [VDS GmbH](http://www.vds-veranstaltung.de/) wurden vom Veranstalter mit der Erstellung eines Sicherheitskonzeptes für die Jugend&shy;korbinians&shy;wall&shy;fahrt beauftragt.
 Zum ursprünglichen Auftrag gehörte auch die Bewertung der Besuchersicherheit im Freisinger Dom.
 [Mehr lesen...](entfluchtungssimulation-freisinger-dom)
 
@@ -39,7 +39,7 @@ accu:rate erstellte die Simulation unterschiedlicher Räumungsszenarien für das
 [![Thumbnail Heatmap Entfluchtungssimulation Museum](/img/referenzen/architechnic-entfluchtung-thumb.png)](kapazitaetsplanung-museum) {.referenzpreview}
 
 Die [Architechnic International AG](http://www.architechnic.ch/deutsch/unternehmen/) beauftragte accu:rate, die Planung eines Museums zu unterstützen.
-accu:rate simulierte die Besucherströme bei der Entfluchtung der Gebäude, im Eingangsbereich des Museums sowie bei den Rundgängen durch das Museum.
+accu:rate simulierte die Besucher&shy;ströme bei der Ent&shy;flucht&shy;ung der Gebäude, im Eingangsbereich des Museums sowie bei den Rundgängen durch das Museum.
 Bei der Analyse der Entfluchtung der mehrstöckigen Museumsgebäude konnten zwei kritische Bereiche identifiziert werden, die in der weiteren Planung besondere Berücksichtigung finden werden.
 [Mehr lesen...](kapazitaetsplanung-museum)
 
@@ -57,9 +57,9 @@ accu:rate wurde beauftragt, die im Falle einer Entfluchtung geplanten Maßnahmen
 
 [![Thumbnail Entfluchtungsverlauf Bierzelt](/img/referenzen/volksfest-entfluchtungsverlauf-thumb.png)](entfluchtungssimulation-festzelt) {.referenzpreview}
 
-Für ein großes deutsches Volksfest erstellte die Firma [dvb - Friedrich Baer](http://dvb-fb.de/) ein umfassendes Sicherheitskonzept.
-Dieses beinhaltete u.a. die Dimensionierung und Lage der Flucht- und Rettungswege.
-Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffangflächen des größten Bierzelts für eine Entfluchtung im Ernstfall ausreichend groß kalkuliert worden sind.
+Für ein großes deutsches Volksfest erstellte die Firma [dvb - Friedrich Baer](http://dvb-fb.de/) ein umfassendes Sicherheits&shy;konzept.
+Dieses beinhaltete u.a. die Dimension&shy;ierung und Lage der Flucht- und Rettungswege.
+Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffang&shy;flächen des größten Bierzelts für eine Entfluchtung im Ernstfall ausreichend groß kalkuliert worden sind.
 [Mehr lesen...](entfluchtungssimulation-festzelt)
 
 
@@ -68,7 +68,7 @@ Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffangflächen des g
 [![Thumbnail Ausschnitt Laufwege der simulierten Personen](/img/referenzen/klinikum-1-thumb.png)](simulation-entfluchtung-hoersaal) {.referenzpreview}
 
 Im Auftrag des [Staatlichen Bauamts München 2](http://www.stbam2.bayern.de/) und der [CAD-Stelle Bayern](http://www.cad-stelle.bayern.de/) wurde mithilfe einer Simulation die Bestandsgeometrie eines Hörsaals evaluiert und mit einer möglichen Umbauvariante verglichen. 
-Der Hörsaal II des [Klinikum Großhadern](http://www.klinikum.uni-muenchen.de/) bietet Sitzplätze für 162 Studierende, die den Raum, etwa im Fall einer Feueralarms, schnellstmöglich über zwei Ausgänge verlassen müssen.
+Der Hörsaal II des [Klinikum Groß&shy;hadern](http://www.klinikum.uni-muenchen.de/) bietet Sitzplätze für 162 Studierende, die den Raum, etwa im Fall einer Feueralarms, schnellst&shy;möglich über zwei Ausgänge verlassen müssen.
 
 Die Personenstromsimulation wurde für den vollbesetzten Hörsaal durchgeführt und betrachtet drei Szenarien.
 [Mehr lesen...](simulation-entfluchtung-hoersaal)
@@ -81,7 +81,7 @@ Fußgängersimulation als Werkzeug zum Evaluieren von Sicherheitskonzepten
 In der Planungsphase zum Umbau einer Münchner U-Bahn-Station wurde einer Passagiersimulation durchgeführt, um die Auswirkungen der Maßnahme auf die Fahrgastströme zu untersuchen.
 Als Datenbasis dienten die Fahrpläne sowie die Daten aktueller Personenzählungen zu verschiedenen Tageszeiten.
 Simuliert wurden beide Konzepte – das bestehende und das neue.
-Das [Ergebnis der Personenstromsimulation](https://www.cms.bgu.tum.de/de/lehre/forschungspraktika/abgeschlossene-forschungspraktika#goto1210230), die im Rahmen eines Forschungspraktikums an der [TU München](https://www.tum.de/) stattfand, zeigt eine deutliche Verringerung der maximalen Personendichte und damit des Gefahrenpotential in den kritischen Bereichen des Bahnsteigs durch den Umbau.
+Das [Ergebnis der Personen&shy;strom&shy;simulation](https://www.cms.bgu.tum.de/de/lehre/forschungspraktika/abgeschlossene-forschungspraktika#goto1210230), die im Rahmen eines Forschungspraktikums an der [TU München](https://www.tum.de/) stattfand, zeigt eine deutliche Verringerung der maximalen Personendichte und damit des Gefahrenpotential in den kritischen Bereichen des Bahnsteigs durch den Umbau.
 
 
 ## Evakuierungssimulation des Fritz-Walter-Stadions auf dem Betzenberg in Kaiserslautern
@@ -90,7 +90,7 @@ Das [Fritz-Walter-Stadion](http://fck.de/de/1-fc-kaiserslautern/stadion/fritz-wa
 Diese Situation wurde im Rahmen des breit angelegten Projektes „Regionale Evakuierung: Planung, Kontrolle und Anpassung“ simuliert.
 Neben der Erstellung realitätsnaher Evakuierungspläne für die Region diente das Projekt zur Erstellung eines Trainingssimulators für Rettungsdienste, Polizei und Feuerwehr.
 Dazu definierten die Behörden und Organisationen mit Sicherheitsaufgaben (BOS) unterschiedliche Gefahren-Szenarien, die in Personenstromsimulationen abgebildet wurden.
-Durch die graphische Aufbereitung der Simulationsergebnisse konnten Bereiche mit hohen Besucherdichten schnell und anschaulich identifiziert werden.
+Durch die graphische Aufbereitung der Simulations&shy;ergebnisse konnten Bereiche mit hohen Besucherdichten schnell und anschaulich identifiziert werden.
 Die Simulation war Teil des Projekts [Regionale Evakuierung, Planung, Kontrolle und Anpassung (REPKA)](http://www.repka-evakuierung.de/), das durch das BMBF gefördert wurde (2009 - 2012).
 Unter anderem [war der Lehrstuhl Computergestützte Modellierung und Simulation der TU München beteiligt](http://www.repka-evakuierung.de/index.php?Site=Partner#repka-tum).
 
