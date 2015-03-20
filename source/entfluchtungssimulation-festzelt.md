@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# <br /> *Entfluchtungs-Simulation eines Fest&shy;zeltes* {.fancyheader}
+# *Entfluchtungs-Simulation eines Fest&shy;zeltes* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!

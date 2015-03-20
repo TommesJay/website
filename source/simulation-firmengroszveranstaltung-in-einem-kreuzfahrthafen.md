@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# <br /> *Firmen-Großveranstaltung in einem Kreuzfahrthafen* {.fancyheader}
+# *Firmen-Großveranstaltung in einem Kreuzfahrthafen* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!

@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# <br /> *Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern* {.fancyheader}
+# *Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!

@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# <br /> *Ergebnisse der Arbeits&shy;gruppe Räumungs&shy;konzept* {.fancyheader}
+# *Ergebnisse der Arbeits&shy;gruppe Räumungs&shy;konzept* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
