@@ -6,6 +6,16 @@ Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 
+## [Ergebnisse der Arbeits&shy;gruppe Räumungs&shy;konzept](simulationen-fuer-raeumungskonzepte)
+
+[![Simulation der Tribüne nach 60 Sekunden](img/referenzen/entfluchtung-stadion-tribuene-simulation-60s-thumb.png)](simulationen-fuer-raeumungskonzepte) {.referenzpreview}
+
+Die neue MVStättVO verlangt für Versammlungsstätten, die für mehr als 1.000 Besucher bestimmt sind, die Aufstellung eines [Räumungskonzeptes](/raeumungskonzepte).
+Es ist jedoch nicht klar definiert, wie ein Räumungskonzept auszusehen hat.
+Die [Vabeg® Deutschland](http://www.vabeg.com/), [s-cape](http://www.s-cape.me/) und [LITGER Ziel: Sicherheit!](http://www.litger.de/) sind während der Erarbeitung eines solches Räumungskonzepts auf accu:rate zugekommen, um die Komponente der Räumung und Räumungszeiten gemeinsam zu entwickeln.
+[Mehr lesen...](simulationen-fuer-raeumungskonzepte)
+
+
 ## [Per&shy;sonen&shy;strom&shy;simulation für easyRAUM Nutzer](personenstromsimulation-fuer-easyraum)
 
 [![Thumbnail Personenstromsimulation für EasyRAUMpro 3D CAD Software](img/referenzen/easyraumpro-thumb.png)](personenstromsimulation-fuer-easyraum) {.referenzpreview}
