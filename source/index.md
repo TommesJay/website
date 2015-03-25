@@ -12,6 +12,8 @@ An Orten, an denen viele Menschen aufeinandertreffen, existieren daher komplexe 
 
 Sie haben die Möglichkeit, die Komplexität von Personenströmen durch accu:rate nachvollziehbar zu machen.
 
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/sw1zICjwpV4?rel=0' frameborder='0' allowfullscreen></iframe></div>
+
 
 ## Risiken erkennen und ausschließen
 
