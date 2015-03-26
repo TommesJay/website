@@ -13,15 +13,13 @@ zugeschnitten. Fragen Sie uns, wir beraten Sie gerne!
 
 
 <div class="leistungsbox four columns alpha border" markdown="1">
-#### Leistungen für *Architekten*
-
+#### Leistungen für *Brandschutzexperten*, *Planungsbüros* und *Architekten*
+- Evakuierungssimulationen als Kompensationsmaßnahme im Brandschutz
 - Infra&shy;struk&shy;tur&shy;elle Ge&shy;bäude: [Sicher&shy;heits- und Kapa&shy;zitäts&shy;plan&shy;ung für Ver&shy;kehrs&shy;be&shy;triebe](infrastrukturelle-gebaeude)
 - Zeit- und Kosten&shy;erspar&shy;nis durch früh&shy;zeit&shy;ige Iden&shy;ti&shy;fi&shy;ka&shy;ti&shy;on von Pro&shy;blem&shy;stel&shy;len.
 - Schnelle Neu&shy;be&shy;wert&shy;ung bei Änder&shy;ungen in der Gebäude- / In&shy;fra&shy;struktur&shy;planung.
 </div>
 
-
-<div class="leistungsbox four columns border" markdown="1">
 #### Leistungen für *Sicherheitsfachplaner*
 
 - [Nach&shy;weise für Räumungs&shy;kon&shy;zep&shy;te nach MVStättVO](raeumungskonzepte)
@@ -30,6 +28,8 @@ zugeschnitten. Fragen Sie uns, wir beraten Sie gerne!
 - Steigerung der Si&shy;cher&shy;heit und Re&shy;duk&shy;ti&shy;on des Haft&shy;ungs&shy;ri&shy;si&shy;kos.
 - [Weitere An&shy;wend&shy;ungs&shy;mög&shy;lich&shy;keit&shy;en in der Ver&shy;an&shy;stalt&shy;ungs&shy;sicher&shy;heit](veranstaltungssicherheit)
 </div>
+
+<div class="leistungsbox four columns border" markdown="1">
 
 
 <div class="leistungsbox four columns omega border" markdown="1">
