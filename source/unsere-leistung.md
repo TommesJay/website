@@ -20,6 +20,7 @@ zugeschnitten. Fragen Sie uns, wir beraten Sie gerne!
 - Schnelle Neu&shy;be&shy;wert&shy;ung bei Änder&shy;ungen in der Gebäude- / In&shy;fra&shy;struktur&shy;planung.
 </div>
 
+<div class="leistungsbox four columns border" markdown="1">
 #### Leistungen für *Sicherheitsfachplaner*
 
 - [Nach&shy;weise für Räumungs&shy;kon&shy;zep&shy;te nach MVStättVO](raeumungskonzepte)
@@ -28,8 +29,6 @@ zugeschnitten. Fragen Sie uns, wir beraten Sie gerne!
 - Steigerung der Si&shy;cher&shy;heit und Re&shy;duk&shy;ti&shy;on des Haft&shy;ungs&shy;ri&shy;si&shy;kos.
 - [Weitere An&shy;wend&shy;ungs&shy;mög&shy;lich&shy;keit&shy;en in der Ver&shy;an&shy;stalt&shy;ungs&shy;sicher&shy;heit](veranstaltungssicherheit)
 </div>
-
-<div class="leistungsbox four columns border" markdown="1">
 
 
 <div class="leistungsbox four columns omega border" markdown="1">
