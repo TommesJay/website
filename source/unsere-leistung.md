@@ -8,9 +8,8 @@ Zu unseren Basisleistungen zählen die Simulation von Personen- und
 Besucherströmen, der Vergleich von unterschiedlichen Varianten sowie die
 Detailanalyse von bestimmten Auswertungsbereichen der Simulationsszenarien. 
 
-Die Leistungen werden individuell kombiniert und auf Ihre Bedürfnisse
-zugeschnitten. Fragen Sie uns, wir beraten Sie gerne!
 
+<div class="row">
 
 <div class="leistungsbox four columns alpha border" markdown="1">
 #### Leistungen für *Brandschutzexperten*, *Planungsbüros* und *Architekten*
@@ -39,6 +38,10 @@ zugeschnitten. Fragen Sie uns, wir beraten Sie gerne!
 - Deutlich bes&shy;sere Vor&shy;be&shy;rei&shy;tung des Si&shy;cher&shy;heits&shy;per&shy;so&shy;nals.
 </div>
 
+</div> <!-- /row -->
+
+
+Wir kombinieren unsere Leistungen individuell und schneiden unser Angebot auf Ihre Bedürfnisse zu. Fragen Sie uns, wir beraten Sie gerne!
 
 
 #meta#
