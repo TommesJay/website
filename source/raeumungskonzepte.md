@@ -12,7 +12,7 @@ Ein Räumungskonzept muss einen Nachweis über dessen Tragfähigkeit enthalten.
 
 ## Wie kann die Tragfähigkeit eines solchen Konzepts nachgewiesen werden?
 
-Hat man es mit einer übersichtlichen Anzahl von Unterwiesenen zu tun - wie zum Beispiel Angestellte - können Räumungsübungen durchgeführt und so die benötigte Zeit ermittelt werden.
+Hat man es mit einer übersichtlichen Anzahl von Unterwiesenen zu tun - wie zum Beispiel Angestellte - können Räumungsübungen durchgeführt und so die für die Räumung benötigte Zeit ermittelt werden.
 
 Manchmal ist dies jedoch nicht möglich, etwa weil es sich um eine einmalige Veranstaltung handelt.
 Bei einer simplen Geometrie des Veranstaltungsgebäudes bzw. -geländes und einer homogenen Gästeliste kann mit Hilfe einfacher Formeln die Entfluchtungsdauer abgeschätzt werden.
@@ -40,7 +40,7 @@ Besonders bei größeren Veranstaltungen oder komplexen Geometrien bringen Simul
 - Simulationen liefern nicht nur Räumungszeiten, sie liefern gleichzeitig die zu erwartenden Verteilungen und Dichten der Personen auf dem Veranstaltungsgelände während der gesamten Entluchtungsdauer
 - Variieren der Fluchtwegsbreiten ist sehr einfach möglich
 - Überbeanspruchte Ausgänge können auf einen Blick identifiziert werden
-- Schnelles Durchspielen unterschiedlicher Szenarien (wie zum Beispiel versperrte Ausgänge)
+- Unterschiedliche Szenarien, wie zum Beispiel versperrte Ausgänge, können schnell und zuverlässig überprüft werden
 
 
 ## Visualisierung der Ergebnisse
@@ -76,6 +76,8 @@ Die wichtigsten von uns identifizierten Paragraphen der neuen MVStättVO:
 - <cite href="#MVStaettVO">§ 42 Abs. 2</cite>: Die Unterweisung des Betriebspersonals über die Brandschutzordnung und <q>"bei einer sonstigen Gefahrenlage, gegebenenfalls in Verbindung mit dem Räumungskonzept"</q>
 
 - <cite href="#MVStaettVO">§ 44 Abs 1 Satz 2</cite>: Falls eine höhere Anzahl an Besuchern je m² Grundfläche als in §1 vorgesehen ist, so <q>"sind die schnelle und sichere Erreichbarkeit der Ausgänge ins Freie und die Möglichkeit zur Durchführung wirksamer Lösch- und Rettungsmaßnahmen gesondert darzustellen."</q>
+
+Wenn auch Sie ein Räumungskonzept erstellen und die Entfluchtungszeiten mittels Simulation überprüfen lassen wollen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
 
 Quellen:
