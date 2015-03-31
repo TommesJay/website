@@ -6,7 +6,7 @@ Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 
-## [Ergebnisse der Arbeits&shy;gruppe Räumungs&shy;konzept](simulationen-fuer-raeumungskonzepte)
+## [Ergebnisse der Arbeits&shy;gruppe Räumungs&shy;konzept](simulationen-fuer-raeumungskonzepte) {#simulationen-raeumungskonzepte}
 
 [![Simulation der Tribüne nach 60 Sekunden](img/referenzen/entfluchtung-stadion-tribuene-simulation-60s-thumb.png)](simulationen-fuer-raeumungskonzepte) {.referenzpreview}
 
@@ -16,7 +16,7 @@ Die [Vabeg® Deutschland](http://www.vabeg.com/), [s-cape](http://www.s-cape.me/
 [Mehr lesen...](simulationen-fuer-raeumungskonzepte)
 
 
-## [Per&shy;sonen&shy;strom&shy;simulation für easyRAUM Nutzer](personenstromsimulation-fuer-easyraum)
+## [Per&shy;sonen&shy;strom&shy;simulation für easyRAUM Nutzer](personenstromsimulation-fuer-easyraum) {#personenstromsimulation-easyraum}
 
 [![Thumbnail Personenstromsimulation für EasyRAUMpro 3D CAD Software](img/referenzen/easyraumpro-thumb.png)](personenstromsimulation-fuer-easyraum) {.referenzpreview}
 
@@ -25,7 +25,7 @@ CAD-Pläne inkl. der verschiedener Bestuhlungsvarianten, die mit easy&shy;RAUM e
 [Mehr lesen...](personenstromsimulation-fuer-easyraum)
 
 
-## [Jugend&shy;korbinians&shy;wall&shy;fahrt im Freisinger Dom](entfluchtungssimulation-freisinger-dom)
+## [Jugend&shy;korbinians&shy;wall&shy;fahrt im Freisinger Dom](entfluchtungssimulation-freisinger-dom) {#entfluchtungssimulation-freisinger-dom}
 
 [![Thumbnail Freisinger Dom](/img/referenzen/freisinger-dom-thumb.png)](entfluchtungssimulation-freisinger-dom) {.referenzpreview}
 
@@ -34,7 +34,7 @@ Zum ursprünglichen Auftrag gehörte auch die Bewertung der Besuchersicherheit i
 [Mehr lesen...](entfluchtungssimulation-freisinger-dom)
 
 
-## [Open-Air Konzert](simulation-open-air-konzert)
+## [Open-Air Konzert](simulation-open-air-konzert) {#simulation-open-air-konzert}
 
 [![Thumbnail Open Air Konzert Simulation Sichterbarkeitsgraph](/img/referenzen/nena-graph-thumb.png)](simulation-open-air-konzert) {.referenzpreview}
 
@@ -44,7 +44,7 @@ accu:rate erstellte die Simulation unterschiedlicher Räumungsszenarien für das
 [Mehr lesen...](simulation-open-air-konzert)
 
 
-## [Kapazitätsplanung eines Museums](kapazitaetsplanung-museum)
+## [Kapazitätsplanung eines Museums](kapazitaetsplanung-museum) {#kapazitaetsplanung-museum}
 
 [![Thumbnail Heatmap Entfluchtungssimulation Museum](/img/referenzen/architechnic-entfluchtung-thumb.png)](kapazitaetsplanung-museum) {.referenzpreview}
 
@@ -54,7 +54,7 @@ Bei der Analyse der Entfluchtung der mehrstöckigen Museumsgebäude konnten zwei
 [Mehr lesen...](kapazitaetsplanung-museum)
 
 
-## [Firmen-Groß&shy;veranstalt&shy;ung in einem Kreuz&shy;fahrt&shy;hafen](simulation-firmengroszveranstaltung-in-einem-kreuzfahrthafen)
+## [Firmen-Groß&shy;veranstalt&shy;ung in einem Kreuz&shy;fahrt&shy;hafen](simulation-firmengroszveranstaltung-in-einem-kreuzfahrthafen) {#simulation-kreuzfahrthafen}
 
 [![Thumbnail Übersicht Kreuzfahrthafen](/img/referenzen/zweiplan-uebersicht-zoom-thumb.png)](simulation-firmengroszveranstaltung-in-einem-kreuzfahrthafen) {.referenzpreview}
 
@@ -63,7 +63,7 @@ accu:rate wurde beauftragt, die im Falle einer Entfluchtung geplanten Maßnahmen
 [Mehr lesen...](simulation-firmengroszveranstaltung-in-einem-kreuzfahrthafen)
 
 
-## [Entfluchtungs-Simulation eines Festzeltes](entfluchtungssimulation-festzelt)
+## [Entfluchtungs-Simulation eines Festzeltes](entfluchtungssimulation-festzelt) {#entfluchtungssimulation-festzelt}
 
 [![Thumbnail Entfluchtungsverlauf Bierzelt](/img/referenzen/volksfest-entfluchtungsverlauf-thumb.png)](entfluchtungssimulation-festzelt) {.referenzpreview}
 
@@ -73,7 +73,7 @@ Ziel des Projekts war zu überprüfen, ob die vorgesehenen Auffang&shy;flächen 
 [Mehr lesen...](entfluchtungssimulation-festzelt)
 
 
-## [Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern](simulation-entfluchtung-hoersaal)
+## [Entfluchtungs-Simulation eines Hörsaals des Klinikum Großhadern](simulation-entfluchtung-hoersaal) {#simulation-entfluchtung-hoersaal}
 
 [![Thumbnail Ausschnitt Laufwege der simulierten Personen](/img/referenzen/klinikum-1-thumb.png)](simulation-entfluchtung-hoersaal) {.referenzpreview}
 
@@ -84,7 +84,7 @@ Die Personenstromsimulation wurde für den vollbesetzten Hörsaal durchgeführt 
 [Mehr lesen...](simulation-entfluchtung-hoersaal)
 
 
-## Umbauplanung einer U-Bahnstation\*
+## Umbauplanung einer U-Bahnstation\* {#umbauplanung-u-bahnstation}
 
 Fußgängersimulation als Werkzeug zum Evaluieren von Sicherheitskonzepten
 
@@ -94,7 +94,7 @@ Simuliert wurden beide Konzepte – das bestehende und das neue.
 Das [Ergebnis der Personen&shy;strom&shy;simulation](https://www.cms.bgu.tum.de/de/lehre/forschungspraktika/abgeschlossene-forschungspraktika#goto1210230), die im Rahmen eines Forschungspraktikums an der [TU München](https://www.tum.de/) stattfand, zeigt eine deutliche Verringerung der maximalen Personendichte und damit des Gefahrenpotential in den kritischen Bereichen des Bahnsteigs durch den Umbau.
 
 
-## Evakuierungssimulation des Fritz-Walter-Stadions auf dem Betzenberg in Kaiserslautern
+## Evakuierungssimulation des Fritz-Walter-Stadions auf dem Betzenberg in Kaiserslautern {#fritz-walter-stadion}
 
 Das [Fritz-Walter-Stadion](http://fck.de/de/1-fc-kaiserslautern/stadion/fritz-walter-stadion.html) fasst 49.780 Personen, die im Fall einer Entfluchtung schnellstmöglich in Sicherheit gebracht werden müssen.
 Diese Situation wurde im Rahmen des breit angelegten Projektes „Regionale Evakuierung: Planung, Kontrolle und Anpassung“ simuliert.
@@ -108,14 +108,14 @@ Unter anderem [war der Lehrstuhl Computergestützte Modellierung und Simulation 
 Die Simulation und Visualisierung wurde mit einer Software von Siemens angefertigt.
 
 
-## Überprüfen der Show-Wechselzeiten eines großen Freizeitparks\*
+## Überprüfen der Show-Wechselzeiten eines großen Freizeitparks\* {#show-wechselzeiten-freizeitpark}
 
 Zur Validierung von Simulationssoftware wurden Realdaten in einem großen Freizeitpark gesammelt:
 Die Besucherzahlen einer Show dienten als Eingabewerte für die Modellierung, um die Zu- und Abströme in der Simulation gegen die realen Show-Wechselzeiten zu validieren.
 Der Abgleich der Simulationsergebnisse mit den Realdaten ließ aussagekräftige Rückschlüsse über die Qualität der unterschiedlichen Simulationsmodelle zu.
 
 
-## IKOM – Personenstromsimulation Groß-Veranstaltungen
+## IKOM – Personenstromsimulation Groß-Veranstaltungen {#ikom-veranstaltungen}
 
 Die [IKOM](http://www.ikom.tum.de/) ist das größte Karriereforum Süddeutschlands und wird in der Fakultät für Maschinenwesen der TU München veranstaltet.
 Die Job-Messe findet während des normalen Studienbetriebs statt, so dass sich das Personenaufkommen rund um die Messestände in der Magistrale, der zentralen Verbindungsachse der Uni-Gebäude, noch um mehrere tausend Besucher erhöht.
