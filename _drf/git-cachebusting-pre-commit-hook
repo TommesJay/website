@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# CSS/JS cache busting
+sed -i "s/cssversion: .*/cssversion: v`md5sum template/accu-rate.css | cut -c -4`/" source/meta.yml
+sed -i "s/jsversion: .*/jsversion: v`md5sum template/accu-rate.js | cut -c -4`/" source/meta.yml
+
+if [[ `git status --porcelain source/meta.yml` ]]; then
+    echo "meta.yml changed -- maybe the cache is to be busted?"
+    echo "You might want to add source/meta.yml to your commit."
+    sleep 2
+fi
+
+#EOF#
