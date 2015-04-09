@@ -12,7 +12,7 @@ Detailanalyse von bestimmten Auswertungsbereichen der Simulationsszenarien.
 <div class="row">
 
 <div class="leistungsbox four columns alpha border" markdown="1">
-#### Leistungen für *Brandschutzexperten*, *Planungsbüros* und *Architekten*
+#### Leistungen für *Planungs&shy;büros*, *Archi&shy;tekten* und *Brand&shy;schutz&shy;exper&shy;ten*
 
 - Evakuierungssimulationen als Kompensationsmaßnahme im Brandschutz
 - Infra&shy;struk&shy;tur&shy;elle Ge&shy;bäude: [Sicher&shy;heits- und Kapa&shy;zitäts&shy;plan&shy;ung für Ver&shy;kehrs&shy;be&shy;triebe](infrastrukturelle-gebaeude)
@@ -21,7 +21,7 @@ Detailanalyse von bestimmten Auswertungsbereichen der Simulationsszenarien.
 </div>
 
 <div class="leistungsbox four columns border" markdown="1">
-#### Leistungen für *Sicherheitsfachplaner*
+#### Leistungen für *Sicherheits&shy;fachplaner*
 
 - [Nach&shy;weise für Räumungs&shy;kon&shy;zep&shy;te nach MVStättVO](raeumungskonzepte)
 - Qualitäts&shy;stei&shy;gerung der Em&shy;pfehl&shy;ung&shy;en durch ef&shy;fi&shy;zi&shy;en&shy;te Sze&shy;na&shy;rio&shy;be&shy;trach&shy;tung.
@@ -32,7 +32,7 @@ Detailanalyse von bestimmten Auswertungsbereichen der Simulationsszenarien.
 
 
 <div class="leistungsbox four columns omega border" markdown="1">
-#### Leistungen für *Sicherheitspersonal*
+#### Leistungen für *Sicherheits&shy;personal*
 
 - Schnelles und gründ&shy;liches Trai&shy;ning des Per&shy;so&shy;nals über die Si&shy;mu&shy;la&shy;tion&shy;en.
 - Deutlich bes&shy;sere Vor&shy;be&shy;rei&shy;tung des Si&shy;cher&shy;heits&shy;per&shy;so&shy;nals.
