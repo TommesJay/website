@@ -42,6 +42,7 @@ Wenn auch Sie ein Räumungskonzept erstellen und die Entfluchtungszeiten mittels
 
 <!-- Abkürzungen: -->
 *[MVStättVO]: Musterversammlungsstättenverordnung
+*[VStättVO]: Versammlungsstättenverordnung
 
 #meta#
 pagetitle: Ergebnisse der Arbeitsgruppe Räumungskonzept
