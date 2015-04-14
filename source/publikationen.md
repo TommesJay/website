@@ -3,6 +3,7 @@
 
 ## Presseartikel
 
+- Süddeutsche Zeitung: [Computertechnik, die Leben rettet](http://www.sueddeutsche.de/muenchen/software-zur-evakuierung-nur-keine-panik-1.2433613), Christiane Funke, 14.04.2015
 - Event Elevator: [Personenverhalten richtig vorhersagen](http://www.eventelevator.de/neuigkeiten/allgemein/accu-rate-und-bbvs-starten-kooperation), André Werner, 28.11.2014
 - The Conversation: [Computing the chances of Olympic crowd chaos](http://theconversation.com/computing-the-chances-of-olympic-crowd-chaos-8066), Angelika Kneidl, 24.07.2012
 - Abendzeitung München: [Wiesn-Panik: Diese Software kann sie berechnen](http://www.abendzeitung-muenchen.de/inhalt.simulation-wiesn-panik-diese-software-kann-sie-berechnen.2d7d8ded-1957-4507-b484-38a55c0651d9.html), Michael Heinrich, 06.03.2012
