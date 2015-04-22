@@ -13,19 +13,6 @@ Während dieser Zeit wurde sie mehrmals für ihre Arbeit ausgezeichnet: Ihr wurd
 Sie ist bei accu:rate Expertin für die Modellierung und für die Produktentwicklung verantwortlich. Kontaktieren Sie Frau Kneidl für alle wissenschaftlichen sowie produktspezifischen Fragen unter <span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>.
 
 
-### Michael Schölkopf
-
-![Photo: Michael Schölkopf](/img/team-ms.png) {.mugshot}
-Michael Schölkopf ist Diplom-Ingenieur für Maschinenbau.
-Er studierte an der TU München und schloss sein Studium mit seiner Diplomarbeit an der TU Delft ab.
-Er war Manage&More-Stipendiat der UnternehmerTUM, dem Zentrum für Innovation und Gründung der TU München.
-Als Mitgründer in technologie&shy;orientierten Startups sammelte er wertvolle Erfahrung in frühen Entwicklungsphasen von Unternehmen.
-Bis 2013 arbeitete er als Produktmanager bei der Next Generation Mobility GmbH & Co. KG.
-
-Bei accu:rate ist Herr Schölkopf für die Weiterentwicklung des Vertriebs und Marketings verantwortlich.
-Kontaktieren Sie ihn, wenn Sie wissen wollen, ob accu:rate auch für Sie eine Lösung bietet unter <span class="mailadresse" data-to="ms">ms@javascript.anti.spam</span>.
-
-
 ### Florian Sesser
 
 ![Photo: Florian Sesser](/img/team-fs.png) {.mugshot}
@@ -38,7 +25,8 @@ Bei accu:rate hat Herr Sesser die Verantwortung für die Softwarearchitektur und
 Kontaktieren Sie ihn für technische Fragen unter <span class="mailadresse" data-to="fs">fs@javascript.anti.spam</span>.
 
 
-## Partner & Unterstützer
+
+## Partner
 
 ### Hochschule München, Prof. Dr. Gerta Köster
 
@@ -71,6 +59,21 @@ Dazu gehören Sicherheitsberatungen für Betreiber, Veranstalter und Behörden u
 Ein Schwerpunkt des Unternehmens ist das Crowd Management (Besucherlenkung), das beispielsweise auf der Meisterfeier des FC Bayern Münchens 2013 erfolgreich eingesetzt wurde.
 Die VDS GmbH leitet als Verbundkoordinator seit 2013 das auf drei Jahre angelegte Forschungsprojekt [MultikOSi](http://www.multikosi.de/), das vom [Bundesministerium für Bildung und Forschung](http://www.bmbf.de/) gefördert wird. Ziel des Projekts ist es, Unterstützungssysteme für die sichere Konzeption und Durchführung von städtischen Großveranstaltungen zu erforschen.
 Der Geschäftsführer Roland G. Meier ist seit 2009 Sachverständiger für Veranstaltungssicherheit und Versammlungsstätten und seit 2013 durch den [Deutschen Gutachter- und Sachverständigenverband (DGSV)](http://www.dgusv.de/) zertifiziert sowie geprüfte "Sicherheitsfachperson für Versammlungsstätten" (Zertifikat des [TÜV Saarland](http://www.tuev-saar.net/)). Er ist 1. Vorsitzender des [Bundesverbands Veranstaltungssicherheit](http://bvvs.org/).
+
+
+
+## Unterstützer
+
+Auch wenn wir nicht alle Menschen, die uns unterstützen und unterstützt haben, hier nennen können - ohne die Tatkraft von vielen wäre accu:rate heute nicht, was es ist.
+
+
+### Michael Schölkopf
+
+![Photo: Michael Schölkopf](/img/team-ms.png) {.mugshot}
+Michael Schölkopf ist Diplom-Ingenieur für Maschinenbau und Manage&More-Stipendiat der UnternehmerTUM.
+Als Mitgründer in technologie&shy;orientierten Startups sammelte er wertvolle Erfahrung in frühen Entwicklungsphasen von Unternehmen.
+Herr Schölkopf hat bei accu:rate von März 2014 bis März 2015 die Felder Business Development, Vertrieb und Marketing verantwortet.
+
 
 
 
