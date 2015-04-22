@@ -2,7 +2,7 @@
 
 <div class="vcard">
 <span class="org">accu:rate GbR</span>
-<span class="fn">Dr. Angelika Kneidl, Michael Schölkopf, Florian Sesser</span>
+<span class="fn">Dr. Angelika Kneidl, Florian Sesser</span>
 <p class="adr">
 <span class="extended-address">c/o Chair of Computational Modeling and Simulation</span>
 <span class="street-address">Arcisstra&szlig;e 21</span>
