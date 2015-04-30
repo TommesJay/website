@@ -79,13 +79,13 @@ Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in we
 Wir danken unseren Unterstützern:
 
 <div class="associates-logos" markdown="1">
-[![Hochschule München](/img/associates/hm.png)](http://www.hm.edu/)
-[![EXiST gefördert Jan - Dec 2014](/img/associates/exist.jpg)](https://www.exist.de/)
-[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png)](https://www.hvb-frauenbeirat.de/)
-[![IKT Innovativ](img/associates/ikt-innovativ.png)](http://www.gruenderwettbewerb.de/preistraeger/preistraeger/runde-2-2014)
-[![TUM](/img/associates/tum.png)](https://www.tum.de/)
-[![UnternehmerTUM](/img/associates/unternehmertum.png)](https://www.unternehmertum.de/)
-[![The best Java profiler: JProfile by ej-technologies](/img/associates/jprofiler_medium.png)](https://www.ej-technologies.com/products/jprofiler/overview.html)
+[![Hochschule München](/img/associates/hm.png "accu:rate arbeitet seit Beginn intensiv mit Prof. Dr. Köster und der Hochschule München zusammen.")](http://www.hm.edu/)
+[![EXiST gefördert Jan - Dec 2014](/img/associates/exist.jpg "accu:rate wurde Kalenderjahr 2014 durch das EXiST Gründerstipendium gefördert.")](https://www.exist.de/)
+[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png "Dr. Angelika Kneidl hat am 16. Oktober 2014 eine Förderung durch das Gründerinnen-Mentoring-Programm des HVB Frauenbeirats gewonnen.")](https://www.hvb-frauenbeirat.de/)
+[![IKT Innovativ](img/associates/ikt-innovativ.png "Am 16. März 2015 durfte accu:rate auf der CeBIT einen Preis im Rahmen des IKT Innovativ Gründerwettbewerbs (Runde 2/2014) entgegen nehmen.")](http://www.gruenderwettbewerb.de/preistraeger/preistraeger/runde-2-2014)
+[![TUM](/img/associates/tum.png "accu:rate ist eine Ausgründung des Lehrstuhls für Computergestützte Modellierung und Simulation der Technischen Universität München.")](https://www.tum.de/)
+[![UnternehmerTUM](/img/associates/unternehmertum.png "Von Beginn an wurde accu:rate durch die UnternehmerTUM begleitet und gefördert.")](https://www.unternehmertum.de/)
+[![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Die Münchner Firma ej-technologies GmbH hat günstig Lizenzen für ihr Softwareentwicklungs-Werkzeug JProfiler an accu:rate abgegeben.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
 </div>
 
 #meta#
