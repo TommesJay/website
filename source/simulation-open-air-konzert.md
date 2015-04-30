@@ -1,4 +1,4 @@
-![](/img/accurate-bild-start.jpg) {.fancyheader-img}
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *Simulation unter&shy;schied&shy;licher Räum&shy;ungs&shy;szenarien für ein Open-Air Konzert* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.

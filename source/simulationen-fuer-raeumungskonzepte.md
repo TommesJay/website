@@ -1,4 +1,4 @@
-![](/img/accurate-bild-start.jpg) {.fancyheader-img}
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *Ergebnisse der Arbeits&shy;gruppe Räumungs&shy;konzept* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.

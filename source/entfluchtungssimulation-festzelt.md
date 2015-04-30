@@ -1,4 +1,4 @@
-![](/img/accurate-bild-start.jpg) {.fancyheader-img}
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *Entfluchtungs-Simulation eines Fest&shy;zeltes* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.

@@ -1,4 +1,4 @@
-![](/img/accurate-bild-start.jpg) {.fancyheader-img}
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *Firmen-Großveranstaltung in einem Kreuzfahrthafen* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.

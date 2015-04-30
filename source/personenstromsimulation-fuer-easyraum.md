@@ -1,4 +1,4 @@
-![](/img/accurate-bild-start.jpg) {.fancyheader-img}
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *accu:rate bietet Per&shy;sonen&shy;strom&shy;simulation für easyRAUM Nutzer*  {.fancyheader}
 
 

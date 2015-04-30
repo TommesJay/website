@@ -1,4 +1,4 @@
-![](/img/accurate-bild-start.jpg) {.fancyheader-img}
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *Entfluchtungs&shy;simulation der Jugend&shy;korbinians&shy;wall&shy;fahrt im Freisinger Dom* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
