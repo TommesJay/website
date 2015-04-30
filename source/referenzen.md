@@ -1,4 +1,4 @@
-![](/img/accurate-bild-start.jpg) {.fancyheader-img}
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # <br /> *Referenzen* {.fancyheader}
 
 Hier finden Sie einige Beispiele unserer Projekte.

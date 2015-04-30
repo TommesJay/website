@@ -1,4 +1,5 @@
-## Kontakt und Impressum
+![](/img/accurate-bild-start.jpg) {.fancyheader-img}
+# <br /> *Kontakt und Impressum* {.fancyheader}
 
 <div class="vcard">
 <span class="org">accu:rate GbR</span>
