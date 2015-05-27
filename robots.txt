@@ -4,11 +4,12 @@ User-agent: *
 Disallow: /_drf/
 Disallow: /.git*
 Disallow: /html/
-Disallow: /lib/
 Disallow: /make.sh
 Disallow: /README.md
 Disallow: /source/
-Disallow: /template/
+# Googlebot wants to read our CSS and Javascript. FS 2015-05-27
+#Disallow: /template/
+#Disallow: /lib/
 
 # accu-rate.de
 Disallow: /gutschein
