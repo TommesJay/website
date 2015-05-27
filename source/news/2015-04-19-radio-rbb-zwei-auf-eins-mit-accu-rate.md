@@ -10,8 +10,8 @@
 Das Thema der Sendung lautete *Grün*.
 Mittels der grünen Wiesn und der grünen Punkte in unseren Simulationen spannten die beiden Talkshow-Hosts Sven Oswald und Daniel Finger den Bogen zu [Dr. Angelika Kneidl](das-team#angelika-kneidl) und accu:rate.
 
-- [Ausschnitt als MP3](/download/podcast-Zwei-auf-EINS-gruen-accu-rate.mp3)
-- [Ganzer Podcast auf RBB](http://media.rbb-online.de/rad/podcast/zwei_auf_eins/2a1_20150419_130100.mp3)
+- [Ausschnitt Angelika Kneidl (MP3)](/download/podcast-Zwei-auf-EINS-gruen-accu-rate.mp3)
+- [Podcast in voller Länge (MP3)](http://media.rbb-online.de/rad/podcast/zwei_auf_eins/2a1_20150419_130100.mp3)
 
 Viel Spaß mit grünen Punkten, betrunkenen Australiern, André Rieu, und "Feuer auf den Wiesen"!
 
