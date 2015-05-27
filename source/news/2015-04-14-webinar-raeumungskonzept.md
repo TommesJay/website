@@ -1,6 +1,6 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # *Webinar: Vom Räumungs&shy;konzept zur Simulation* {.fancyheader}
-*München, 14. April 2014*
+*München, 14. April 2015*
 
 Am 28. April sowie am 19. Mai, jeweils um 14:00 Uhr, wird Dr. Angelika Kneidl als Gastredner der [VABEG Web-Akademie](http://www.vabeg.com/web-akademie) auftreten.
 
