@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# *Artikel in der SZ: Computertechnik, die Leben rettet* {.fancyheader}
+# *Artikel in der SZ: Computer&shy;technik, die Leben rettet* {.fancyheader}
 
 *München, 14. April 2015*
 
