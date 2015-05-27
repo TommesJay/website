@@ -1,6 +1,10 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *<br />Publikationen* {.fancyheader}
 
+## Multimedia
+
+- Radio Eins, RBB: [Angelika Kneidl per Telefon zu Gast bei *Zwei auf EINS*](/news:2015-04-19-radio-rbb-zwei-auf-eins-mit-accu-rate), 19.04.2015
+
 ## Presseartikel
 
 - Süddeutsche Zeitung: [Computertechnik, die Leben rettet](http://www.sueddeutsche.de/muenchen/software-zur-evakuierung-nur-keine-panik-1.2433613), Christiane Funke, 14.04.2015
