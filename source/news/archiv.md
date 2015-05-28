@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# *<br />Alte Neuigkeiten* {.fancyheader}
+# *<br />Archiv* {.fancyheader}
 
 > Nichts ist falscher als der Satz, dass nichts älter sei als die Zeitung von gestern.  
 ~ [Joseph von Westphalen in der TAZ](http://www.taz.de/1/archiv/?dig=2005/02/26/a0311 "Artikel: Die Zeitung von gestern - oder Was einem bleibt von 26.02.2005.")
