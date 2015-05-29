@@ -3,7 +3,7 @@
 
 *München, 04. November 2014*
 
-[![Dr. Angelika Kneidl mit Ihrer Mentorin, Dr. Christine Frfr. von Münchhausen](/img/ak-mit-cvm.jpg)](/img/ak-mit-cvm.jpg) {.float-right}
+[![Dr. Angelika Kneidl mit Ihrer Mentorin, Dr. Christine Frfr. von Münchhausen](/img/ak-mit-cvm.jpg)](/img/ak-mit-cvm.jpg "Dr. Angelika Kneidl mit Ihrer Mentorin, Dr. Christine Frfr. von Münchhausen") {.float-right}
 
 [Dr. Angelika Kneidl](/das-team#angelika-kneidl) ist eine von sieben Gewinnerinnen des [HVB-Gründerinnen Mentorings 2014 /15](https://about.hypovereinsbank.de/de/frauenbeirat/gruenderinnen-mentoring/).
 
