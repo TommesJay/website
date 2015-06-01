@@ -4,6 +4,7 @@
 ## Multimedia
 
 - Radio Eins, RBB: [Angelika Kneidl per Telefon zu Gast bei *Zwei auf EINS*](/news:2015-04-19-radio-rbb-zwei-auf-eins-mit-accu-rate), 19.04.2015
+- ARD Nachtmagazin: [Beitrag zum Love-Parade Unglück über die Forschung von Angelika Kneidl und André Borrmann](/download/ard-nachtmagazin-20100727-angelika-kneidl-andre-borrmann.webm.h264.mp4), 24.07.2010
 
 ## Presseartikel
 
