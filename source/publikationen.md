@@ -70,5 +70,5 @@
 
 #meta#
 pagetitle: Publikationen zu Personenstromsimulation
-description: Ein Überblick über die wissenschaftlichen Publikationen von accu:rate sowie unseren Partnern.
+description: Ein Überblick über die Nachrichtenbeiträge, Zeitungsartikel, wissenschaftlichen Publikationen etc. von accu:rate sowie unseren Partnern.
 
