@@ -16,6 +16,10 @@ Gerne können wir einen Termin vereinbaren. Eine kurze E-Mail genügt:
 
 Wir freuen uns auf Sie!
 
+--------------
+
+Update, 07. Juni 2015: accu:rate wurde als Neuheit in der [ersten Folge des Interschutz Themenservice](http://www.interschutz.de/de/info/fuer-journalisten/pressemitteilungen/pressemitteilungen-dmag.xhtml?id=725057&lang=D&page=&page_size=20&bereich=&unterbereich) veröffentlicht. Vielen Dank!
+
 
 *[RBB]: Rundfunk Berlin-Brandenburg
 
