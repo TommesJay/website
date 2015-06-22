@@ -7,9 +7,6 @@
 * [Besuchen Sie uns auf der SicherheitsExpo 2015 in München am 01.07. und 02.07.](/news:2015-06-18-besuchen-sie-uns-auf-der-sicherheitsexpo) (18. Juni 2015)
 * [accu:rate im Radio auf Antenne Bayern "Made in Bavaria"](/news:2015-06-17-radio-antenne-bayern-made-in-bavaria-mit-accu-rate) (17. Juni 2015)
 * [Dr. Angelika Kneidl im Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
-* [Besuchen Sie uns auf der INTERSCHUTZ 2015 vom 08.06. &ndash; 13.06.2015](/news:2015-05-26-besuchen-sie-uns-auf-der-interschutz) (26. Mai 2015)
-* [Im Radio: Angelika Kneidl zu Gast bei Zwei auf EINS](/news:2015-04-19-radio-rbb-zwei-auf-eins-mit-accu-rate) (19. April 2015)
-* [Artikel in der SZ über accu:rate](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 
 [Mehr Neuigkeiten...](/news:archiv)
 </div>
