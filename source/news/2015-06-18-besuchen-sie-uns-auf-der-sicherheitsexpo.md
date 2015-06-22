@@ -3,7 +3,7 @@
 
 *München, 18. Juni 2015*
 
-[![SicherheitsExpo Logo](/img/associates/logo-sicherheits-messe-muenchen.gif)](http://www.sicherheitsexpo.de/ "accu:rate auf der SicherheitsExpo") {.float-right}
+[![SicherheitsExpo Logo](/img/associates/sicherheits-expo.png)](http://www.sicherheitsexpo.de/ "accu:rate auf der SicherheitsExpo") {.float-right}
 
 Liebe Partner,
 
