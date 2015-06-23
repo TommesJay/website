@@ -12,6 +12,10 @@
 
 Vielen Dank und viel Spaß!
 
+----
+
+Update 23. Juni 2015: MP3 ersetzt durch Version in guter Qualität zur Verfügung gestellt von Antenne Bayern selbst. Vielen Dank!
+
 #meta#
 pagetitle: accu:rate in "Made in Bavaria" auf Antenne Bayern
 description: Dr. Angelika Kneidl im Interview für "Erfolgsgeschichten Made in Bavaria" in der Folge "Eine Software die im Ernstfall Leben retten kann"
