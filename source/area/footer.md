@@ -2,14 +2,14 @@
 <div class="four columns">
     <strong>
         accu:rate<br />
-        Institute for crowd simulation
+        Institute for <br />crowd simulation
     </strong>
     <br />
-    c/o Chair of Computational<br />Modeling and Simulation
+    c/o F24 AG<br />
 </div>
 <div class="four columns">
-    Arcisstra&szlig;e 21<br />
-    D&ndash;80333 M&uuml;nchen<br />
+    Isarwinkel 14<br />
+    D&ndash;81379 M&uuml;nchen<br />
     <a class="tel" href="tel:+498921553869">+49 (0)89&ndash;21553869</a><br />
     <span class="mailadresse" data-to="info">info@javascript.anti.spam</span>
 </div>
