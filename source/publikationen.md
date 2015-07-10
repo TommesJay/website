@@ -20,46 +20,35 @@
 
 ## Vorträge
 
-- 14.01.2015, Eisenach
-  - <a href="http://www.vabeg.com/publikationen/news-stellungnahmen/news/522-4-vabeg-get-together-in-eisenach">Neueste Entwicklungen im Bereich Personenstromanalyse</a>
-  - Vabeg Get Together
-  - Vabeg GmbH
-- 12.03.2015, Berlin
-  - Personenstromsimulationen integriert in easyRaum
-  - easyRaum Anwendertreffen
-  - easyRaum GmbH
-- 17.04.2015, Mühlheim a.d. Ruhr
-  - Personenstromsimulationen integriert in easyRaum
-  - easyRaum Anwendertreffen
-  - easyRaum GmbH
-- 08.05.2015, Berlin
-  - <a href="https://www.xing.com/events/eventprofessionalstreff-award-innovationen-kostlichkeiten-1550073">Sicherheit statt Bauchgefühl – Simulationen von Personenströmen</a>
-  - Netzwerktreffen Event Professionals
-  - Thomas Löb
-- 25.06.2015, Bremen
-  - <a href="http://www.usersmeeting.com/en/programm/s/2/m.html">Personenstromanalysen im urbanen Raum</a>
-  - ACUM Konferenz / Forum Digitale Städte
-  - CADFEM / Ansys
-- 08.09.2015, Düsseldorf
-  - Personenstromsimulationen integriert in easyRaum
-  - easyRaum Anwendertreffen
-  - easyRaum GmbH
-- 10.09.2015, Berlin
-  - <a href="http://brandschutz-akademie-berlin.de/veranstaltung/bbf5/">Ja wie laufen sie denn? Simulation von Personenströmen für den Ernstfall</a>
-  - 5\. Berliner Brandschutz-Fachgespräch – Brandschutz in Kultur- und Versammlungsbauten
-  - Brandschutz Akademie
-- 28.10. - 30.10.2015, Delft, NL
-  - <a href="http://www.citg.tudelft.nl/en/about-faculty/departments/transport-and-planning/conferences/tgf15/">How Do People Queue -- A Study Of Different Queuing Models</a>
-  - TGF (Traffic Grandular Flow) Conference
-  - TU Delft
-- 09.11.2015, Bonn
-  - <a href="http://ibit.eu/fachtagung/fachtagung-2015/">Wie laufen Fußgänger? Ein Experiment zur Wegefindung</a>
-  - IBIT Fachtagung
-  - IBIT GmbH
-- 14.12.15 - 19.12.15, Hannover
-  - <a href="http://www.deaplus.org/kurse/kurs/winter-uni.html">Sicherheit statt Bauchgefühl – Computergestützte Simulationen von Personenbewegungen als hilfreiches Werkzeug in der Veranstaltungsplanung</a>
-  - Winteruni
-  - DEAplus
+### 14.01.2015, Eisenach
+<a href="http://www.vabeg.com/publikationen/news-stellungnahmen/news/522-4-vabeg-get-together-in-eisenach">Neueste Entwicklungen im Bereich Personenstromanalyse</a>, Vabeg Get Together, Vabeg GmbH
+### 12.03.2015, Berlin
+Personenstromsimulationen integriert in easyRaum, easyRaum Anwendertreffen, easyRaum GmbH
+
+### 17.04.2015, Mühlheim a.d. Ruhr
+Personenstromsimulationen integriert in easyRaum, easyRaum Anwendertreffen, easyRaum GmbH
+
+### 08.05.2015, Berlin
+<a href="https://www.xing.com/events/eventprofessionalstreff-award-innovationen-kostlichkeiten-1550073">Sicherheit statt Bauchgefühl – Simulationen von Personenströmen</a>, Netzwerktreffen Event Professionals, Thomas Löb
+
+### 25.06.2015, Bremen
+<a href="http://www.usersmeeting.com/en/programm/s/2/m.html">Personenstromanalysen im urbanen Raum</a>, ACUM Konferenz / Forum Digitale Städte, CADFEM / Ansys
+
+### 08.09.2015, Düsseldorf
+Personenstromsimulationen integriert in easyRaum, easyRaum Anwendertreffen, easyRaum GmbH
+
+### 10.09.2015, Berlin
+<a href="http://brandschutz-akademie-berlin.de/veranstaltung/bbf5/">Ja wie laufen sie denn? Simulation von Personenströmen für den Ernstfall</a>, 5\. Berliner Brandschutz-Fachgespräch – Brandschutz in Kultur- und Versammlungsbauten, Brandschutz Akademie
+
+### 28.10. - 30.10.2015, Delft, NL
+<a href="http://www.citg.tudelft.nl/en/about-faculty/departments/transport-and-planning/conferences/tgf15/">How Do People Queue -- A Study Of Different Queuing Models</a>, TGF (Traffic Grandular Flow) Conference, TU Delft
+
+### 09.11.2015, Bonn
+<a href="http://ibit.eu/fachtagung/fachtagung-2015/">Wie laufen Fußgänger? Ein Experiment zur Wegefindung</a>, IBIT Fachtagung, IBIT GmbH
+
+### 14.12.15 - 19.12.15, Hannover
+<a href="http://www.deaplus.org/kurse/kurs/winter-uni.html">Sicherheit statt Bauchgefühl – Computergestützte Simulationen von Personenbewegungen als hilfreiches Werkzeug in der Veranstaltungsplanung</a>, Winteruni, DEAplus
+
 
 
 ## Wissenschaftliche Publikationen
