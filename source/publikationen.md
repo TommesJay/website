@@ -1,11 +1,13 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *<br />Publikationen* {.fancyheader}
 
+
 ## Multimedia
 
 * Antenne Bayern: [accu:rate in *Made in Bavaria*](/news:2015-06-17-radio-antenne-bayern-made-in-bavaria-mit-accu-rate), 17.06.2015
 - Radio Eins, RBB: [Angelika Kneidl per Telefon zu Gast bei *Zwei auf EINS*](/news:2015-04-19-radio-rbb-zwei-auf-eins-mit-accu-rate), 19.04.2015
 - ARD Nachtmagazin: [Beitrag zum Love-Parade Unglück über die Forschung von Angelika Kneidl und André Borrmann](/download/ard-nachtmagazin-20100727-angelika-kneidl-andre-borrmann.webm.h264.mp4), 24.07.2010
+
 
 ## Presseartikel
 
@@ -14,6 +16,91 @@
 - Event Elevator: [Personenverhalten richtig vorhersagen](http://www.eventelevator.de/neuigkeiten/allgemein/accu-rate-und-bbvs-starten-kooperation), André Werner, 28.11.2014
 - The Conversation: [Computing the chances of Olympic crowd chaos](http://theconversation.com/computing-the-chances-of-olympic-crowd-chaos-8066), Angelika Kneidl, 24.07.2012
 - Abendzeitung München: [Wiesn-Panik: Diese Software kann sie berechnen](http://www.abendzeitung-muenchen.de/inhalt.simulation-wiesn-panik-diese-software-kann-sie-berechnen.2d7d8ded-1957-4507-b484-38a55c0651d9.html), Michael Heinrich, 06.03.2012
+
+
+## Vorträge
+
+<table>
+	<thead>
+		<tr>
+			<td>Datum</td>
+			<td>Ort</td>
+			<td>Vortragstitel</td>
+			<td>Veranstaltungstitel</td>
+			<td>Veranstalter</td>
+		</tr>
+	</thead>
+	<tr>
+		<td>14.01.2015</td>
+		<td>Eisenach</td>
+		<td><a href="http://www.vabeg.com/publikationen/news-stellungnahmen/news/522-4-vabeg-get-together-in-eisenach">Neueste Entwicklungen im Bereich Personenstromanalyse</a></td>
+		<td>Vabeg Get Together</td>
+		<td>Vabeg GmbH</td>
+	</tr>
+	<tr>
+		<td>12.03.2015</td>
+		<td>Berlin</td>
+		<td>Personenstromsimulationen integriert in easyRaum</td>
+		<td>easyRaum Anwendertreffen</td>
+		<td>easyRaum GmbH</td>
+	</tr>
+	<tr>
+		<td>17.04.2015</td>
+		<td>Mühlheim a.d. Ruhr</td>
+		<td>Personenstromsimulationen integriert in easyRaum</td>
+		<td>easyRaum Anwendertreffen</td>
+		<td>easyRaum GmbH</td>
+	</tr>
+	<tr>
+		<td>08.05.2015</td>
+		<td>Berlin</td>
+		<td><a href="https://www.xing.com/events/eventprofessionalstreff-award-innovationen-kostlichkeiten-1550073">„Sicherheit statt Bauchgefühl – Simulationen von Personenströmen“</a></td>
+		<td>Netzwerktreffen Event Professionals, Berlin</td>
+		<td>Thomas Löb</td>
+	</tr>
+	<tr>
+		<td>25.06.2015</td>
+		<td>Bremen</td>
+		<td><a href="http://www.usersmeeting.com/en/programm/s/2/m.html">Personenstromanalysen im urbanen Raum</a></td>
+		<td>ACUM Konferenz / Forum Digitale Städte</td>
+		<td>CADFEM / Ansys</td>
+	</tr>
+	<tr>
+		<td>08.09.2015</td>
+		<td>Düsseldorf</td>
+		<td>Personenstromsimulationen integriert in easyRaum</td>
+		<td>easyRaum Anwendertreffen</td>
+		<td>easyRaum GmbH</td>
+	</tr>
+	<tr>
+		<td>10.09.2015</td>
+		<td>Berlin</td>
+		<td><a href="http://brandschutz-akademie-berlin.de/veranstaltung/bbf5/">Ja wie laufen sie denn? Simulation von Personenströmen für den Ernstfall</a></td>
+		<td>5. Berliner Brandschutz-Fachgespräch – Brandschutz in Kultur- und Versammlungsbauten</td>
+		<td>Brandschutz Akademie</td>
+	</tr>
+	<tr>
+		<td>28.10. - 30.10.2015</td>
+		<td>Delft, NL</td>
+		<td><a href="http://www.citg.tudelft.nl/en/about-faculty/departments/transport-and-planning/conferences/tgf15/">How Do People Queue -- A Study Of Different Queuing Models</a></td>
+		<td>TGF (Traffic Grandular Flow) Conference</td>
+		<td>TU Delft</td>
+	</tr>
+	<tr>
+		<td>09.11.2015</td>
+		<td>Bonn</td>
+		<td><a href="http://ibit.eu/fachtagung/fachtagung-2015/">Wie laufen Fußgänger? Ein Experiment zur Wegefindung</a></td>
+		<td>IBIT Fachtagung</td>
+		<td>IBIT GmbH</td>
+	</tr>
+	<tr>
+		<td>14.12.15 - 19.12.15</td>
+		<td>Hannover</td>
+		<td><a href="http://www.deaplus.org/kurse/kurs/winter-uni.html">Sicherheit statt Bauchgefühl – Computergestützte Simulationen von Personenbewegungen als hilfreiches Werkzeug in der Veranstaltungsplanung</a></td>
+		<td>Winteruni</td>
+		<td>DEAplus</td>
+	</tr>
+</table>
 
 
 ## Wissenschaftliche Publikationen
