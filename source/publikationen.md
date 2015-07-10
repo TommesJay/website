@@ -3,11 +3,13 @@
 
 ## Multimedia
 
+* Antenne Bayern: [accu:rate in *Made in Bavaria*](/news:2015-06-17-radio-antenne-bayern-made-in-bavaria-mit-accu-rate), 17.06.2015
 - Radio Eins, RBB: [Angelika Kneidl per Telefon zu Gast bei *Zwei auf EINS*](/news:2015-04-19-radio-rbb-zwei-auf-eins-mit-accu-rate), 19.04.2015
 - ARD Nachtmagazin: [Beitrag zum Love-Parade Unglück über die Forschung von Angelika Kneidl und André Borrmann](/download/ard-nachtmagazin-20100727-angelika-kneidl-andre-borrmann.webm.h264.mp4), 24.07.2010
 
 ## Presseartikel
 
+* Tagesspiegel: [Auf der Flucht](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente), 02.06.2015
 - Süddeutsche Zeitung: [Computertechnik, die Leben rettet](http://www.sueddeutsche.de/muenchen/software-zur-evakuierung-nur-keine-panik-1.2433613), Christiane Funke, 14.04.2015
 - Event Elevator: [Personenverhalten richtig vorhersagen](http://www.eventelevator.de/neuigkeiten/allgemein/accu-rate-und-bbvs-starten-kooperation), André Werner, 28.11.2014
 - The Conversation: [Computing the chances of Olympic crowd chaos](http://theconversation.com/computing-the-chances-of-olympic-crowd-chaos-8066), Angelika Kneidl, 24.07.2012
