@@ -4,9 +4,10 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
-* [Besuchen Sie uns auf der SicherheitsExpo 2015 in München am 01.07. und 02.07.](/news:2015-06-18-besuchen-sie-uns-auf-der-sicherheitsexpo) (18. Juni 2015)
-* [accu:rate im Radio auf Antenne Bayern "Made in Bavaria"](/news:2015-06-17-radio-antenne-bayern-made-in-bavaria-mit-accu-rate) (17. Juni 2015)
+* Vortrag: Ja wie laufen sie denn? Simulation von Per&shy;sonen&shy;strömen für den Ernst&shy;fall, [5. Berliner Brandschutz-Fachgespräch – Brand&shy;schutz in Kultur- und Ver&shy;sammlungs&shy;bauten](http://brandschutz-akademie-berlin.de/veranstaltung/bbf5/) (10. September 2015, Berlin)
+* Vortrag: [Personen&shy;strom&shy;simulationen integriert in easyRaum](/personenstromsimulation-fuer-easyraum), easyRaum Anwender&shy;treffen (08. September 2015, Düsseldorf)
 * [Dr. Angelika Kneidl im Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
+* [Dr. Angelika Kneidl in der Süddeutschen Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 
 [Mehr Neuigkeiten...](/news:archiv)
 </div>
@@ -21,18 +22,18 @@ An Orten, an denen viele Menschen aufeinandertreffen, existieren daher komplexe 
 
 Sie haben die Möglichkeit, die Komplexität von Personenströmen durch accu:rate nachvollziehbar zu machen.
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/sw1zICjwpV4?rel=0' frameborder='0' allowfullscreen></iframe></div>
-
 
 ## Risiken erkennen und ausschließen
 
 Die Simulation von Personenströmen hilft bereits in der Planung von Großevents oder Bauprojekten, mögliche Engstellen und Risiken zu erkennen und zu vermeiden.
 Detaillierte Grafiken und Filmanimationen leisten genau dort Unterstützung, wo selbst erfahrene Sicherheitsexperten an ihre Grenzen geraten.
-Zwar lässt sich jeder einzelne Parameter und jede einzelne Engstelle isoliert betrachtet problemlos kalkulieren und durchdenken, deren komplexes Zusammenspiel wird jedoch erst in der Simulation sichtbar:
+Zwar lässt sich jeder einzelne Parameter und jede einzelne Engstelle isoliert betrachtet problemlos kalkulieren und durchdenken, deren komplexes Zusammenspiel wird jedoch erst in der Simulation sichtbar.
 
 - Wo und wie schnell bewegen sich Personen?
 - Wo gibt es Engstellen, an denen sich Personen stauen?
 - Wie hoch ist die maximale Personendichte?
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/sw1zICjwpV4?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
 accu:rate berechnet sowohl den Regelfall, beispielsweise die Besucherströme in einer Konzertpause, als auch Ausnahmesituationen wie die Räumung bei Feueralarm, und bereitet diese graphisch anschaulich auf: von den Wegen einzelner Personen bis zum Strom der großen Masse.
 Anhand der Ergebnisse können Sie rechtzeitig verantwortungsvoll planen – sei es in der Veranstaltungssicherheit, bei Bauvorhaben oder der Sanierung öffentlicher Gebäude.
