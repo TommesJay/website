@@ -7,7 +7,7 @@
 
 ## 2015
 
-* Vortrag: Sicherheit statt Bauchgefühl – Computergestützte Simulationen von Personenbewegungen als hilfreiches Werkzeug in der Veranstaltungsplanung, [DEAplus Winteruni](http://www.deaplus.org/kurse/kurs/winter-uni.html) (14. - 19. Dezember 2015, Hannover)
+* Vortrag: Sicherheit statt Bauchgefühl – Computer&shy;gestützte Simulationen von Personen&shy;bewegungen als hilfreiches Werkzeug in der Veranstaltungs&shy;planung, [DEAplus Winteruni](http://www.deaplus.org/kurse/kurs/winter-uni.html) (14. - 19. Dezember 2015, Hannover)
 * Vortrag: Wie laufen Fußgänger? Ein Experiment zur Wegefindung, [IBIT Fachtagung 2015](http://ibit.eu/fachtagung/fachtagung-2015/), [IBIT GmbH](http://ibit.eu/) (09. November 2015, Bonn)
 * Vortrag: How Do People Queue -- A Study Of Different Queuing Models, [TGF (Traffic Grandular Flow) Conference 2015](http://www.citg.tudelft.nl/en/about-faculty/departments/transport-and-planning/conferences/tgf15/), [TU Delft](http://www.tudelft.nl/) (28. - 30. November 2015, Delft, NL)
 * Vortrag: Ja wie laufen sie denn? Simulation von Personenströmen für den Ernstfall, [5. Berliner Brandschutz-Fachgespräch – Brandschutz in Kultur- und Versammlungsbauten](http://brandschutz-akademie-berlin.de/veranstaltung/bbf5/), [Brandschutz Akademie Berlin](http://brandschutz-akademie-berlin.de/) (10. September 2015, Berlin)
