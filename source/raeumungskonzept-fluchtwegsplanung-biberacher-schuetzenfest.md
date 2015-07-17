@@ -21,7 +21,7 @@ Um für die Zukunft gerüstet zu sein, wurde ein neuer baulicher Fluchtweg gepla
 *Ausschnitt Simulation des Gigelbergs inkl. neuem Fluchtweg*
 
 
-Die deutliche Verkürzung der Entfluchtungszeit in der Simulation spricht für die Investition in den neuen Fluchtweg.
+Die Entzerrung der Engstellen und der deutlich bessere Abfluss der Personen vom Gelände sprechen für die Investition in den neuen Fluchtweg.
 
 > Wenn wir für eine kleine oder mittlere Versammlungsstätte planen, kann man den landläufigen Berechnungsschlüssel getrost anwenden.
 > Doch für temporäre Events mit viel Besucherbewegung und verschiedenen Hotspots wird die Rechnung schnell komplexer.
