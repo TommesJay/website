@@ -6,6 +6,15 @@ Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 
+## [Biberacher Schützenfest](raeumungskonzept-fluchtwegsplanung-biberacher-schuetzenfest) {#biberacher-schuetzenfest}
+
+[![Simulation Ausschnitt Gigelberg](img/referenzen/biberach-simulation-thumb.png)](raeumungskonzept-fluchtwegsplanung-biberacher-schuetzenfest) {.referenzpreview}
+
+Das [Biberacher Schützenfest](http://www.biberacher-schuetzenfest.com/) ist ein [traditionsreiches](http://www.biberacher-schuetzenfest.com/geschichte) Volksfest in [Biberach an der Riß](http://biberach-riss.de/) mit jährlich rund 80.000 Besuchern. Es erstreckt sich über die Stadt Biberach sowie den von uns betrachteten [Gigelberg](http://www.openstreetmap.org/#map=16/48.0991/9.7818).
+Eine der Maßnahmen, um bei steigenden Besucherzahlen das hohe Maß an Sicherheit weiter auszubauen, ist die Überarbeitung des Räumungskonzeptes.
+[Mehr lesen...](raeumungskonzept-fluchtwegsplanung-biberacher-schuetzenfest)
+
+
 ## [Ergebnisse der Arbeits&shy;gruppe Räumungs&shy;konzept](simulationen-fuer-raeumungskonzepte) {#simulationen-raeumungskonzepte}
 
 [![Simulation der Tribüne nach 60 Sekunden](img/referenzen/entfluchtung-stadion-tribuene-simulation-60s-thumb.png)](simulationen-fuer-raeumungskonzepte) {.referenzpreview}

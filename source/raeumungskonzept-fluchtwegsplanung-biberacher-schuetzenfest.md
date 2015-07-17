@@ -1,9 +1,9 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *accu:rate unterstützt Flucht&shy;wegs&shy;planung des Biberacher Schützenfests*  {.fancyheader}
 
-Das [Biberacher Schützenfest](http://www.biberacher-schuetzenfest.com/) ist ein [traditionsreiches](http://www.biberacher-schuetzenfest.com/geschichte) Volksfest in [Biberach an der Riß](http://biberach-riss.de/). Es erstreckt sich über die Stadt Biberach sowie den von uns betrachteten [Gigelberg](http://www.openstreetmap.org/#map=16/48.0991/9.7818).
+Das [Biberacher Schützenfest](http://www.biberacher-schuetzenfest.com/) ist ein [traditionsreiches](http://www.biberacher-schuetzenfest.com/geschichte) Volksfest in [Biberach an der Riß](http://biberach-riss.de/) mit jährlich rund 80.000 Besuchern. Es erstreckt sich über die Stadt Biberach sowie den von uns betrachteten [Gigelberg](http://www.openstreetmap.org/#map=16/48.0991/9.7818).
 
-Eine der Maßnahmen, um bei jährlich steigenden Besucherzahlen das hohe Maß an Sicherheit weiter auszubauen, ist die Überarbeitung des Räumungskonzeptes.
+Eine der Maßnahmen, um bei steigenden Besucherzahlen das hohe Maß an Sicherheit weiter auszubauen, ist die Überarbeitung des Räumungskonzeptes.
 Hierzu beauftragte die [Stiftung Schützendirektion Biberach](http://www.biberacher-schuetzenfest.com/schuetzendirektion) einen unserer Partner, das [Beratungsbüro für Veranstaltungssicherheit](http://www.bbvs-werner.com/).
 
 
