@@ -5,7 +5,7 @@
 
 ### Dr. rer. nat. Angelika Kneidl {#angelika-kneidl}
 
-![Photo: Angelika Kneidl](/img/team-ak.png) {.mugshot}
+![Photo: Angelika Kneidl](/img/team-ak.jpg) {.mugshot}
 Nach ihrem Informatik&shy;studium an der TU München arbeitete Dr. rer. nat. Angelika Kneidl als IT-Consultant in der Finanz&shy;dienst&shy;leistungs&shy;branche.
 2009 kehrte sie an die Technische Universität München zurück und promovierte über „Methoden zur Abbildung menschlichem Navigations&shy;verhaltens bei der Modellierung von Fußgänger&shy;strömen" am Lehrstuhl für Computer&shy;gestützte Modellierung und Simulation.
 Während dieser Zeit wurde sie mehrmals für ihre Arbeit ausgezeichnet: Ihr wurden zwei Best Paper Awards und der Promotionspreis des Bundes der Freunde der TU München verliehen, der herausragende Promotionen würdigt.
