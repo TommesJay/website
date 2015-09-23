@@ -15,7 +15,7 @@ Sie ist bei accu:rate Expertin für die Modellierung und für die Produktentwick
 
 ### Florian Sesser {#florian-sesser}
 
-![Photo: Florian Sesser](/img/team-fs.png) {.mugshot}
+![Photo: Florian Sesser](/img/team-fs.jpg) {.mugshot}
 Florian Sesser schloss sein Informatikstudium an der TU München 2011 erfolgreich ab.
 Er arbeitet bereits seit 2001 freiberuflich in der IT-Branche und beschäftigt sich mit der Architektur, Entwicklung und Qualitätssicherung von Software.
 Im Jahr 2010 rief er zusammen mit weiteren Experten den Workshop Softwarearchitektur ins Leben.
