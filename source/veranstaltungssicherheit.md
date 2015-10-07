@@ -26,7 +26,7 @@ Beantworten Sie mit Hilfe einer Besucherstromsimulation folgende Fragen:
 
 ### Messen und Ausstellungen
 
-Bei Messen können Personenstromanalysen angewendet werden, um verschiedene Standpläne anhand quantitativer Daten zu vergleichen, potenzielle Engstellen zu identifizieren und durch eine Point-of-Interest-Analyse die Besucherströme optimiert werden.
+Bei Messen kann eine Personenstromanalyse angewendet werden, um verschiedene Standpläne anhand quantitativer Daten zu vergleichen, potenzielle Engstellen zu identifizieren und durch eine Point-of-Interest-Analyse die Besucherströme optimiert werden.
 
 
 ### Kongresse und Tagungen
