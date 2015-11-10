@@ -4,5 +4,5 @@
 * [Publikationen](/publikationen) :
 * [Referenzen](/referenzen) :
 * [Stellen](/stellen) :
-* [Kontakt](/kontakt)
+* [Impressum](/kontakt)
 
