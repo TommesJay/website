@@ -10,7 +10,9 @@ Nach ihrem Informatik&shy;studium an der TU München arbeitete Dr. rer. nat. Ang
 2009 kehrte sie an die Technische Universität München zurück und promovierte über „Methoden zur Abbildung menschlichem Navigations&shy;verhaltens bei der Modellierung von Fußgänger&shy;strömen" am Lehrstuhl für Computer&shy;gestützte Modellierung und Simulation.
 Während dieser Zeit wurde sie mehrmals für ihre Arbeit ausgezeichnet: Ihr wurden zwei Best Paper Awards und der Promotionspreis des Bundes der Freunde der TU München verliehen, der herausragende Promotionen würdigt.
 
-Sie ist bei accu:rate Expertin für die Modellierung und für die Produktentwicklung verantwortlich. Kontaktieren Sie Frau Kneidl für alle wissenschaftlichen sowie produktspezifischen Fragen unter <span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>.
+Bei accu:rate ist sie Expertin für die Modellierung und zeigt sich für das Projektgeschäft verantwortlich. Kontaktieren Sie Frau Kneidl für alle wissenschaftlichen sowie produktspezifischen Fragen unter <span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>.
+Angelika ist auch auf [XING](https://www.xing.com/profile/Angelika_Kneidl) und [LinkedIn](https://de.linkedin.com/in/dr-angelika-kneidl-aabb95a8) vertreten.
+
 
 
 ### Florian Sesser {#florian-sesser}
@@ -21,8 +23,8 @@ Er arbeitet bereits seit 2001 freiberuflich in der IT-Branche und beschäftigt s
 Im Jahr 2010 rief er zusammen mit weiteren Experten den Workshop Softwarearchitektur ins Leben.
 Bei seinem früheren Arbeitgeber, den IT:Agenten - einem Dienstleister für Individuallösungen im Web- und Internetumfeld - übernahm er neben Entwicklungsaufgaben die Leitung von Kundenprojekten.
 
-Bei accu:rate hat Herr Sesser die Verantwortung für die Softwarearchitektur und die Schnittstellen zu CAD-Software.
-Kontaktieren Sie ihn für technische Fragen unter <span class="mailadresse" data-to="fs">fs@javascript.anti.spam</span>.
+Herr Sesser verantwortet bei accu:rate die Produktentwicklung.
+Kontaktieren Sie ihn für technische Fragen unter <span class="mailadresse" data-to="fs">fs@javascript.anti.spam</span>, und business-netzwerken Sie via [XING](https://www.xing.com/profile/Florian_Sesser) und [LinkedIn](https://de.linkedin.com/in/florian-sesser-88a6aab5).
 
 
 
