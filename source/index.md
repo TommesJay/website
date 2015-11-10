@@ -4,8 +4,8 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
+* Vortrag: Computer&shy;gestützte Simulationen als hilf&shy;reiches Werk&shy;zeug in der Ver&shy;anstalt&shy;ungs&shy;planung, [DEAplus Winteruni](http://www.deaplus.org/kurse/kurs/winter-uni.html) (14. - 19. Dezember 2015, Hannover)
 * Vortrag: Wie laufen Fuß&shy;gänger? Ein Ex&shy;pe&shy;ri&shy;ment zur Wege&shy;find&shy;ung, [IBIT Fach&shy;tag&shy;ung 2015](http://ibit.eu/fachtagung/fachtagung-2015/), [IBIT GmbH](http://ibit.eu/) (09. November 2015, Bonn)
-* Vortrag: How Do People Queue - A Study Of Dif&shy;ferent Queuing Models, [TGF (Traf&shy;fic and Gra&shy;nu&shy;lar Flow) Con&shy;fer&shy;ence 2015](http://www.citg.tudelft.nl/en/about-faculty/departments/transport-and-planning/conferences/tgf15/), [TU Delft](http://www.tudelft.nl/) (28. - 30. November 2015, Delft, NL)
 * [Dr. Angelika Kneidl im Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
 * [Dr. Angelika Kneidl in der Süddeutschen Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 
