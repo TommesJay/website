@@ -8,7 +8,7 @@ Hierzu beauftragte die [Stiftung Schützendirektion Biberach](http://www.biberac
 
 
 ![Foto: Schnelle Maid auf dem Biberacher Schützenfest 2012](/img/referenzen/biberach-schnelle-maid.jpg "Schnelle Maid auf dem Biberacher Schützenfest 2012")
-*Foto: Schnelle Maid auf dem Biberacher Schützenfest 2012* ([Quelle: Wikimedia Commons, User Tyresias, CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
+*Foto: Schnelle Maid auf dem Biberacher Schützenfest 2012* (Quelle: [Wikimedia Commons, User Tyresias](https://commons.wikimedia.org/wiki/File:Schnelle-maid-schuetzenfest-biberach.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
 
 
 Im Auftrag von [BbVS](http://www.bbvs-werner.com/) simulierte accu:rate in einem ersten Schritt eine Räumung aufgrund des aktuellen Fluchtwegeplans und Geometrie.
