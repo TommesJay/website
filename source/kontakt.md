@@ -23,7 +23,14 @@ Verantwortlich für dieses Angebot gemäß [§ 5 Telemediengesetz](http://www.ge
 
 Konzept und Design: <a href="http://www.chriscarl.de/" target="_blank" title="ChrisCarl Design, München. Informieren, begeistern, prägen.">ChrisCarl Design, München</a>
 
-#### Statistische Auswertungen mit PIWIK
+### Links
+
+- accu:rate auf [Facebook](https://www.facebook.com/accurate-1456190694613967), [Twitter](https://twitter.com/accu_rate), [Google+](https://plus.google.com/116911264361422726136)
+- Dr. Angelika Kneidl auf [XING](https://www.xing.com/profile/Angelika_Kneidl), [LinkedIn](https://de.linkedin.com/in/dr-angelika-kneidl-aabb95a8)
+- Florian Sesser auf [XING](https://www.xing.com/profile/Florian_Sesser), [LinkedIn](https://de.linkedin.com/in/florian-sesser-88a6aab5)
+
+### Statistische Auswertungen mit PIWIK
+
 Diese Website benutzt Piwik, eine Open-Source-Software zur statistischen Auswertung der Besucherzugriffe. Piwik verwendet sog. “Cookies”, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieses Internetangebotes werden auf dem Server des Anbieters in Deutschland gespeichert. Die IP-Adresse wird sofort nach der Verarbeitung und vor deren Speicherung anonymisiert. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können.
 
 
