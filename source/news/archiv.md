@@ -14,7 +14,7 @@
 
 ### Vergangenheit
 
-* Vortrag: How Do People Queue - A Study Of Different Queuing Models, [TGF (Traffic and Granular Flow) Conference 2015](http://www.citg.tudelft.nl/en/about-faculty/departments/transport-and-planning/conferences/tgf15/), [TU Delft](http://www.tudelft.nl/) (28. - 30. November 2015, Delft, NL)
+* Vortrag: How Do People Queue - A Study Of Different Queuing Models, [TGF (Traffic and Granular Flow) Conference 2015](http://www.citg.tudelft.nl/en/about-faculty/departments/transport-and-planning/conferences/tgf15/), [TU Delft](http://www.tudelft.nl/) (28. - 30. Oktober 2015, Delft, NL) [Abstract (PDF)](download/tgf15-kneidl-how-do-people-queue-abstract.pdf), [Slides (PDF)](download/tgf15-kneidl-how-do-people-queue-slides.pdf)
 * Vortrag: Ja wie laufen sie denn? Simulation von Personenströmen für den Ernstfall, [5. Berliner Brandschutz-Fachgespräch – Brandschutz in Kultur- und Versammlungsbauten](http://brandschutz-akademie-berlin.de/veranstaltung/bbf5/), [Brandschutz Akademie Berlin](http://brandschutz-akademie-berlin.de/) (10. September 2015, Berlin)
 * Vortrag: Personenstromsimulationen integriert in easyRaum, easyRaum Anwendertreffen, [easyRaum GmbH](http://easyraum.de/) (08. September 2015, Düsseldorf)
 * Vortrag: Personenstromanalysen im urbanen Raum, [ACUM Konferenz / Forum Digitale Städte](http://www.usersmeeting.com/en/programm/s/2/m.html), [CADFEM](http://www.cadfem.de/) / [Ansys](http://www.ansys.com/de_de) (25. Juni 2015, Bremen)
