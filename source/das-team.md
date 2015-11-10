@@ -11,7 +11,7 @@ Nach ihrem Informatik&shy;studium an der TU München arbeitete Dr. rer. nat. Ang
 Während dieser Zeit wurde sie mehrmals für ihre Arbeit ausgezeichnet: Ihr wurden zwei Best Paper Awards und der Promotionspreis des Bundes der Freunde der TU München verliehen, der herausragende Promotionen würdigt.
 
 Bei accu:rate ist sie Expertin für die Modellierung und zeigt sich für das Projektgeschäft verantwortlich. Kontaktieren Sie Frau Kneidl für alle wissenschaftlichen sowie produktspezifischen Fragen unter <span class="mailadresse" data-to="ak">ak@javascript.anti.spam</span>.
-Angelika ist auch auf [XING](https://www.xing.com/profile/Angelika_Kneidl) und [LinkedIn](https://de.linkedin.com/in/dr-angelika-kneidl-aabb95a8) vertreten.
+Frau Dr. Kneidl ist auch auf [XING](https://www.xing.com/profile/Angelika_Kneidl) und [LinkedIn](https://de.linkedin.com/in/dr-angelika-kneidl-aabb95a8) vertreten.
 
 
 
