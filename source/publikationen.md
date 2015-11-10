@@ -36,6 +36,7 @@
 ### Begutachtete Konferenzbeiträge
 
 
+* Kneidl, Angelika: How Do People Queue - A Study Of Different Queuing Models, [TGF '15](http://www.citg.tudelft.nl/en/about-faculty/departments/transport-and-planning/conferences/tgf15/), Delft, Netherlands, 2015. [Abstract (PDF)](download/tgf15-kneidl-how-do-people-queue-abstract.pdf), [Slides (PDF)](download/tgf15-kneidl-how-do-people-queue-slides.pdf).
 - Kneidl, Angelika; Hartmann, Dirk; Borrmann, André (2012): [Using a multi-scale model for simulating pedestrian behavior](http://www.cms.bgu.tum.de/publications/Kneidl_2012_FBI.pdf). In: Proceedings of the 6th International Conference on Pedestrian and Evacuation Dynamics, Zürich, Switzerland, 2012
 - Butenuth, M.., Burkert, F., Borrmann, A., Kneidl, A., Hinz, S., Schmidt, F., Sirmacek, B. (2011): [Integrating pedestrian simulation, tracking and event detection for crowd analysis](http://www.cms.bgu.tum.de/publications/2011_Butenuth_ICCV.pdf). To appear in: Proceedings of IEEE Workshop on Modeling, Simulation and Visual Analysis of Large Crowds, Barcelona, Spain
 - Kneidl, A., Borrmann A., Hartmann, D. (2011): [Generating sparse navigation graphs for microscopic pedestrian simulation models](http://www.cms.bgu.tum.de/publications/Paper_Kneidl_EG-ICE_2011.pdf). Proceedings of the EG-ICE Workshop on Intelligent Computing in Civil Engineering. Enschede, The Netherlands **(Best Paper Award)**
