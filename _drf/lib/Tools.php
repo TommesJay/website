@@ -9,12 +9,17 @@
 
 // error log
 function error($value='') {
-	echo "[ERROR] NOT written: $value\n";
+    $trace=debug_backtrace();
+    $caller=$trace[1];
+    echo "[ERROR] {$caller['function']}: $value\n";
+
 }
 
 // success log
 function success($value='') {
-	echo "[SUCCESS] written: $value\n";
+    $trace=debug_backtrace();
+    $caller=$trace[1];
+    echo "[SUCCESS] {$caller['function']}: $value\n";
 }
 
 // prevent Directory traversal attack
@@ -48,6 +53,15 @@ function getHtmltitleMD($markdown) {
     return $title ;
 }
 
+// wikistylelinks [[ ]]
+function wikistylelinks($content) {
+    $doublebracket = '/\[\[(.*)\]\]/U';
+    $content = preg_replace_callback(   $doublebracket, function ($matches) {
+            return "<a href='/" . iconv("utf-8","ascii//TRANSLIT", str_replace(' ', '_', strtolower($matches[1]) ) ) . "'>" . $matches[1] . "</a>" ;
+        }, $content
+    );
+    return $content ;
+}
 
 // <!-- more --> cutter
 function moreCutter($content) {
