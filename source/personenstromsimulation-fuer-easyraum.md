@@ -6,7 +6,7 @@ accu:rate und [easyRAUM](http://easyraum.de/) haben gemeinsam eine Machbarkeitss
 
 CAD-Pläne inkl. der verschiedener Bestuhlungsvarianten, die mit easyRAUM erstellt wurden, sollten genutzt werden, um eine Entfluchtung der Räumlichkeiten zu simulieren.
 
-Dazu haben wir die Pläne des [Mövenpick Hotels in Stuttgart](http://www.moevenpick-hotels.com/en/europe/germany/stuttgart/hotel-stuttgart-airport/meetings/meeting-rooms/) verwendet.
+Dazu haben wir die Pläne des [Mövenpick Hotels in Stuttgart](http://www.movenpick.com/de/europe/germany/stuttgart/hotel-stuttgart-airport/tagungen/tagungsraeume/) verwendet.
 Dieses Hotel bietet unterschiedliche Konferenzräume mit verschiedenen Bestuhlungsvarianten an.
 Zwei Bestuhlungsvarianten des größten Konferenzsaals wurden betrachtet und die resultierenden Entfluchtungszeiten miteinander verglichen. 
 
