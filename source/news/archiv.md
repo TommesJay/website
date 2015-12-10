@@ -5,11 +5,17 @@
 ~ [Joseph von Westphalen in der TAZ](http://www.taz.de/1/archiv/?dig=2005/02/26/a0311 "Artikel: Die Zeitung von gestern - oder Was einem bleibt von 26.02.2005.")
 
 
-## 2015
+## 2016
 
 ### Ankündigungen
 
 * Messe: [FeuerTRUTZ 2016](http://www.feuertrutz-katalog.de/de/accu-rate-GbR-Institute-for-crowd-simulation,c368028) Halle 10.0 / Stand 10.0-508 (17. - 18. Februar 2016, Nürnberg)
+
+
+## 2015
+
+### Ankündigungen
+
 * Vortrag: Sicherheit statt Bauchgefühl – Computer&shy;gestützte Simulationen von Personen&shy;bewegungen als hilfreiches Werkzeug in der Veranstaltungs&shy;planung, [DEAplus Winteruni](http://www.deaplus.org/kurse/kurs/winter-uni.html) (14. - 19. Dezember 2015, Hannover)
 
 ### Vergangenheit
