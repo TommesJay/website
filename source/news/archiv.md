@@ -9,7 +9,7 @@
 
 ### Ankündigungen
 
-* Messe: [FeuerTRUTZ](http://www.feuertrutz-katalog.de/de/accu-rate-GbR-Institute-for-crowd-simulation,c368028) Halle 10.0 / Stand 10.0-508 (17. - 18. Februar, Nürnberg)
+* Messe: [FeuerTRUTZ 2016](http://www.feuertrutz-katalog.de/de/accu-rate-GbR-Institute-for-crowd-simulation,c368028) Halle 10.0 / Stand 10.0-508 (17. - 18. Februar, Nürnberg)
 * Vortrag: Sicherheit statt Bauchgefühl – Computer&shy;gestützte Simulationen von Personen&shy;bewegungen als hilfreiches Werkzeug in der Veranstaltungs&shy;planung, [DEAplus Winteruni](http://www.deaplus.org/kurse/kurs/winter-uni.html) (14. - 19. Dezember 2015, Hannover)
 
 ### Vergangenheit
