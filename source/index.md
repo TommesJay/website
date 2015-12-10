@@ -47,7 +47,7 @@ In der graphischen Darstellung werden sowohl die Risikofaktoren sichtbar, als au
 Anhand der Simulationsergebnisse wird nachvollziehbar, welches Konzept Ihre Anforderungen am besten erfüllt.
 Durch das frühe Evaluieren verschiedener Möglichkeiten erhöhen Sie die Planungssicherheit und senken die Kosten.
 
-<div class='embed-container'><iframe src='http://www.youtube.com/embed/FYk5SXH_NYs?rel=0' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/HpRT8hqR_uI?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
 
 ## Entscheiden Sie auf der Basis objektiver Bewertungskriterien
