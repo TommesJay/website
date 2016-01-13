@@ -2,22 +2,21 @@
 # <br /> *Kontakt und Impressum* {.fancyheader}
 
 <div class="vcard">
-<span class="org">accu:rate GbR</span>
-<span class="fn">Dr. Angelika Kneidl, Florian Sesser</span>
+<span class="org">accu:rate GmbH i.Gr.</span>
 <p class="adr">
-<span class="extended-address">c/o F24 AG</span>
-<span class="street-address">Isarwinkel 14</span>
-<span class="postal-code">D-81379</span> <span class="locality">M&uuml;nchen</span>
+<span class="extended-address">c/o hhpberlin GmbH</span>
+<span class="street-address">Rosental 5</span>
+<span class="postal-code">D-80331</span> <span class="locality">M&uuml;nchen</span>
 </p>
 Tel. <a class="tel" href="tel:+498921553869">+49 (0)89&ndash;21553869</a><br />
 eMail <span class="email mailadresse" data-to="info">info@javascript.anti.spam</span>
 </div>
 
 <br />
-Steuernummer: 146/242/80564<br />
-USt-ID: DE293890712
-
-Bisher in keine Register eingetragen.
+Bisher in keine Register eingetragen.  
+Steuernummer: ist in Arbeit  
+USt-ID: dito  
+<span class="fn">Geschäftsführung: Dr. Angelika Kneidl, Florian Sesser</span>
 
 Verantwortlich für dieses Angebot gemäß [§ 5 Telemediengesetz](http://www.gesetze-im-internet.de/tmg/__5.html): Florian Sesser
 
