@@ -24,7 +24,7 @@ Konzept und Design: <a href="http://www.chriscarl.de/" target="_blank" title="Ch
 
 ### Links
 
-- accu:rate auf [Facebook](https://www.facebook.com/accurate-1456190694613967), [Twitter](https://twitter.com/accu_rate), [Google+](https://plus.google.com/116911264361422726136)
+- accu:rate auf [Facebook](https://www.facebook.com/accurate-1456190694613967), [Twitter](https://twitter.com/accu_rate), [Google+](https://plus.google.com/114301206581107760302)
 - Dr. Angelika Kneidl auf [XING](https://www.xing.com/profile/Angelika_Kneidl), [LinkedIn](https://de.linkedin.com/in/dr-angelika-kneidl-aabb95a8)
 - Florian Sesser auf [XING](https://www.xing.com/profile/Florian_Sesser), [LinkedIn](https://de.linkedin.com/in/florian-sesser-88a6aab5)
 
