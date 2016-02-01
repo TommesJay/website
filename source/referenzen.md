@@ -5,6 +5,12 @@ Hier finden Sie einige Beispiele unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+## [Neues Sportmuseum in Zürich](simulation-sportmuseum)
+[![Logo THEMATA](img/referenzen/themata-logo.png)](simulation-sportmuseum) {.referenzpreview}
+
+accu:rate unterstützte mithilfe einer Besucher&shy;strom&shy;simulation die Kapazitäts&shy;planung eines neuen Sport&shy;museums im Auftrag von [THEMATA](http://www.themata.de/).
+Ziel war es, die Kapazitäten der Exponate bei angenommenen Verweil&shy;dauern sowie Füllgrad des Museums zu überprüfen und eventuell auftretende Engpässe bereits während der Planungs&shy;phase zu erkennen und zu beseitigen.
+[Mehr lesen...](simulation-sportmuseum)
 
 ## [Biberacher Schützenfest](raeumungskonzept-fluchtwegsplanung-biberacher-schuetzenfest) {#biberacher-schuetzenfest}
 

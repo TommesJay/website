@@ -5,10 +5,12 @@ Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
-accu:rate unterstützte mithilfe einer Besucherstromsimulation die Kapazitätsplanungen eines neuen Sportmuseums im Auftrag von [THEMATA](http://www.themata.de/) (Potsdam).
-Dabei lieferten THEMATA sowie [TRIAD](https://www.triad.de/de/projekte/fifa-world-football-museum/) (Berlin) die erforderlichen Eingabeparameter für die Simulation.
+[![Logo THEMATA](img/referenzen/themata-logo.png)](http://www.themata.de/) {.referenzpreview}
+
+accu:rate unter&shy;stützte mithilfe einer Besucher&shy;strom&shy;simulation die Kapazitäts&shy;planung eines neuen Sport&shy;museums im Auftrag von [THEMATA](http://www.themata.de/) (Potsdam).
+Dabei lieferten THEMATA sowie [TRIAD](https://www.triad.de/de/projekte/fifa-world-football-museum/) (Berlin) die erforderlichen Eingabe&shy;parameter für die Simulation.
 Gemeinsam mit THEMATA wurden die relevanten Szenarien definiert und simuliert.
-Ziel war es, die Kapazitäten der Exponate bei angenommenen Verweildauern sowie Füllgrad des Museums zu überprüfen und eventuell auftretende Engpässe bereits während der Planungsphase zu erkennen und zu beseitigen. 
+Ziel war es, die Kapazitäten der Exponate bei angenommenen Verweil&shy;dauern sowie Füllgrad des Museums zu überprüfen und eventuell auftretende Engpässe bereits während der Planungs&shy;phase zu erkennen und zu beseitigen. 
 
 Aktuelle Informationen finden Sie [hier](http://de.fifamuseum.com/about/media/press-releases/fifa-welt-fussball-museum-eroffnungstermin-steht-2609754/#).
 
