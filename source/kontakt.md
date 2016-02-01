@@ -2,7 +2,7 @@
 # <br /> *Kontakt und Impressum* {.fancyheader}
 
 <div class="vcard">
-<span class="org">accu:rate GmbH i.Gr.</span>
+<span class="org">accu:rate GmbH</span>
 <p class="adr">
 <span class="extended-address">c/o hhpberlin GmbH</span>
 <span class="street-address">Rosental 5</span>
@@ -13,10 +13,10 @@ eMail <span class="email mailadresse" data-to="info">info@javascript.anti.spam</
 </div>
 
 <br />
-Bisher in keine Register eingetragen.  
+Amtsgericht München HRB 223218  
 Steuernummer: ist in Arbeit  
 USt-ID: dito  
-<span class="fn">Geschäftsführung: Dr. Angelika Kneidl, Florian Sesser</span>
+<span class="fn">Geschäftsführung: Dr. Angelika Kneidl, Dipl.-Inf. Florian Sesser</span>
 
 Verantwortlich für dieses Angebot gemäß [§ 5 Telemediengesetz](http://www.gesetze-im-internet.de/tmg/__5.html): Florian Sesser
 
