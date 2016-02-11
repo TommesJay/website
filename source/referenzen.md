@@ -5,6 +5,17 @@ Hier finden Sie einige Beispiele unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+## [Virtuelle Realität: Erleben Sie eine die Evakuierung eines Bierzeltes mit dem Google Cardboard](modellierungsseminar-google-cardboard-hm-ws-2015)
+
+[![Screenshot Google Cardboard Bierzelt Evakuierung Thumbnail](img/referenzen/projektseminar-beertent-cardboard-screenshot-thumb.jpg)](modellierungsseminar-google-cardboard-hm-ws-2015) {.referenzpreview}
+
+Unsere Partnerin [Prof. Dr. Gerta Köster](das-team#gerta-koester) von der [Hochschule München](http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html) hat vergangenes Semester das Projektseminar *Modellbildung und Simulation* geleitet.
+Die Studierenden sollten in kleinen Gruppen die Evakuierung eines Bierzeltes auf dem Münchner Oktoberfest simulieren und das Ergebnis mittels Virtual Reality darstellen.
+Die Visualisierung baut auf accu:rate's bisherigen Experimenten mit dem [Google Cardboard](https://www.google.com/get/cardboard/) auf, um den Betrachter in das Geschehen zu holen.
+Der Clou dabei: Der [kognitive Overhead](https://en.wikipedia.org/wiki/Cognitive_load#Extraneous) wird minimiert, bei der Einschätzung der Simulation können Betrachter ihr Erfahrungswissen direkt anwenden.
+[Mehr lesen...](modellierungsseminar-google-cardboard-hm-ws-2015)
+
+
 ## [Neues Sportmuseum in Zürich](simulation-sportmuseum)
 [![Logo THEMATA](img/referenzen/themata-logo.png)](simulation-sportmuseum) {.referenzpreview}
 
