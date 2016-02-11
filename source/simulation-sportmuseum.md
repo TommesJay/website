@@ -5,6 +5,8 @@ Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+*München/Potsdam/Berlin/Zürich, 01. Februar 2016*
+
 [![Logo THEMATA](img/referenzen/themata-logo.png)](http://www.themata.de/) {.referenzpreview}
 
 accu:rate unter&shy;stützte mithilfe einer Besucher&shy;strom&shy;simulation die Kapazitäts&shy;planung eines neuen Sport&shy;museums im Auftrag von [THEMATA](http://www.themata.de/) (Potsdam).
