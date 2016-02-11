@@ -295,9 +295,6 @@ img.mugshot  {
     margin: 0 1em 0.4em 0;
     padding: 0.3em 0 0 0.1em;
 }
-a.referenzpreview img {
-    margin: 0.5em 1em 0.5em 0;
-}
 
 /* vcards */
 .vcard span,
