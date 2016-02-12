@@ -5,6 +5,17 @@ Hier finden Sie einige Beispiele unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+
+## [Personenstromanalyse einer Münchner U-Bahn-Station](personenstromanalyse-ubahn-station-muenchen-mvg)
+
+[![Logo SWM MVG](img/referenzen/logo-swm-mvg.png)](personenstromanalyse-ubahn-station-muenchen-mvg) {.referenzpreview}
+
+accu:rate wurde von den [Stadtwerken München](https://www.swm.de/) beauftragt, eine [Fahrgast&shy;simulation an einer Münchner U-Bahnstation](personenstromanalyse-ubahn-station-muenchen-mvg) durchzuführen.
+Mithilfe der Simulation wurden kritische Fahrgastströme näher untersucht und mögliche Maßnahmen zur Entlastung der Station getestet.
+Die Ergebnisse fließen in das Betriebskonzept der Station ein, um einen möglichst reibungs&shy;losen Betrieb auch zur Hauptverkehrszeit zu ermöglichen.
+[Mehr lesen...](personenstromanalyse-ubahn-station-muenchen-mvg)
+
+
 ## [Virtuelle Realität: Erleben Sie eine die Evakuierung eines Bierzeltes mit dem Google Cardboard](modellierungsseminar-google-cardboard-hm-ws-2015)
 
 [![Screenshot Google Cardboard Bierzelt Evakuierung Thumbnail](img/referenzen/projektseminar-beertent-cardboard-screenshot-thumb.jpg)](modellierungsseminar-google-cardboard-hm-ws-2015) {.referenzpreview}
