@@ -34,7 +34,11 @@ Das ist aber noch nicht alles, es stehen sogar mehrere Versionen zur Verfügung,
 
 [![Google Cardboard erste Version](img/referenzen/projektseminar-cardboard.jpg)](img/referenzen/projektseminar-cardboard.jpg)
 
-Die dritte Version steht auch als [360°-Video](http://youtubecreator.blogspot.de/2015/03/a-new-way-to-see-and-share-your-world.html) zur Verfügung, kann man sowohl am PC als auch auf einem Smartphone betrachten werden und je nach dem wie man die Maus oder das Smartphone schwenkt, den Blickwinkel verändern. Man kann in eine virtuelle Welt hineintauchen und fühlt sich fast wie auf der Wiesn.
+Die dritte Version steht auch als [360°-Video](http://youtubecreator.blogspot.de/2015/03/a-new-way-to-see-and-share-your-world.html) zur Verfügung.
+Dieses kann man natürlich wie gewohnt am PC betrachten.
+Spannender ist es jedoch mit einem Smartphone: Durch hin- und herschwenken des Gerätes verändert man den Blickwinkel.
+
+So kann man in eine virtuelle Welt hineintauchen und fühlt sich fast wie auf der Wiesn.
 
 Ein herzliches Dankeschön an das Team:
 
