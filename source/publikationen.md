@@ -11,6 +11,7 @@
 
 ## Presseartikel
 
+* Protector: [Sicher planen für den Ernstfall](http://www.sicherheit.info/SI/cms.nsf/si.ArticlesByDocID/1137948?Open&SessionID=3133989-120255%20PM), 16.07.2015
 * Tagesspiegel: [Auf der Flucht](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente), 02.06.2015
 - Süddeutsche Zeitung: [Computertechnik, die Leben rettet](http://www.sueddeutsche.de/muenchen/software-zur-evakuierung-nur-keine-panik-1.2433613), Christiane Funke, 14.04.2015
 - Event Elevator: [Personenverhalten richtig vorhersagen](http://www.eventelevator.de/neuigkeiten/allgemein/accu-rate-und-bbvs-starten-kooperation), André Werner, 28.11.2014
