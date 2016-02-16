@@ -7,19 +7,12 @@
 
 ## 2016
 
-### Ankündigungen
-
-* Messe: [FeuerTRUTZ 2016](http://www.feuertrutz-katalog.de/de/accu-rate-GbR-Institute-for-crowd-simulation,c368028) Halle 10.0 / Stand 10.0-508 (17. - 18. Februar 2016, Nürnberg)
+* Messe: [FeuerTRUTZ 2016](/news:2016-02-16-besuchen-sie-uns-auf-der-feuertrutz) Halle 10.0 / Stand 10.0-508 (17. - 18. Februar 2016, Nürnberg)
 
 
 ## 2015
 
-### Ankündigungen
-
 * Vortrag: Sicherheit statt Bauchgefühl – Computer&shy;gestützte Simulationen von Personen&shy;bewegungen als hilfreiches Werkzeug in der Veranstaltungs&shy;planung, [DEAplus Winteruni](http://www.deaplus.org/kurse/kurs/winter-uni.html) (14. - 19. Dezember 2015, Hannover)
-
-### Vergangenheit
-
 * Vortrag: Wie laufen Fußgänger? Ein Experiment zur Wegefindung, [IBIT Fachtagung 2015](http://ibit.eu/fachtagung/fachtagung-2015/), [IBIT GmbH](http://ibit.eu/) (09. November 2015, Bonn)
 * Vortrag: How Do People Queue - A Study Of Different Queuing Models, [TGF (Traffic and Granular Flow) Conference 2015](http://www.citg.tudelft.nl/en/about-faculty/departments/transport-and-planning/conferences/tgf15/), [TU Delft](http://www.tudelft.nl/) (28. - 30. Oktober 2015, Delft, NL) [Abstract (PDF)](download/tgf15-kneidl-how-do-people-queue-abstract.pdf), [Slides (PDF)](download/tgf15-kneidl-how-do-people-queue-slides.pdf)
 * Vortrag: Ja wie laufen sie denn? Simulation von Personenströmen für den Ernstfall, [5. Berliner Brandschutz-Fachgespräch – Brandschutz in Kultur- und Versammlungsbauten](http://brandschutz-akademie-berlin.de/veranstaltung/bbf5/), [Brandschutz Akademie Berlin](http://brandschutz-akademie-berlin.de/) (10. September 2015, Berlin)
