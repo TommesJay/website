@@ -18,7 +18,7 @@ Heute betreibt das Schloss Neuschwanstein die [Bayerische Verwaltung der staatli
 ![Schloss Neuschwanstein: Sängersaal © Bayerische Schlösserverwaltung
 www.schloesser.bayern.de](Neuschwanstein_Sängersaal.jpg)
 
-Die enorme Besucherzahl in einem Schloss, das ursprünglich als Wohnsitz für  eine Person geplant war, stellen die Verantwortlichen vor viele Herausforderungen. accu:rate unterstützte das [Staatliche Bauamt Kempten](www.stbake.bayern.de) dabei, die Fluchtwege zu analysieren und zu optimieren. Damit im Ernstfall alle Besucher rechtzeitig und sicher aus dem Schloss kommen.
+Die enorme Besucherzahl in einem Schloss, das ursprünglich als Wohnsitz für nur eine Person geplant war, stellen die Verantwortlichen vor viele Herausforderungen. accu:rate unterstützte das [Staatliche Bauamt Kempten](www.stbake.bayern.de) dabei, die Fluchtwege zu analysieren und zu optimieren. Damit im Ernstfall alle Besucher rechtzeitig und sicher aus dem Schloss kommen.
 
 Wenn auch Sie ein Schloss oder ein denkmalgeschütztes Gebäude verwalten oder betreiben, und die Fluchtwege analysieren wollen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
 
