@@ -7,11 +7,13 @@ Bitte [kontaktieren](kontakt) Sie uns.
 
 ![Schloss Neuschwanstein © Bayerische Schlösserverwaltung
 www.schloesser.bayern.de, Anton Brandl, München](img/referenzen/Neuschwanstein_02a_Foto Anton J Brandl.jpg)
-König Ludwig der II. entwarf Schloss Neuschwanstein 1868 als eine idealisierte Vorstellung einer Ritterburg aus der Zeit des Mittelalters. Baubeginn des Märchenschlosses, wie es gerne genannt wird, war bereits 1869. Er selbst bezog das Schloss 1884 und lebte nur 172 Tage auf dem Schloss. Obwohl er es niemals der Öffentlichkeit zugänglich machen wollte, wurde es schon kurz nach seinem Tod in 1886 für Besucher geöffnet - um ein Teil der Kredite, die König Ludwig durch den Bau verursacht hatte, zu bezahlen.
+
+König Ludwig der II. entwarf Schloss Neuschwanstein 1868 als eine idealisierte Vorstellung einer Ritterburg aus der Zeit des Mittelalters. Baubeginn des Märchenschlosses, wie es gerne genannt wird, war bereits 1869. Er selbst bezog das Schloss 1884 und lebte nur 172 Tage auf dem Schloss. Obwohl er es niemals der Öffentlichkeit zugänglich machen wollte, wurde es schon kurz nach seinem Tod in 1886 für Besucher geöffnet - um ein Teil der Kredite, die König Ludwig II für den Bau aufnehmen musste, abzubezahlen.
+
 ![Schloss Neuschwanstein: Oberer Schlosshof © Bayerische Schlösserverwaltung
 www.schloesser.bayern.de](Neuschwanstein_oberer_Hof_DG6498.jpg)
 
-Heute betreibt das Schloss Neuschwanstein die [Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen](http://www.neuschwanstein.de/)mit jährlich ca. 1.3 Millionen Besucher eines bekanntesten Sehenswürdigkeiten Deutschlands und weit darüber hinaus weltweit bekannt - spätestens seit als Vorlage des [Sleeping-Beauty-Schloss] (https://en.wikipedia.org/wiki/Sleeping_Beauty_Castle) für das [Disneyland](https://en.wikipedia.org/wiki/Disneyland) in Anaheim diente.
+Heute betreibt das Schloss Neuschwanstein die [Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen](http://www.neuschwanstein.de/). Es ist mit jährlich ca. 1.3 Millionen Besucher eines bekanntesten Sehenswürdigkeiten Deutschlands und auch weit darüber hinaus bekannt - spätestens seit als Vorlage des [Sleeping-Beauty-Schloss] (https://en.wikipedia.org/wiki/Sleeping_Beauty_Castle) für das [Disneyland](https://en.wikipedia.org/wiki/Disneyland) in Anaheim diente.
 
 ![Schloss Neuschwanstein: Sängersaal © Bayerische Schlösserverwaltung
 www.schloesser.bayern.de](Neuschwanstein_Sängersaal.jpg)
