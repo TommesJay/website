@@ -1,7 +1,7 @@
 <div class="two columns alpha omega"></div>
 <div class="four columns">
     <strong>
-        accu:rate GmbH i.Gr.<br />
+        accu:rate GmbH<br />
         Institute for <br />crowd simulation
     </strong>
     <br />
