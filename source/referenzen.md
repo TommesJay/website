@@ -6,6 +6,15 @@ Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 
+## [Entfluchtungsanalyse für Schloss Neuschwanstein](simulation-entfluchtungsanalyse-schloss-neuschwanstein)
+[![Schloss Neuschwanstein Thumbnail](img/referenzen/neuschwanstein_02a_foto_anton_j_brandl_thumb.jpg)](simulation-entfluchtungsanalyse-schloss-neuschwanstein) {.referenzpreview}
+König Ludwig der II. entwarf Schloss Neuschwanstein 1868 als eine idealisierte Vorstellung einer Ritterburg aus der Zeit des Mittelalters. 
+Baubeginn des Märchenschlosses, wie es gerne genannt wird, war bereits 1869. Er selbst bezog das Schloss 1884 und lebte nur 172 Tage auf dem Schloss.
+Obwohl er es niemals der Öffentlichkeit zugänglich machen wollte, wurde es schon kurz nach seinem Tod in 1886 für Besucher geöffnet - um einen Teil der Kredite, die König Ludwig II für den Bau aufnehmen musste, abzubezahlen.
+[Mehr lesen...](simulation-entfluchtungsanalyse-schloss-neuschwanstein)
+
+
+
 ## [Personenstromanalyse einer Münchner U-Bahn-Station](personenstromanalyse-ubahn-station-muenchen-mvg)
 
 [![Logo SWM MVG](img/referenzen/logo-swm-mvg.png)](personenstromanalyse-ubahn-station-muenchen-mvg) {.referenzpreview}
