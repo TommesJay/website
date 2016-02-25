@@ -11,6 +11,8 @@
 
 ## Presseartikel
 
+* Sichereseite.com: [Sicherheit von Anfang an: crowd:it](http://www.sichereseite.com/personenstromsimulation-software-crowdit), Florian Appelt, 24.02.2016
+* Brandschutzdialog: [Dynamik von Personenbewegungen](http://www.brandschutzdialog.de/dynamik-von-personenbewegungen/150/38192/), Februar 2016
 * Protector: [Sicher planen für den Ernstfall](http://www.sicherheit.info/SI/cms.nsf/si.ArticlesByDocID/1137948?Open&SessionID=3133989-120255%20PM), 16.07.2015
 * Tagesspiegel: [Auf der Flucht](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente), 02.06.2015
 - Süddeutsche Zeitung: [Computertechnik, die Leben rettet](http://www.sueddeutsche.de/muenchen/software-zur-evakuierung-nur-keine-panik-1.2433613), Christiane Funke, 14.04.2015
