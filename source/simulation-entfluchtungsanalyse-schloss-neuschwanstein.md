@@ -20,7 +20,7 @@ Das Märchenschloss gehört heute zu den meistbesuchten Schlössern und Burgen E
 Die [Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen](http://www.neuschwanstein.de/) ist der aktuelle Betreiber von Neuschwanstein und stellt sich den Herausforderungen, die so eine Berühmtheit und die damit verbundenen Besucherzahlen mit sich bringt.
 
 Im Sommer drängen sich im Durchschnitt täglich mehr als 6.000 Besucher durch Räume, die für einen einzigen Bewohner bestimmt waren.
-accu:rate unterstützte das [Staatliche Bauamt Kempten](www.stbake.bayern.de) dabei, die Fluchtwege zu analysieren und zu optimieren - damit im Ernstfall alle Besucher rechtzeitig und sicher aus dem Schloss geleitet werden können.
+accu:rate unterstützte das [Staatliche Bauamt Kempten](http://www.stbake.bayern.de/) dabei, die Fluchtwege zu analysieren und zu optimieren - damit im Ernstfall alle Besucher rechtzeitig und sicher aus dem Schloss geleitet werden können.
 
 
 Wenn auch Sie ein Schloss oder ein denkmalgeschütztes Gebäude verwalten oder betreiben, und die Fluchtwege analysieren wollen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
