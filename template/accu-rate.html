@@ -32,9 +32,9 @@
     <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/template/accu-rate.css?{{meta.cssversion}}" />
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 
-    {{#meta.lang}}
+    {{#meta.langs}}
     <link rel="alternate" href="/{{url}}" hreflang="{{code}}" />
-    {{/meta.lang}}
+    {{/meta.langs}}
 </head>
 
 <body>
@@ -54,10 +54,10 @@
             </div>
 
             <div class="two columns">
-                <div class="lang">
-                    {{#meta.lang}}
-                        <a title="{{text}}" href="accu-rate.de/{{{url}}}" class="cls"><img src="img/{{icon}}" alt="{{text}}" /></a>
-                    {{/meta.lang}} 
+                <div class="langs">
+                    {{#meta.langs}}
+                        <a hreflang="{{code}}" title="{{text}}" class="cls" href="/{{{url}}}"><img src="img/{{icon}}" alt="{{text}}" /></a>
+                    {{/meta.langs}}
                 </div>
             </div>
 
