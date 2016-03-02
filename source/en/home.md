@@ -1,6 +1,9 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # *Sicherheit lässt sich planen – durch Simulation von Personenströmen* {.fancyheader}
 
+Hello international visitor! So far, only parts of our website are available in German.
+Please contact us, we're happy to speak English (and some Spanish, French and Dutch too).
+
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 

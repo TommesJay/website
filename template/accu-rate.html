@@ -25,7 +25,6 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-    <meta name="google-translate-customization" content="8adb9eee40db37ea-118fd9e473434363-g773d2845c22477b5-10" />
 
     <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/skeleton/stylesheets/min.css" />
     <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/fonts/webfontkit-20140112-173602/stylesheet_custom.css" />
@@ -82,18 +81,6 @@
         <script src="{{meta.baseurl}}/lib/css3-mediaqueries-for-ie8-min.js"></script>
     <![endif]-->
     <script type="text/javascript" src="{{meta.baseurl}}/template/accu-rate.js?{{meta.jsversion}}"></script>
-
-    <!-- Google Translate integration -->
-    <div id="google_translate_element"></div>
-    <script type="text/javascript">
-        // Don't init the google translate widget on mobiles, it's too heavy
-        if (!userSpeaksGerman() && !isMobileDevice()) {
-            function googleTranslateElementInit() {
-              new google.translate.TranslateElement({pageLanguage: 'de', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
-            }
-            loadScript("//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit");
-        }
-    </script>
 </body>
 
 </html>
