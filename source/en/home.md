@@ -1,82 +1,66 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# *Sicherheit lässt sich planen – durch Simulation von Personenströmen* {.fancyheader}
+# *Safety can be planned – with simulation of pedestrian flows* {.fancyheader}
 
 Hello international visitor! So far, only parts of our website are available in German.
 Please contact us, we're happy to speak English (and some Spanish, French and Dutch too).
 
 <div class="float-right newsbox border" markdown="1">
-#### Aktuelles
+#### News
 
 * Messe: [FeuerTRUTZ 2016](/news:2016-02-16-besuchen-sie-uns-auf-der-feuertrutz) Halle 10.0 / Stand 10.0-508 (17. - 18. Februar 2016, Nürnberg)
 * Vortrag: Computer&shy;gestützte Simulationen als hilf&shy;reiches Werk&shy;zeug in der Ver&shy;anstalt&shy;ungs&shy;planung, [DEAplus Winteruni](http://www.deaplus.org/kurse/kurs/winter-uni.html) (14. - 19. Dezember 2015, Hannover)
 * [Dr. Angelika Kneidl im Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
 * [Dr. Angelika Kneidl in der Süddeutschen Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 
-[Mehr Neuigkeiten...](/news:archiv)
+[More News...](/news:archiv)
 </div>
 
-## Menschliches Verhalten ist komplex
+## Human behavior is complex
 
 ![Shortest path SumoViz3D](/img/shortest_path.jpg) {.float-left .bigfloat}
 
-Menschen bewegen sich nicht wie Maschinen. Sie haben verschiedene Ziele und Motive, bewegen und verhalten sich unterschiedlich und vor allem: nicht immer nach Plan.
+People do not move like machines.
+They have different goals and motives.
+Therefore, they move and behave differently.
+And above all: things do not always go on plan.
 
-An Orten, an denen viele Menschen aufeinandertreffen, existieren daher komplexe dynamische Systeme, deren Entwicklung intuitiv nicht mehr vollständig zu erfassen oder vorherzusagen ist.
+At places where many people meet exist complex dynamic situations whose development can intuitively not fully grasped or predicted.
 
-Sie haben die Möglichkeit, die Komplexität von Personenströmen durch accu:rate nachvollziehbar zu machen.
+accu:rate can support you in handling the complexity of pedestrian flows.
 
 
-## Risiken erkennen und ausschließen
+## Identify and eliminate risk
 
-Die Simulation von Personenströmen hilft bereits in der Planung von Großevents oder Bauprojekten, mögliche Engstellen und Risiken zu erkennen und zu vermeiden.
-Detaillierte Grafiken und Filmanimationen leisten genau dort Unterstützung, wo selbst erfahrene Sicherheitsexperten an ihre Grenzen geraten.
-Zwar lässt sich jeder einzelne Parameter und jede einzelne Engstelle isoliert betrachtet problemlos kalkulieren und durchdenken, deren komplexes Zusammenspiel wird jedoch erst in der Simulation sichtbar.
+The solution: crowd simulation of pedestrian flows.
+It can be executed during the planning of major events or construction projects, to identify potential bottlenecks and risks which should be avoided.
+Detailed graphics and film animations provide an exact support where even experienced security experts reach their limits.
+While it’s possible to can be each single parameter and each constriction separately calculated and thought through, the complex challenge of interplay can be visible only in a simulation. 
 
-- Wo und wie schnell bewegen sich Personen?
-- Wo gibt es Engstellen, an denen sich Personen stauen?
-- Wie hoch ist die maximale Personendichte?
+- Where and how fast are people moving?
+- Where are bottlenecks people piling up?
+- What is the maximum density of the crowd?
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/sw1zICjwpV4?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
-accu:rate berechnet sowohl den Regelfall, beispielsweise die Besucherströme in einer Konzertpause, als auch Ausnahmesituationen wie die Räumung bei Feueralarm, und bereitet diese graphisch anschaulich auf: von den Wegen einzelner Personen bis zum Strom der großen Masse.
-Anhand der Ergebnisse können Sie rechtzeitig verantwortungsvoll planen – sei es in der Veranstaltungssicherheit, bei Bauvorhaben oder der Sanierung öffentlicher Gebäude.
-accu:rate liefert eine valide Entscheidungsgrundlage, wo sich die Sicherheitsplanung bisher oft auf das Bauchgefühl verlassen musste.
+We at accu:rate can help you to calculate both, the rule for example the flow of visitors in an interval  or situations such as the evacuation in case of fire alarm.
+Results are prepared graphically from cases of the paths of individuals to a picture of the power of the masses.
+Based on the results customers can responsibly plan ahead - in cases of event security, at workplaces on premise or of the renovation of public buildings.
+So accu:rate provides a valid basis for decision making, where previously customer often had to rely on gut feeling in security planning.
 
 
-## Vergleichen Sie verschiedene Konzepte in der Planungsphase
+## Compare different concepts in the planning phase
 
-Bereits in der Planungsphase können Sie mit accu:rate unterschiedliche Lösungen zur Lenkung großer Besucherströme durchspielen.
-In der graphischen Darstellung werden sowohl die Risikofaktoren sichtbar, als auch die Vor- und Nachteile verschiedener Lösungsszenarien.
-Anhand der Simulationsergebnisse wird nachvollziehbar, welches Konzept Ihre Anforderungen am besten erfüllt.
-Durch das frühe Evaluieren verschiedener Möglichkeiten erhöhen Sie die Planungssicherheit und senken die Kosten.
+Already in the planning phase with accu: rate can plan different solutions for directing large flow of visitors.
+In the result graph risk factors are visible, as well as the pro and cons of different solution scenarios.
+Based on the simulation result can be understood which concept should be preferred best meeting your requirements.
+By the early evaluating various options increase planning security and reduce costs.
+
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/HpRT8hqR_uI?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
-
-## Entscheiden Sie auf der Basis objektiver Bewertungskriterien
-
-Erfahrung und Fachwissen sind die Basis jedes verantwortungsvollen Sicherheitskonzepts.
-Wir geben Ihnen Daten an die Hand, um Ihre Entscheidungen objektiv zu begründen und quantifiziert zu belegen.
-Die Simulation von Personenströmen wird in vielen Bereichen eingesetzt:
-
-- In der [Veranstaltungssicherheit](/veranstaltungssicherheit) und beim [Nachweis für Räumungskonzepte](raeumungskonzepte)
-- Bei der Planung von [Infrastruktur](/infrastrukturelle-gebaeude), zum Beispiel im öffentlichen Nah- und Fernverkehr
-- Bei der Sanierung von Bestandsgebäuden
-- Zur Erstellung von Entfluchtungsnachweisen für den Brandschutz
-
-
-## Schaffen Sie Vertrauen durch Transparenz
-
-Der graphisch aufbereitete Vergleich verschiedener Konzepte macht Ihre Argumentation für Projektbeteiligte wie für Außenstehende transparent und nachvollziehbar, denn ein gemeinsames Verständnis wird am besten durch Bilder geschaffen.
-Die als Diagramme, Tabellen, Bilder und Videos visualisierten Berechnungen von accu:rate liefern objektive Bewertungskriterien.
-Zudem gibt Ihnen ein ausführlicher Bericht alle wichtigen Informationen an die Hand.
-
-Viele weitere Einsatzbereiche sind denkbar und simulierbar: Haben Sie eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
-Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in welchem Umfang eine Simulation weiterhilft.
-
 -----------
 
-Wir danken unseren Unterstützern:
+We thank our supporters:
 
 <div class="associates-logos" markdown="1">
 [![Hochschule München](/img/associates/hm.png "accu:rate arbeitet seit Beginn intensiv mit Prof. Dr. Köster und der Hochschule München zusammen.")](http://www.hm.edu/)
@@ -92,7 +76,7 @@ Wir danken unseren Unterstützern:
 
 #meta#
 pagetitle: accu:rate Institute for crowd simulation
-description: Die Ausgründung der TU München bietet Simulation und Analyse von Personenströmen für Architekten und Veranstalter zur Verbesserung von Sicherheit und Komfort.
+description: The spin-off from TU Munich offers crowd simulation and analysis for e.g. architects and event safety planners.
 langs: [
     { code: "de", name: "Deutsch", url: "start", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
 ]
