@@ -7,6 +7,12 @@ RewriteEngine On
 RewriteRule ^([^\.]+)$ html/$1.html [NC,L]
 RewriteRule ^(.*)_ver(.*).css$ $1.css [NC,L]
 
+# i18n for start page (/)
+RewriteCond %{HTTP:Accept-Language} ^en [NC]
+RewriteRule ^$ /en:home [L,R=302]
+RewriteCond %{HTTP:Accept-Language} ^de [NC]
+RewriteRule ^$ /start [L,R=302]
+
 ErrorDocument 404 /html/404error.html
 
 # Utilize browser cache.
