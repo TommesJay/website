@@ -1,0 +1,18 @@
+---
+siteTitle: "accu:rate"
+pagetitle: Directory wide title 
+creator: "Florian Sesser, accu:rate"
+publisher: "accu:rate GmbH Institute for Crowd Simulation"
+rights: "2014- accu:rate"
+baseurl: 
+template: accu-rate
+area:
+    navigation: ../source/en/area/navigation.md
+    footer: ../source/en/area/footer.md
+cssversion: v1e15
+jsversion: vfc53
+comment: false
+description: "accu:rate GmbH Institute for Crowd Simulation"
+lang: en
+keywords: crowd,simulation,crowd simulation,flow,person,people,pedestrian,visitor,evacuation,location,event,concert,festival,security concept,risk management,museum,port,maritime
+---

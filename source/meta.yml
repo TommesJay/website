@@ -8,7 +8,6 @@ baseurl:
 template: accu-rate
 area:
     navigation: ../source/area/navigation.md
-    sidebar: ../source/area/sidebar.md 
     footer: ../source/area/footer.md
 cssversion: v1e15
 jsversion: vfc53
