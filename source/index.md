@@ -91,7 +91,7 @@ Wir danken unseren Unterstützern:
 pagetitle: accu:rate Institute for crowd simulation
 description: Die Ausgründung der TU München bietet Simulation und Analyse von Personenströmen für Architekten und Veranstalter zur Verbesserung von Sicherheit und Komfort.
 lang: [
-    { url: "en:index", icon: "lang-en.png", text: "English" },
-    { url: "de:index", icon: "lang-de.png", text: "Deutsch" }
+    { code: "en", url: "en:index", icon: "lang-en.png", text: "English" },
+    { code: "de", url: "de:index", icon: "lang-de.png", text: "Deutsch" }
 ]
 
