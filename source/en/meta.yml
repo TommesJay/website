@@ -9,7 +9,7 @@ template: accu-rate
 area:
     navigation: ../source/en/area/navigation.md
     footer: ../source/en/area/footer.md
-cssversion: v1e15
+cssversion: v2f16
 jsversion: v4a1b
 comment: false
 description: "accu:rate GmbH Institute for Crowd Simulation"
