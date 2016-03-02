@@ -53,17 +53,14 @@
                 </a>
             </div>
 
-            <div class="two columns">
-                <div class="langs">
-                    {{#meta.langs}}
-                        <a hreflang="{{code}}" title="{{text}}" class="cls" href="/{{{url}}}"><img src="img/{{icon}}" alt="{{text}}" /></a>
-                    {{/meta.langs}}
-                </div>
-            </div>
-
             <div class="ten columns omega">
                 <div class="nav">
                     {{{content.navigation}}}
+                    <ul class="langs">
+                        {{#meta.langs}}
+                            <li><a hreflang="{{code}}" title="{{text}}" class="cls" href="/{{{url}}}"><img src="img/{{icon}}" alt="{{text}}" />{{text}}</a></li>
+                        {{/meta.langs}}
+                    </ul>
                 </div>
             </div>
 
