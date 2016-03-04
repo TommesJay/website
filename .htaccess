@@ -8,13 +8,14 @@ RewriteRule ^([^\.]+)$ html/$1.html [NC,L]
 RewriteRule ^(.*)_ver(.*).css$ $1.css [NC,L]
 
 # i18n for start page (/)
-RewriteCond %{HTTP:Accept-Language} ^de [NC]
-RewriteRule ^$ /start [L,R=302]
-# en is our default:
-#RewriteCond %{HTTP:Accept-Language} ^en [NC]
+RewriteCond %{HTTP:Accept-Language} ^en [NC]
 RewriteRule ^$ /en:home [L,R=302]
+# de is our default (would be EN usually, but google
+# doesn't handle that too well
+#RewriteCond %{HTTP:Accept-Language} ^de [NC]
+RewriteRule ^$ /start [L,R=302]
 
-ErrorDocument 404 /html/en:404error.html
+ErrorDocument 404 /html/404error.html
 
 # Utilize browser cache.
 <IfModule mod_expires.c>
