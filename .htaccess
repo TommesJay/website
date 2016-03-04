@@ -14,7 +14,7 @@ RewriteRule ^$ /start [L,R=302]
 #RewriteCond %{HTTP:Accept-Language} ^en [NC]
 RewriteRule ^$ /en:home [L,R=302]
 
-ErrorDocument 404 /html/404error.html
+ErrorDocument 404 /html/en:404error.html
 
 # Utilize browser cache.
 <IfModule mod_expires.c>

@@ -1,8 +1,13 @@
 # 404
 
-Oh no. This page is missing.
+Wir konnten die von Ihnen angeforderte Seite leider nicht finden.
 
-Please note: We are currently working on the English translation of our web site.  Please contact us!
+Bitte versuchen Sie die Navigation - und [kontaktieren Sie uns](/kontakt)!
+
 
 #meta#
-title: Error Page 404
+title: Fehler 404
+langs: [
+    { code: "en", name: "English", url: "en:404error", icon: "lang-en.png", text: "View this page in English" }
+]
+
