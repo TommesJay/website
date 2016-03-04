@@ -101,13 +101,25 @@ body {
 }
 @media all and (min-width: 768px) {
     .nav {
-        margin: 3em 6% 1em 30%;
+        margin: 3em 6% 1em 20%;
+    }
+    .nav .langs {
+        margin-bottom: -10px;
     }
 }
 @media print {
     .nav {
         display: none;
     }
+}
+.nav .langs {
+    margin-top: -10px;
+}
+.nav .langs li a {
+    text-transform: none;
+}
+.nav .langs li a .lang-icon {
+    margin: 0 6px 0 12px;
 }
 
 

@@ -8,10 +8,9 @@ baseurl:
 template: accu-rate
 area:
     navigation: ../source/area/navigation.md
-    sidebar: ../source/area/sidebar.md 
     footer: ../source/area/footer.md
-cssversion: vd3a6
-jsversion: vfc53
+cssversion: v2f16
+jsversion: v4a1b
 comment: false
 description: "accu:rate GmbH Institute for Crowd Simulation"
 lang: de
