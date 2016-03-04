@@ -5,14 +5,12 @@ Hello international visitor! So far, only parts of our website are available in 
 Please contact us, we're happy to speak English (and some Spanish, French and Dutch too).
 
 <div class="float-right newsbox border" markdown="1">
-#### News
+#### News and Events
 
-* Messe: [FeuerTRUTZ 2016](/news:2016-02-16-besuchen-sie-uns-auf-der-feuertrutz) Halle 10.0 / Stand 10.0-508 (17. - 18. Februar 2016, Nürnberg)
-* Vortrag: Computer&shy;gestützte Simulationen als hilf&shy;reiches Werk&shy;zeug in der Ver&shy;anstalt&shy;ungs&shy;planung, [DEAplus Winteruni](http://www.deaplus.org/kurse/kurs/winter-uni.html) (14. - 19. Dezember 2015, Hannover)
-* [Dr. Angelika Kneidl im Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
-* [Dr. Angelika Kneidl in der Süddeutschen Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
+* News (de): [Dr. Angelika Kneidl in Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
+* News (de): [Dr. Angelika Kneidl in the Süddeutsche Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 
-[More News...](/news:archiv)
+[More News...](/news:archiv) (mostly in German)
 </div>
 
 ## Human behavior is complex
