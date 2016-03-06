@@ -1,20 +1,27 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # *accu:rate mit hhpberlin und Microsoft auf der CeBIT 2016* {.fancyheader}
 
-*München, 26. Februar 2016*
+*München, 6. März 2016*
 
 # accu:rate auf der CeBIT 2016
 
 [![CeBIT Logo](/img/associates/cebit.png)](http://www.cebit.de/) {.float-right}
 
-Wir sind mit unserem Partner [hhpberlin](https://www.hhpberlin.de/) auf dem Messestand von [Microsoft](https://www.microsoft.com/) auf der [CeBIT 2016](http://www.cebit.de/) vertreten.
-Vom **14. - 18. März** dreht sich alles um das Top-Thema [Digitalisierung](https://www.cebit.de/de/news/thema/dconomy.xhtml) und [Smart Cities](https://www.cebit.de/de/news/mediathek/videos/video-detailansicht.xhtml?id=7105). 
+Die [CeBIT](http://www.cebit.de/) lockt auch dieses Jahr wieder Hunderttausende Besucher aus aller Welt nach Hannover.
+Im Rahmen einer einzigartigen Verzahnung von Messe und Kongress präsentieren Weltkonzerne, Mittelständler und Startups die relevanten Themen der IT-Wirtschaft:
+[Digitalisierung](https://www.cebit.de/de/news/thema/dconomy.xhtml) und Big Data, Cloud-Anwendungen, Mobile- und Social Business, IT-Sicherheit und das Internet of Things.
+[Smart Cities](https://www.cebit.de/de/news/mediathek/videos/video-detailansicht.xhtml?id=7105) sind heuer ein weiteres, großes Thema.
 
-Erleben Sie am Stand der hhpberlin modernen Brandschutz, und erfahren Sie, wie die Digitalsierung auch konservative Branchen aufwirbelt.
-
+Die [Digitalisierung](https://www.cebit.de/de/news/thema/dconomy.xhtml) von Unternehmen, öffentlicher Verwaltung und Gesellschaft stehen im Mittelpunkt der Cebit 2016 und da darf natürlich accu:rate nicht fehlen.
 
 [![accu:rate und hhpberlin Standort auf der CeBIT 2016](img/news/cebit-2016-accurate-ms-messestand-position.jpg)](https://www.microsoft.com/de-de/cebit/messestand.aspx)
-Microsoft unterhält einen gewohnt repräsentativen [Stand in Halle 4](https://www.microsoft.com/de-de/cebit/messestand.aspx), und belegt damit ein Viertel der Hallenfläche.
+[Microsofts Stand in Halle 4](https://www.microsoft.com/de-de/cebit/messestand.aspx).
+[hhpberlin](https://www.hhpberlin.de/) und accu:rate finden Sie im gekennzeichneten Bereich.
+
+Unser Partner [hhpberlin](https://www.hhpberlin.de/) [präsentiert sich mit seinen innovativen Brandschutz auf dem Stand von Microsoft](http://www.hhpberlin.de/de/content/cebit-2016/) und hat accu:rate eingeladen bei diesem Event dabei zu sein. 
+
+Erleben Sie vom **14. bis 18. März** am Stand der [hhpberlin](https://www.hhpberlin.de/) modernen Brandschutz, und erfahren Sie, wie die Digitalsierung auch konservative Branchen wie den Brandschutz aufwirbelt.
+
 
 
 Wir freuen uns sehr über Ihren Besuch. Gerne können wir einen Termin vereinbaren. Eine kurze E-Mail genügt:
