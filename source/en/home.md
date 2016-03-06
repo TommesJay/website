@@ -10,7 +10,7 @@ Please contact us, we're happy to speak English (and some Spanish, French and Du
 * News (de): [Dr. Angelika Kneidl in Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
 * News (de): [Dr. Angelika Kneidl in the Süddeutsche Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 
-[More News...](/news:archiv) (mostly in German)
+[More News...](/news:archiv) (mostly German)  
 </div>
 
 ## Human behavior is complex
@@ -69,7 +69,7 @@ We thank our supporters:
 [![TUM](/img/associates/tum.png "accu:rate ist eine Ausgründung des Lehrstuhls für Computergestützte Modellierung und Simulation der Technischen Universität München.")](https://www.tum.de/)
 [![UnternehmerTUM](/img/associates/unternehmertum.png "Von Beginn an wurde accu:rate durch die UnternehmerTUM begleitet und gefördert.")](https://www.unternehmertum.de/)
 [![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Die Münchner Firma ej-technologies GmbH hat sehr günstig Lizenzen für ihr Softwareentwicklungs-Werkzeug JProfiler an accu:rate abgegeben.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
-[![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.png "Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.")](https://www.f24.com/)
+[![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.gif "Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.")](https://www.f24.com/)
 </div>
 
 #meta#
