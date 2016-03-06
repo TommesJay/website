@@ -32,8 +32,8 @@ Wir freuen uns auf Sie!
 
 
 #meta#
-pagetitle: Besuchen Sie uns auf der FeuerTRUTZ 2016
-description: accu:rate ist am Vabeg Stand auf der FeuerTRUTZ Messe vom 17. - 18. Februar 2016 im MOC in München vertreten.
+pagetitle: accu:rate mit hhpberlin und Microsoft auf der CeBIT 2016
+description: accu:rate ist mit hhpberlin auf dem Microsoft Messestand auf der CeBIT 2016 vertreten.
 
 
 
