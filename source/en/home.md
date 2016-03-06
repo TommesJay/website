@@ -7,6 +7,7 @@ Please contact us, we're happy to speak English (and some Spanish, French and Du
 <div class="float-right newsbox border" markdown="1">
 #### News and Events
 
+* Exhibition (de): [accu:rate with Microsoft at the CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (14. - 18. März 2016, Hannover)
 * News (de): [Dr. Angelika Kneidl in Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
 * News (de): [Dr. Angelika Kneidl in the Süddeutsche Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 

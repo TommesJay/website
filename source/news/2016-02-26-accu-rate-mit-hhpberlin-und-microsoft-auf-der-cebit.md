@@ -1,7 +1,7 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # *accu:rate mit hhpberlin und Microsoft auf der CeBIT 2016* {.fancyheader}
 
-*München, 6. März 2016*
+*München, 06. März 2016*
 
 # accu:rate auf der CeBIT 2016
 
