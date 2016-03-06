@@ -8,6 +8,7 @@
 * [Dr. Angelika Kneidl in der Süddeutschen Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 
 [Mehr Neuigkeiten...](/news:archiv)  
+[Für Newsletter anmelden...](http://eepurl.com/bS5vNL)
 </div>
 
 ## Menschliches Verhalten ist komplex

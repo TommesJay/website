@@ -11,6 +11,7 @@ Please contact us, we're happy to speak English (and some Spanish, French and Du
 * News (de): [Dr. Angelika Kneidl in the Süddeutsche Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 
 [More News...](/news:archiv) (mostly German)  
+[Subscribe to our newsletter...](http://eepurl.com/bS5MYr)
 </div>
 
 ## Human behavior is complex
