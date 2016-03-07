@@ -94,5 +94,4 @@ description: Die Ausgründung der TU München bietet Simulation und Analyse von 
 langs: [
     { code: "en", name: "English", url: "en:home", icon: "lang-en.png", text: "View this page in English" }
 ]
-pagespecific: '<link rel="alternate" href="http://www.accu-rate.de/" hreflang="x-default" />'
 

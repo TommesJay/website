@@ -80,5 +80,4 @@ description: The spin-off from TU Munich offers crowd simulation and analysis fo
 langs: [
     { code: "de", name: "Deutsch", url: "start", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
 ]
-pagespecific: '<link rel="alternate" href="http://www.accu-rate.de/" hreflang="x-default" />'
 
