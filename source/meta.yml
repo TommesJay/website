@@ -4,7 +4,7 @@ pagetitle: Directory wide title
 creator: "Florian Sesser, accu:rate"
 publisher: "accu:rate GmbH Institute for Crowd Simulation"
 rights: "2014- accu:rate"
-baseurl: 
+baseurl: http://www.accu-rate.de
 template: accu-rate
 area:
     navigation: ../source/area/navigation.md

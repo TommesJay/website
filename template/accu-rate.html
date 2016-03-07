@@ -6,7 +6,7 @@
 
     <meta name="description" content="{{meta.description}}" />
     <meta name="Keywords" content="{{meta.keywords}}" />
-    <link rel="canonical" href="http://www.accu-rate.de/{{{source.dirlimb}}}">
+    <link rel="canonical" href="{{meta.baseurl}}/{{{source.dirlimb}}}">
 
     <meta name="publisher" content="{{meta.publisher}}" />
     <meta name="DC.Publisher" content="{{meta.publisher}}" />
@@ -26,12 +26,13 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
 
-    <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/skeleton/stylesheets/min.css" />
-    <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/lib/fonts/webfontkit-20140112-173602/stylesheet_custom.css" />
-    <link rel="stylesheet" type="text/css" href="{{meta.baseurl}}/template/accu-rate.css?{{meta.cssversion}}" />
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="lib/skeleton/stylesheets/min.css" />
+    <link rel="stylesheet" type="text/css" href="lib/fonts/webfontkit-20140112-173602/stylesheet_custom.css" />
+    <link rel="stylesheet" type="text/css" href="template/accu-rate.css?{{meta.cssversion}}" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    {{{meta.pagespecific}}}
     {{#meta.langs}}
-    <link rel="alternate" href="/{{url}}" hreflang="{{code}}" />
+    <link rel="alternate" href="{{meta.baseurl}}/{{url}}" hreflang="{{code}}" />
     {{/meta.langs}}
 </head>
 
@@ -44,7 +45,7 @@
                 <a id="logo" href="{{meta.baseurl}}/">
                     <figure>
                         <svg width="200" height="80">
-                            <image xlink:href="{{meta.baseurl}}/img/accurate-logo.svg" src="{{meta.baseurl}}/img/accurate-logo.png" width="200" height="80" />
+                            <image xlink:href="img/accurate-logo.svg" src="img/accurate-logo.png" width="200" height="80" />
                         </svg>
                         <figcaption><span>accu:rate Institute for Crowd Simulation</span></figcaption>
                     </figure>
@@ -77,9 +78,9 @@
     </div>
 
     <!--[if lt IE 9]>
-        <script src="{{meta.baseurl}}/lib/css3-mediaqueries-for-ie8-min.js"></script>
+        <script src="lib/css3-mediaqueries-for-ie8-min.js"></script>
     <![endif]-->
-    <script type="text/javascript" src="{{meta.baseurl}}/template/accu-rate.js?{{meta.jsversion}}"></script>
+    <script type="text/javascript" src="template/accu-rate.js?{{meta.jsversion}}"></script>
 </body>
 
 </html>
