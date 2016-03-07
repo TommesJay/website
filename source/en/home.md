@@ -63,15 +63,15 @@ By the early evaluating various options increase planning security and reduce co
 We thank our supporters:
 
 <div class="associates-logos" markdown="1">
-[![Hochschule München](/img/associates/hm.png "accu:rate arbeitet seit Beginn intensiv mit Prof. Dr. Köster und der Hochschule München zusammen.")](http://www.hm.edu/)
-[![EXiST gefördert Jan - Dec 2014](/img/associates/exist.jpg "accu:rate wurde Kalenderjahr 2014 durch das EXiST Gründerstipendium gefördert.")](https://www.exist.de/)
-[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png "Dr. Angelika Kneidl hat am 16. Oktober 2014 eine Förderung durch das Gründerinnen-Mentoring-Programm des HVB Frauenbeirats gewonnen.")](https://www.hvb-frauenbeirat.de/)
-[![IKT Innovativ](img/associates/ikt-innovativ.png "Am 16. März 2015 durfte accu:rate auf der CeBIT einen Preis im Rahmen des Gründerwettbewerb IKT Innovativ (Runde 2/2014) entgegen nehmen.")](http://www.gruenderwettbewerb.de/preistraeger/preistraeger/runde-2-2014)
-[![Dynardo](img/associates/dynardo.png "Dynardo aus Weimar stellt uns freundlicherweise die Software optiSLang für eine erweiterte Testperiode gratis zur Verfügung.")](http://www.dynardo.de/software/optislang.html)
-[![TUM](/img/associates/tum.png "accu:rate ist eine Ausgründung des Lehrstuhls für Computergestützte Modellierung und Simulation der Technischen Universität München.")](https://www.tum.de/)
-[![UnternehmerTUM](/img/associates/unternehmertum.png "Von Beginn an wurde accu:rate durch die UnternehmerTUM begleitet und gefördert.")](https://www.unternehmertum.de/)
-[![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Die Münchner Firma ej-technologies GmbH hat sehr günstig Lizenzen für ihr Softwareentwicklungs-Werkzeug JProfiler an accu:rate abgegeben.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
-[![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.gif "Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.")](https://www.f24.com/)
+[![Hochschule München](/img/associates/hm.png "accu:rate has been collaborating with Prof. Dr. Köster and the Munich University Of Applied Sciences from the start.")](http://www.hm.edu/)
+[![EXiST gefördert Jan - Dec 2014](/img/associates/exist.jpg "In 2014, accu:rate received the EXiST grant for founders.")](https://www.exist.de/)
+[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png "Dr. Angelika Kneidl won support from the HVB Women's Council on October 16th 2014.")](https://www.hvb-frauenbeirat.de/)
+[![IKT Innovativ](img/associates/ikt-innovativ.png "On March 16th 2015 accu:rate received the IKT Innovativ Founders Challenge Award at CeBIT 2015. We participated in round 2/2014.")](http://www.gruenderwettbewerb.de/preistraeger/preistraeger/runde-2-2014)
+[![Dynardo](img/associates/dynardo.png "Dynardo kindly extended the test period of their Software optiSLang, which Philipp Bader, a MUAS student, used to analyse the robustness of the accu:rate simulation kernel.")](http://www.dynardo.de/software/optislang.html)
+[![TUM](/img/associates/tum.png "accu:rate is a spin-off from the Technical University of Munich.")](https://www.tum.de/)
+[![UnternehmerTUM](/img/associates/unternehmertum.png "UnternehmerTUM supported accu:rate from the very beginning.")](https://www.unternehmertum.de/)
+[![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Courtesy of Munich-based ej-technologies GmbH we received licenses for JProfiler, a software development tool for Java that helps us tremendiously in developing our simulation kernel.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
+[![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.gif "F24 AG supported us in 2015 with free office space as well as their tremendious experience.")](https://www.f24.com/)
 </div>
 
 #meta#
