@@ -30,8 +30,7 @@
     <link rel="stylesheet" type="text/css" href="lib/fonts/webfontkit-20140112-173602/stylesheet_custom.css" />
     <link rel="stylesheet" type="text/css" href="template/accu-rate.css?{{meta.cssversion}}" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-
-    <link rel="alternate" href="{{meta.baseurl}}/" hreflang="x-default" />
+    {{{meta.pagespecific}}}
     {{#meta.langs}}
     <link rel="alternate" href="{{meta.baseurl}}/{{url}}" hreflang="{{code}}" />
     {{/meta.langs}}
