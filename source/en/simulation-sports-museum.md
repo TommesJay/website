@@ -1,30 +1,23 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# *Simulation für ein neues Sport&shy;museum mit 250.000 erwarteten Jahres&shy;besuchern* {.fancyheader}
+# *Simulation of a new Sports Museum with 250.000 visitors expected annual* {.fancyheader}
 
-Hier ein Beispiel für eines unserer Projekte.
-Selbstverständlich beantworten wir gerne Ihre Fragen!
-Bitte [kontaktieren](kontakt) Sie uns.
+Here is an example of one of our projects. Of course we are happy to answer your questions! Please [contact](kontakt) us.
 
-*München/Potsdam/Berlin/Zürich, 01. Februar 2016*
+*Munich/Potsdam/Berlin/Zurich, 01 February 2016*
 
 [![Logo THEMATA](img/referenzen/themata-logo.png)](http://www.themata.de/) {.referenzpreview}
 
-accu:rate unter&shy;stützte mithilfe einer Besucher&shy;strom&shy;simulation die Kapazitäts&shy;planung eines neuen Sport&shy;museums im Auftrag von [THEMATA](http://www.themata.de/) (Potsdam).
-Dabei lieferten THEMATA sowie [TRIAD](https://www.triad.de/de/projekte/fifa-world-football-museum/) (Berlin) die erforderlichen Eingabe&shy;parameter für die Simulation.
-Gemeinsam mit THEMATA wurden die relevanten Szenarien definiert und simuliert.
-Ziel war es, die Kapazitäten der Exponate bei angenommenen Verweil&shy;dauern sowie Füllgrad des Museums zu überprüfen und eventuell auftretende Engpässe bereits während der Planungs&shy;phase zu erkennen und zu beseitigen. 
+accu: rate supported using a visitor flow simulation capacity planning of a new sports museum on behalf of [THEMATA](http://www.themata.de/) (Potsdam). Here THEMATA and delivered [TRIAD](https://www.triad.de/de/projekte/fifa-world-football-museum/) (Berlin), the required input parameters for the simulation. Together with THEMATA the relevant scenarios were defined and simulated. The aim was to check the capacity of the exhibits at residence times adopted and degree of filling of the museum and can already be seen any possible bottlenecks during the planning phase and eliminate them.
 
-Aktuelle Informationen finden Sie [hier](http://de.fifamuseum.com/about/media/press-releases/fifa-welt-fussball-museum-eroffnungstermin-steht-2609754/#).
+Current information can be found [here](http://de.fifamuseum.com/about/media/press-releases/fifa-welt-fussball-museum-eroffnungstermin-steht-2609754/#).
 
-Wenn auch Sie  Besucherströme bereits in der Planungsphase Ihres Bauwerks überprüfen lassen wollen und Kapazitäten berechnen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
+If you also want to check flow of visitors during the planning phase of your building and calculate capacity, please [contact us](kontakt) for an offer! We are happy to hear from them.
 
-[Weitere Referenzen ansehen](referenzen).
-
-
+[View more references](referenzen).
 
 
 #meta#
-pagetitle: Simulation von Besucherströmen eines Museums
-description: "accu:rate simuliert Besucherströme mit THEMATA (Potsdam) sowie TRIAD (Berlin) für ein Sportmuseum."
+pagetitle: Simulation of visitor flows of a Museum
+description: "accu:rate simulates visitor flows for a Sports Museum in cooperation with THEMATA (Potsdam) and TRIAD (Berlin)"
 
 
