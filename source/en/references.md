@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# <br /> *Referenzen* {.fancyheader}
+# <br /> *References* {.fancyheader}
 
 Here are some examples of our projects. Of course we are happy to answer your questions! Please [contact](kontakt) us.
 
