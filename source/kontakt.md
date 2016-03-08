@@ -36,4 +36,7 @@ Diese Website benutzt Piwik, eine Open-Source-Software zur statistischen Auswert
 #meta#
 pagetitle: Kontakt und Impressum
 description: Impressum, Kontaktinformationen sowie Rechtliches zu accu:rate
+langs: [
+    { code: "en", name: "English", url: "en:contact", icon: "lang-en.png", text: "View this page in English" }
+]
 
