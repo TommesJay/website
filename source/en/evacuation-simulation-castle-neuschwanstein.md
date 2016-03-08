@@ -1,36 +1,30 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# *Entfluchtungsanalyse für Schloss Neuschwanstein* {.fancyheader}
+# *Evacuation analysis for Neuschwanstein Castle* {.fancyheader}
 
-Hier ein Beispiel für eines unserer Projekte.
-Selbstverständlich beantworten wir gerne Ihre Fragen!
-Bitte [kontaktieren](kontakt) Sie uns.
+Here is an example of one of our projects. Of course we are happy to answer your questions! Please [contact](kontakt) us.
 
-König Ludwig der II. entwarf Schloss Neuschwanstein 1868 als eine idealisierte Vorstellung einer Ritterburg aus der Zeit des Mittelalters. 
+King Ludwig II. Neuschwanstein Castle designed in 1868 as an idealized version of a knight's castle dating from the Middle Ages.
 
 ![Schloss Neuschwanstein: Sängersaal © Bayerische Schlösserverwaltung www.schloesser.bayern.de](img/referenzen/neuschwanstein_saengersaal.jpg) {.float-left}
 
-Baubeginn des Märchenschlosses, wie es gerne genannt wird, war bereits 1869. Er selbst bezog das Schloss 1884 und lebte nur 172 Tage auf dem Schloss.
-Obwohl er es niemals der Öffentlichkeit zugänglich machen wollte, wurde es schon kurz nach seinem Tod in 1886 für Besucher geöffnet - um einen Teil der Kredite, die König Ludwig II für den Bau aufnehmen musste, abzubezahlen.
+Construction of the fairy-tale castle, as it is often called, was already 1869. He moved into the castle in 1884 and lived only 172 days on the castle. Although he never wanted to make it available to the public, it was opened shortly after his death in 1886 for visitors - had to absorb a portion of the loans that King Ludwig II to build, pay off.
 
-
-Das Märchenschloss gehört heute zu den meistbesuchten Schlössern und Burgen Europas. Rund 1,4 Millionen Menschen besichtigen jährlich "die Burg des Märchenkönigs". Spätestens seit das Schloss als Vorlage für das [Sleeping-Beauty-Schloss](https://en.wikipedia.org/wiki/Sleeping_Beauty_Castle) in [Disneyland](https://disneyland.disney.go.com/) diente, ist es weit über die Grenzen Deutschlands hinaus bekannt.
+The fairytale castle is now one of the most visited castles in Europe. About 1.4 million people visit the "Palace of the fairy-tale king". At least since the castle as a model for the [Sleeping Beauty Castle](https://en.wikipedia.org/wiki/Sleeping_Beauty_Castle) in [Disneyland](https://disneyland.disney.go.com/) served, it is known far beyond the borders of Germany.
 
 ![Schloss Neuschwanstein: Oberer Schlosshof © Bayerische Schlösserverwaltung www.schloesser.bayern.de](img/referenzen/neuschwanstein_oberer_hof_dg6498.jpg) {.float-right}
 
-Die [Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen](http://www.neuschwanstein.de/) ist der aktuelle Betreiber von Neuschwanstein und stellt sich den Herausforderungen, die so eine Berühmtheit und die damit verbundenen Besucherzahlen mit sich bringt.
+The Bavarian Administration of State-Owned Palaces[Bavarian Administration of State-Owned Palaces, Gardens and Lakes](http://www.neuschwanstein.de/) is the current operator of Neuschwanstein and meet the challenges that so brings a celebrity and associated visitor numbers with them.
 
-Im Sommer drängen sich im Durchschnitt täglich mehr als 6.000 Besucher durch Räume, die für einen einzigen Bewohner bestimmt waren.
-accu:rate unterstützte das [Staatliche Bauamt Kempten](http://www.stbake.bayern.de/) dabei, die Fluchtwege zu analysieren und zu optimieren - damit im Ernstfall alle Besucher rechtzeitig und sicher aus dem Schloss geleitet werden können.
+In the summer around 6,000 visitors a day stream through rooms that were intended for a single inhabitant. accu: rate supported the [State Building Authority Kempten](http://www.stbake.bayern.de/) in analyzing the escape routes and optimize - so in case of emergency, all visitors can be routed out of the lock time and safely.
 
+Even if you manage a castle or a listed building or operate, and want to analyze the escape routes, please [contact us](kontakt). For an offer We are happy to hear from them!
 
-Wenn auch Sie ein Schloss oder ein denkmalgeschütztes Gebäude verwalten oder betreiben, und die Fluchtwege analysieren wollen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
+Source: [Bavarian Administration of State-Owned Palaces, Gardens and Lakes](http://www.neuschwanstein.de/)
 
-Quelle: [Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen](http://www.neuschwanstein.de/)
-
-[Weitere Referenzen ansehen](referenzen).
+[View more references](referenzen).
 
 
 #meta#
-pagetitle: Entfluchtungsanalyse für Schloss Neuschwanstein
+pagetitle: Evacuation analysis for Neuschwanstein Castle
 description: "Schloss Neuschwanstein: accu:rate unterstützt mit Räumungssimulationen."
 
