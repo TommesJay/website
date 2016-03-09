@@ -1,17 +1,17 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# *Simulation of a new Sports Museum with 250.000 visitors expected annual* {.fancyheader}
+# *Simulation of a new Sports Museum with 250.000 visitors expected during annual opening* {.fancyheader}
 
-Here is an example of one of our projects. Of course we are happy to answer your questions! Please [contact](kontakt) us.
+Here is an example of one of our projects. We are happy to answer your questions! Please [contact](kontakt) us.
 
 *Munich/Potsdam/Berlin/Zurich, 01 February 2016*
 
 [![Logo THEMATA](img/referenzen/themata-logo.png)](http://www.themata.de/) {.referenzpreview}
 
-accu: rate supported using a visitor flow simulation capacity planning of a new sports museum on behalf of [THEMATA](http://www.themata.de/) (Potsdam). Here THEMATA and delivered [TRIAD](https://www.triad.de/de/projekte/fifa-world-football-museum/) (Berlin), the required input parameters for the simulation. Together with THEMATA the relevant scenarios were defined and simulated. The aim was to check the capacity of the exhibits at residence times adopted and degree of filling of the museum and can already be seen any possible bottlenecks during the planning phase and eliminate them.
+On behalf of [THEMATA](http://www.themata.de/) (Potsdam) accu:rate supported the capacity planning of a new sports museum using a visitor flow simulation. THEMATA as well as [TRIAD](https://www.triad.de/de/projekte/fifa-world-football-museum/) (Berlin) provided the required input parameters for the simulation. Relevant scenarios were defined and simulated in cooperation with THEMATA. The aim was to check the capacity of the exhibits at assumed residence times as well as the filling degree of the museum and to recognize and eliminate any possible bottlenecks already during the planning phase.
 
 Current information can be found [here](http://de.fifamuseum.com/about/media/press-releases/fifa-welt-fussball-museum-eroffnungstermin-steht-2609754/#).
 
-If you also want to check flow of visitors during the planning phase of your building and calculate capacity, please [contact us](kontakt) for an offer! We are happy to hear from them.
+If you also want to simulate visitor flows and calculate capacity already during the planning phase of your building - please [contact us](kontakt) for an offer! We are happy to hear from you.
 
 [View more references](referenzen).
 
