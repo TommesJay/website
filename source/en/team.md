@@ -65,4 +65,7 @@ Michael Schölkopf is a graduate mechanical engineer and Manage & More Fellow Un
 #meta#
 pagetitle: Team
 description: Learn more about the accu:rate Team as well as about our partner.
+langs: [
+    { code: "de", name: "Deutsch", url: "das-team", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
+]
 

@@ -82,4 +82,7 @@ Herr Schölkopf hat bei accu:rate von März 2014 bis März 2015 die Felder Busin
 #meta#
 pagetitle: Team
 description: Lernen Sie das Team hinter accu:rate sowie unsere Partner kennen.
+langs: [
+    { code: "en", name: "English", url: "en:team", icon: "lang-en.png", text: "View this page in English" }
+]
 

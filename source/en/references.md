@@ -33,3 +33,6 @@ accu: rate supported using a visitor flow simulation capacity planning of a new 
 #meta#
 pagetitle: References Pedestrian Flow Simulation
 description: Presentation of former projects and customers of accu:rate Institute for Crowd Simulation.
+langs: [
+    { code: "de", name: "Deutsch", url: "referenzen", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
+]
