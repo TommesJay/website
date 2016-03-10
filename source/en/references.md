@@ -1,13 +1,20 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # <br /> *References* {.fancyheader}
 
-Here are some examples of our projects. Of course we are happy to answer your questions! Please [contact](kontakt) us.
+<div class="stickynote">
+<p>Hello international visitor!</p>
+
+So far, only parts of our website are available in English.
+You can find more reference projects on our German language website.
+</div>
+
+Here are some examples of our projects. Of course we are happy to answer your questions! Please [contact](/en:contact) us.
 
 
 ## [Evacuation route for Castle Neuschwanstein](/en:evacuation-simulation-castle-neuschwanstein)
 [![Schloss Neuschwanstein Thumbnail](img/referenzen/neuschwanstein_02a_foto_anton_j_brandl_thumb.jpg)](/en:evacuation-simulation-castle-neuschwanstein) {.referenzpreview}
 
-Ludwig II of Bavaria designed the Neuschwanstein Castle in 1868 as an idealized version of a Middle Ages knight's castle. The coonstruction works of the fairytale castle, as it is often called, started already in 1869. King Ludwig II moved into the castle in 1884 and lived there only 172 days. Although he never wanted to make available to the public, shortly after his death in 1886 it was opened for visitors. The reason do this was to pay off a portion of Ludwig II loans. [Read more...](/en:evacuation-simulation-castle-neuschwanstein)
+Ludwig II of Bavaria designed the Neuschwanstein Castle in 1868 as an idealized version of a Middle Ages knight's castle. The coonstruction works of the fairytale castle, as it is often called, started already in 1869. King Ludwig II moved into the castle in 1884 and lived there only 172 days. Although he never wanted to make available to the public, shortly after his death in 1886 it was opened for visitors. The reason for doing this was to pay off a portion of Ludwig II loans. [Read more...](/en:evacuation-simulation-castle-neuschwanstein)
 
 
 
