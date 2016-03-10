@@ -19,7 +19,7 @@ accu:rate was commissioned ba the [Munich City Utilities - SWM](https://www.swm.
 
 
 
-## [Neues Sportmuseum in Zürich](simulation-sportmuseum)
+## [New sports museum in Zurich](simulation-sportmuseum)
 [![Logo THEMATA](img/referenzen/themata-logo.png)](simulation-sportmuseum) {.referenzpreview}
 
 On behalf of [THEMATA](http://www.themata.de/) accu:rate supported the capacity planning of a new sports museum using a visitor flow simulation. The aim was to check the capacity of the exhibits at assumed residence times as well as the filling degree of the museum and to recognize and eliminate any possible bottlenecks already during the planning phase. [Read more...](simulation-sportmuseum)
