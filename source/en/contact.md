@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
-# <br /> *Contact/ Impressum* {.fancyheader}
+# <br /> *Contact and imprint* {.fancyheader}
 
 <div class="vcard">
 <span class="org">accu:rate GmbH</span>
