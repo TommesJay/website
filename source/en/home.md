@@ -1,8 +1,12 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # *Safety can be planned – with simulation of pedestrian flows* {.fancyheader}
 
-Hello international visitor! So far, only parts of our website are available in German.
-Please contact us, we're happy to speak English (and some Spanish, French and Dutch too).
+<div class="stickynote">
+<p>Hello international visitor!</p>
+
+So far, only parts of our website are available in English.
+Please contact us, we're happy to speak English (and some Spanish, French and Dutch too!)
+</div>
 
 <div class="float-right newsbox border" markdown="1">
 #### News and Events
