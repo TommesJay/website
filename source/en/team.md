@@ -50,7 +50,7 @@ The services of [VDS GmbH](http://www.vds-veranstaltung.de/) are based on 25 yea
 
 
 
-## Unterstützer
+## Supporter
 
 Even if we cannot mention all people who support us at the moment or supported in the past, without the spirit of many of them accu:rate wouldn't be what it is today.
 
