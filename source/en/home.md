@@ -1,8 +1,8 @@
 ![](/img/accurate-bild-start.jpg) {.fancyheader-img}
 # *Safety can be planned – with simulation of pedestrian flows* {.fancyheader}
 
-Hello international visitor! So far, only parts of our website are available in German.
-Please contact us, we're happy to speak English (and some Spanish, French and Dutch too).
+Hello international visitor! So far only parts of our website are available in German.
+Please contact us. We're happy to speak English (and some Spanish, French and Dutch too).
 
 <div class="float-right newsbox border" markdown="1">
 #### News and Events
@@ -21,20 +21,20 @@ Please contact us, we're happy to speak English (and some Spanish, French and Du
 
 People do not move like machines.
 They have different goals and motives.
-Therefore, they move and behave differently.
+Therefore they move and behave differently.
 And above all: things do not always go on plan.
 
 At places where many people meet exist complex dynamic situations whose development can intuitively not fully grasped or predicted.
 
-accu:rate can support you in handling the complexity of pedestrian flows.
+accu:rate can support you handling the complexity of pedestrian flows.
 
 
 ## Identify and eliminate risk
 
-The solution: crowd simulation of pedestrian flows.
-It can be executed during the planning of major events or construction projects, to identify potential bottlenecks and risks which should be avoided.
+The solution is crowd simulation of pedestrian flows.
+It can be executed during the planning of major events or construction projects to identify potential bottlenecks and risks which should be avoided.
 Detailed graphics and film animations provide an exact support where even experienced security experts reach their limits.
-While it’s possible to can be each single parameter and each constriction separately calculated and thought through, the complex challenge of interplay can be visible only in a simulation. 
+While each single parameter and each constriction can be calculated and thought through separately, the complex challenge of interplay can be visible only in a simulation. 
 
 - Where and how fast are people moving?
 - Where are bottlenecks people piling up?
@@ -42,7 +42,7 @@ While it’s possible to can be each single parameter and each constriction sepa
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/sw1zICjwpV4?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
-We at accu:rate can help you to calculate both, the rule for example the flow of visitors in an interval  or situations such as the evacuation in case of fire alarm.
+accu:rate can help you to calculate default cases like visitor flows in a concert break as well as exceptional situations like evacuation in case of fire alarm.
 Results are prepared graphically from cases of the paths of individuals to a picture of the power of the masses.
 Based on the results customers can responsibly plan ahead - in cases of event security, at workplaces on premise or of the renovation of public buildings.
 So accu:rate provides a valid basis for decision making, where previously customer often had to rely on gut feeling in security planning.
@@ -50,7 +50,7 @@ So accu:rate provides a valid basis for decision making, where previously custom
 
 ## Compare different concepts in the planning phase
 
-Already in the planning phase with accu: rate can plan different solutions for directing large flow of visitors.
+Already in the planning phase with accu:rate can plan different solutions for directing large flow of visitors.
 In the result graph risk factors are visible, as well as the pro and cons of different solution scenarios.
 Based on the simulation result can be understood which concept should be preferred best meeting your requirements.
 By the early evaluating various options increase planning security and reduce costs.
