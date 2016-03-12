@@ -22,7 +22,7 @@ Please contact us. We're happy to speak English (and some Spanish, French and Du
 People do not move like machines.
 They have different goals and motives.
 Therefore they move and behave differently.
-And above all: things do not always go on plan.
+And above all: things do not always go as planned.
 
 At places where many people meet exist complex dynamic situations whose development can intuitively not fully grasped or predicted.
 
@@ -43,16 +43,17 @@ While each single parameter and each constriction can be calculated and thought 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/sw1zICjwpV4?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
 accu:rate can help you to calculate default cases like visitor flows in a concert break as well as exceptional situations like evacuation in case of fire alarm.
-Results are prepared graphically from cases of the paths of individuals to a picture of the power of the masses.
+Results are evaluated graphically from cases of the paths of individuals to a picture of the power of the masses.
 Based on the results customers can responsibly plan ahead - in cases of event security, at workplaces on premise or of the renovation of public buildings.
 So accu:rate provides a valid basis for decision making, where previously customer often had to rely on gut feeling in security planning.
 
 
 ## Compare different concepts in the planning phase
 
-Already in the planning phase with accu:rate can plan different solutions for directing large flow of visitors.
+Already in the planning stage you can simulate different solutions for directing large flows of visitors
+with accu:rate.
 In the result graph risk factors are visible, as well as the pro and cons of different solution scenarios.
-Based on the simulation result can be understood which concept should be preferred best meeting your requirements.
+The simulation results make plausible which concept best fits your requirements.
 By the early evaluating various options increase planning security and reduce costs.
 
 
