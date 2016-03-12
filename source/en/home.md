@@ -6,7 +6,7 @@
 <p>Hello international visitor!</p>
 
 So far only parts of our website are available in English.
-Please contact us. We're happy to speak English (and some Spanish, French, Russian too).
+Please contact us. We're happy to speak English (and some Spanish, French and Russian too).
 </div>
 
 
