@@ -7,7 +7,7 @@ Here are some examples of our projects. Of course we are happy to answer your qu
 ## [Evacuation route for Castle Neuschwanstein](/en:evacuation-simulation-castle-neuschwanstein)
 [![Schloss Neuschwanstein Thumbnail](img/referenzen/neuschwanstein_02a_foto_anton_j_brandl_thumb.jpg)](/en:evacuation-simulation-castle-neuschwanstein) {.referenzpreview}
 
-Ludwig II of Bavaria designed the Neuschwanstein Castle in 1868 as an idealized version of a Middle Ages knight's castle. The coonstruction works of the fairytale castle, as it is often called, started already in 1869. King Ludwig II moved into the castle in 1884 and lived there only 172 days. Although he never wanted to make available to the public, shortly after his death in 1886 it was opened for visitors. The reason do this was to pay off a portion of Ludwig II loans. [Read more...](/en:evacuation-simulation-castle-neuschwanstein)
+Ludwig II of Bavaria designed the Neuschwanstein Castle in 1868 as an idealized version of a Middle Ages knight's castle. The construction works of the fairytale castle, as it is often called, started already in 1869. King Ludwig II moved into the castle in 1884 and lived there only 172 days. Although he never wanted to make available to the public, shortly after his death in 1886 it was opened for visitors. The reason do this was to pay off a portion of Ludwig II loans. [Read more...](/en:evacuation-simulation-castle-neuschwanstein)
 
 
 
@@ -15,7 +15,7 @@ Ludwig II of Bavaria designed the Neuschwanstein Castle in 1868 as an idealized 
 
 [![Logo SWM MVG](img/referenzen/logo-swm-mvg.png)](/en:crowd-simulation-munich-subway-station) {.referenzpreview}
 
-accu:rate was commissioned ba the [Munich City Utilities - SWM](https://www.swm.de/) to implement a [passenger simulation at a Munich subway station](personenstromanalyse-ubahn-station-muenchen-mvg). By means of simulation critical passenger flows were examined in detail possible measures to relieve the station were tested. The results are incorporated into the operational concept of the subway station in order to enable a smooth operation even during rush hours. [Read more...](/en:crowd-simulation-munich-subway-station)
+accu:rate was commissioned by the [Munich City Utilities - SWM](https://www.swm.de/) to implement a [passenger simulation at a Munich subway station](personenstromanalyse-ubahn-station-muenchen-mvg). By means of simulation critical passenger flows were examined in detail possible measures to relieve the station were tested. The results are incorporated into the operational concept of the subway station in order to enable a smooth operation even during rush hours. [Read more...](/en:crowd-simulation-munich-subway-station)
 
 
 
