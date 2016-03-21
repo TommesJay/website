@@ -4,9 +4,9 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
+* Vortrag: Keynote auf dem [International Symposium on People's Behavior in Buildings](http://www.annex66.org/?q=News), [Department of Building Physics and Building Ecology, TU Wien](http://www.bpi.tuwien.ac.at/) (30. März 2016)
 * [accu:rate mit Microsoft auf der CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (14. - 18. März 2016, Hannover)
 * [Dr. Angelika Kneidl im Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
-* [Dr. Angelika Kneidl in der Süddeutschen Zeitung](/news:2015-04-14-sz-artikel-computertechnik-die-leben-rettet) (14. April 2015)
 
 [Mehr Neuigkeiten...](/news:archiv)  
 [Für Newsletter anmelden...](http://eepurl.com/bS5vNL)
