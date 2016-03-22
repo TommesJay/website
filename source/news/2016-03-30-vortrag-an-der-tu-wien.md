@@ -1,7 +1,7 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *Vortrag an der Technischen Universität Wien* {.fancyheader}
 
-[![Offizielle Homepage IEA-EBC Annex 66](/img/logo_EBC.jpg)](http://www.annex66.org/?q=NextMeeting "Weiter zur offiziellen Seite von IEA-EBC Annex 66") {.float-right}
+[![Offizielle Homepage IEA-EBC Annex 66](/img/logo_EBC.jpg)]{.float-right}
 
 *Wien, 30. März 2016*
 
