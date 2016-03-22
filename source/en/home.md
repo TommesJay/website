@@ -7,7 +7,7 @@ Please contact us. We're happy to speak English (and some Spanish, French and Du
 <div class="float-right newsbox border" markdown="1">
 #### News and Events
 
-* Talk: Keynote at the [International Symposium on People's Behavior in Buildings](http://www.annex66.org/?q=News), [Department of Building Physics and Building Ecology, TU Wien](http://www.bpi.tuwien.ac.at/) (30. März 2016)
+* Talk: Keynote at the [International Symposium on People's Behavior in Buildings](http://www.annex66.org/?q=News), [TU Wien](http://www.bpi.tuwien.ac.at/) (30. März 2016)
 * Exhibition (de): [accu:rate with Microsoft at the CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (14. - 18. März 2016, Hannover)
 * News (de): [Dr. Angelika Kneidl in Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
 
