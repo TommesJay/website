@@ -1,6 +1,3 @@
-[submodule "lib/skeleton"]
-	path = lib/skeleton
-	url = https://github.com/dhg/Skeleton.git
 [submodule "_drf/lib/spyc"]
 	path = _drf/lib/spyc
 	url = https://github.com/mustangostang/spyc/
