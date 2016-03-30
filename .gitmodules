@@ -1,9 +1,6 @@
 [submodule "_drf/lib/spyc"]
 	path = _drf/lib/spyc
 	url = https://github.com/mustangostang/spyc/
-[submodule "_drf/lib/mustache"]
-	path = _drf/lib/mustache
-	url = https://github.com/bobthecow/mustache.php
 [submodule "lib/normalize.css"]
 	path = lib/normalize.css
 	url = https://github.com/necolas/normalize.css/
