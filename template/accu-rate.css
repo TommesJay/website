@@ -375,13 +375,11 @@ input[type="date"] {
 }
 
 
-/* Hide Google translate widget */
-#google_translate_element {
-    display: none;
-}
-@media print {
-    .skiptranslate {
-        display: none;
-    }
+
+div.stickynote {
+    background: #e84e0f;
+    padding: 1em 2em;
+    margin-bottom: 2em;
+    color: white;
 }
 
