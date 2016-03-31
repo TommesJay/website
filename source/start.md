@@ -4,7 +4,7 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
-* [Vortrag](/news:2016-03-30-vortrag-an-der-tu-wien.md): Keynote auf dem [International Symposium on People's Behavior in Buildings](http://www.annex66.org/?q=News), [TU Wien](http://www.bpi.tuwien.ac.at/) (30. März 2016)
+* [Vortrag an der TU Wien](/news:2016-03-30-vortrag-an-der-tu-wien) (30. März 2016)
 * [accu:rate mit Microsoft auf der CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (14. - 18. März 2016, Hannover)
 * [Dr. Angelika Kneidl im Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
 
