@@ -14,7 +14,6 @@ Bei accu:rate ist sie Expertin für die Modellierung und zeigt sich für das Pro
 Frau Dr. Kneidl ist auch auf [XING](https://www.xing.com/profile/Angelika_Kneidl) und [LinkedIn](https://de.linkedin.com/in/dr-angelika-kneidl-aabb95a8) vertreten.
 
 
-
 ### Florian Sesser {#florian-sesser}
 
 ![Photo: Florian Sesser](/img/team-fs.jpg) {.mugshot}
@@ -25,6 +24,42 @@ Bei seinem früheren Arbeitgeber, den IT:Agenten - einem Dienstleister für Indi
 
 Herr Sesser verantwortet bei accu:rate die Produktentwicklung.
 Kontaktieren Sie ihn für technische Fragen unter <span class="mailadresse" data-to="fs">fs@javascript.anti.spam</span>, und business-netzwerken Sie via [XING](https://www.xing.com/profile/Florian_Sesser) und [LinkedIn](https://de.linkedin.com/in/florian-sesser-88a6aab5).
+
+
+### Thomas Bareth {#thomas-bareth}
+
+![Photo: Thomas Bareth](/img/team-tom.jpg) {.mugshot}
+Seit Dezember 2014 ist Thomas ein unverzichtbarer Teil des accu:rate Teams. Als erfahrener AutoCAD-Modellierer unterstützt er das Team beim Bearbeiten neuer Aufträge indem er Simulationspläne erstellt und Simulationen erfolgreich zum laufen bringt.
+
+
+
+
+### Veronika Zwickenpflug {#veronika-zwickenpflug}
+
+![Photo: Veronika Zwickenpflug](/img/team-vroni.jpg) {.mugshot}
+Veronika studiert Scientific Computing an der Hochschule für angewandte Wissenschaften in München und arbeitet bei accu:rate als Praktikantin.
+Bei accu:rate gehört Veronika, wie auch Thomas, zum Projekt-Team und arbeitet fleissig an aktuellen Aufträgen und modelliert in AutoCAD.
+
+
+
+
+
+
+### Lesya Mankovska {#lesya-mankovska}
+
+
+Lesya studiert ebenfalls Scientific Computing an der Hochschule München. Im Herbst 2015 kam sie als Werkstudention zum accu:rate-Team dazu und seit März 2016 arbeitet sie als Praktikantin. Lesya gehört zum Product-Team, welcher hauptsächlich mit der Entwicklung beschäftigt ist.
+
+
+
+
+
+
+
+### Benjamin Aaron Degenhart {#benjamin-aaron-degenhart}
+
+![Photo: Benjamin Aaron Degenhart](/img/team-ben.jpg) {.mugshot}
+Benjamin hat in Kooperation mit accu:rate und unter der Leitung von Prof. Dr. Gerta Köster seine Bachelorarbei an der Hochschule für Angewandte Wissenschaften in München geschrieben. Nach der erfolgreichen Zusammenarbeit hat er sich entschlossen als Werkstudent das Team von accu:rate zu unterstützen. Zu seinen Aufgaben gehören beispielsweise Java-Entwicklung und 3D-Visualisierungen mit Unity 3D.
 
 
 
