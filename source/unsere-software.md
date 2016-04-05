@@ -4,7 +4,6 @@
 accu:rate bietet seit 2 Jahren erfolgreich die Analyse von
 Personenströmen an und verwendet hierbei ein modernes, wissenschaftlich
 entwickeltes Modell.
-
 Die Software dazu, mit der wir erfolgreich Projekte im Kundenauftrag
 abwickeln, möchten wir nun auch als Produkt anbieten.
 
@@ -33,7 +32,7 @@ deshalb nicht notwendig (im Gegensatz zu z.B. Zellularautomaten)
 * Die Fokussierung auf einzelne Agenten macht die Abbildung von
 individuellen Eigenschaften einfach
 
-![Screenshot Simulation with Crowd:it](/img/screenshot-crowd-it.PNG){.float-middle}
+![Screenshot Simulation with Crowd:it](/img/screenshot-crowd-it.png){.float-middle}
 
 * Wir bieten eine intuitive Benutzeroberfläche und leichte
 Bedienbarkeit, was die Arbeit erleichtert und schnell zu Ergebnissen
@@ -41,7 +40,7 @@ führt
 
 * Um eine Simulation durchzuführen werden im Vorfeld Raumpläne mit Hilfe des Modellierungstools AutoCAD erstellt
 
-![Screenshot AutoCAD 2015](/img/screenshot-autocad-2015-homepage.png){.float-middle}
+![Screenshot AutoCAD 2015](/img/screenshot-autocad-2015.png){.float-middle}
 
 
 ## Systemvoraussetzungen

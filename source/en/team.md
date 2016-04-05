@@ -20,6 +20,30 @@ Florian Sesser successfully finished his studies in computer science at the Tech
 Mr. Sesser responsible for accu:rate's product development. For technical questions contact him under: <span class="mailadresse" data-to="fs">fs@javascript.anti.spam</span> and on business networks [XING](https://www.xing.com/profile/Florian_Sesser) and [LinkedIn](https://de.linkedin.com/in/florian-sesser-88a6aab5).
 
 
+### Thomas Bareth {#thomas-bareth}
+
+![Photo: Thomas Bareth](/img/team-tom.jpg) {.mugshot}
+Thomas bareth successfully finished his studies in civil engineering at the Technical University of Munich and is now in his Master studies. Since December 2014 he is an indispensable part of the accu:rate team. He supports the team as a skilled technical draftsman. Thomas is working on new projects, drawing plans with the modeling tool AutoCAD and simulating new scenarios.
+
+
+### Veronika Zwickenpflug {#veronika-zwickenpflug}
+
+![Photo: Veronika Zwickenpflug](/img/team-vroni.jpg) {.mugshot}
+Veronika is now in her studies in Scientific Computing on the University of Applied Sciences in Munich. Since March 2016 she is doing her internship in our company.
+Same as Thomas, Veronika is member of the project-team at accu:rate. She is working on current projects and drawing technical drafts for further simulations using AutoCAD.
+
+
+### Lesya Mankovska {#lesya-mankovska}
+
+![Photo: Lesya Mankovska](/img/team-lm.jpg) {.mugshot}
+Lesya is as well a student in Computer Sciences at the University of Applied Sciences in Munich. In Autumn 2015 Lesya joined the accu:rate team as a working student and since March 2016 she is doing her internship. Lesya is in the product-team which is mainly responsible for the further developmnet of the software. Also she supports us in maintaining our website.
+
+
+### Benjamin Aaron Degenhart {#benjamin-aaron-degenhart}
+
+![Photo: Benjamin Aaron Degenhart](/img/team-ben.jpg) {.mugshot}
+In February 2016 Benjamin completed his bachelor thesis which he has written in cooperation with  accu:rate and under the direction of Prof. Köster an the University of Applied Sciences in Munich. Following he decided to support the accu:rate team as a working student. His tasks are for example Java development and 3D visualization of the simulations with Unity 3D.
+
 
 
 ## Partner

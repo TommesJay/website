@@ -47,7 +47,7 @@ Bei accu:rate gehört Veronika, wie auch Thomas, zum Projekt-Team und arbeitet f
 
 ### Lesya Mankovska {#lesya-mankovska}
 
-![Photo: Benjamin Aaron Degenhart](/img/team-lm.jpg) {.mugshot}
+![Photo: Lesya Mankovska](/img/team-lm.jpg) {.mugshot}
 Lesya studiert ebenfalls Scientific Computing an der Hochschule München. Im Herbst 2015 kam sie als Werkstudentin zum accu:rate-Team dazu und seit März 2016 arbeitet sie bei uns als Praktikantin. Lesya gehört zum Product-Team, welcher hauptsächlich für die weitere Entwicklung der Software zuständig ist.
 
 
