@@ -8,6 +8,7 @@
 ## 2016
 
 * [Vortrag](/news:2016-03-30-vortrag-an-der-tu-wien.md): Keynote auf dem [International Symposium on People's Behavior in Buildings](http://www.annex66.org/?q=News), [Department of Building Physics and Building Ecology, TU Wien](http://www.bpi.tuwien.ac.at/) (30. März 2016, Wien)
+* Messe: [accu:rate mit Microsoft auf der CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (14. - 18. März 2016, Hannover)
 * Messe: [FeuerTRUTZ 2016](/news:2016-02-16-besuchen-sie-uns-auf-der-feuertrutz) Halle 10.0 / Stand 10.0-508 (17. - 18. Februar 2016, Nürnberg)
 
 
