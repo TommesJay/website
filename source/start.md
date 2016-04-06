@@ -14,7 +14,7 @@
 
 ## Menschliches Verhalten ist komplex
 
-![Screenshot 3D simulation](/img/homepage-screen1.png) {.float-left .bigfloat}
+![Screenshot 3D visualization](/img/homepage-screen1.png) {.float-left .bigfloat}
 
 Menschen bewegen sich nicht wie Maschinen. Sie haben verschiedene Ziele und Motive, bewegen und verhalten sich unterschiedlich und vor allem: nicht immer nach Plan.
 
