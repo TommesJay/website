@@ -1,4 +1,4 @@
-![](/img/accurate-bild-4.jpg) {.fancyheader-img}
+﻿![](/img/accurate-bild-4.jpg) {.fancyheader-img}
 # *<br />Unsere Software* {.fancyheader}
 
 accu:rate bietet seit 2 Jahren erfolgreich die Analyse von

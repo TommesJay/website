@@ -1,4 +1,4 @@
-![](/img/accurate-bild-4.jpg) {.fancyheader-img}
+﻿![](/img/accurate-bild-4.jpg) {.fancyheader-img}
 # <br />*Our software* {.fancyheader}
 
 accu:rate has been successful in analysis of pedestrian flows for 2 years using a modern, scientifically developed simulation model. The software to which we successfully handle projects on behalf of customers , we would like to offer as a product .
@@ -10,7 +10,7 @@ Therefore, there is now the possibility to test the beta version of our software
 
 * crowd:it is a software package for microscopic, agent-based simulation of pedestrians and generally people.
 
-* It is a self-developed software based inter alia on Prof. Gerta K�ster's Optimal Steps Model and Dr. Kneidls research at TUM
+* It is a self-developed software based inter alia on Prof. Gerta Köster's Optimal Steps Model and Dr. Kneidls research at TUM
 
 
 ## Features of crowd:it
@@ -61,3 +61,4 @@ langs: [
     { code: "de", name: "Deutsch", url: "unsere-software", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
 ]
 pagespecific: '<link rel="alternate" href="http://www.accu-rate.de/unsere-software" hreflang="x-default" />'
+
