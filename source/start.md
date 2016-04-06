@@ -4,7 +4,7 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
-* [Vortrag an der TU Wien](/news:2016-03-30-vortrag-an-der-tu-wien) (30. März 2016)
+* [Vortrag: Keynote an der TU Wien](/news:2016-03-30-vortrag-an-der-tu-wien) (30. März 2016)
 * [accu:rate mit Microsoft auf der CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (14. - 18. März 2016, Hannover)
 * [Dr. Angelika Kneidl im Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
 
@@ -14,7 +14,7 @@
 
 ## Menschliches Verhalten ist komplex
 
-![Shortest path SumoViz3D](/img/shortest_path.jpg) {.float-left .bigfloat}
+![Screenshot 3D simulation](/img/homepage-screen1.png) {.float-left .bigfloat}
 
 Menschen bewegen sich nicht wie Maschinen. Sie haben verschiedene Ziele und Motive, bewegen und verhalten sich unterschiedlich und vor allem: nicht immer nach Plan.
 
