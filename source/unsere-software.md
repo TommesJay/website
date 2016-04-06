@@ -81,4 +81,7 @@ Interesse? Bitte Name, eMail-Adresse und Telefonnummer eintragen:
 #meta#
 pagetitle: Unsere Software
 description: Lernen sie unsere Software kennen, die nun auch als Produkt angeboten wird
-
+langs: [
+    { code: "en", name: "English", url: "en:our-software", icon: "lang-en.png", text: "View this page in English" }
+]
+pagespecific: '<link rel="alternate" href="http://www.accu-rate.de/our-software" hreflang="x-default" />'

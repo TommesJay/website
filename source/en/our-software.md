@@ -57,3 +57,7 @@ Are you interested? Please enter your name, email address and phone number:
 #meta#
 pagetitle: Our software
 description: Learn more about our software which is now accessible as a product
+langs: [
+    { code: "de", name: "Deutsch", url: "unsere-software", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
+]
+pagespecific: '<link rel="alternate" href="http://www.accu-rate.de/unsere-software" hreflang="x-default" />'
