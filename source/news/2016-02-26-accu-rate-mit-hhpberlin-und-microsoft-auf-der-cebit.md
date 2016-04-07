@@ -24,7 +24,7 @@ Wir konnten also die *Conversion* stetig von Tag zu Tag steigern, insgesamt inne
 Außerdem ist Felix Meyner von [i-c-analytics](http://www.i-c-analytics.com/) die große Zahl von Besuchern an den Nachmittagen aufgefallen. Für Messen ist dies nicht üblich.
 Wir vermuten den Grund in der schieren Größe des Hannover Messegeländes und in der großen Entfernung der Halle 4 weit vom Haupteingang.
 
-Am Dienstag Mittag verzeichneten die Messdaten das All-Time-High von 5089 Telefonen rund um unseren Stand.
+Am Dienstag Mittag verzeichnete der Sensor das All-Time-High von 5089 Telefonen rund um unseren Stand.
 Kein Wunder: Da kam die Kanzlerin Angela Merkel vorbei, mit einer riesigen Entourage von Pressevertretern und Gästen.
 Leider konnten wir Angela nicht "konvertieren", sie ist weiter gelaufen - nur zu einem schnellen und verwaschenen Selfie hat es gereicht ;)
 
