@@ -24,7 +24,7 @@ Please contact us. We're happy to speak English (and some Spanish, French and Ru
 
 ## Human behavior is complex
 
-![Shortest path SumoViz3D](/img/shortest_path.jpg) {.float-left .bigfloat}
+![Screenshot 3D visualization](/img/homepage-screen1.png) {.float-left .bigfloat}
 
 People do not move like machines.
 They have different goals and motives.
