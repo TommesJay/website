@@ -1,29 +1,27 @@
 ﻿![](/img/accurate-bild-4.jpg) {.fancyheader-img}
 # <br />*Our software* {.fancyheader}
 
-accu:rate has been successful in analysis of pedestrian flows for 2 years using a modern, scientifically developed simulation model. The software to which we successfully handle projects on behalf of customers , we would like to offer as a product .
+accu:rate has been successfully simulating pedestrian flows for 2 years using our modern, scientific simulation model.
+We want to offer the software we use in customer projects as a product.
 
-Therefore, there is now the possibility to test the beta version of our software crowd:it. We want namely selling only the highest quality products also in future.
+Therefore, we would like to give technically inclined customers and interested engineers the opportunity to test the beta version of our software *crowd:it*.
 
 
 ## What is crowd:it?
 
 * crowd:it is a software package for microscopic, agent-based simulation of pedestrians and generally people.
-
-* It is a self-developed software based inter alia on Prof. Gerta Köster's Optimal Steps Model and Dr. Kneidls research at TUM
+* crowd:it is developed in-house based inter alia on [Prof. Gerta Köster](das-team#gerta-koester)'s Optimal Steps Model and [Dr. Angelika Kneidls](das-team#angelika-kneidl) research at TUM
 
 
 ## Features of crowd:it
 
-* We work with a continuous space model: Each point can be entered by a pedestrian. A fit of the model to the geometry is therefore not necessary (in contrast to cellular automata)
-
+* We work with a continuous space model: Any point can be entered by a pedestrian. A fit of the model to the geometry is therefore not necessary (in contrast to cellular automata)
 * Focusing on individual agents makes the reproduction of individual properties easy
 
 ![Screenshot Simulation with Crowd:it](/img/screenshot-crowd-it.png){.float-middle}
 
-* We offer an intuitive user interface and ease of use, which simplifies the working process and leads fast to results
-
-* Floorplans are created using the modeling tool AutoCAD for later simulations
+* crowd:it offers an intuitive user interface. We strive for ease of use. This simplifies the working process and leads fast to results
+* Floor plans are created using AutoCAD, a tool many engineers already are familiar with
 
 ![Screenshot AutoCAD 2015](/img/screenshot-autocad-2015.png){.float-middle}
 
@@ -43,8 +41,8 @@ Even if you are using a Mac, your AutoCAD version is older or you have another C
 
 We are looking for technically savvy customers who want to participate in our beta program. In the beta version of crowd:it you can try out a pre-release software as software testers. 
 Your feedback will help us to identify problems and make crowd:it even better. 
-You will get technical support whenever it is necessary.
-Contact our developers to ensure that you get a tool that gives yxou optimal support in your projects.
+You will receive unlimited technical support.
+You will be in direct contact with our development team to ensure that you get a tool that gives you optimal support in your projects.
 
 
 ## Do I have to pay for the software?
@@ -52,7 +50,7 @@ Contact our developers to ensure that you get a tool that gives yxou optimal sup
 Unfortunately we can not comp the beta software, but of course you'll not only get the test software but also the complete version of crowd:it when it's released.
 
 
-Are you interested? Please enter your name, email address and phone number:
+Are you interested? [Please give us your name, email address and phone number!](http://eepurl.com/bW18HT)
 
 #meta#
 pagetitle: Our software
@@ -60,5 +58,4 @@ description: Learn more about our software which is now accessible as a product
 langs: [
     { code: "de", name: "Deutsch", url: "unsere-software", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
 ]
-pagespecific: '<link rel="alternate" href="http://www.accu-rate.de/unsere-software" hreflang="x-default" />'
 
