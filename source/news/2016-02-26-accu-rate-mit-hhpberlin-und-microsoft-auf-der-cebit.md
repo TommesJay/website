@@ -34,6 +34,7 @@ Leider konnten wir Angela nicht "konvertieren", sie ist weiter gelaufen - nur zu
 ![Florian spielt](/img/news/cebit-2016-florian-spielt.jpg)
 ![Hallenüberblick Panorama](/img/news/cebit-2016-halle-ueberblick.jpg)
 
+Viele weitere Fotos sind auf der [Website von hhpberlin zur CeBIT 2016](http://www.hhpberlin.de/de/content/cebit-2016/) zu finden. Im [News-Feed](http://www.hhpberlin.de/de/content/cebit-2016/news-feed.html) gibt's Bilder mit einigen Staatssekretären und Politikern, die - hauptsächlich wegen hhpberlin - vorbeigeschaut haben :)
 
 Vielleicht bleibt die Kanzlerin ja nächstes Jahr an unserem Stand stehen ;) Bis dahin!
 
