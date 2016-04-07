@@ -16,9 +16,9 @@ Wir können das mit großer Sicherheit sagen, weil wir an unserem Stand eine Bes
 Im Schnitt kamen täglich mehr als 30.000 Personen (eigentlich: Smartphones) an unserem Stand vorbei. 4.500 gezählte Handys pro Stunde - und das ist nur der Durchschnitt!
 
 Davon verweilten im Schnitt rund 1.100 für länger als 5 Minuten in unmittelbarer Nähe unseres Standes, und werden damit als Standbesucher gezählt.
-Im Durchschnitt verbrachten ca. 50% dieser Stand-Besucher, also das Hauptsegment, zwischen 5 und 30 Minuten am Stand. Dies stehlt laut i-c-analytics für "Gesteigertes Interesse".
+Im Durchschnitt verbrachten ca. 50% dieser Stand-Besucher, also das Hauptsegment, zwischen 5 und 30 Minuten am Stand. Dies steht laut i-c-analytics für "Gesteigertes Interesse".
 
-Und noch ein weiterer Erfolg: Während jeden Tag etwa gleich viel Messebesucher an unserem Stand vorbei kamen - das sog. Kundenpotential oder in Web-Sprache der "Traffic" - blieben jeden Tag ein größerer Anteil an unserem Stand stehen.
+Und noch ein weiterer Erfolg: Während jeden Tag etwa gleich viel Messebesucher an unserem Stand vorbei kamen - das sog. Kundenpotential oder in Web-Sprache der "Traffic" - blieb jeden Tag ein größerer Anteil an unserem Stand stehen.
 Wir konnten also die *Conversion* stetig von Tag zu Tag steigern, insgesamt innerhalb einer Woche um mehr als ein Drittel von 3,3 % am Dienstag auf 4,3% am Donnerstag.
 
 Außerdem ist Felix Meyner von [i-c-analytics](http://www.i-c-analytics.com/) die große Zahl von Besuchern an den Nachmittagen aufgefallen. Für Messen ist dies nicht üblich.
