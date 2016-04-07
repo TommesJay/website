@@ -2,25 +2,46 @@
 # *accu:rate mit hhpberlin und Microsoft auf der CeBIT 2016* {.fancyheader}
 
 *Update - München, 06. April 2016*
-# Impressionen CeBIT 2016
 
-Wie bereits Anfang März angekündigt war besuchte accu:rate gemeinsam mit unserem Partner [hhpberlin](https://www.hhpberlin.de/) 
-die [CeBIT 2016 in Hannover](http://www.cebit.de/) . Am 14. und 15. März war accu:rate durch Florian Sesser am Microsoft-Stand auf der IT-Messe vertreten.
+# Impressionen von der CeBIT 2016
+
+Am 14. und 15. März war Florian Sesser für accu:rate mit unserem Partner [hhpberlin](https://www.hhpberlin.de/) am Microsoft-Stand auf der [IT Welt-Leitmesse](http://www.cebit.de/) vertreten.
+
 ![Heattable Kundenpotential](/img/cebit2016-heattable.png){.float-left}
-Insgesamt versprach sich Microsoft ca. 220.000 Besucher in den Tagen vom 14. bis 18. März und diese Erwartungen wurden erfüllt.
-Am Stand von accu:rate/hhpberlin wurde ab Dienstag, dem 15. März, eine Besucherzählung durchgeführt: ein Zählgerät registrierte alle Handys mit eingeschaltetem WLAN.
-Im Schnitt hielten sich täglich um die 30.000 Personen im Umkreis von 100-200m auf und davon rund 1100 Personen in unmittelbarer Nähe unseres Standes. 
-Im Durchschnitt verbrachten ca. 50% der tatsächlichen Stand-Besucher zwischen 5 und 30 Minuten am Stand wobei die Anzahl von Tag zu Tag gestiegen ist. Uns ist auch ein großer Ansturm von Besuchern an den Nachmittagen aufgefallen welcher für Messen unüblich ist. Möglicherweise ist aber die Lage der Halle, welche sich auf der gegenüberliegenden Seite vom Haupteingang befindet, ein Grund dafür.
 
-![Unser Stand auf der CeBIT 2016](/img/unser-stand-cebit2016.jpg)
-![Evaktisch und crowd:it](/img/evaktisch-crowdit.jpg)
-![Florian spielt](/img/florian-spielt-cebit2016.jpg)
-![Hallenüberblick Panorama](/img/halle-ueberblick-cebit2016.jpg)
-![VR-Brille mit Evakuierungssimulation](/img/vr-brillen-traeger-cebit2016.jpg)
+Microsoft rechnete mit ca. 220.000 Besuchern auf ihrem Stand in den fünf Messetagen - und diese Erwartungen wurden auch erfüllt!
+
+Wir können das mit großer Sicherheit sagen, weil wir an unserem Stand eine Besucherzählung durchgeführt haben: ein Zählgerät der Firma [i-c-analytics](http://www.i-c-analytics.com/) registrierte alle Handys mit eingeschaltetem WLAN.
+
+Im Schnitt kamen täglich mehr als 30.000 Personen (eigentlich: Smartphones) an unserem Stand vorbei. 4.500 gezählte Handys pro Stunde - und das ist nur der Durchschnitt!
+
+Davon verweilten im Schnitt rund 1.100 für länger als 5 Minuten in unmittelbarer Nähe unseres Standes, und werden damit als Standbesucher gezählt.
+Im Durchschnitt verbrachten ca. 50% dieser Stand-Besucher, also das Hauptsegment, zwischen 5 und 30 Minuten am Stand. Dies stehlt laut i-c-analytics für "Gesteigertes Interesse".
+
+Und noch ein weiterer Erfolg: Während jeden Tag etwa gleich viel Messebesucher an unserem Stand vorbei kamen - das sog. Kundenpotential oder in Web-Sprache der "Traffic" - blieben jeden Tag ein größerer Anteil an unserem Stand stehen.
+Wir konnten also die *Conversion* stetig von Tag zu Tag steigern, insgesamt innerhalb einer Woche um mehr als ein Drittel von 3,3 % am Dienstag auf 4,3% am Donnerstag.
+
+Außerdem ist Felix Meyner von [i-c-analytics](http://www.i-c-analytics.com/) die große Zahl von Besuchern an den Nachmittagen aufgefallen. Für Messen ist dies nicht üblich.
+Wir vermuten den Grund in der schieren Größe des Hannover Messegeländes und in der großen Entfernung der Halle 4 weit vom Haupteingang.
+
+Am Dienstag Mittag verzeichneten die Messdaten das All-Time-High von 5089 Telefonen rund um unseren Stand.
+Kein Wunder: Da kam die Kanzlerin Angela Merkel vorbei, mit einer riesigen Entourage von Pressevertretern und Gästen.
+Leider konnten wir Angela nicht "konvertieren", sie ist weiter gelaufen - nur zu einem schnellen und verwaschenen Selfie hat es gereicht ;)
+
+![Florians Kanzlerinnen-Selfie](/img/news/cebit-2016-flos-kanzlerinnen-selfie.jpg)
+![Unser Stand auf der CeBIT 2016](/img/news/cebit-2016-unser-stand.jpg)
+![Evaktisch und crowd:it](/img/news/cebit-2016-evaktisch-crowdit.jpg)
+![Florian spielt](/img/news/cebit-2016-florian-spielt.jpg)
+![Hallenüberblick Panorama](/img/news/cebit-2016-halle-ueberblick.jpg)
+
+
+Vielleicht bleibt die Kanzlerin ja nächstes Jahr an unserem Stand stehen ;) Bis dahin!
+
+
+--------------------
+# accu:rate auf der CeBIT 2016
 
 *München, 06. März 2016*
-
-# accu:rate auf der CeBIT 2016
 
 [![CeBIT Logo](/img/associates/cebit.png)](http://www.cebit.de/) {.float-right}
 
