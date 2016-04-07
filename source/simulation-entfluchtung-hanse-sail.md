@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# *Entfluchtungsanalyse für Hanse Sail in Rostock* {.fancyheader}
+# *Entfluchtungsanalyse für die Hanse Sail in Rostock* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
