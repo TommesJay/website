@@ -5,7 +5,7 @@
 
 ### Dr. rer. nat. Angelika Kneidl {#angelika-kneidl}
 
-![Photo: Angelika Kneidl](/img/team-ak.jpg) {.mugshot}
+![Photo: Angelika Kneidl](/img/team/team-ak.jpg) {.mugshot}
 Nach ihrem Informatik&shy;studium an der TU München arbeitete Dr. rer. nat. Angelika Kneidl als IT-Consultant in der Finanz&shy;dienst&shy;leistungs&shy;branche.
 2009 kehrte sie an die Technische Universität München zurück und promovierte über „Methoden zur Abbildung menschlichem Navigations&shy;verhaltens bei der Modellierung von Fußgänger&shy;strömen" am Lehrstuhl für Computer&shy;gestützte Modellierung und Simulation.
 Während dieser Zeit wurde sie mehrmals für ihre Arbeit ausgezeichnet: Ihr wurden zwei Best Paper Awards und der Promotionspreis des Bundes der Freunde der TU München verliehen, der herausragende Promotionen würdigt.
@@ -16,7 +16,7 @@ Frau Dr. Kneidl ist auch auf [XING](https://www.xing.com/profile/Angelika_Kneidl
 
 ### Florian Sesser {#florian-sesser}
 
-![Photo: Florian Sesser](/img/team-fs.jpg) {.mugshot}
+![Photo: Florian Sesser](/img/team/team-fs.jpg) {.mugshot}
 Florian Sesser schloss sein Informatikstudium an der TU München 2011 erfolgreich ab.
 Er arbeitet bereits seit 2001 freiberuflich in der IT-Branche und beschäftigt sich mit der Architektur, Entwicklung und Qualitätssicherung von Software.
 Im Jahr 2010 rief er zusammen mit weiteren Experten den Workshop Softwarearchitektur ins Leben.
@@ -28,7 +28,7 @@ Kontaktieren Sie ihn für technische Fragen unter <span class="mailadresse" data
 
 ### Thomas Bareth {#thomas-bareth}
 
-![Photo: Thomas Bareth](/img/team-tom.jpg) {.mugshot}
+![Photo: Thomas Bareth](/img/team/team-tom.jpg) {.mugshot}
 Thomas Bareth hat erfolgreich sein Bachelorstudium in Bauingenierwesen an der Technischen Universität München abgeschlossen und befindet sich im Moment in seinem Master-studium. Seit Dezember 2014 ist Thomas Bareth ein unverzichtbarer Teil des accu:rate Teams. Als erfahrener AutoCAD-Zeichner unterstützt er das Team beim Bearbeiten neuer Aufträge indem er Simulationspläne erstellt und Simulationen erfolgreich zum laufen bringt.
 
 
@@ -36,7 +36,7 @@ Thomas Bareth hat erfolgreich sein Bachelorstudium in Bauingenierwesen an der Te
 
 ### Veronika Zwickenpflug {#veronika-zwickenpflug}
 
-![Photo: Veronika Zwickenpflug](/img/team-vroni.jpg) {.mugshot}
+![Photo: Veronika Zwickenpflug](/img/team/team-vroni.jpg) {.mugshot}
 Veronika studiert Scientific Computing an der Hochschule für angewandte Wissenschaften in München und arbeitet seit März 2016 als Praktikantin bei accu:rate.
 Bei accu:rate gehört Veronika, wie auch Thomas, zum Projekt-Team und arbeitet fleissig an aktuellen Aufträgen und zeichnet schöne, detaillierte Pläne in AutoCAD.
 
@@ -47,7 +47,7 @@ Bei accu:rate gehört Veronika, wie auch Thomas, zum Projekt-Team und arbeitet f
 
 ### Lesya Mankovska {#lesya-mankovska}
 
-![Photo: Lesya Mankovska](/img/team-lm.jpg) {.mugshot}
+![Photo: Lesya Mankovska](/img/team/team-lm.jpg) {.mugshot}
 Lesya studiert ebenfalls Scientific Computing an der Hochschule München. Im Herbst 2015 kam sie als Werkstudentin zum accu:rate-Team dazu und seit März 2016 arbeitet sie bei uns als Praktikantin. Lesya gehört zum Product-Team, welcher hauptsächlich für die weitere Entwicklung der Software zuständig ist. Außerdem unterstützt Lesya seit kurzer Zeit beim pflegen unserer tollen Website.
 
 
@@ -58,7 +58,7 @@ Lesya studiert ebenfalls Scientific Computing an der Hochschule München. Im Her
 
 ### Benjamin Aaron Degenhart {#benjamin-aaron-degenhart}
 
-![Photo: Benjamin Aaron Degenhart](/img/team-ben.jpg) {.mugshot}
+![Photo: Benjamin Aaron Degenhart](/img/team/team-ben.jpg) {.mugshot}
 Benjamin hat in Kooperation mit accu:rate und unter der Leitung von Prof. Dr. Gerta Köster seine Bachelorarbeit an der Hochschule für Angewandte Wissenschaften in München geschrieben. Nach der erfolgreichen Zusammenarbeit hat er sich entschlossen als Werkstudent das Team von accu:rate zu unterstützen. Zu seinen Aufgaben gehören beispielsweise Java-Entwicklung und 3D-Visualisierungen mit Unity 3D.
 
 
@@ -67,7 +67,7 @@ Benjamin hat in Kooperation mit accu:rate und unter der Leitung von Prof. Dr. Ge
 
 ### Hochschule München, Prof. Dr. Gerta Köster {#gerta-koester}
 
-![Photo: Prof. Dr. Gerta Köster](/img/team-koester.jpg) {.mugshot}
+![Photo: Prof. Dr. Gerta Köster](/img/team/team-koester.jpg) {.mugshot}
 Die [Hochschule München](http://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html) erforscht die Modellierung und Simulation von Fußgängerströmen seit 2010, als Frau Prof. Dr. rer. nat. Gerta Köster ihre Professur für Wissenschaftliches Rechnen antrat.
 Prof. Köster ist seit 2007 in der Sicherheitsforschung tätig, im Besonderen in der Erforschung und Modellierung von Personenstromsimulationen.
 Bei der Siemens AG, Abteilung Corporate Technology, war sie bis 2010 für das Thema „Crowd Control“ verantwortlich und leitete die Teilprojekte zu Personenstromsimulation in den BMBF-Projekten [SinoVE](http://www.bmbf.de/de/22453.php) und [REPKA](http://www.bmbf.de/de/22399.php).
@@ -82,7 +82,7 @@ Frau Prof. Dr. Köster ist Mitglied der wissenschaftlichen Ausschüsse der [PED 
 
 ### Technische Universität München, Prof. Dr.-Ing. André Borrmann {#andre-borrmann}
 
-![Photo: Prof. Dr-Ing. André Borrmann](/img/team-borrmann.jpg) {.mugshot}
+![Photo: Prof. Dr-Ing. André Borrmann](/img/team/team-borrmann.jpg) {.mugshot}
 Der [Lehrstuhl für Computergestützte Modellierung und Simulation](https://www.cms.bgu.tum.de/) erforscht unter der Leitung von [Prof. Dr.-Ing. André Borrmann](https://www.cms.bgu.tum.de/de/team/borrmann) die Modellierung und Simulation von Personenströmen seit seiner Gründung im Jahr 2012.
 Einer der Forschungsschwerpunkte des Lehrstuhls sind Skalenübergänge zwischen unterschiedlichen Modellierungsebenen (makroskopisch, mesoskopisch, mikroskopisch) bei Personenstromsimulationen.
 Der Lehrstuhl ist u.a. am Forschungsverbund [MultikOSi](http://www.multikosi.de/) beteiligt, der vom [BMBF](http://www.bmbf.de) gefördert wird.
@@ -90,7 +90,7 @@ Der Lehrstuhl ist u.a. am Forschungsverbund [MultikOSi](http://www.multikosi.de/
 
 ### VDS GmbH - Veranstaltung | Dienstleistung | Sicherheit, Roland G. Meier {#roland-meier}
 
-![Photo: Roland Meier, VDS GmbH](/img/team-pankow.jpg) {.mugshot}
+![Photo: Roland Meier, VDS GmbH](/img/team/team-pankow.jpg) {.mugshot}
 Die Leistungen der [VDS GmbH](http://www.vds-veranstaltung.de/) beruhen auf 25 Jahren fachlicher Qualifikation und praktischer Erfahrung in der Besucher- und Veranstaltungssicherheit.
 Dazu gehören Sicherheitsberatungen für Betreiber, Veranstalter und Behörden und die Erstellung und Umsetzung von Sicherheitskonzepten in Form der Sicherheitskoordination für Veranstaltungen.
 Ein Schwerpunkt des Unternehmens ist das Crowd Management (Besucherlenkung), das beispielsweise auf der Meisterfeier des FC Bayern Münchens 2013 erfolgreich eingesetzt wurde.
@@ -106,7 +106,7 @@ Auch wenn wir nicht alle Menschen, die uns unterstützen und unterstützt haben,
 
 ### Michael Schölkopf {#michael-schoelkopf}
 
-![Photo: Michael Schölkopf](/img/team-ms.png) {.mugshot}
+![Photo: Michael Schölkopf](/img/team/team-ms.png) {.mugshot}
 Michael Schölkopf ist Diplom-Ingenieur für Maschinenbau und Manage&More-Stipendiat der UnternehmerTUM.
 Als Mitgründer in technologie&shy;orientierten Startups sammelte er wertvolle Erfahrung in frühen Entwicklungsphasen von Unternehmen.
 Herr Schölkopf hat bei accu:rate von März 2014 bis März 2015 die Felder Business Development, Vertrieb und Marketing verantwortet.

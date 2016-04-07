@@ -7,7 +7,7 @@
 
 Am 14. und 15. März war Florian Sesser für accu:rate mit unserem Partner [hhpberlin](https://www.hhpberlin.de/) am Microsoft-Stand auf der [IT Welt-Leitmesse](http://www.cebit.de/) vertreten.
 
-![Heattable Kundenpotential](/img/cebit2016-heattable.png){.float-left}
+![Heattable Kundenpotential](/img/news/cebit-2016-heattable.png){.float-left}
 
 Microsoft rechnete mit ca. 220.000 Besuchern auf ihrem Stand in den fünf Messetagen - und diese Erwartungen wurden auch erfüllt!
 
