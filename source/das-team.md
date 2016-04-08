@@ -32,8 +32,6 @@ Kontaktieren Sie ihn für technische Fragen unter <span class="mailadresse" data
 Thomas Bareth hat erfolgreich sein Bachelorstudium in Bauingenierwesen an der Technischen Universität München abgeschlossen und befindet sich im Moment in seinem Master-studium. Seit Dezember 2014 ist Thomas Bareth ein unverzichtbarer Teil des accu:rate Teams. Als erfahrener AutoCAD-Zeichner unterstützt er das Team beim Bearbeiten neuer Aufträge indem er Simulationspläne erstellt und Simulationen erfolgreich zum laufen bringt.
 
 
-
-
 ### Veronika Zwickenpflug {#veronika-zwickenpflug}
 
 ![Photo: Veronika Zwickenpflug](/img/team/team-vroni.jpg) {.mugshot}
@@ -41,19 +39,10 @@ Veronika studiert Scientific Computing an der Hochschule für angewandte Wissens
 Bei accu:rate gehört Veronika, wie auch Thomas, zum Projekt-Team und arbeitet fleissig an aktuellen Aufträgen und zeichnet schöne, detaillierte Pläne in AutoCAD.
 
 
-
-
-
-
 ### Lesya Mankovska {#lesya-mankovska}
 
 ![Photo: Lesya Mankovska](/img/team/team-lm.jpg) {.mugshot}
-Lesya studiert ebenfalls Scientific Computing an der Hochschule München. Im Herbst 2015 kam sie als Werkstudentin zum accu:rate-Team dazu und seit März 2016 arbeitet sie bei uns als Praktikantin. Lesya gehört zum Product-Team, welcher hauptsächlich für die weitere Entwicklung der Software zuständig ist. Außerdem unterstützt Lesya seit kurzer Zeit beim pflegen unserer tollen Website.
-
-
-
-
-
+Lesya studiert ebenfalls Scientific Computing an der Hochschule München. Im Herbst 2015 kam sie als Werkstudentin zum accu:rate-Team dazu und seit März 2016 arbeitet sie bei uns als Praktikantin. Lesya gehört zum Product-Team, welcher hauptsächlich für die weitere Entwicklung der Software zuständig ist. Außerdem unterstützt Lesya seit kurzer Zeit beim Pflegen unserer tollen Website.
 
 
 ### Benjamin Aaron Degenhart {#benjamin-aaron-degenhart}
