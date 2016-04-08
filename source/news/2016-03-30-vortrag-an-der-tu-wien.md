@@ -8,7 +8,8 @@
 Am 30. März 2016 um 13:30 hält Dr. Angelika Kneidl einen Vortrag auf dem [Internationalen Symposium über menschliches Verhalten in Gebäuden](http://www.annex66.org/?q=News) an der [Technischen Universität Wien](http://www.bpi.tuwien.ac.at/).
 Thema des Vortrages sind Simulationen in Smart Buildings.
 
-
+![Technische Universität Wien](/img/news/photo-tu-wien.jpg)
+Austragungsort des [International Symposium & 3rd expert meeting of IEA EBC Annex 66](http://bpi.tuwien.ac.at/annex66/), 30.März - 1.April 2016
 
 #meta#
 pagetitle: "Vortrag an der TU Wien: Simulationen in Smart Buildings"
