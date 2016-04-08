@@ -48,8 +48,7 @@ Lesya studiert ebenfalls Scientific Computing an der Hochschule München. Im Her
 ### Benjamin Aaron Degenhart {#benjamin-aaron-degenhart}
 
 ![Photo: Benjamin Aaron Degenhart](/img/team/team-ben.jpg) {.mugshot}
-Benjamin hat in Kooperation mit accu:rate und unter der Leitung von Prof. Dr. Gerta Köster seine Bachelorarbeit an der Hochschule für Angewandte Wissenschaften in München geschrieben. Nach der erfolgreichen Zusammenarbeit hat er sich entschlossen als Werkstudent das Team von accu:rate zu unterstützen. Zu seinen Aufgaben gehören beispielsweise Java-Entwicklung und 3D-Visualisierungen mit Unity 3D.
-
+Benjamin hat in Kooperation mit accu:rate und unter der Leitung von Prof. Dr. Gerta Köster seine [Bachelorarbeit](http://bvbm1.bib-bvb.de/view/action/singleViewer.do?dvs=1460107240471~101) an der Hochschule für Angewandte Wissenschaften in München geschrieben. Nach der erfolgreichen Zusammenarbeit hat er sich entschlossen als Werkstudent das Team von accu:rate zu unterstützen. Zu seinen Aufgaben gehören beispielsweise Java-Entwicklung und 3D-Visualisierungen mit Unity 3D.
 
 
 ## Partner
