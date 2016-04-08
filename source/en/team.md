@@ -36,7 +36,7 @@ Same as Thomas, Veronika is member of the project-team at accu:rate. She is work
 ### Lesya Mankovska {#lesya-mankovska}
 
 ![Photo: Lesya Mankovska](/img/team/team-lm.jpg) {.mugshot}
-Lesya is as well a student in Computer Sciences at the University of Applied Sciences in Munich. In Autumn 2015 Lesya joined the accu:rate team as a working student and since March 2016 she is doing her internship. Lesya is in the product-team which is mainly responsible for the further developmnet of the software. Also she supports us in maintaining our website.
+Lesya is a student in Computer Sciences at the University of Applied Sciences in Munich as well. In Autumn 2015 Lesya joined the accu:rate team as a working student and since March 2016 she is doing her internship. Lesya is in the product-team which is mainly responsible for the further developmnet of the software. Also she supports us in maintaining our website.
 
 
 ### Benjamin Aaron Degenhart {#benjamin-aaron-degenhart}
