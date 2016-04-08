@@ -57,7 +57,7 @@
 
 ### Studentische Arbeiten
 
-- Degenhart, B. (2015): [Implementierungskonzepte für Agenten in Personenstromsimulationen - Effiziente Modellierung komplexer Charaktere](http://bvbm1.bib-bvb.de/view/action/singleViewer.do?dvs=1460107240471~101). Hochschule München in Zusammenarbeit mit accu:rate.
+- Degenhart, B. (2015): [Implementierungskonzepte für Agenten in Personenstromsimulationen - Effiziente Modellierung komplexer Charaktere](https://www.researchgate.net/publication/292995085_Implementierungskonzepte_fur_Agenten_in_Personenstromsimulationen_-_Effiziente_Modellierung_komplexer_Charaktere). Hochschule München in Zusammenarbeit mit accu:rate.
 
 ## Publikationen unserer Partner
 
