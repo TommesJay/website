@@ -55,6 +55,9 @@
 - Kneidl, A., Borrmann, A. (2011): [How Do Pedestrians find their Way? Results of an experimental study with students compared to simulation results](http://www.cms.bgu.tum.de/publications/Paper_Kneidl_EMEVAC_2011.pdf). Proceedings of Emergency Evacuation of people from buildings (EMEVAC 2010), Warsaw, Poland.
 - Kneidl, A., Thiemann, M., Borrmann, A., Ruzika, S., Hamacher, H. W., Köster, G., Rank, E. (2010): [Bidirectional Coupling of Macroscopic and Microscopic Approaches for Pedestrian Behavior Prediction](http://www.cms.bgu.tum.de/publications/paper_Kneidl_PED2010.pdf). Pedestrian and evacuation dynamics, 2011, eds R. Peacock, E. Kuligowski & J. Averill, Springer, Berlin.
 
+### Studentische Arbeiten
+
+- Degenhart, B. (2015): [Implementierungskonzepte für Agenten in Personenstromsimulationen - Effiziente Modellierung komplexer Charaktere](http://bvbm1.bib-bvb.de/view/action/singleViewer.do?dvs=1460107240471~101). Hochschule München in Zusammenarbeit mit accu:rate.
 
 ## Publikationen unserer Partner
 
