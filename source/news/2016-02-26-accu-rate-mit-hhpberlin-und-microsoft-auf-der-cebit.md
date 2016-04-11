@@ -29,9 +29,13 @@ Kein Wunder: Da kam die Kanzlerin Angela Merkel vorbei, mit einer riesigen Entou
 Leider konnten wir Angela nicht "konvertieren", sie ist weiter gelaufen - nur zu einem schnellen und verwaschenen Selfie hat es gereicht ;)
 
 ![Florians Kanzlerinnen-Selfie](/img/news/cebit-2016-flos-kanzlerinnen-selfie.jpg)
+[![Evactisch und Screen mit laufender
+Simulation](img/news/cebit-2016-evactisch-und-screen.jpg "Evactisch mit Screen mit einer laufenden Simulation im Hintergrund")](https://twitter.com/truthaen/status/709034970170466304/photo/1)
 ![Unser Stand auf der CeBIT 2016](/img/news/cebit-2016-unser-stand.jpg)
 ![Evaktisch und crowd:it](/img/news/cebit-2016-evaktisch-crowdit.jpg)
+[![Demonstration einer Smart City-Lösung](img/news/cebit-2016-evactisch.jpg "Demonstration einer Smart City-Lösung: was es bringt, wenn der Brand- und Katastrophenschutz digitalisiert werden")](https://www.facebook.com/MicrosoftPolitik/photos/a.1129258560459432.1073741898.119027994815832/1129258843792737/?type=1&theater)
 ![Florian spielt](/img/news/cebit-2016-florian-spielt.jpg)
+[![Gerd Billen, Staatssekretär im Bundesministerium der Justiz und für Verbraucherschutz](img/news/cebit-2016-billen-mit-VR-brille.jpg "Gerd Billen, Staatssekretär im Bundesministerium der Justiz und für Verbraucherschutz schaut durch unsere VR-Brille")](https://www.facebook.com/MicrosoftPolitik/photos/a.1129258560459432.1073741898.119027994815832/1129258757126079/?type=1&theater)
 ![Hallenüberblick Panorama](/img/news/cebit-2016-halle-ueberblick.jpg)
 
 Viele weitere Fotos sind auf der [Website von hhpberlin zur CeBIT 2016](http://www.hhpberlin.de/de/content/cebit-2016/) zu finden. Im [News-Feed](http://www.hhpberlin.de/de/content/cebit-2016/news-feed.html) gibt's Bilder mit einigen Staatssekretären und Politikern, die - hauptsächlich wegen hhpberlin - vorbeigeschaut haben :)
