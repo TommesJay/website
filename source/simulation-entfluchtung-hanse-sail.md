@@ -5,50 +5,69 @@ Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+*Rostock/München, 13. April 2016*
 
-#### Hanse Sail
+Die [Hanse Sail in Rostock](http://www.hansesail.com/) ist eines der größten Treffen von Traditionsseglern und Museumsschiffen weltweit.
 
+![Hanse sail](/img/referenzen/HanseSail_03.jpg)
 
-![Hanse sail](/img/referenzen/HanseSail_03.jpg) {.float-left}
-Die [Hanse Sail in Rostock](http://www.hansesail.com/) ist die größte maritime Veranstaltung in Mecklenburg-Vorpommern und eines der weltweit größten Treffen von Traditionsseglern und Museumsschiffen. Das Volksfest findet seit 1991 jährlich am zweiten August-Wochenende im Gebiet des Rostocker Stadthafens statt.
-
-Die Besucher haben eine einmalige Chance als Mitsegler auf Schiffen die traditionelle Seefahrt hautnah zu erleben. Aber auch an Land befinden sich zahlreiche Bühnen, Marktstände und Fahrgeschäfte.
-Das Fest findet auf der Haedgehalbinsel statt, welche auf drei Seiten von Wasser begrenzt ist, und wird jährlich von rund einer Million Menschen besucht.
-
-accu:rate wurde von [ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/) beauftragt, die Räumung der Halbinsel zu simulieren. Die Besucher sollten in das Stadtgebiet Rostock (in die südliche Richtung) geleitet werden.
-
-
-#### Analyse und Optimierung der Fluchtwege
+Das Volksfest findet seit 1991 jährlich am zweiten August-Wochenende im Gebiet des [Rostocker Stadthafens](https://de.wikipedia.org/wiki/Rostocker_Stadthafen) statt.
+Die Besucher haben die Chance, als Mitsegler auf Schiffen die traditionelle Seefahrt hautnah zu erleben.
+Auch an Land befinden sich zahlreiche Bühnen, Marktstände und Fahrgeschäfte.
+Das Fest wird jährlich von rund einer Million Menschen besucht.
 
 
-Mit Hilfe der Simulation von accu:rate soll das Räumungskonzept überprüft und optimiert werden. Die Fragestellungen, die dabei auftreten, sind:
+## Analyse und Optimierung der Fluchtwege
+
+Unser Kunde, die [ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/), wollte mit Hilfe der Simulation von accu:rate das Räumungskonzept überprüfen und optimieren. Die Fragestellungen, die dabei auftraten, lauteten:
+
+[![ABS Sicherheitsdienst Logo](img/associates/abs-sicherheitsdienst.png)](http://www.abs-sicherheitsdienst.de/ "ABS Sicherheitsdienst GmbH") {.float-right}
 
 * Wie lange dauert die Entfluchtung des Geländes?
-* An welchen Stellen kann es kritisch werden?
-* Wie lange bestehen die Staus?
-* Welche Maßnahmen helfen die Entfluchtung zu beschleunigen?
+* Kommt es zu Staus, und wenn ja, wo?
+* Wie lange dauern die Staus an?
+* Welche Maßnahmen helfen, die Entfluchtung zu beschleunigen?
 
-Für die Simulationen hat accu:rate zwei verschiedene Geometrien (Lagepläne) als Vorlage verwendet. Eine Ist-Geometrie, welche anhand der Google Earth Aufnahmen aus dem Jahr 2015 erstellt wurde. Und eine Plan-Geometrie, welche uns von ABS zur Verfügung gestellt wurde und bereits einige Verbesserungsvorschläge enthielt.
-![Vergleich der Plan-Geometrie mit der Ist-Geometrie](/img/referenzen/hanse-istgeo-plangeo.png)
-Dabei gibt es eine interessante Stelle auf dem Gelände, welche einen großen Einfluss auf die Entfluchtungsdauer hat, wie sich später herausstellt. In der Plan-Geometrie ist ein 3 Meter breiter Rettungsweg am West-Ende der Terrasse vorgesehen, welcher allerdings nicht vorhanden war.
+Zusätzlich zu einem genauen Lageplan, der die Wege sowie die Flächen für Buden, Fahrgeschäfte und Schausteller spezifiziert, hatten wir auch noch ein hochauflösendes Luftbild von kurz vor Beginn der 2015er Hanse Sail zur Verfügung.
 
+Das hat uns das einen sehr spannenden Soll/Ist-Vergleich erlaubt.
+Unerwartet, aber sehr erfreulich: Eine komplette Räumung ist mit der Real-Geometrie sogar 8% schneller als mit der Plan-Geometrie, weil ein wichtiger Ausgang in Wirklichkeit breiter war als im Plan.
 
-#### Ergebnisse der Simulation
+[![Simulation basierend auf Luftbild: Mit und ohne Verbesserungen](/img/referenzen/hanse-istgeo-plangeo.png "Simulation basierend auf Luftbild: Mit und ohne Verbesserungen")](/img/referenzen/hanse-istgeo-plangeo.png)
+Vergleich der Geometrie mit und ohne Maßnahmen. *S3* bis *S7* bezeichnen die vorhandenen Ausgänge, *S4a* und *S4b* die neu geplanten Notausgänge.
 
+Um verlässliche Vorhersagen treffen zu können, sind gute Eingangsdaten für eine Simulation unerlässlich.
 
-![Entfluchtung Hanse Sail von oben](/img/referenzen/hanse-schief-oben.png){.float-right}
-Erste Simulationsergebnisse haben ergeben, dass die Räumung des Geländes nach der Plan-Geometrie eine bis zu 8% größere Dauer hat, weil beispielsweise einer der Ausgänge in der Realität fast doppelt so breit war als vorgesehen.
-Im nächsten Schritt wurden in beiden Geometrien Verbesserungen zur Reduzierung der Entfluchtungsdauer vorgenommen. Beispiele dafür sind:
+[![zaehlwert solutions KG](img/associates/zaehlwert.png)](http://www.zaehlwert.com/ "zaehlwert solutions KG") {.float-left}
 
-* Schaffen zweier zusätzlicher, jeweils 6 Meter breiter Notausgänge
-* Sperren eines 3 Meter breiten Weges
-
-![Entfluchtung Hanse Sail](/img/referenzen/hanse-30grad.png){.float-left} 
-Die Einführung von zusätzlichen Ausgängen und die Sperrung des Zugangs über die Terrasse haben dazu geführt, dass die Entfluchtungsdauer um 20% reduziert werden konnte. Die Anzahl der Agenten beträgt in diesem Fall 50% mehr als die, die durch Besucherzählung im Jahr 2015 ermittelt wurde.
-An diesem Beispiel kann man gut erkennen, dass zusätzliche Rettungswege in manchen Fällen zu einem Rückstau und einer Blockierung größerer Bereiche führen anstatt andere Wege zu entlasten.
+Deshalb sind wir sehr froh, dass unser Partner, die [zaehlwert solutions KG](http://www.zaehlwert.com/), für die Hanse Sail eine Besucherzählung durchgeführt hat.
+Bei der Hanse Sail wird keine Einlasskontrolle vogenommen - dank der zaehlwert KG hatten wir trotzdem sehr gute Eingangsdaten bezüglich der Besucherzahl der HanseSail zur Verfügung.
 
 
-Wenn auch Sie für die Organisation eines großen Volksfestes zuständig sind und die Fluchtwege analysieren wollen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
+## Ergebnisse der Simulation
+
+Iterativ und in Kollaboration mit der [ABS Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/) sowie der [zaehlwert solutions KG](http://www.zaehlwert.com/) haben wir unterschiedliche Maßnahmen getestet, und die komplette Räumung je nach Szenario um bis zu 25% beschleunigt.
+
+Von den unterschiedlichen Maßnahmen, die wir überprüft haben, haben zwei die größte Verbesserung bewerkt.
+Die erste war, wenig überraschend - zwei neue Notausgänge in der Nähe einer großen Bühne.
+
+[![Entfluchtung Hanse Sail von oben](/img/referenzen/hanse-schief-oben.jpg)](/img/referenzen/hanse-schief-oben.jpg) {.float-right}
+
+Die zweite Maßnahme war nicht gerade intuitiv, und zeigt aus unserer Sicht sehr gut, wozu Simulationen in der Lage sind:
+
+Ein einzelner, mit 3 Metern immer noch zu schmaler Fluchtweg hat zu einem großen Rückstau geführt. 
+
+## Weniger ist manchmal mehr
+
+Die **Wegnahme** dieses Fluchtweges hat den Rückstau behoben und die Entfluchtung massiv beschleunigt!
+
+[![Entfluchtung Hanse Sail](/img/referenzen/hanse-30grad.jpg)](/img/referenzen/hanse-30grad.jpg) {.float-left}
+
+An diesem Beispiel kann man gut erkennen, dass auch scheinbar einfach gelagerte Fälle Überraschungen bereit halten können.
+
+Zusätzliche Rettungswege führen in manchen Fällen zu einem Rückstau und blockieren damit größere Bereiche - anstatt andere Wege zu entlasten.
+
+Wenn auch Sie die Dauer einer Räumung nach dem aktuellen Stand der Technik schätzen lassen oder bauliche Maßnahmen vorab testen lassen möchten, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
 
 [Weitere Referenzen ansehen](referenzen)
 
