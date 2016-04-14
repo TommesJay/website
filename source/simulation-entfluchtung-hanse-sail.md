@@ -9,8 +9,8 @@ Bitte [kontaktieren](kontakt) Sie uns.
 
 Die [Hanse Sail in Rostock](http://www.hansesail.com/) ist eines der größten Treffen von Traditionsseglern und Museumsschiffen weltweit.
 
-![Hanse sail](img/referenzen/hanse-sail-2008-haedgehalbinsel-rimshot-mod.jpg)
-Bildquelle: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hanse_Sail_2008_Haedgehalbinsel.jpg)
+![Hanse sail](img/referenzen/hanse-sail-zaehlwert-dsc_0656.jpg)
+Photo: Stefan Leitmannslehner, [zaehlwert.com](http://www.zaehlwert.com/)
 
 Das Volksfest findet seit 1991 jährlich am zweiten August-Wochenende im Gebiet des [Rostocker Stadthafens](https://de.wikipedia.org/wiki/Rostocker_Stadthafen) statt.
 Die Besucher haben die Chance, als Mitsegler auf Schiffen die traditionelle Seefahrt hautnah zu erleben.
