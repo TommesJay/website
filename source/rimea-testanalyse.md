@@ -1,7 +1,7 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *<br />Analyse der RiMEA Testfälle* {.fancyheader}
 
-[![Logo des RiMEA e.V.](/img/rimea_logo.gif "RiMEA e.V."){.float-right}](http://www.rimea.de/) 
+[![Logo des RiMEA e.V.](/img/associates/rimea_logo.gif "RiMEA e.V."){.float-right}](http://www.rimea.de/) 
 
 
 Seit der Gründung im Jahr 2014 ist accu:rate Mitglied im [RiMEA e.V.](http://www.rimea.de/) (Richtlinie für Mikroskopische Entfluchtungsanalysen). Ziel von RiMEA ist, mithilfe der Richtlinie für simulationsgestützte Entfluchtungsanalysen eine Handreichung für Behördenvertreter und Anwender von Simulationen zu schaffen, um die Methodik sowie die Vorgehensweise bei Entfluchtungsanalysen zu erläutern. Zudem definiert sie Mindeststandards für Eingangsparameter sowie Simulationsmodelle.
