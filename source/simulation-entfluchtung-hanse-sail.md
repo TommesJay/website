@@ -10,7 +10,7 @@ Bitte [kontaktieren](kontakt) Sie uns.
 Die [Hanse Sail in Rostock](http://www.hansesail.com/) ist eines der größten Treffen von Traditionsseglern und Museumsschiffen weltweit.
 
 ![Hanse sail](img/referenzen/hanse-sail-zaehlwert-dsc_0656.jpg)
-Photo: Stefan Leitmannslehner, [zaehlwert.com](http://www.zaehlwert.com/)
+Photo: Stefan Leitmannslehner, [Qounts](http://www.qounts.com/)
 
 Das Volksfest findet seit 1991 jährlich am zweiten August-Wochenende im Gebiet des [Rostocker Stadthafens](https://de.wikipedia.org/wiki/Rostocker_Stadthafen) statt.
 Die Besucher haben die Chance, als Mitsegler auf Schiffen die traditionelle Seefahrt hautnah zu erleben.
@@ -39,15 +39,15 @@ Vergleich der Geometrie mit und ohne Maßnahmen. *S3* bis *S7* bezeichnen die vo
 
 Um verlässliche Vorhersagen treffen zu können, sind gute Eingangsdaten für eine Simulation unerlässlich.
 
-[![zaehlwert solutions KG](img/associates/zaehlwert.png)](http://www.zaehlwert.com/ "zaehlwert solutions KG") {.float-left}
+[![Qounts](img/associates/qounts.png)](http://www.qounts.com/ "Qounts") {.float-left}
 
-Deshalb sind wir sehr froh, dass unser Partner, die [zaehlwert solutions KG](http://www.zaehlwert.com/), für die Hanse Sail eine Besucherzählung durchgeführt hat.
-Bei der Hanse Sail wird keine Einlasskontrolle vogenommen - dank der zaehlwert KG hatten wir trotzdem sehr gute Eingangsdaten bezüglich der Besucherzahl der HanseSail zur Verfügung.
+Deshalb sind wir sehr froh, dass unser Partner [Qounts](http://www.qounts.com/) für die Hanse Sail eine Besucherzählung durchgeführt hat.
+Bei der Hanse Sail wird keine Einlasskontrolle vogenommen - dank Qounts hatten wir trotzdem sehr gute Eingangsdaten bezüglich der Besucherzahl der HanseSail zur Verfügung.
 
 
 ## Ergebnisse der Simulation
 
-Iterativ und in Kollaboration mit der [ABS Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/) sowie der [zaehlwert solutions KG](http://www.zaehlwert.com/) haben wir unterschiedliche Maßnahmen getestet, und die komplette Räumung je nach Szenario um bis zu 25% beschleunigt.
+Iterativ und in Kollaboration mit der [ABS Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/) sowie [Qounts](http://www.qounts.com/) haben wir unterschiedliche Maßnahmen getestet, und die komplette Räumung je nach Szenario um bis zu 25% beschleunigt.
 
 Von den unterschiedlichen Maßnahmen, die wir überprüft haben, haben zwei die größte Verbesserung bewerkt.
 Die erste war, wenig überraschend - zwei neue Notausgänge in der Nähe einer großen Bühne.
