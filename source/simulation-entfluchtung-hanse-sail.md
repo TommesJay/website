@@ -70,6 +70,10 @@ Zusätzliche Rettungswege führen in manchen Fällen zu einem Rückstau und bloc
 
 Wenn auch Sie die Dauer einer Räumung nach dem aktuellen Stand der Technik schätzen lassen oder bauliche Maßnahmen vorab testen lassen möchten, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
 
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/W3RPBQW_CXc?rel=0' frameborder='0' allowfullscreen></iframe></div>
+Ausschnitt unserer 3D-Visualisierung der simulierten Räumung
+
+
 [Weitere Referenzen ansehen](referenzen)
 
 #meta#
