@@ -49,6 +49,9 @@ Bei der Hanse Sail wird keine Einlasskontrolle vogenommen - dank Qounts hatten w
 
 Iterativ und in Kollaboration mit der [ABS Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/) sowie [Qounts](http://www.qounts.com/) haben wir unterschiedliche Maßnahmen getestet, und die komplette Räumung je nach Szenario um bis zu 25% beschleunigt.
 
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/W3RPBQW_CXc?rel=0' frameborder='0' allowfullscreen></iframe></div>
+Ausschnitt unserer 3D-Visualisierung der simulierten Räumung
+
 Von den unterschiedlichen Maßnahmen, die wir überprüft haben, haben zwei die größte Verbesserung bewerkt.
 Die erste war, wenig überraschend - zwei neue Notausgänge in der Nähe einer großen Bühne.
 
@@ -57,6 +60,7 @@ Die erste war, wenig überraschend - zwei neue Notausgänge in der Nähe einer g
 Die zweite Maßnahme war nicht gerade intuitiv, und zeigt aus unserer Sicht sehr gut, wozu Simulationen in der Lage sind:
 
 Ein einzelner, mit 3 Metern immer noch zu schmaler Fluchtweg hat zu einem großen Rückstau geführt. 
+
 
 ## Weniger ist manchmal mehr
 
@@ -70,11 +74,8 @@ Zusätzliche Rettungswege führen in manchen Fällen zu einem Rückstau und bloc
 
 Wenn auch Sie die Dauer einer Räumung nach dem aktuellen Stand der Technik schätzen lassen oder bauliche Maßnahmen vorab testen lassen möchten, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/W3RPBQW_CXc?rel=0' frameborder='0' allowfullscreen></iframe></div>
-Ausschnitt unserer 3D-Visualisierung der simulierten Räumung
 
-
-[Weitere Referenzen ansehen](referenzen)
+[Weitere Referenzen ansehen](referenzen).
 
 #meta#
 pagetitle: Entfluchtungsanalyse für das Volksfest Hanse Sail

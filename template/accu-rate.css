@@ -340,6 +340,7 @@ img.mugshot  {
     overflow: hidden;
     max-width: 100%;
     height: auto;
+    clear: both;
 }
 .embed-container iframe,
 .embed-container object,
