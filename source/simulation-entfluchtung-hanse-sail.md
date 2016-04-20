@@ -31,15 +31,15 @@ Unser Kunde, die [ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](http://www.
 
 Zusätzlich zu einem genauen Lageplan, der die Wege sowie die Flächen für Buden, Fahrgeschäfte und Schausteller spezifiziert, hatten wir auch noch ein hochauflösendes Luftbild von kurz vor Beginn der 2015er Hanse Sail zur Verfügung.
 
-Das hat uns das einen sehr spannenden Soll/Ist-Vergleich erlaubt.
-Unerwartet, aber sehr erfreulich: Eine komplette Räumung ist mit der Real-Geometrie sogar 8% schneller als mit der Plan-Geometrie, weil ein wichtiger Ausgang in Wirklichkeit breiter war als im Plan.
-
 [![Simulation basierend auf Luftbild: Mit und ohne Verbesserungen](/img/referenzen/hanse-istgeo-plangeo.png "Simulation basierend auf Luftbild: Mit und ohne Verbesserungen")](/img/referenzen/hanse-istgeo-plangeo.png)
 Vergleich der Geometrie mit und ohne Maßnahmen. *S3* bis *S7* bezeichnen die vorhandenen Ausgänge, *S4a* und *S4b* die neu geplanten Notausgänge.
 
-Um verlässliche Vorhersagen treffen zu können, sind gute Eingangsdaten für eine Simulation unerlässlich.
-
 [![Qounts](img/associates/qounts.png)](http://www.qounts.com/ "Qounts") {.float-left}
+
+Das Luftbild beinhaltete alle Buden und Schausteller hat uns damit einen sehr spannenden Soll/Ist-Vergleich erlaubt.
+Unerwartet, aber sehr erfreulich: Eine komplette Räumung ist mit der Real-Geometrie sogar 8% schneller als mit der Plan-Geometrie, weil ein wichtiger Ausgang in Wirklichkeit breiter war als im Plan.
+
+Um verlässliche Vorhersagen treffen zu können, sind gute Eingangsdaten für eine Simulation unerlässlich.
 
 Deshalb sind wir sehr froh, dass unser Partner [Qounts](http://www.qounts.com/) für die Hanse Sail eine Besucherzählung durchgeführt hat.
 Bei der Hanse Sail wird keine Einlasskontrolle vogenommen - dank Qounts hatten wir trotzdem sehr gute Eingangsdaten bezüglich der Besucherzahl der HanseSail zur Verfügung.
