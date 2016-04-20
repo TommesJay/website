@@ -167,7 +167,6 @@ img.center, .float-left, .float-right {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    text-align: center;
 }
 
 @media (min-width: 768px), print {
