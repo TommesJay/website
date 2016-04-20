@@ -6,6 +6,13 @@ Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 
+## [Entfluchtungsanalyse für die Hanse Sail](simulation-entfluchtung-hanse-sail)
+[![Hanse Sail 3D Visualisierung Thumbnail](img/referenzen/hanse-30grad-thumb.jpg "Hanse Sail 3D Visualisierung")](simulation-entfluchtung-hanse-sail) {.referenzpreview}
+Im Auftrag der [ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/) haben wir eine Entfluchtungs&shy;simulation der [Hanse Sail in Rostock](http://www.hansesail.com/), eines der größten Treffen von Traditionsseglern und Museums&shy;schiffen weltweit, durchgeführt.
+Mit einem spannendem Ergebnis: Die Wegnahme eines Fluchtweges hat einen Rückstau behoben und die Entfluchtung massiv beschleunigt!
+An diesem Beispiel kann man gut erkennen, dass auch scheinbar einfach gelagerte Fälle Überraschungen bereit halten können.
+[Mehr lesen...](simulation-entfluchtung-hanse-sail)
+
 ## [Entfluchtungsanalyse für Schloss Neuschwanstein](simulation-entfluchtungsanalyse-schloss-neuschwanstein)
 [![Schloss Neuschwanstein Thumbnail](img/referenzen/neuschwanstein_02a_foto_anton_j_brandl_thumb.jpg)](simulation-entfluchtungsanalyse-schloss-neuschwanstein) {.referenzpreview}
 König Ludwig der II. entwarf Schloss Neuschwanstein 1868 als eine idealisierte Vorstellung einer Ritterburg aus der Zeit des Mittelalters. 
