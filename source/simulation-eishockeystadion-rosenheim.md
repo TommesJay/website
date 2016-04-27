@@ -10,11 +10,11 @@ Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für 
 Dabei wurden zunächst eine Besucheranzahl von 3500 Personen angenommen. 
 Wobei sich herausstellte das die Fluchwege auf der Haupteingangsseite nicht ausgelasstet wurden. 
 
-accu:rate erhielt als Folgeauftrag die Aufgabe diese Fluchtwege stärker auszulasten indem mehr Personen im Stadion platziert werden. 
+accu:rate erhielt als Folgeauftrag die Aufgabe diese Fluchtwege stärker auszulasten indem mehr Personen im Stadion platziert werden sollten. 
 Durch die höhere Auslastung konnte eine höhere Belegung des Stations errericht werden ohne die Entfluchtungszeit zu erhöhen.
 
-Nach Abschluss des Projektes:
-Hartmann Michael, Bauherr:
+Nach Abschluss des Projektes
+Hartmann Michael, Zentrales Gebäudemanagement:
 
 > Problem-/Aufgabenstellung in kurzer Zeit sehr kompetent gelöst!
 
