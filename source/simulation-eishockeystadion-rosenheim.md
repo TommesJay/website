@@ -5,8 +5,8 @@ Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
-Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für das Rosenheimer Eishocheystadion. Welches durch eine bauliche Umstrukturierung nicht mehr der Vorgaben der vStättVo entsprach, wodurch die Anzahl der Besucher reduziert werden musste.
-Die baulichen Umstrukturierungen betraffen die Fluchtwegstreppen auf der Nord-,Süd- und Mangfallseite des Stadions. 
+Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für das Rosenheimer Eishocheystadion. Welches durch eine bauliche Umstrukturierung nicht mehr den Vorgaben der vStättVo entsprach, wodurch die Anzahl der Besucher reduziert werden musste.
+Die baulichen Umstrukturierungen betrafen beispielsweise die Fluchtwegstreppen auf der Nord-, Süd- und Mangfallseite des Stadions. 
 
 Die Aufgabe von accu:rate war es die neue Belegung der Besucher zu simulieren. Die Fragestellungen, die dabei auftraten, lauteten: 
 
@@ -15,19 +15,19 @@ Die Aufgabe von accu:rate war es die neue Belegung der Besucher zu simulieren. D
 * Wie lange dauern die Staus an?
 
 Dabei wurden zunächst eine Besucheranzahl von 3500 Personen angenommen. 
-Wobei sich herausstellte das die Fluchwege auf der Haupteingangsseite nicht ausgelasstet wurden. 
+Wobei sich herausstellte das die Fluchwege auf der Haupteingangsseite nicht ausgelastet wurden. 
 
 accu:rate erhielt als Folgeauftrag die Aufgabe diese Fluchtwege stärker auszulasten indem mehr Personen im Stadion platziert werden sollten. 
 
 ## Mehr Personen müssen nicht immer gleichbedeutend mit einer höheren Entfluchtungszeiten sein
 
-Durch die höhere Auslastung konnte eine höhere Belegung des Stations errericht werden ohne die Entfluchtungszeit zu erhöhen!
+Durch die höhere Auslastung konnte eine höhere Belegung des Stations erreicht werden ohne die Entfluchtungszeit zu erhöhen!
 
 Nach Abschluss des Projektes
 Hartmann Michael, Zentrales Gebäudemanagement:
 > Problem-/Aufgabenstellung in kurzer Zeit sehr kompetent gelöst!
 
-An diesem Beispiel kann man gut zeigen, dass manchmal eine höhere Belegung eines Gebäudes keinen Unterschied in den Entfluchtungszeiten machen muss wenn die Fluchtwege davor nicht vollständig ausgelasstet waren.
+An diesem Beispiel kann man gut zeigen, dass manchmal eine höhere Belegung eines Gebäudes keinen Unterschied in den Entfluchtungszeiten machen muss wenn die Fluchtwege davor nicht vollständig ausgelastet waren.
 
 
 Wenn auch Sie eine Stadion oder ein vergleichbares Objekt verwalten und oder betreiben, und die Fluchtwege analysieren wollen, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot! Wir freuen uns, von Ihnen zu hören.
