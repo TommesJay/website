@@ -5,7 +5,14 @@ Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
-Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für das Rosenheimer Eishocheystadion, welches durch eine bauliche Umstrukturierung nun über ein neues Treppensystem entfluchtet werden soll.
+Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für das Rosenheimer Eishocheystadion. Welches durch eine bauliche Umstrukturierung nicht mehr der Vorgaben der vStättVo entsprach, wodurch die Anzahl der Besucher reduziert werden musste.
+Die baulichen Umstrukturierungen betraffen die Fluchtwegstreppen auf der Nord-,Süd- und Mangfallseite des Stadions. 
+
+Die Aufgabe von accu:rate war es die neue Belegung der Besucher zu simulieren. Die Fragestellungen, die dabei auftraten, lauteten: 
+
+* Wie lange dauert die Entfluchtung des Stadions
+* Kommt es zu Staus, und wenn ja, wo?
+* Wie lange dauern die Staus an?
 
 Dabei wurden zunächst eine Besucheranzahl von 3500 Personen angenommen. 
 Wobei sich herausstellte das die Fluchwege auf der Haupteingangsseite nicht ausgelasstet wurden. 
