@@ -1,30 +1,34 @@
-![](/img/accurate-bild-2.jpg) {.fancyheader-img}
+![](/img/accurate-bild-3.jpg) {.fancyheader-img}
 # *Entfluchtungs-Simulation des Rosenheimer Eishockeystadions* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
-Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für das Rosenheimer Eishockeystadion. Welches durch eine bauliche Umstrukturierung nicht mehr den Vorgaben der vStättVo entsprach, wodurch die Anzahl der Besucher reduziert werden musste.
-Die baulichen Umstrukturierungen betrafen beispielsweise die Fluchtwegstreppen auf der Nord-, Süd- und Mangfallseite des Stadions. 
+Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für das [Rosenheimer Eishockey Stadion (emilo-Stadion)](https://de.wikipedia.org/wiki/Emilo-Stadion).
 
-Die Aufgabe von accu:rate war es die neue Belegung der Besucher zu simulieren. Die Fragestellungen, die dabei auftraten, lauteten: 
+Wegen einer baulichen Umstrukturierung entsprach das Stadion nicht mehr den Vorgaben der VStättV, so dass Anzahl der zulässigen Besucher reduziert werden musste.
+Die baulichen Maßnahmen betrafen unter anderem auch die Fluchtwegstreppen auf der Nord-, Süd- und Ostseite des Stadions. 
+
+Aufgabe von accu:rate war es, die neue Besucherbelegung zu simulieren.
+Die Fragestellungen, die dabei auftraten, lauteten: 
 
 * Wie lange dauert die Entfluchtung des Stadions
 * Kommt es zu Staus, und wenn ja, wo?
 * Wie lange dauern die Staus an?
 
-Dabei wurden zunächst eine Besucheranzahl von 3500 Personen angenommen. 
-Wobei sich herausstellte, dass die Fluchtwege auf der Haupteingangsseite nicht ausgelastet wurden. 
+Dabei wurden zunächst eine Besucherzahl von 3.500 Personen angenommen. 
+Es stellte sich heraus, dass die Fluchtwege auf der Haupteingangsseite gar nicht ausgelastet waren. 
+accu:rate ermittelte durch mehrere Personenstromsimulationen die Kapazität dieser Fluchtwege.
 
-accu:rate erhielt als Folgeauftrag die Aufgabe diese Fluchtwege stärker auszulasten indem mehr Personen im Stadion platziert werden sollten. 
+## Mehr Personen müssen nicht immer gleichbedeutend mit einer höheren Entfluchtungszeit sein
 
-## Mehr Personen müssen nicht immer gleichbedeutend mit einer höheren Entfluchtungszeiten sein
+Durch die höhere Auslastung des Hauptfluchtwegs konnte eine höhere Belegung des Stadions erreicht werden, ohne dass es zu einer höheren Entfluchtungszeit kommt.
 
-Durch die höhere Auslastung konnte eine höhere Belegung des Stations erreicht werden, ohne die Entfluchtungszeit zu erhöhen!
-
-Nach Abschluss des Projektes sagte Hartmann Michael, Zentrales Gebäudemanagement:
+Wir sind stolz auf das Feedback unseres Kunden:
 > Problem-/Aufgabenstellung in kurzer Zeit sehr kompetent gelöst!
+
+(Michael Hartmann, Zentrales Gebäudemanagement)
 
 Dies ist ein gutes Beispiel dafür, dass eine höhere Belegung eines Gebäudes sich nicht unbedingt auf die Entfluchtungszeiten auswirken muss.
 
@@ -32,6 +36,9 @@ Wenn auch Sie ein Stadion oder ein vergleichbares Objekt verwalten und / oder be
 
 [Weitere Referenzen ansehen](referenzen).
 
+<!-- Abkürzungen: -->
+
+*[VStättV]: Versammlungsstättenverordnung
 
 #meta#
 pagetitle: Entfluchtungs-Simulation für das Eishockeystadion von Rosenheim
