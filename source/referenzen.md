@@ -5,6 +5,12 @@ Hier finden Sie einige Beispiele unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+## [Entfluchtungsanalyse des Rosenheimer Eishockeystadions](simulation-eishockeystadion-rosenheim)
+[![Rosenheimer Eishockeystadion Thumbnail](img/referenzen/rosenheim-eishockeystadion-thumbnail.png "Rosenheimer Eishockeystadion Simulation")](simulation-eishockeystadion-rosenheim) {.referenzpreview}
+Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für das [Rosenheimer Eishockey Stadion (emilo-Stadion)](https://de.wikipedia.org/wiki/Emilo-Stadion).
+Wegen einer baulichen Umstrukturierung entsprach das Stadion nicht mehr den Vorgaben der VStättV, so dass Anzahl der zulässigen Besucher reduziert werden musste.
+Die baulichen Maßnahmen betrafen unter anderem auch die Fluchtwegstreppen auf der Nord-, Süd- und Ostseite des Stadions. 
+[Mehr lesen...](simulation-eishockeystadion-rosenheim)
 
 ## [Entfluchtungsanalyse für die Hanse Sail](simulation-entfluchtung-hanse-sail)
 [![Hanse Sail 3D Visualisierung Thumbnail](img/referenzen/hanse-30grad-thumb.jpg "Hanse Sail 3D Visualisierung")](simulation-entfluchtung-hanse-sail) {.referenzpreview}
