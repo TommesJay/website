@@ -10,7 +10,7 @@ Dazu haben wir die Pläne des [Mövenpick Hotels in Stuttgart](http://www.movenp
 Dieses Hotel bietet unterschiedliche Konferenzräume mit verschiedenen Bestuhlungsvarianten an.
 Zwei Bestuhlungsvarianten des größten Konferenzsaals wurden betrachtet und die resultierenden Entfluchtungszeiten miteinander verglichen. 
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/gTq3VuSZa9I?rel=0' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/MkoNanDSb7g?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
 Das Ergebnis kann sich sehen lassen: Die erstellten Pläne können problemlos in unserem Simulator verwendet werden.
 
