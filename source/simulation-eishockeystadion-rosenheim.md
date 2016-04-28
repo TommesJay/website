@@ -7,6 +7,8 @@ Bitte [kontaktieren](kontakt) Sie uns.
 
 Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für das [Rosenheimer Eishockey Stadion (emilo-Stadion)](https://de.wikipedia.org/wiki/Emilo-Stadion).
 
+![Rosenheim-Eishockeystadion](img/referenzen/rosenheim-eishockeystadion.jpg)
+
 Wegen einer baulichen Umstrukturierung entsprach das Stadion nicht mehr den Vorgaben der VStättV, so dass Anzahl der zulässigen Besucher reduziert werden musste.
 Die baulichen Maßnahmen betrafen unter anderem auch die Fluchtwegstreppen auf der Nord-, Süd- und Ostseite des Stadions. 
 
@@ -24,6 +26,8 @@ accu:rate ermittelte durch mehrere Personenstromsimulationen die Kapazität dies
 ## Mehr Personen müssen nicht immer gleichbedeutend mit einer höheren Entfluchtungszeit sein
 
 Durch die höhere Auslastung des Hauptfluchtwegs konnte eine höhere Belegung des Stadions erreicht werden, ohne dass es zu einer höheren Entfluchtungszeit kommt.
+
+![Screenshot der Simulation](img/referenzen/rosenheim-eishockeystadion-screenshot.png)
 
 Wir sind stolz auf das Feedback unseres Kunden:
 > Problem-/Aufgabenstellung in kurzer Zeit sehr kompetent gelöst!
