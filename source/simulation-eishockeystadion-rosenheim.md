@@ -9,7 +9,7 @@ Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungssimulation für d
 
 ![Rosenheim-Eishockeystadion](img/referenzen/rosenheim-eishockeystadion.jpg)
 
-Altersdbedingt müssen die Außentreppen des 1961 erbauten Städtischen Eisstadions saniert werden. Durch Wegfall dieser Fluchtwege entfallen zur Verfügung stehende Fluchtwegsbreiten, so dass nach VStättV auch die Besucherzahl erheblich reduziert werden müsste. Um zu überprüfen, ob und inwieweit der Wegfall dieser Fluchtwege Auswirkungen auf die Entfluchtungszeiten hat und wie viele Besucher zukünftig zugelassen werden können, führte accu:rate einer Entfluchtungsanalyse durch. 
+Altersbedingt müssen die Außentreppen des 1961 erbauten Städtischen Eisstadions saniert werden. Durch den Wegfall dieser Fluchtwege entfallen zur Verfügung stehende Fluchtwegsbreiten, so dass nach VStättV auch die Besucherzahl erheblich reduziert werden müsste. Um zu überprüfen, ob und inwieweit der Wegfall dieser Fluchtwege Auswirkungen auf die Entfluchtungszeiten hat und wie viele Besucher zukünftig zugelassen werden können, führte accu:rate eine Entfluchtungsanalyse durch. 
 
 Dabei wurden folgende Fragen untersucht: 
 
