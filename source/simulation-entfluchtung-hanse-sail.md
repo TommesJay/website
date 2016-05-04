@@ -80,3 +80,6 @@ Wenn auch Sie die Dauer einer Räumung nach dem aktuellen Stand der Technik sch�
 #meta#
 pagetitle: Entfluchtungsanalyse für das Volksfest Hanse Sail
 description: "Hanse Sail: accu:rate analysiert und optimiert die Fluchtwege"
+langs: [
+    { code: "en", name: "English", url: "en:evacuation-simulation-hanse-sail", icon: "lang-en.png", text: "View this page in English" }
+]

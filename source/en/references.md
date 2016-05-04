@@ -11,11 +11,17 @@ You can find more reference projects on our German language website.
 Here are some examples of our projects. Of course we are happy to answer your questions! Please [contact](/en:contact) us.
 
 
+## [Evacuation analysis of the Hanse Sail in Rostock](/en:evacuation-simulation-hanse-sail)
+[![Hanse Sail 3D Visualization Thumbnail](img/referenzen/hanse-30grad-thumb.jpg "Hanse Sail 3D Visualization")](/en:evacuation-simulation-hanse-sail) {.referenzpreview}
+On behalf of [ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/), we realized a simulation of the Hanse Sail in Rostock, one of the largest conventions of traditional sailing and museum ships worldwide.
+With an exciting result: The removal of one escape route has recovered from a tailback and the evacuation greatly accelerated!
+At this example you can clearly see that even seemingly simple cases can hold surprises. [Read more...](/en:evacuation-simulation-hanse-sail)
+
+
 ## [Evacuation route for Castle Neuschwanstein](/en:evacuation-simulation-castle-neuschwanstein)
 [![Schloss Neuschwanstein Thumbnail](img/referenzen/neuschwanstein_02a_foto_anton_j_brandl_thumb.jpg)](/en:evacuation-simulation-castle-neuschwanstein) {.referenzpreview}
 
 Ludwig II of Bavaria designed the Neuschwanstein Castle in 1868 as an idealized version of a Middle Ages knight's castle. The construction works of the fairytale castle, as it is often called, started already in 1869. King Ludwig II moved into the castle in 1884 and lived there only 172 days. Although he never wanted to make available to the public, shortly after his death in 1886 it was opened for visitors. The reason do this was to pay off a portion of Ludwig II loans. [Read more...](/en:evacuation-simulation-castle-neuschwanstein)
-
 
 
 ## [Pedestrian flow analysis of a Munich subway station](/en:crowd-simulation-munich-subway-station)

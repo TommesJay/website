@@ -20,4 +20,7 @@ If you also want to perform a pedestrian flow simulation for an infrastructural 
 #meta#
 pagetitle: "Pedestrian flow analysis of a Munich subway station"
 description: "accu:rate implemented a passenger simulation at a Munich subway station commissioned by the Munich City Utilities - SWM"
+langs: [
+    { code: "de", name: "Deutsch", url: "personenstromanalyse-ubahn-station-muenchen-mvg", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
+]
 

@@ -26,5 +26,7 @@ Wenn auch Sie  Besucherströme bereits in der Planungsphase Ihres Bauwerks über
 #meta#
 pagetitle: Simulation von Besucherströmen eines Museums
 description: "accu:rate simuliert Besucherströme mit THEMATA (Potsdam) sowie TRIAD (Berlin) für ein Sportmuseum."
-
+langs: [
+    { code: "en", name: "English", url: "en:simulation-sports-museum", icon: "lang-en.png", text: "View this page in English" }
+]
 
