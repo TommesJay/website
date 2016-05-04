@@ -27,4 +27,6 @@ Source: [Bavarian Administration of State-Owned Palaces, Gardens and Lakes](http
 #meta#
 pagetitle: Evacuation analysis for Neuschwanstein Castle
 description: "Neuschwanstein Castle: accu:rate's support in evacuation simulations"
-
+langs: [
+    { code: "de", name: "Deutsch", url: "simulation-entfluchtungsanalyse-schloss-neuschwanstein", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
+]

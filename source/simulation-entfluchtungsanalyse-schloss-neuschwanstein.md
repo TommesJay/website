@@ -33,4 +33,6 @@ Quelle: [Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen](htt
 #meta#
 pagetitle: Entfluchtungsanalyse für Schloss Neuschwanstein
 description: "Schloss Neuschwanstein: accu:rate unterstützt mit Räumungssimulationen."
-
+langs: [
+    { code: "en", name: "English", url: "en:evacuation-simulation-castle-neuschwanstein", icon: "lang-en.png", text: "View this page in English" }
+]

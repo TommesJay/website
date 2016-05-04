@@ -23,4 +23,6 @@ Wenn auch Sie eine Personenstromsimulation für ein infrastrukturelles Bauwerk d
 #meta#
 pagetitle: "Personenstromanalyse einer Münchner U-Bahn-Station"
 description: "accu:rate's hat im Auftrag der SWM/MVG eine Personenstromsimulation einer Münchner U-Bahn-Station durchgeführt."
-
+langs: [
+    { code: "en", name: "English", url: "en:crowd-simulation-munich-subway-station", icon: "lang-en.png", text: "View this page in English" }
+]

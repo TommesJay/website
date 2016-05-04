@@ -19,5 +19,7 @@ If you also want to simulate visitor flows and calculate capacity already during
 #meta#
 pagetitle: Simulation of visitor flows of a Museum
 description: "accu:rate simulates visitor flows for a Sports Museum in cooperation with THEMATA (Potsdam) and TRIAD (Berlin)"
-
+langs: [
+    { code: "de", name: "Deutsch", url: "simulation-sportmuseum", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
+]
 
