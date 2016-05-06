@@ -11,8 +11,7 @@ The [Hanse Sail in Rostock](http://www.hansesail.com/) is one of the largest con
 Photo by Stefan Leitmannslehner, [Qounts](http://www.qounts.com/)
 
 The festival takes place every year since 1991 on the second weekend of August in the area of the [Rostock city harbor](https://de.wikipedia.org/wiki/Rostocker_Stadthafen).
-Hier:
-Visitors have the unique chance to experience the traditional seafaring as sailors on ships first-hand. But also on land there are numerous stages, market stalls and rides. The festival is visited by approximately one million people annually.
+Visitors have the unique opportunity to experience the traditional seafaring on ships first-hand, becoming sailors themselves. But also on land there are numerous stages, market stalls and rides. The festival is visited by approximately one million people annually.
 
 
 ## Analysis and optimization of escaping routes
@@ -51,8 +50,7 @@ Two of the various measures that we have reviewed achieved the greatest improvem
 
 [![Evacuation of Hanse Sail from above](/img/referenzen/hanse-schief-oben.jpg)](/img/referenzen/hanse-schief-oben.jpg) {.float-right}
 
-Hier:
-The second measure was not intuitive, and shows very good from our point of view, what simulatios are able to achieve:
+The second measure was not intuitive and thereby shows particullary well, what simulations are able to achieve:
 
 A single escape route, with its 3 meters still too narrow, has led to a large tailback.
 
