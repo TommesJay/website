@@ -12,9 +12,9 @@ eMail <span class="email mailadresse" data-to="info">info@javascript.anti.spam</
 </div>
 
 <br />
-Amtsgericht München HRB 223218
-Tax ID: in the works  
-USt-ID: ditto  
+Amtsgericht München HRB 223218  
+Tax ID: 143/110/61365  
+USt-ID: DE305338346  
 <span class="fn">Management: Dr. Angelika Kneidl, Florian Sesser</span>
 
 Responsible for this offer according to [§ 5 of German Teleservices Act](http://www.gesetze-im-internet.de/tmg/__5.html): Florian Sesser

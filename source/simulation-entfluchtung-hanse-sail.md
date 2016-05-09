@@ -36,13 +36,13 @@ Vergleich der Geometrie mit und ohne Maßnahmen. *S3* bis *S7* bezeichnen die vo
 
 [![Qounts](img/associates/qounts.png)](http://www.qounts.com/ "Qounts") {.float-left}
 
-Das Luftbild beinhaltete alle Buden und Schausteller hat uns damit einen sehr spannenden Soll/Ist-Vergleich erlaubt.
+Das Luftbild beinhaltete alle Buden und Schausteller und hat uns damit einen sehr spannenden Soll/Ist-Vergleich erlaubt.
 Unerwartet, aber sehr erfreulich: Eine komplette Räumung ist mit der Real-Geometrie sogar 8% schneller als mit der Plan-Geometrie, weil ein wichtiger Ausgang in Wirklichkeit breiter war als im Plan.
 
 Um verlässliche Vorhersagen treffen zu können, sind gute Eingangsdaten für eine Simulation unerlässlich.
 
 Deshalb sind wir sehr froh, dass unser Partner [Qounts](http://www.qounts.com/) für die Hanse Sail eine Besucherzählung durchgeführt hat.
-Bei der Hanse Sail wird keine Einlasskontrolle vogenommen - dank Qounts hatten wir trotzdem sehr gute Eingangsdaten bezüglich der Besucherzahl der HanseSail zur Verfügung.
+Bei der Hanse Sail wird keine Einlasskontrolle vorgenommen - dank Qounts hatten wir trotzdem sehr gute Eingangsdaten bezüglich der Besucherzahl der HanseSail zur Verfügung.
 
 
 ## Ergebnisse der Simulation
@@ -52,7 +52,7 @@ Iterativ und in Kollaboration mit der [ABS Sicherheitsdienst GmbH](http://www.ab
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/W3RPBQW_CXc?rel=0' frameborder='0' allowfullscreen></iframe></div>
 Ausschnitt unserer 3D-Visualisierung der simulierten Räumung
 
-Von den unterschiedlichen Maßnahmen, die wir überprüft haben, haben zwei die größte Verbesserung bewerkt.
+Von den unterschiedlichen Maßnahmen, die wir überprüft haben, haben zwei die größte Verbesserung bewirkt.
 Die erste war, wenig überraschend - zwei neue Notausgänge in der Nähe einer großen Bühne.
 
 [![Entfluchtung Hanse Sail von oben](/img/referenzen/hanse-schief-oben.jpg)](/img/referenzen/hanse-schief-oben.jpg) {.float-right}

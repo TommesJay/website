@@ -14,8 +14,8 @@ eMail <span class="email mailadresse" data-to="info">info@javascript.anti.spam</
 
 <br />
 Amtsgericht München HRB 223218  
-Steuernummer: ist in Arbeit  
-USt-ID: dito  
+Steuernummer: 143/110/61365  
+USt-ID: DE305338346  
 <span class="fn">Geschäftsführung: Dr. Angelika Kneidl, Florian Sesser</span>
 
 Verantwortlich für dieses Angebot gemäß [§ 5 Telemediengesetz](http://www.gesetze-im-internet.de/tmg/__5.html): Florian Sesser

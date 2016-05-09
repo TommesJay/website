@@ -11,7 +11,7 @@ accu:rate was commissioned by the [Munich City Utilities - SWM](https://www.swm.
 
 By means of simulation critical passenger flows were examined in detail and possible measures to relieve the station were tested. The results are incorporated into the operational concept of the subway station in order to enable a smooth operation even during rush hours.
 
-If you also want to perform a pedestrian flow simulation for an infrastructural building - for example to check the operation in advance of planned construction projects - [contact us](kontakt) for an offer! We are happy to hear from you.
+If you also want to perform a pedestrian flow simulation for an infrastructural building - for example to check the operation in advance of planned construction projects - [contact us](/en:contact) for an offer! We are happy to hear from you.
 
 [View more references](referenzen).
 
