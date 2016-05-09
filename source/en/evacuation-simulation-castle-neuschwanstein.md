@@ -17,7 +17,7 @@ The current operator of the castle is the [Bavarian Administration of State-Owne
 
 In the summer around 6,000 visitors a day stream through rooms that were intended for a single inhabitant. accu:rate supported the [State Building Authority Kempten](http://www.stbake.bayern.de/) in analyzing and optimizing the evacuation routes - so in case of emergency, all visitors can be routed out of the castle safely and in time.
 
-If you also manage or operate a castle or a listed building and want to analyze the evacuation routes - [contact us](kontakt) for an offer. We are happy to hear from you!
+If you also manage or operate a castle or a listed building and want to analyze the evacuation routes - [contact us](/en:contact) for an offer. We are happy to hear from you!
 
 Source: [Bavarian Administration of State-Owned Palaces, Gardens and Lakes](http://www.neuschwanstein.de/)
 

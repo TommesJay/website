@@ -64,7 +64,7 @@ At this example you can clearly recognize that even seemingly simple cases can h
 
 Additional emergency exits in some cases lead to a tailback and thus block larger areas instead of relieving other ways.
 
-If you also want to estimate the duration of an evacuation with the current state of technology or to test architectural measures in advance, please [contact](kontakt) us for an offer.
+If you also want to estimate the duration of an evacuation with the current state of technology or to test architectural measures in advance, please [contact](/en:contact) us for an offer.
 
 
 [View more references](references)

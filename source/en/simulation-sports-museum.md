@@ -11,7 +11,7 @@ On behalf of [THEMATA](http://www.themata.de/) (Potsdam) accu:rate supported the
 
 Current information can be found [here](http://de.fifamuseum.com/about/media/press-releases/fifa-welt-fussball-museum-eroffnungstermin-steht-2609754/#).
 
-If you also want to simulate visitor flows and calculate capacity already during the planning phase of your building - please [contact us](kontakt) for an offer! We are happy to hear from you.
+If you also want to simulate visitor flows and calculate capacity already during the planning phase of your building - please [contact us](/en:contact) for an offer! We are happy to hear from you.
 
 [View more references](referenzen).
 
