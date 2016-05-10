@@ -10,6 +10,7 @@ Deshalb gibt es jetzt die Möglichkeit die Beta-Version unserer Software *crowd:
 
 * crowd:it ist ein Softwarepaket zur mikroskopischen, agentenbasierten Simulation von Fußgängern und allgemein Personen
 * Es handelt sich um eine Eigenentwicklung auf der Basis von u.a. [Prof.  Gerta Kösters](das-team#gerta-koester) Optimal Steps Model und [Dr. Angelika Kneidls](das-team#angelika-kneidl) Forschungsarbeit an der TUM
+* crowd:it besteht sämtliche Tests für Simulatoren des [RiMEA e.V.](http://www.rimea.de/) - [Zu den Testergebnissen](rimea-testanalyse)
 
 
 ## Die Besonderheiten von crowd:it
@@ -55,6 +56,9 @@ Leider können wir die Beta Software nicht verschenken, aber Sie erhalten natür
 
 Interesse? [Bitte hier Name, eMail-Adresse und Telefonnummer eintragen!](http://eepurl.com/bW18HT)
 
+
+<!-- Abkürzungen -->
+*[RiMEA]: Richtlinien für Mikroskopische Entfluchtungsanalysen
 
 #meta#
 pagetitle: Unsere Software

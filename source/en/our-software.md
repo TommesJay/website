@@ -11,6 +11,7 @@ Therefore, we would like to give technically inclined customers and interested e
 
 * crowd:it is a software package for microscopic, agent-based simulation of pedestrians and generally people.
 * crowd:it is developed in-house based inter alia on [Prof. Gerta Köster](das-team#gerta-koester)'s Optimal Steps Model and [Dr. Angelika Kneidls](das-team#angelika-kneidl) research at TUM
+* crowd:it passes the complete [RiMEA e.V.](http://www.rimea.de/) test suite for pedestrian simulation software - [See our results](rimea-testanalyse) (currently only in German)
 
 
 ## Features of crowd:it
@@ -51,6 +52,11 @@ Unfortunately we can not comp the beta software, but of course you'll not only g
 
 
 Are you interested? [Please give us your name, email address and phone number!](http://eepurl.com/bW18HT)
+
+
+
+<!-- Abkürzungen -->
+*[RiMEA]: Richtlinien für Mikroskopische Entfluchtungsanalysen
 
 #meta#
 pagetitle: Our software

@@ -9,8 +9,10 @@ Seit der Gründung im Jahr 2014 ist accu:rate Mitglied im [RiMEA e.V.](http://ww
 Anhang 1 der Richtlinie enthält eine Reihe von Testfällen, die es dem Endanwender ermöglichen soll, unterschiedliche Modelle und deren Ergebnisse besser einordnen zu können.
 Diese Testfälle haben wir für unsere Software crowd:it ebenfalls durchgeführt, um Ihnen zu ermöglichen, unser Simulationsmodell und dessen Ergebnisse besser einzuordnen. Denn Transparenz ist uns wichtig!
 
-Die aktuellste Version der Testfälle, basierend auf der [neuesten Richtlinie V3.0](http://www.rimea.de/fileadmin/files/dok/richtlinien/RiMEA_Richtlinie_3.0.0_-_D-E.pdf), steht [zur Ansicht](download/rimea-test-doku.pdf) bereit.
+Die aktuellste Version der Testfälle, basierend auf der [neuesten Richtlinie V3.0](http://www.rimea.de/fileadmin/files/dok/richtlinien/RiMEA_Richtlinie_3.0.0_-_D-E.pdf), steht [hier zum Download](download/rimea-test-doku.pdf) bereit.
 
+<!-- Abkürzungen -->
+*[RiMEA]: Richtlinien für Mikroskopische Entfluchtungsanalysen
 
 #meta#
 pagetitle: RiMEA Testanalyse
