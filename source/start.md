@@ -4,9 +4,9 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
+* [Vortrag auf dem DETAIL Fachforum Sicherheit Planen](/news:2016-05-12-vortrag-fachforum-sicherheit-planen)((12. Mai 2016, München)
 * [Vortrag: Keynote an der TU Wien](/news:2016-03-30-vortrag-an-der-tu-wien) (30. März 2016)
 * [accu:rate mit Microsoft auf der CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (14. - 18. März 2016, Hannover)
-* [Dr. Angelika Kneidl im Berliner Tagesspiegel](/news:2015-06-02-tagesspiegel-seyfried-kneidl-experimente) (02. Juni 2015)
 
 [Mehr Neuigkeiten...](/news:archiv)  
 [Für Newsletter anmelden...](http://eepurl.com/bS5vNL)
