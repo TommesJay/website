@@ -2,7 +2,7 @@
 # <br /> *Kontakt und Impressum* {.fancyheader}
 
 <div class="vcard">
-<span class="org">accu:rate GmbH</span>
+<span class="fn org">accu:rate GmbH</span>
 <p class="adr">
 <span class="extended-address">c/o hhpberlin GmbH</span>
 <span class="street-address">Rosental 5</span>
