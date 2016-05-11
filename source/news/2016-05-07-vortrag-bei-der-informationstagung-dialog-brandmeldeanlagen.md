@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# *Vortrag bei der 8. Informationstagung: Dialog Brandmeldeanlagen* {.fancyheader}
+# *Vortrag bei der 8. Informations&shy;tagung: Dialog Brand&shy;melde&shy;an&shy;lagen* {.fancyheader}
 
 *Germering, 7. Mai 2016*
 
