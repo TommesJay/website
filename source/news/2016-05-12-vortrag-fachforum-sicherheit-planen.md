@@ -11,5 +11,5 @@ Bei der Planung eines Gebäudes steht der Mensch im Mittelpunkt. Um für die Sic
 Am 12. Mai 2016 findet das DETAIL Fachforum "Sicherheit planen" in München statt. Dr. Angelika Kneidl wird dort einen Votrag mit dem Thema: "Simulation von Flucht- und Rettungswegen: Analysen und Ergebnisse für die optimale Entfluchtung von Neu- und Bestandsbauten" halten.
 
 #meta#
-pagetitle: "Vortrag auf dem Fachforum "Sicherheit planen": Simulation der Flucht- und Rettungswege"
+pagetitle: "Vortrag auf dem Fachforum 'Sicherheit planen' - Simulation der Flucht- und Rettungswege"
 description: Dr. Angelika Kneidl hält einen Vortrag zu Simulationen der Flucht- und Rettungswege in Neu- und Bestandsbauten.
