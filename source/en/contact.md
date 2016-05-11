@@ -2,7 +2,7 @@
 # <br /> *Contact and imprint* {.fancyheader}
 
 <div class="vcard">
-<span class="org">accu:rate GmbH</span>
+<span class="fn org">accu:rate GmbH</span>
 <p class="adr">
 <span class="street-address">Rosental 5</span>
 <span class="postal-code">D-80331</span> <span class="locality">Munich</span>
