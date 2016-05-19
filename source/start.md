@@ -4,9 +4,9 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
+* [Vortrag auf einem Workshop an der IECA](/news:2016-06-28-vortrag-workshop-siko-mannheim) (28. Juni 2016, Mannheim)
 * [Vortrag auf dem DETAIL Fachforum Sicherheit Planen](/news:2016-05-12-vortrag-fachforum-sicherheit-planen) (12. Mai 2016, München)
 * [Vortrag auf der 15. Fach&shy;tag&shy;ung des VBBD e.V. - Verein der Brand&shy;schutz&shy;be&shy;auf&shy;trag&shy;ten in Deutsch&shy;land](/news:2016-05-10-vortrag-bei-der-vbbd-fachtagung) (9. Mai 2016, Hünfeld)
-* [Vortrag auf der 8. Informationstagung "Dialog Brand&shy;melde&shy;an&shy;lag&shy;en"](/news:2016-05-07-vortrag-bei-der-informationstagung-dialog-brandmeldeanlagen) (7. Mai 2016, Germering)
 
 [Mehr Neuigkeiten...](/news:archiv)  
 [Für Newsletter anmelden...](http://eepurl.com/bS5vNL)

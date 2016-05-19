@@ -13,4 +13,4 @@ Austragungsort des [International Symposium & 3rd expert meeting of IEA EBC Anne
 
 #meta#
 pagetitle: "Vortrag an der TU Wien: Simulationen in Smart Buildings"
-description: Dr. Angelika Kneidl hält einen Keynote Vortrag zu Simulationen in Smart Buildings auf dem Internationalen Symposium über Menschliches Verhalten in Gebäuden.
+description: "Dr. Angelika Kneidl hält einen Keynote Vortrag zu Simulationen in Smart Buildings auf dem Internationalen Symposium über Menschliches Verhalten in Gebäuden."

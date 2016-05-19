@@ -24,7 +24,7 @@ Das Team von acht Studenten hat zuerst die Simulationen eines Bierzelts im VADER
 
 <div class='embed-container'><iframe src='https://www.youtube.com/embed/5UxGIsptL5g?rel=0' frameborder='0' allowfullscreen></iframe></div>
 
-Das Ergebnis kann sich sehen lassen: Einerseits ist ein [3D-Video der Entfluchtungssimulation](https://www.youtube.com/watch?v=5UxGIsptL5g) entstanden und andererseits eine Android-Anwendung, die mit einem [Google Cardboard](https://www.google.com/intl/de/get/cardboard/) genutzt werden kann: [Link zum öffentlichen Alpha-Test](https://play.google.com/apps/testing/de.AccuRate.SumoVizUnity).
+Das Ergebnis kann sich sehen lassen: Einerseits ist ein [3D-Video der Entfluchtungssimulation](https://www.youtube.com/watch?v=5UxGIsptL5g) entstanden und andererseits eine [Android-Anwendung](https://play.google.com/store/apps/details?id=de.AccuRate.SumoVizUnity), die mit einem [Google Cardboard](https://www.google.com/intl/de/get/cardboard/) genutzt werden kann: [Link zum öffentlichen Alpha-Test](https://play.google.com/apps/testing/de.AccuRate.SumoVizUnity).
 
 Das ist aber noch nicht alles, es stehen sogar mehrere Versionen zur Verfügung, die sich durch die Position der Kamera unterscheiden:
 

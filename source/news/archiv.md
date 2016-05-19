@@ -7,10 +7,11 @@
 
 ## 2016
 
+* [Vortrag](/news:2016-06-28-vortrag-workshop-siko-mannheim) im Rahmen eines Workshops an der [IECA](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-und-entfluchtungsanalysen/) (28. Juni 2016, Mannheim)
 * [Vortrag](/news:2016-05-12-vortrag-fachforum-sicherheit-planen) auf dem [DETAIL Fachforum Sicherheit Planen](http://www.detail.de/artikel/detail-fachforum-sicherheit-planen-26076/) (12. Mai 2016, München)
 * [Vortrag](/news:2016-05-10-vortrag-bei-der-vbbd-fachtagung) auf der [15. Fachtagung des VBBD e.V. - Verein der Brandschutzbeauftragten in Deutschland](http://www.vbbd.de/content/14-fachtagung-h%C3%BCnfeld-2015-1) (9. Mai 2016, Hünfeld)
 * [Vortrag](/news:2016-05-07-vortrag-bei-der-informationstagung-dialog-brandmeldeanlagen) auf der [8. Informationstagung "Dialog Brandmeldeanlagen"](http://www.dialog-bma.de/) (7. Mai 2016, Germering)
-* [Vortrag](/news:2016-03-30-vortrag-an-der-tu-wien.md): Keynote auf dem [International Symposium on People's Behavior in Buildings](http://www.annex66.org/?q=News), [Department of Building Physics and Building Ecology, TU Wien](http://www.bpi.tuwien.ac.at/) (30. März 2016, Wien)
+* [Vortrag](/news:2016-03-30-vortrag-an-der-tu-wien): Keynote auf dem [International Symposium on People's Behavior in Buildings](http://www.annex66.org/?q=News), [Department of Building Physics and Building Ecology, TU Wien](http://www.bpi.tuwien.ac.at/) (30. März 2016, Wien)
 * Messe: [accu:rate mit Microsoft auf der CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (14. - 18. März 2016, Hannover)
 * Messe: [FeuerTRUTZ 2016](/news:2016-02-16-besuchen-sie-uns-auf-der-feuertrutz) Halle 10.0 / Stand 10.0-508 (17. - 18. Februar 2016, Nürnberg)
 
