@@ -9,6 +9,9 @@ Am 9. Mai 2016 um 13:30 hält [Dr. Angelika Kneidl](/das-team#angelika-kneidl) e
 
 Es geht um Simulationen von Personenströmen und wie diese als Werkzeug im Zeitalter der Digitaliesierung eingesetzt werden.
 
+![Dr. Angelika Kneidl bei ihrem Vortrag](/img/news/vbbd-fachtagung-2016.jpg)
+Dr. Angelika Kneidl bei Ihrem Vortrag auf der VBBD Fachtagung
+
 #meta#
 pagetitle: "Vortrag auf der 15. Fachtagung des VBBD e.V."
 description: Dr. Angelika Kneidl hält einen Keynote Vortrag zu Simulationen von Personenströmen
