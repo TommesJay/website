@@ -9,19 +9,20 @@ Besucherströmen, der Vergleich von unterschiedlichen Varianten sowie die
 Detailanalyse von bestimmten Auswertungsbereichen der Simulationsszenarien. 
 
 
+#### **Leistungen für:**
 <div class="row">
 
 <div class="leistungsbox four columns alpha border" markdown="1">
-#### Leistungen für *Planungs&shy;büros*, *Archi&shy;tekten* und *Brand&shy;schutz&shy;exper&shy;ten*
+#### *Planungs&shy;büros*, *Archi&shy;tekten*, *Brand&shy;schutz&shy;exper&shy;ten*
 
-- Evakuierungssimulationen als Kompensationsmaßnahme im Brandschutz
+- Evakuierungs&shy;simula&shy;tionen als Kom&shy;pensations&shy;maßnahme im Brand&shy;schutz
 - Infra&shy;struk&shy;tur&shy;elle Ge&shy;bäude: [Sicher&shy;heits- und Kapa&shy;zitäts&shy;plan&shy;ung für Ver&shy;kehrs&shy;be&shy;triebe](infrastrukturelle-gebaeude)
 - Zeit- und Kosten&shy;erspar&shy;nis durch früh&shy;zeit&shy;ige Iden&shy;ti&shy;fi&shy;ka&shy;ti&shy;on von Pro&shy;blem&shy;stel&shy;len.
 - Schnelle Neu&shy;be&shy;wert&shy;ung bei Änder&shy;ungen in der Gebäude- / In&shy;fra&shy;struktur&shy;planung.
 </div>
 
 <div class="leistungsbox four columns border" markdown="1">
-#### Leistungen für *Sicherheits&shy;fachplaner*
+#### *Sicherheits&shy;fachplaner*
 
 - [Nach&shy;weise für Räumungs&shy;kon&shy;zep&shy;te nach MVStättVO](raeumungskonzepte)
 - Qualitäts&shy;stei&shy;gerung der Em&shy;pfehl&shy;ung&shy;en durch ef&shy;fi&shy;zi&shy;en&shy;te Sze&shy;na&shy;rio&shy;be&shy;trach&shy;tung.
@@ -32,7 +33,7 @@ Detailanalyse von bestimmten Auswertungsbereichen der Simulationsszenarien.
 
 
 <div class="leistungsbox four columns omega border" markdown="1">
-#### Leistungen für *Sicherheits&shy;personal*
+#### *Sicherheits&shy;personal*
 
 - Schnelles und gründ&shy;liches Trai&shy;ning des Per&shy;so&shy;nals über die Si&shy;mu&shy;la&shy;tion&shy;en.
 - Deutlich bes&shy;sere Vor&shy;be&shy;rei&shy;tung des Si&shy;cher&shy;heits&shy;per&shy;so&shy;nals.

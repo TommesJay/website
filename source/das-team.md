@@ -29,7 +29,7 @@ Kontaktieren Sie ihn für technische Fragen unter <span class="mailadresse" data
 ### Thomas Bareth {#thomas-bareth}
 
 ![Photo: Thomas Bareth](/img/team/team-tom.jpg) {.mugshot}
-Thomas Bareth hat erfolgreich sein Bachelorstudium in Bauingenierwesen an der Technischen Universität München abgeschlossen und befindet sich im Moment in seinem Master-studium. Seit Dezember 2014 ist Thomas Bareth ein unverzichtbarer Teil des accu:rate Teams. Als erfahrener AutoCAD-Zeichner unterstützt er das Team beim Bearbeiten neuer Aufträge indem er Simulationspläne erstellt und Simulationen erfolgreich zum laufen bringt.
+Thomas hat erfolgreich sein Bachelorstudium in Bauingenierwesen an der Technischen Universität München abgeschlossen und befindet sich im Moment in seinem Masterstudium. Seit Dezember 2014 ist Thomas Bareth ein unverzichtbarer Teil des accu:rate Teams. Als erfahrener AutoCAD-Zeichner unterstützt er das Team beim Bearbeiten neuer Aufträge indem er Simulationspläne erstellt und Simulationen erfolgreich zum laufen bringt.
 
 
 ### Veronika Zwickenpflug {#veronika-zwickenpflug}
