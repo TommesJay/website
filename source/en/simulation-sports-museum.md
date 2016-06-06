@@ -13,7 +13,7 @@ Current information can be found [here](http://de.fifamuseum.com/about/media/pre
 
 If you also want to simulate visitor flows and calculate capacity already during the planning phase of your building - please [contact us](/en:contact) for an offer! We are happy to hear from you.
 
-[View more references](en:references).
+[View more references](/en:references).
 
 
 #meta#

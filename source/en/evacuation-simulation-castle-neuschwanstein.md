@@ -21,7 +21,7 @@ If you also manage or operate a castle or a listed building and want to analyze 
 
 Source: [Bavarian Administration of State-Owned Palaces, Gardens and Lakes](http://www.neuschwanstein.de/)
 
-[View more references](en:references).
+[View more references](/en:references).
 
 
 #meta#
