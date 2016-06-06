@@ -13,7 +13,7 @@ By means of simulation critical passenger flows were examined in detail and poss
 
 If you also want to perform a pedestrian flow simulation for an infrastructural building - for example to check the operation in advance of planned construction projects - [contact us](/en:contact) for an offer! We are happy to hear from you.
 
-[View more references](referenzen).
+[View more references](en:references).
 
 
 
