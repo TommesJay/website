@@ -67,7 +67,7 @@ Additional emergency exits in some cases lead to a tailback and thus block large
 If you also want to estimate the duration of an evacuation with the current state of technology or to test architectural measures in advance, please [contact](/en:contact) us for an offer.
 
 
-[View more references](references)
+[View more references](en:references)
 
 #meta#
 pagetitle: Evacuation analysis for the Hanse Sail festival
