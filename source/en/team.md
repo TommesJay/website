@@ -98,7 +98,7 @@ Michael Schölkopf is a graduate mechanical engineer and Manage&More-scholarship
 
 #meta#
 pagetitle: Team
-description: Learn more about the accu:rate Team as well as about our partner.
+description: Learn more about the accu:rate Team as well as about our partners.
 langs: [
     { code: "de", name: "Deutsch", url: "das-team", icon: "lang-de.png", text: "Diese Seite in deutscher Sprache lesen" }
 ]
