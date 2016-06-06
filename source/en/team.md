@@ -23,26 +23,36 @@ Mr. Sesser responsible for accu:rate's product development. For technical questi
 ### Thomas Bareth {#thomas-bareth}
 
 ![Photo: Thomas Bareth](/img/team/team-tom.jpg) {.mugshot}
-Thomas bareth successfully finished his studies in civil engineering at the Technical University of Munich and is now in his Master studies. Since December 2014 he is an indispensable part of the accu:rate team. He supports the team as a skilled technical draftsman. Thomas is working on new projects, drawing plans with the modeling tool AutoCAD and simulating new scenarios.
+Thomas Bareth successfully finished his studies in civil engineering at the Technical University of Munich and is now in his Master studies.
+Since December 2014 he is an indispensable part of the accu:rate team.
+He supports the team as a skilled technical draftsman.
+Mr. Bareth is working on new projects, drawing plans with the modeling tool AutoCAD and simulating new scenarios.
 
 
 ### Veronika Zwickenpflug {#veronika-zwickenpflug}
 
 ![Photo: Veronika Zwickenpflug](/img/team/team-vroni.jpg) {.mugshot}
-Veronika is now in her studies in Scientific Computing on the University of Applied Sciences in Munich. Since March 2016 she is doing her internship in our company.
-Same as Thomas, Veronika is member of the project-team at accu:rate. She is working on current projects and drawing technical drafts for further simulations using AutoCAD.
+Veronika Zwickenpflug is studying Scientific Computing on the University of Applied Sciences in Munich.
+Since March 2016 she is doing an internship in our company.
+Same as Mr. Bareth, Ms. Zwickenpflug is a member of the project-team at accu:rate.
+When she is not improving the code base, she is working on current projects and crafts technical drafts for simulations using AutoCAD.
 
 
 ### Lesya Mankovska {#lesya-mankovska}
 
 ![Photo: Lesya Mankovska](/img/team/team-lm.jpg) {.mugshot}
-Lesya is a student in Computer Sciences at the University of Applied Sciences in Munich as well. In Autumn 2015 Lesya joined the accu:rate team as a working student and since March 2016 she is doing her internship. Lesya is in the product-team which is mainly responsible for the further developmnet of the software. Also she supports us in maintaining our website.
+Ms. Mankovska is a student of Computer Science at the University of Applied Sciences in Munich as well.
+In Autumn 2015 she joined the accu:rate team as a working student and in March 2016 she began an internship.
+Ms. Mankovska is working with the product team which is mainly responsible for the further development of the [crowd:it software](/en:our-software).
+She also maintains the website you are looking at :)
 
 
 ### Benjamin Aaron Degenhart {#benjamin-aaron-degenhart}
 
 ![Photo: Benjamin Aaron Degenhart](/img/team/team-ben.jpg) {.mugshot}
-In February 2016 Benjamin completed his bachelor thesis which he has written in cooperation with  accu:rate and under the direction of Prof. Köster an the University of Applied Sciences in Munich. Following he decided to support the accu:rate team as a working student. His tasks are for example Java development and 3D visualization of the simulations with Unity 3D.
+In February 2016 Benjamin Aaron Degenhart completed [his bachelor thesis](https://www.researchgate.net/publication/292995085_Implementierungskonzepte_fur_Agenten_in_Personenstromsimulationen_-_Effiziente_Modellierung_komplexer_Charaktere) which he has written in cooperation with accu:rate under the direction of Prof. Köster an the University of Applied Sciences in Munich.
+Following he decided to support the accu:rate team as a working student.
+His tasks are, for example, software development (mostly using Java) and 3D visualization of the simulations with Unity 3D.
 
 
 

@@ -29,26 +29,33 @@ Kontaktieren Sie ihn für technische Fragen unter <span class="mailadresse" data
 ### Thomas Bareth {#thomas-bareth}
 
 ![Photo: Thomas Bareth](/img/team/team-tom.jpg) {.mugshot}
-Thomas hat erfolgreich sein Bachelorstudium in Bauingenierwesen an der Technischen Universität München abgeschlossen und befindet sich im Moment in seinem Masterstudium. Seit Dezember 2014 ist Thomas Bareth ein unverzichtbarer Teil des accu:rate Teams. Als erfahrener AutoCAD-Zeichner unterstützt er das Team beim Bearbeiten neuer Aufträge indem er Simulationspläne erstellt und Simulationen erfolgreich zum laufen bringt.
+Thomas Bareth hat erfolgreich sein Bachelorstudium in Bauingenierwesen an der Technischen Universität München abgeschlossen und befindet sich im Moment in seinem Masterstudium.
+Seit Dezember 2014 ist Herr Bareth ein unverzichtbarer Teil des accu:rate Teams.
+Als erfahrener AutoCAD-Zeichner unterstützt er das Team beim Bearbeiten neuer Aufträge indem er Simulationspläne erstellt und Simulationen erfolgreich zum laufen bringt.
 
 
 ### Veronika Zwickenpflug {#veronika-zwickenpflug}
 
 ![Photo: Veronika Zwickenpflug](/img/team/team-vroni.jpg) {.mugshot}
-Veronika studiert Scientific Computing an der Hochschule für angewandte Wissenschaften in München und arbeitet seit März 2016 als Praktikantin bei accu:rate.
-Bei accu:rate gehört Veronika, wie auch Thomas, zum Projekt-Team und arbeitet fleissig an aktuellen Aufträgen und zeichnet schöne, detaillierte Pläne in AutoCAD.
+Veronika Zwickenpflug studiert Scientific Computing an der Hochschule für angewandte Wissenschaften in München und arbeitet seit März 2016 als Praktikantin bei accu:rate.
+Bei accu:rate gehört Frau Zwickenpflug, wie auch Herr Bareth, zum Projekt-Team und arbeitet fleissig an aktuellen Aufträgen und zeichnet schöne, detaillierte Pläne in AutoCAD.
 
 
 ### Lesya Mankovska {#lesya-mankovska}
 
 ![Photo: Lesya Mankovska](/img/team/team-lm.jpg) {.mugshot}
-Lesya studiert ebenfalls Scientific Computing an der Hochschule München. Im Herbst 2015 kam sie als Werkstudentin zum accu:rate-Team dazu und seit März 2016 arbeitet sie bei uns als Praktikantin. Lesya gehört zum Product-Team, welcher hauptsächlich für die weitere Entwicklung der Software zuständig ist. Außerdem unterstützt Lesya seit kurzer Zeit beim Pflegen unserer tollen Website.
+Lesya Mankovska studiert ebenfalls Scientific Computing an der Hochschule München.
+Im Herbst 2015 kam sie als Werkstudentin zum accu:rate-Team dazu und seit März 2016 arbeitet sie bei uns als Praktikantin.
+Lesya gehört zum Produkt-Team, welches hauptsächlich für die weitere Entwicklung der [crowd:it Software](unsere-software) zuständig ist.
+Außerdem pflegt Frau Mankovska seit kurzer Zeit die Website, die Sie gerade lesen :)
 
 
 ### Benjamin Aaron Degenhart {#benjamin-aaron-degenhart}
 
 ![Photo: Benjamin Aaron Degenhart](/img/team/team-ben.jpg) {.mugshot}
-Benjamin hat in Kooperation mit accu:rate und unter der Leitung von Prof. Dr. Gerta Köster seine [Bachelorarbeit](https://www.researchgate.net/publication/292995085_Implementierungskonzepte_fur_Agenten_in_Personenstromsimulationen_-_Effiziente_Modellierung_komplexer_Charaktere) an der Hochschule für Angewandte Wissenschaften in München geschrieben. Nach der erfolgreichen Zusammenarbeit hat er sich entschlossen als Werkstudent das Team von accu:rate zu unterstützen. Zu seinen Aufgaben gehören beispielsweise Java-Entwicklung und 3D-Visualisierungen mit Unity 3D.
+Benjamin Aaron Degenhart hat in Kooperation mit accu:rate und unter der Leitung von Prof. Dr. Gerta Köster seine [Bachelorarbeit](https://www.researchgate.net/publication/292995085_Implementierungskonzepte_fur_Agenten_in_Personenstromsimulationen_-_Effiziente_Modellierung_komplexer_Charaktere) an der Hochschule für Angewandte Wissenschaften in München geschrieben.
+Nach der erfolgreichen Zusammenarbeit hat er sich entschlossen als Werkstudent das Team von accu:rate zu unterstützen.
+Zu seinen Aufgaben gehören beispielsweise Java-Entwicklung und 3D-Visualisierungen mit Unity 3D.
 
 
 ## Partner
