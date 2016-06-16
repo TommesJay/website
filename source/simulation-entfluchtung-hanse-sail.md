@@ -72,8 +72,14 @@ An diesem Beispiel kann man gut erkennen, dass auch scheinbar einfach gelagerte 
 
 Zusätzliche Rettungswege führen in manchen Fällen zu einem Rückstau und blockieren damit größere Bereiche - anstatt andere Wege zu entlasten.
 
-Wenn auch Sie die Dauer einer Räumung nach dem aktuellen Stand der Technik schätzen lassen oder bauliche Maßnahmen vorab testen lassen möchten, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
+Falls Ihr Interesse für dieses Projekt geweckt wurde können Sie das nachfolgende Video anschauen, in dem Sie die Vorgehensweise
+bei der Optimierung der Fluchtwege Schritt für Schritt verfolgen und nachvollziehen und somit ein wenig in die Welt
+der Entfluchtungsanalyse eintauchen können. 
 
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/3C1nocaYw4M' frameborder='0' allowfullscreen></iframe></div>
+Lassen Sie sich von Tom die Einzelheiten erklären und zeigen, wie das Problem mit der Anzahl der Fluchtwege entdeckt und behoben wurde. Anhand der geplotteten Entfluchtungsverläufe kann man sehen, wie sich die Entfluchtungszeiten je nach Szenario verändern.
+
+Wenn auch Sie die Dauer einer Räumung nach dem aktuellen Stand der Technik schätzen lassen oder bauliche Maßnahmen vorab testen lassen möchten, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
 
 [Weitere Referenzen ansehen](referenzen).
 
