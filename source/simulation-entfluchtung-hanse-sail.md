@@ -76,8 +76,8 @@ Falls Ihr Interesse für dieses Projekt geweckt wurde können Sie das nachfolgen
 bei der Optimierung der Fluchtwege Schritt für Schritt verfolgen und nachvollziehen und somit ein wenig in die Welt
 der Entfluchtungsanalyse eintauchen können. 
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/3C1nocaYw4M' frameborder='0' allowfullscreen></iframe></div>
-Lassen Sie sich von Tom die Einzelheiten erklären und zeigen, wie das Problem mit der Anzahl der Fluchtwege entdeckt und behoben wurde. Anhand der geplotteten Entfluchtungsverläufe kann man sehen, wie sich die Entfluchtungszeiten je nach Szenario verändern.
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/3C1nocaYw4M' frameborder='0' allowfullscreen></iframe></div>{#video}
+Bilder sagen mehr als tausend Worte: Lassen Sie sich von Tom die Details zeigen. Im Video wird deutlich, wie die Platzierung von Fluchtwegen ganz ausschlaggebend für eine zügige Entfluchtung ist!
 
 Wenn auch Sie die Dauer einer Räumung nach dem aktuellen Stand der Technik schätzen lassen oder bauliche Maßnahmen vorab testen lassen möchten, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
 
