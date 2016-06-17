@@ -62,7 +62,7 @@ Die zweite Maßnahme war nicht gerade intuitiv, und zeigt aus unserer Sicht sehr
 Ein einzelner, mit 3 Metern immer noch zu schmaler Fluchtweg hat zu einem großen Rückstau geführt. 
 
 
-## Weniger ist manchmal mehr
+## Weniger ist manchmal mehr {#weniger-ist-manchmal-mehr}
 
 Die **Wegnahme** dieses Fluchtweges hat den Rückstau behoben und die Entfluchtung massiv beschleunigt!
 
@@ -72,11 +72,9 @@ An diesem Beispiel kann man gut erkennen, dass auch scheinbar einfach gelagerte 
 
 Zusätzliche Rettungswege führen in manchen Fällen zu einem Rückstau und blockieren damit größere Bereiche - anstatt andere Wege zu entlasten.
 
-Falls Ihr Interesse für dieses Projekt geweckt wurde können Sie das nachfolgende Video anschauen, in dem Sie die Vorgehensweise
-bei der Optimierung der Fluchtwege Schritt für Schritt verfolgen und nachvollziehen und somit ein wenig in die Welt
-der Entfluchtungsanalyse eintauchen können. 
+Im folgenden Video erklärt Thomas Bareth die Einzelheiten und die Vorgehensweise bei der Optimierung der Fluchtwege Schritt für Schritt.
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/3C1nocaYw4M' frameborder='0' allowfullscreen></iframe></div>{#video}
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/3C1nocaYw4M' frameborder='0' allowfullscreen></iframe></div> 
 Bilder sagen mehr als tausend Worte: Lassen Sie sich von Tom die Details zeigen. Im Video wird deutlich, wie die Platzierung von Fluchtwegen ganz ausschlaggebend für eine zügige Entfluchtung ist!
 
 Wenn auch Sie die Dauer einer Räumung nach dem aktuellen Stand der Technik schätzen lassen oder bauliche Maßnahmen vorab testen lassen möchten, [kontaktieren Sie uns](kontakt) für ein unverbindliches Angebot. Wir freuen uns, von Ihnen zu hören!
