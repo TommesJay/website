@@ -35,6 +35,9 @@
 - Kneidl, Angelika; Hartmann, Dirk; Borrmann, André (2012): [Generation and use of sparse navigation graphs for microscopic pedestrian simulation models](http://www.cms.bgu.tum.de/publications/Paper_Kneidl_EG-ICE_2011.pdf). In: Advanced Engineering Informatics 26, S. 669–680.
 - Kneidl, Angelika; Hartmann, Dirk; Borrmann, André: [A holistic multi-scale approach for simulation of pedestrian dynamics](http://www.cms.bgu.tum.de/publications/Kneidl_2013_TRC.pdf). In: Transportation Research Part C, accepted for publication
 
+### Buchpublikationen
+
+- Kapitel: Crowd Simulation (Januar 2016) in: "Öffentliche Veranstaltungen – Praxisratgeber für Genehmigungsbehörden, Sicherehietsverantwortliche und Veranstalter", Hrg. Forum Verlag
 
 ### Begutachtete Konferenzbeiträge
 
@@ -49,7 +52,7 @@
 
 ### Konferenzbeiträge
 
-
+- Kielar, P. M., Biedermann, D. H., Kneidl, A., Borrmann, A. (2015): [A Unified Pedestrian Routing Model Combining Multiple Graph-Based Navigation Methods](http://www.cms.bgu.tum.de/publications/2015_Kielar_TGF.pdf). In: Proceedings of the 11. Conference on Traffic and Granular Flow, Nootdrop, Netherland, 2015
 - Kneidl, A., Thiemann, M., Hartmann, D., Borrmann, A. (2011): [Combining pedestrian simulation with a network flow optimization to support security staff in handling an evacuation of a soccer stadium](http://www.cms.bgu.tum.de/publications/Kneidl_2011_FBI.pdf). To appear in: Proceedings of 23rd European Conference Forum Bauinformatik, Cork, Ireland.
 - Borrmann, A., Butenuth, M., Chakraborty, S., Kneidl, A., Schäfer, M. (2011): [Towards multi-layer pedestrian interaction models for simulation, tracking, interpretation and indoor navigation](http://www.cms.bgu.tum.de/publications/Borrmann_2011_FBI.pdf). To appear in: Proceedings of 23rd European Conference Forum Bauinformatik, Cork, Ireland.
 - Kneidl, A., Borrmann, A. (2011): [How Do Pedestrians find their Way? Results of an experimental study with students compared to simulation results](http://www.cms.bgu.tum.de/publications/Paper_Kneidl_EMEVAC_2011.pdf). Proceedings of Emergency Evacuation of people from buildings (EMEVAC 2010), Warsaw, Poland.
