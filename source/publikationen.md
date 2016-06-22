@@ -37,7 +37,7 @@
 
 ### Buchpublikationen
 
-- Kapitel: Crowd Simulation (Januar 2016) in: "Öffentliche Veranstaltungen – Praxisratgeber für Genehmigungsbehörden, Sicherehietsverantwortliche und Veranstalter", Hrg. Forum Verlag
+- Kapitel "Crowd Simulation" in [Öffentliche Veranstaltungen – Praxisratgeber für Genehmigungsbehörden, Sicherehietsverantwortliche und Veranstalter](https://www.forum-verlag.com/alle-produkte/kommunales/sicherheit-und-ordnung/5674/das-digitale-handbuch-zum-veranstaltungsrecht), Forum Verlag, 2016
 
 ### Begutachtete Konferenzbeiträge
 
