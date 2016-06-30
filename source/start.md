@@ -71,22 +71,6 @@ Zudem gibt Ihnen ein ausführlicher Bericht alle wichtigen Informationen an die 
 Viele weitere Einsatzbereiche sind denkbar und simulierbar: Haben Sie eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
 Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in welchem Umfang eine Simulation weiterhilft.
 
------------
-
-Wir danken unseren Unterstützern:
-
-<div class="associates-logos" markdown="1">
-[![Hochschule München](/img/associates/hm.png "accu:rate arbeitet seit Beginn intensiv mit Prof. Dr. Köster und der Hochschule München zusammen.")](http://www.hm.edu/)
-[![EXiST gefördert Jan - Dec 2014](/img/associates/exist.jpg "accu:rate wurde Kalenderjahr 2014 durch das EXiST Gründerstipendium gefördert.")](https://www.exist.de/)
-[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png "Dr. Angelika Kneidl hat am 16. Oktober 2014 eine Förderung durch das Gründerinnen-Mentoring-Programm des HVB Frauenbeirats gewonnen.")](https://www.hvb-frauenbeirat.de/)
-[![IKT Innovativ](img/associates/ikt-innovativ.png "Am 16. März 2015 durfte accu:rate auf der CeBIT einen Preis im Rahmen des Gründerwettbewerb IKT Innovativ (Runde 2/2014) entgegen nehmen.")](http://www.gruenderwettbewerb.de/preistraeger/preistraeger/runde-2-2014)
-[![Dynardo](img/associates/dynardo.png "Dynardo aus Weimar stellt uns freundlicherweise die Software optiSLang für eine erweiterte Testperiode gratis zur Verfügung.")](http://www.dynardo.de/software/optislang.html)
-[![TUM](/img/associates/tum.png "accu:rate ist eine Ausgründung des Lehrstuhls für Computergestützte Modellierung und Simulation der Technischen Universität München.")](https://www.tum.de/)
-[![UnternehmerTUM](/img/associates/unternehmertum.png "Von Beginn an wurde accu:rate durch die UnternehmerTUM begleitet und gefördert.")](https://www.unternehmertum.de/)
-[![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Die Münchner Firma ej-technologies GmbH hat sehr günstig Lizenzen für ihr Softwareentwicklungs-Werkzeug JProfiler an accu:rate abgegeben.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
-[![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.gif "Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.")](https://www.f24.com/)
-</div>
-
 
 #meta#
 pagetitle: accu:rate Institute for crowd simulation
