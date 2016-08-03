@@ -5,6 +5,11 @@
 ~ [Joseph von Westphalen in der TAZ](http://www.taz.de/1/archiv/?dig=2005/02/26/a0311 "Artikel: Die Zeitung von gestern - oder Was einem bleibt von 26.02.2005.")
 
 
+## 2017
+
+* [Seminar](/news:2016-06-28-vortrag-workshop-siko-mannheim) zum Thema [Veranstaltungsplanung – aber sicher!](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-fuer-gross-veranstaltungen-auf-grundlage-der-muster-versammlungsstaettenverordnung-mvstaettvo-mit-baustein-digitale-entfluchtungsanalysen/) an der [IECA](http://www.ieca-mannheim.de/) (19. Januar 2017, Mannheim)
+
+
 ## 2016
 
 * [Vortrag](/news:2016-06-28-vortrag-workshop-siko-mannheim) im Rahmen eines Workshops an der [IECA](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-und-entfluchtungsanalysen/) (28. Juni 2016, Mannheim)
