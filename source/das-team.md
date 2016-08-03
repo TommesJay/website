@@ -57,8 +57,16 @@ Benjamin Aaron Degenhart hat in Kooperation mit accu:rate und unter der Leitung 
 Nach der erfolgreichen Zusammenarbeit hat er sich entschlossen als Werkstudent das Team von accu:rate zu unterstützen.
 Zu seinen Aufgaben gehören beispielsweise Java-Entwicklung und 3D-Visualisierungen mit Unity 3D.
 
+## Unterstützer
 
-## Partner und Unterstützer:
+### Michael Schölkopf {#michael-schoelkopf}
+
+![Photo: Michael Schölkopf](/img/team/team-ms.png) {.mugshot}
+Michael Schölkopf ist Diplom-Ingenieur für Maschinenbau und Manage&More-Stipendiat der UnternehmerTUM.
+Als Mitgründer in technologie&shy;orientierten Startups sammelte er wertvolle Erfahrung in frühen Entwicklungsphasen von Unternehmen.
+Herr Schölkopf hat bei accu:rate von März 2014 bis März 2015 die Felder Business Development, Vertrieb und Marketing verantwortet.
+
+## Partner
 
 ### Hochschule München, Prof. Dr. Gerta Köster {#gerta-koester}
 
@@ -92,14 +100,9 @@ Ein Schwerpunkt des Unternehmens ist das Crowd Management (Besucherlenkung), das
 Die VDS GmbH leitet als Verbundkoordinator seit 2013 das auf drei Jahre angelegte Forschungsprojekt [MultikOSi](http://www.multikosi.de/), das vom [Bundesministerium für Bildung und Forschung](http://www.bmbf.de/) gefördert wird. Ziel des Projekts ist es, Unterstützungssysteme für die sichere Konzeption und Durchführung von städtischen Großveranstaltungen zu erforschen.
 Der Geschäftsführer Roland G. Meier ist seit 2009 Sachverständiger für Veranstaltungssicherheit und Versammlungsstätten und seit 2013 durch den [Deutschen Gutachter- und Sachverständigenverband (DGSV)](http://www.dgusv.de/) zertifiziert sowie geprüfte "Sicherheitsfachperson für Versammlungsstätten" (Zertifikat des [TÜV Saarland](http://www.tuev-saar.net/)). Er ist 1. Vorsitzender des [Bundesverbands Veranstaltungssicherheit](http://bvvs.org/).
 
-### Michael Schölkopf {#michael-schoelkopf}
 
-![Photo: Michael Schölkopf](/img/team/team-ms.png) {.mugshot}
-Michael Schölkopf ist Diplom-Ingenieur für Maschinenbau und Manage&More-Stipendiat der UnternehmerTUM.
-Als Mitgründer in technologie&shy;orientierten Startups sammelte er wertvolle Erfahrung in frühen Entwicklungsphasen von Unternehmen.
-Herr Schölkopf hat bei accu:rate von März 2014 bis März 2015 die Felder Business Development, Vertrieb und Marketing verantwortet.
 
------------
+## Wir danken
 
 <div class="associates-logos" markdown="1">
 [![Hochschule München](/img/associates/hm.png "accu:rate arbeitet seit Beginn intensiv mit Prof. Dr. Köster und der Hochschule München zusammen.")](http://www.hm.edu/)
@@ -111,7 +114,7 @@ Herr Schölkopf hat bei accu:rate von März 2014 bis März 2015 die Felder Busin
 [![UnternehmerTUM](/img/associates/unternehmertum.png "Von Beginn an wurde accu:rate durch die UnternehmerTUM begleitet und gefördert.")](https://www.unternehmertum.de/)
 [![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Die Münchner Firma ej-technologies GmbH hat sehr günstig Lizenzen für ihr Softwareentwicklungs-Werkzeug JProfiler an accu:rate abgegeben.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
 [![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.gif "Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.")](https://www.f24.com/)
-[![ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](/img/associates/abs-sicherheitsdienst.png "Mit ABS hat accu:rate erfolgreich das Hanse-Sail Projekt durchgeführt.")](http://www.abs-sicherheitsdienst.de/)
+[![ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](/img/associates/abs-sicherheitsdienst.png "Vielen Dank an den ABS Sicherheitsdienst für die Professionalität und Offenheit!")](http://www.abs-sicherheitsdienst.de/)
 </div>
 
 
