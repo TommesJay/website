@@ -59,6 +59,8 @@ Zu seinen Aufgaben gehören beispielsweise Java-Entwicklung und 3D-Visualisierun
 
 ## Unterstützer
 
+Auch wenn wir nicht alle Menschen, die uns unterstützen und unterstützt haben, hier nennen können - ohne die Tatkraft von vielen wäre accu:rate heute nicht, was es ist.
+
 ### Michael Schölkopf {#michael-schoelkopf}
 
 ![Photo: Michael Schölkopf](/img/team/team-ms.png) {.mugshot}
@@ -102,7 +104,7 @@ Der Geschäftsführer Roland G. Meier ist seit 2009 Sachverständiger für Veran
 
 
 
-## Wir danken
+## Wir danken:
 
 <div class="associates-logos" markdown="1">
 [![Hochschule München](/img/associates/hm.png "accu:rate arbeitet seit Beginn intensiv mit Prof. Dr. Köster und der Hochschule München zusammen.")](http://www.hm.edu/)

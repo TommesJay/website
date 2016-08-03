@@ -57,6 +57,8 @@ So accu:rate provides a valid basis for decision making, where previously custom
 
 ## Compare different concepts in the planning phase
 
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/HpRT8hqR_uI?rel=0' frameborder='0' allowfullscreen></iframe></div>
+
 Already in the planning stage you can simulate different solutions for directing large flows of visitors
 with accu:rate.
 In the result graph risk factors are visible, as well as the pro and cons of different solution scenarios.
@@ -64,23 +66,6 @@ The simulation results make plausible which concept best fits your requirements.
 By the early evaluating various options increase planning security and reduce costs.
 
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/HpRT8hqR_uI?rel=0' frameborder='0' allowfullscreen></iframe></div>
-
------------
-
-We thank our supporters:
-
-<div class="associates-logos" markdown="1">
-[![Hochschule München](/img/associates/hm.png "accu:rate has been collaborating with Prof. Dr. Köster and the Munich University Of Applied Sciences from the start.")](http://www.hm.edu/)
-[![EXiST gefördert Jan - Dec 2014](/img/associates/exist.jpg "In 2014, accu:rate received the EXiST grant for founders.")](https://www.exist.de/)
-[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png "Dr. Angelika Kneidl won support from the HVB Women's Council on October 16th 2014.")](https://www.hvb-frauenbeirat.de/)
-[![IKT Innovativ](img/associates/ikt-innovativ.png "On March 16th 2015 accu:rate received the IKT Innovativ Founders Challenge Award at CeBIT 2015. We participated in round 2/2014.")](http://www.gruenderwettbewerb.de/preistraeger/preistraeger/runde-2-2014)
-[![Dynardo](img/associates/dynardo.png "Dynardo kindly extended the test period of their Software optiSLang, which Philipp Bader, a MUAS student, used to analyse the robustness of the accu:rate simulation kernel.")](http://www.dynardo.de/software/optislang.html)
-[![TUM](/img/associates/tum.png "accu:rate is a spin-off from the Technical University of Munich.")](https://www.tum.de/)
-[![UnternehmerTUM](/img/associates/unternehmertum.png "UnternehmerTUM supported accu:rate from the very beginning.")](https://www.unternehmertum.de/)
-[![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Courtesy of Munich-based ej-technologies GmbH we received licenses for JProfiler, a software development tool for Java that helps us tremendiously in developing our simulation kernel.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
-[![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.gif "F24 AG supported us in 2015 with free office space as well as their tremendious experience.")](https://www.f24.com/)
-</div>
 
 #meta#
 pagetitle: accu:rate Institute for crowd simulation
