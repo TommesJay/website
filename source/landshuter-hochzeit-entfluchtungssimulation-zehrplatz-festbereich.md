@@ -1,7 +1,8 @@
-![](/img/referenzen/Rennen über die Planken.jpg)
-Foto: Michael Hackl, [Landshuter Hochzeit](http://www.landshuter-hochzeit.de/pressebilder_details/reiter-und-ritterspiele.html)
-# *Entfluchtungsanalyse für die Landshuter Hochzeit*
+![](/img/referenzen/landshuter-hochzeit-rennen-ueber-die-planken.jpg) {.fancyheader-img}
+# *Entfluchtungsanalyse für die Landshuter Hochzeit* {.fancyheader}
 
+
+Foto: Michael Hackl, [Landshuter Hochzeit](http://www.landshuter-hochzeit.de/pressebilder_details/reiter-und-ritterspiele.html)
 
 Hier ein Beispiel für eines unserer Projekte.
 
