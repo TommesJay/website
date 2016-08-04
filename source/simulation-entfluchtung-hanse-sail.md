@@ -45,7 +45,7 @@ Deshalb sind wir sehr froh, dass unser Partner [Qounts](http://www.qounts.com/) 
 Bei der Hanse Sail wird keine Einlasskontrolle vorgenommen - dank Qounts hatten wir trotzdem sehr gute Eingangsdaten bezüglich der Besucherzahl der HanseSail zur Verfügung.
 
 
-## Ergebnisse der Simulation
+## Ergebnisse der Simulation {#ergebnis}
 
 Iterativ und in Kollaboration mit der [ABS Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/) sowie [Qounts](http://www.qounts.com/) haben wir unterschiedliche Maßnahmen getestet, und die komplette Räumung je nach Szenario um bis zu 25% beschleunigt.
 
