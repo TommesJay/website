@@ -9,7 +9,7 @@ Bitte [kontaktieren](kontakt) Sie uns.
 
 [![Logo SWM MVG](img/referenzen/logo-swm-mvg.png)](https://www.swm.de/) {.referenzpreview}
 
-accu:rate wurde von den [Stadtwerken München](https://www.swm.de/) beauftragt, eine Fahrgast&shy;simulation an einer Münchner U-Bahnstation durchzuführen.
+accu:rate wurde von den [Stadtwerken München](https://www.swm.de/) beauftragt, eine Fahrgast&shy;simulation an einer phasenweise stark belasteten Münchner U-Bahnstation durchzuführen.
 
 Mithilfe der Simulation wurden kritische Fahrgastströme näher untersucht und mögliche Maßnahmen zur Entlastung der Station getestet.
 Die Ergebnisse fließen in das Betriebskonzept der Station ein, um einen möglichst reibungs&shy;losen Betrieb auch zur Hauptverkehrszeit zu ermöglichen.

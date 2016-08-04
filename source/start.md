@@ -14,13 +14,44 @@
 
 ## Menschliches Verhalten ist komplex
 
-![Screenshot 3D visualization](/img/homepage-screen1.png) {.float-left .bigfloat}
+[![Screenshot 3D visualization](/img/homepage-screen1.png)](simulation-entfluchtung-hanse-sail#ergebnis) {.float-left .bigfloat}
 
 Menschen bewegen sich nicht wie Maschinen. Sie haben verschiedene Ziele und Motive, bewegen und verhalten sich unterschiedlich und vor allem: nicht immer nach Plan.
 
 An Orten, an denen viele Menschen aufeinandertreffen, existieren daher komplexe dynamische Systeme, deren Entwicklung intuitiv nicht mehr vollständig zu erfassen oder vorherzusagen ist.
 
-Sie haben die Möglichkeit, die Komplexität von Personenströmen durch accu:rate nachvollziehbar zu machen.
+Sie haben die Möglichkeit, die Komplexität von Personenströmen durch accu:rate analysierbar und damit besser kontrollierbar zu machen.
+
+
+## Bisherige Projekte
+
+### [Entfluchtungsanalyse für Schloss Neuschwanstein](simulation-entfluchtungsanalyse-schloss-neuschwanstein)
+[![Schloss Neuschwanstein Thumbnail](img/referenzen/neuschwanstein_02a_foto_anton_j_brandl_thumb.jpg)](simulation-entfluchtungsanalyse-schloss-neuschwanstein) {.referenzpreview}
+Im Sommer drängen sich im Durchschnitt täglich mehr als 6.000 Besucher durch Räume, die für einen einzigen Bewohner bestimmt waren.
+accu:rate unterstützte das [Staatliche Bauamt Kempten](http://www.stbake.bayern.de/) dabei, die Fluchtwege zu analysieren und zu optimieren - damit im Ernstfall alle Besucher rechtzeitig und sicher aus dem Schloss geleitet werden können.  
+[Mehr lesen...](simulation-entfluchtungsanalyse-schloss-neuschwanstein)
+
+
+### [Entfluchtungsanalyse für die Hanse Sail](simulation-entfluchtung-hanse-sail)
+[![Hanse Sail 3D Visualisierung Thumbnail](img/referenzen/hanse-30grad-thumb.jpg "Hanse Sail 3D Visualisierung")](simulation-entfluchtung-hanse-sail) {.referenzpreview}
+Im Auftrag der [ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/) haben wir eine Entfluchtungs&shy;simulation der [Hanse Sail in Rostock](http://www.hansesail.com/) durchgeführt.
+Die Hanse Sail ist eines der größten Treffen von Traditionsseglern und Museums&shy;schiffen weltweit.
+Mit einem spannendem Ergebnis: Die Wegnahme eines Fluchtweges hat einen Rückstau behoben und die Entfluchtung massiv beschleunigt.  
+[Mehr lesen...](simulation-entfluchtung-hanse-sail)
+
+
+### [Personenstromanalyse einer Münchner U-Bahn-Station](personenstromanalyse-ubahn-station-muenchen-mvg)
+[![Logo SWM MVG](img/referenzen/logo-swm-mvg.png)](personenstromanalyse-ubahn-station-muenchen-mvg) {.referenzpreview}
+accu:rate wurde von den [Stadtwerken München](https://www.swm.de/) beauftragt, eine [Fahrgast&shy;simulation an einer phasenweise stark belasteten Münchner U-Bahnstation](personenstromanalyse-ubahn-station-muenchen-mvg) durchzuführen.
+Mithilfe der Simulation wurden kritische Fahrgastströme näher untersucht und mögliche Maßnahmen zur Entlastung der Station getestet.  
+[Mehr lesen...](personenstromanalyse-ubahn-station-muenchen-mvg)
+
+
+### [Kapazitätsplanung für das FIFA Museum](simulation-sportmuseum)
+[![Logo THEMATA](img/referenzen/themata-logo.png)](simulation-sportmuseum) {.referenzpreview}
+accu:rate unterstützte mithilfe einer Besucher&shy;strom&shy;simulation die Kapazitäts&shy;planung des neuen [FIFA World Football Museums](http://de.fifamuseum.com/) im Auftrag von THEMATA sowie [TRIAD](https://www.triad.de/de/projekte/fifa-world-football-museum/).
+Ziel war es, die Kapazitäten der Exponate bei angenommenen Verweil&shy;dauern sowie Füllgrad des Museums zu überprüfen und eventuell auftretende Engpässe bereits während der Planungs&shy;phase zu erkennen und zu beseitigen.  
+[Mehr lesen...](simulation-sportmuseum)
 
 
 ## Risiken erkennen und ausschließen
@@ -40,14 +71,14 @@ Anhand der Ergebnisse können Sie rechtzeitig verantwortungsvoll planen – sei 
 accu:rate liefert eine valide Entscheidungsgrundlage, wo sich die Sicherheitsplanung bisher oft auf das Bauchgefühl verlassen musste.
 
 
-## Vergleichen Sie verschiedene Konzepte in der Planungsphase
+## Schaffen Sie Vertrauen durch Transparenz
 
-Bereits in der Planungsphase können Sie mit accu:rate unterschiedliche Lösungen zur Lenkung großer Besucherströme durchspielen.
-In der graphischen Darstellung werden sowohl die Risikofaktoren sichtbar, als auch die Vor- und Nachteile verschiedener Lösungsszenarien.
-Anhand der Simulationsergebnisse wird nachvollziehbar, welches Konzept Ihre Anforderungen am besten erfüllt.
-Durch das frühe Evaluieren verschiedener Möglichkeiten erhöhen Sie die Planungssicherheit und senken die Kosten.
+Der graphisch aufbereitete Vergleich verschiedener Konzepte macht Ihre Argumentation für Projektbeteiligte wie für Außenstehende transparent und nachvollziehbar, denn ein gemeinsames Verständnis wird am besten durch Bilder geschaffen.
+Die als Diagramme, Tabellen, Bilder und Videos visualisierten Berechnungen von accu:rate liefern objektive Bewertungskriterien.
+Zudem gibt Ihnen ein ausführlicher Bericht alle wichtigen Informationen an die Hand.
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/19NxFUP0L3Y?rel=0' frameborder='0' allowfullscreen></iframe></div>
+Viele weitere Einsatzbereiche sind denkbar und simulierbar: Haben Sie eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
+Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in welchem Umfang eine Simulation weiterhilft.
 
 
 ## Entscheiden Sie auf der Basis objektiver Bewertungskriterien
@@ -62,14 +93,12 @@ Die Simulation von Personenströmen wird in vielen Bereichen eingesetzt:
 - Zur Erstellung von Entfluchtungsnachweisen für den Brandschutz
 
 
-## Schaffen Sie Vertrauen durch Transparenz
+## Vergleichen Sie verschiedene Konzepte in der Planungsphase
 
-Der graphisch aufbereitete Vergleich verschiedener Konzepte macht Ihre Argumentation für Projektbeteiligte wie für Außenstehende transparent und nachvollziehbar, denn ein gemeinsames Verständnis wird am besten durch Bilder geschaffen.
-Die als Diagramme, Tabellen, Bilder und Videos visualisierten Berechnungen von accu:rate liefern objektive Bewertungskriterien.
-Zudem gibt Ihnen ein ausführlicher Bericht alle wichtigen Informationen an die Hand.
-
-Viele weitere Einsatzbereiche sind denkbar und simulierbar: Haben Sie eine Aufgabenstellung, bei der Sie eine Simulation von Personenströmen einsetzen möchten, die hier nicht aufgeführt ist?
-Kein Problem, kontaktieren Sie uns und wir finden gemeinsam heraus, ob und in welchem Umfang eine Simulation weiterhilft.
+Bereits in der Planungsphase können Sie mit accu:rate unterschiedliche Lösungen zur Lenkung großer Besucherströme durchspielen.
+In der graphischen Darstellung werden sowohl die Risikofaktoren sichtbar, als auch die Vor- und Nachteile verschiedener Lösungsszenarien.
+Anhand der Simulationsergebnisse wird nachvollziehbar, welches Konzept Ihre Anforderungen am besten erfüllt.
+Durch das frühe Evaluieren verschiedener Möglichkeiten erhöhen Sie die Planungssicherheit und senken die Kosten.
 
 
 #meta#
