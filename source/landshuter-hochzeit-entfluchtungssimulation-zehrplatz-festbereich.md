@@ -9,6 +9,9 @@ Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+> Bei der Landshuter Hochzeit ist die Sicherheit im 21. Jhd angekommen
+Ernst Pöschl, Verein *Die Förderer e.V.*
+
 Die [Landshuter Hochzeit](http://www.landshuter-hochzeit.de/) ist ein mittelalterliches Fest, das von dem [Verein "Die Förderer" e.V.](http://www.landshuter-hochzeit.de/der-verein.html) veranstaltet wird.
 
 
@@ -23,7 +26,7 @@ Alle 4 Jahre lockt das Fest mehr als 100.000 Gäste aus aller Welt nach Landshut
 
 ## Aufgabenstellung und Szenarienaufbau
 
-Unser Kunde und Veranstalter der Landshuter Hochzeit, der Verein "Die Förderer e.V." [Verein "Die Förderer e.V."](http://www.landshuter-hochzeit.de/der-verein.html), wollte mit Hilfe der Simulation von accu:rate das Sicherheitskonzept überprüfen und optimieren. Die Fragestellungen, die dabei auftraten, lauteten:
+Unser Kunde und Veranstalter der Landshuter Hochzeit, der [Verein "Die Förderer e.V."](http://www.landshuter-hochzeit.de/der-verein.html), wollte mit Hilfe der Simulation von accu:rate das Sicherheitskonzept überprüfen und optimieren. Die Fragestellungen, die dabei auftraten, lauteten:
 
 * Wie lange dauert die Entfluchtung des Geländes?
 * Kommt es zu Staus, und wenn ja, wo?
@@ -42,11 +45,11 @@ Hintergrund der beiden Szenarien ist, dass sich zu diesen Zeitpunkten die meiste
 
 
 
-## Ergebnisse und Maßnahmen der Simulation:
+## Ergebnisse und Maßnahmen der Simulation
 
 Entscheidend für eine entsprechende Auswertung der Ergebnisse ist vor allem, ob und in welchem Ausmaß sich Staus bei der Entfluchtung des Geländes entwickeln, die unter Umständen zu Paniken führen können. Es galt zu überprüfen, ob im Falle einer kontrollierten Räumung die Sicherheit der Besucher - trotz ihrer enormen Anzahl - noch gegeben ist.
 
-In Kollaboration mit den Verantwortlichen von "Die Förderer e.V." wurden die Einzelheiten der Simulationsvoraussetzungen festgelegt. Auf Grundlage der Besucherzahlen der letzten Jahre wurde der Extremfall für das kommende Jahr bemessen. Die Geometrie wurde entsprechend des Sicherheitskonzepts und den damit vorliegenden Plänen erstellt.
+In Kollaboration mit den Verantwortlichen von *Die Förderer e.V.* wurden die Einzelheiten der Simulationsvoraussetzungen festgelegt. Auf Grundlage der Besucherzahlen der letzten Jahre wurde der Extremfall für das kommende Jahr bemessen. Die Geometrie wurde entsprechend des Sicherheitskonzepts und den damit vorliegenden Plänen erstellt.
 
 Der erste Iterationslauf der Simulation hat gezeigt, dass die Anzahl und die Breite der Ausgänge nicht ausreicht, um die Menge der zu evakuierenden Leute abzuführen. Dementsprechend bilden sich Staus.
 Auch der Abfluss auf Seiten der "Grieser-Wiese" (im Bild links zu sehen) ist besonders im Szenario 2 stark überlastet.
