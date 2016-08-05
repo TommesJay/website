@@ -10,6 +10,7 @@ Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
 > Bei der Landshuter Hochzeit ist die Sicherheit im 21. Jhd angekommen
+
 Ernst Pöschl, Verein *Die Förderer e.V.*
 
 Die [Landshuter Hochzeit](http://www.landshuter-hochzeit.de/) ist ein mittelalterliches Fest, das von dem [Verein "Die Förderer" e.V.](http://www.landshuter-hochzeit.de/der-verein.html) veranstaltet wird.
