@@ -49,7 +49,7 @@ Mithilfe der Simulation wurden kritische Fahrgastströme näher untersucht und m
 
 ### [Kapazitätsplanung für das FIFA Museum](simulation-sportmuseum)
 [![Logo THEMATA](img/referenzen/themata-logo.png)](simulation-sportmuseum) {.referenzpreview}
-accu:rate unterstützte mithilfe einer Besucher&shy;strom&shy;simulation die Kapazitäts&shy;planung des neuen [FIFA World Football Museums](http://de.fifamuseum.com/) im Auftrag von THEMATA sowie [TRIAD](https://www.triad.de/de/projekte/fifa-world-football-museum/).
+accu:rate unterstützte mithilfe einer Besucher&shy;strom&shy;simulation die Kapazitäts&shy;planung des neuen [FIFA World Football Museums](http://de.fifamuseum.com/) im Auftrag von [THEMATA](http://www.themata.de/) sowie [TRIAD](https://www.triad.de/de/projekte/fifa-world-football-museum/).
 Ziel war es, die Kapazitäten der Exponate bei angenommenen Verweil&shy;dauern sowie Füllgrad des Museums zu überprüfen und eventuell auftretende Engpässe bereits während der Planungs&shy;phase zu erkennen und zu beseitigen.  
 [Mehr lesen...](simulation-sportmuseum)
 
