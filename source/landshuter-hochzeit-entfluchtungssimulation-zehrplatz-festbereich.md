@@ -9,9 +9,6 @@ Hier ein Beispiel für eines unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
-> Bei der Landshuter Hochzeit ist die Sicherheit im 21. Jhd angekommen
-
-Ernst Pöschl, Verein *Die Förderer e.V.*
 
 Die [Landshuter Hochzeit](http://www.landshuter-hochzeit.de/) ist ein mittelalterliches Fest, das von dem [Verein "Die Förderer" e.V.](http://www.landshuter-hochzeit.de/der-verein.html) veranstaltet wird.
 
@@ -24,9 +21,12 @@ Dabei spazieren über 2000 Mitwirkende über das Altstadtgelände bis hin zu den
 Über mehrere Wochen finden dort Ritterturniere und andere mittelalterliche Festivitäten und Veranstaltungen statt, bei denen die Besucher in die Welt des Mittelalters zurückversetzt werden.
 Alle 4 Jahre lockt das Fest mehr als 100.000 Gäste aus aller Welt nach Landshut.
 
-Gemeinsam mit unsererm Auftraggeber, dem [gemeinnützigen Verein "Die Förderer e.V."](http://www.landshuter-hochzeit.de/der-verein.html) haben wir mithilfe von Simulationen die Fluchtwegsgestaltung untersucht.
+Gemeinsam mit unsererm Auftraggeber, dem [gemeinnützigen Verein "Die Förderer e.V."](http://www.landshuter-hochzeit.de/der-verein.html) haben wir mithilfe von Simulationen die Fluchtwegsgestaltung der Festivitäten untersucht und angepasst.
 
-Herr Dr. Ernst Pöschl, 1. Vorstand des Vereins über Simulationen: "Bei der Landshuter Hochzeit ist die Sicherheit im 21. Jahrhundert angekommen."
+> Bei der Landshuter Hochzeit ist die Sicherheit im 21. Jhd angekommen
+
+Dr. Ernst Pöschl, 1. Vorstand, Verein *Die Förderer e.V.*
+
 
 Sind auch Sie Veranstalter von stark frequentierten Festivitäten und Sie sind sich unsicher ob der Sicherheit Ihrer Besucher, dann kontaktieren Sie uns für ein unverbindliches Angebot! Wir freuen uns von Ihnen zu hören!
 
