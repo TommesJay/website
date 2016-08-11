@@ -49,7 +49,7 @@ Der Clou dabei: Der [kognitive Overhead](https://en.wikipedia.org/wiki/Cognitive
 [Mehr lesen...](modellierungsseminar-google-cardboard-hm-ws-2015)
 
 
-## [Neues Sportmuseum in Zürich](simulation-sportmuseum)
+## [FIFA Museum in Zürich](simulation-sportmuseum)
 [![Logo THEMATA](img/referenzen/themata-logo.png)](simulation-sportmuseum) {.referenzpreview}
 
 accu:rate unterstützte mithilfe einer Besucher&shy;strom&shy;simulation die Kapazitäts&shy;planung eines neuen Sport&shy;museums im Auftrag von [THEMATA](http://www.themata.de/).

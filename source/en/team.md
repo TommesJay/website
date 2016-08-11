@@ -56,7 +56,17 @@ His tasks are, for example, software development (mostly using Java) and 3D visu
 
 
 
-## Partner
+## Supporters
+
+Even if we cannot mention all people who support us at the moment or supported in the past, without the spirit of many of them accu:rate wouldn't be what it is today.
+
+### Michael Schölkopf {#michael-schoelkopf}
+
+![Photo: Michael Schölkopf](/img/team/team-ms.png) {.mugshot}
+Michael Schölkopf is a graduate mechanical engineer and Manage&More-scholarship holder of UnternehmerTUM. He gained valuable experience in early stages of development of enterprises as co-founder in technology oriented startups. From March 2014 to March 2015 Mr. Schölkopf was responsible for business development, sales and marketing at accu:rate.
+
+
+## Partners
 
 ### Munich University of Applied Sciences, Prof. Dr. Gerta Köster {#gerta-koester}
 
@@ -84,15 +94,20 @@ The services of [VDS GmbH](http://www.vds-veranstaltung.de/) are based on 25 yea
 
 
 
-## Supporter
+## We extend our gratitude:
 
-Even if we cannot mention all people who support us at the moment or supported in the past, without the spirit of many of them accu:rate wouldn't be what it is today.
-
-### Michael Schölkopf {#michael-schoelkopf}
-
-![Photo: Michael Schölkopf](/img/team/team-ms.png) {.mugshot}
-Michael Schölkopf is a graduate mechanical engineer and Manage&More-scholarship holder of UnternehmerTUM. He gained valuable experience in early stages of development of enterprises as co-founder in technology oriented startups. From March 2014 to March 2015 Mr. Schölkopf was responsible for business development, sales and marketing at accu:rate.
-
+<div class="associates-logos" markdown="1">
+[![Hochschule München](/img/associates/hm.png "accu:rate has been collaborating with Prof. Dr. Köster and the Munich University Of Applied Sciences from the start.")](http://www.hm.edu/)
+[![EXiST gefördert Jan - Dec 2014](/img/associates/exist.jpg "In 2014, accu:rate received the EXiST grant for founders.")](https://www.exist.de/)
+[![HVB Frauenbeirat](img/associates/hvb-frauenbeirat.png "Dr. Angelika Kneidl won support from the HVB Women's Council on October 16th 2014.")](https://www.hvb-frauenbeirat.de/)
+[![IKT Innovativ](img/associates/ikt-innovativ.png "On March 16th 2015 accu:rate received the IKT Innovativ Founders Challenge Award at CeBIT 2015. We participated in round 2/2014.")](http://www.gruenderwettbewerb.de/preistraeger/preistraeger/runde-2-2014)
+[![Dynardo](img/associates/dynardo.png "Dynardo kindly extended the test period of their Software optiSLang, which Philipp Bader, a MUAS student, used to analyse the robustness of the accu:rate simulation kernel.")](http://www.dynardo.de/software/optislang.html)
+[![TUM](/img/associates/tum.png "accu:rate is a spin-off from the Technical University of Munich.")](https://www.tum.de/)
+[![UnternehmerTUM](/img/associates/unternehmertum.png "UnternehmerTUM supported accu:rate from the very beginning.")](https://www.unternehmertum.de/)
+[![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Courtesy of Munich-based ej-technologies GmbH we received licenses for JProfiler, a software development tool for Java that helps us tremendiously in developing our simulation kernel.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
+[![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.gif "F24 AG supported us in 2015 with free office space as well as their tremendious experience.")](https://www.f24.com/)
+[![ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](/img/associates/abs-sicherheitsdienst.png "Vielen Dank an den ABS Sicherheitsdienst für die Professionalität und Offenheit!")](http://www.abs-sicherheitsdienst.de/)
+</div>
 
 
 
