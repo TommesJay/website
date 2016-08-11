@@ -1,5 +1,4 @@
-![](/img/referenzen/OG-420.png) {.fancyheader-img}
-# *Personenstromsimulation für die Mensa Garching* {.fancyheader}
+# *Personenstromanalyse für die Mensa Garching* {.fancyheader}
 
 Hier ein Beispiel für eines unserer Projekte.
 
@@ -12,24 +11,11 @@ Immer wieder müssen Mensen und andere stark frequentierte Gaststätten um- oder
 - Wie können die Besucher möglichst effizient geleitet werden?
 - Wann müssen die Besucher eventuell sogar abgebremst werden?
 
-Daher hat sich das Staatliche Bauamt München dazu entschlossen accu:rate mit der Simulation der Mensa zu beauftragen, um diese Fragen möglichst professionell beantwortet zu haben. 
+Daher hat sich das Staatliche Bauamt München dazu entschlossen accu:rate mit der Beantwortung dieser Fragen zu beauftragen. 
 
+![](/img/referenzen/OG-420.png) {.fancyheader-img}
 
-
-
-
-![Landshuter Hochzeit](/img/referenzen/Reisige.jpg)
-Photo: Christine Vincon, [Landshuter Hochzeit](http://www.landshuter-hochzeit.de/pressebilder_details/hochzeitszug.html)
-
-Der Festzug der Landshuter Hochzeit erinnert an den Einzug der Braut in die Stadt Landshut im Jahre 1475.
-In einem beeindruckenden Festzug ziehen über 200 Mitwirkende durch die Strassen der Stadt Landshut und finden sich dann auf dem Festgelände ein wo die Reiter und Ritterspiele mit dem authentischen Ritterturnier stattfinden.
-Alle 4 Jahre lockt das Fest mehr als 600.000 Gäste aus aller Welt nach Landshut.
-
-Gemeinsam mit unsererm Auftraggeber, dem [gemeinnützigen Verein "Die Förderer e.V."](http://www.landshuter-hochzeit.de/der-verein.html) haben wir mithilfe von Simulationen die Fluchtwegsgestaltung der Festivitäten untersucht und angepasst.
-
-> Bei der Landshuter Hochzeit ist die Sicherheit im 21. Jhd angekommen
-
-Dr. Ernst Pöschl, 1. Vorstand, Verein *Die Förderer e.V.*
+Die anschließende Simulation konnte dabei helfen ein Konzept auszuarbeiten, das dem Besucherverhalten entgegen kommt und natürliche Bewegungsabläufe optimeirt.
 
 
 Sind auch Sie Veranstalter von stark frequentierten Festivitäten und Sie sind sich unsicher ob der Sicherheit Ihrer Besucher, dann kontaktieren Sie uns für ein unverbindliches Angebot! Wir freuen uns von Ihnen zu hören!
