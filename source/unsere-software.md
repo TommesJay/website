@@ -51,7 +51,9 @@ Dabei treten Sie mit unseren Entwicklern in Kontakt, um sicherzustellen, dass Si
 
 ## Muss ich für die Software zahlen?
 
-Leider können wir die Beta Software nicht verschenken, aber Sie erhalten natürlich nicht nur die Test-Software sondern auch die fertige Version von crowd:it sobald diese veröffentlicht wird.
+Leider können wir die Beta Software nicht verschenken.
+Aber Sie erhalten natürlich nicht nur die Test-Software sondern auch unbegrenzten Support, genau auf Ihre Bedürfnisse abgestimmt.
+Wie das alles genau funktioniert, besprechen wir am Besten persönlich.
 
 
 Interesse? [Bitte hier Name, eMail-Adresse und Telefonnummer eintragen!](http://eepurl.com/bW18HT)
