@@ -18,18 +18,18 @@ Starthilfe.
 
 ## Termine & Kosten
 
-Die nächsten Termine sind:
-
-* 13.09.2016 [Zur Anmeldung...](mailto:schulung.092016@accu-rate.de)
-* 11.10.2016 [Zur Anmeldung...](mailto:schulung.102016@accu-rate.de)
-* 08.11.2016 [Zur Anmeldung...](mailto:schulung.112016@accu-rate.de)
-
 Die Schulungen finden jeweils von 10 Uhr bis 16 Uhr in München in unserem [Büro](kontakt) statt. 
 
 Pro Schulung und Teilnehmer erheben wir einen Betrag von € 400,00 netto. Darin enthalten sind
 - kostenlose Demoversion von crowd:it für x Tage?
 - Getränke und Snacks
 - Zertifikat
+
+Die nächsten Termine sind:
+
+* 13.09.2016 [Zur Anmeldung...](mailto:schulung.092016@accu-rate.de)
+* 11.10.2016 [Zur Anmeldung...](mailto:schulung.102016@accu-rate.de)
+* 08.11.2016 [Zur Anmeldung...](mailto:schulung.112016@accu-rate.de)
 
 Sie können an keinem der genannten Termine? [Kontaktieren] (kontakt) Sie uns, gemeinsam werden wir einen Termin finden!
 
