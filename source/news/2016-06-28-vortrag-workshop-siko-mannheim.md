@@ -1,5 +1,5 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# *Vortrag im Rahmen eines IECA Seminars* {.fancyheader}
+# *IECA Seminar in Mannheim: Sicherheitskonzepte für (Groß-)Veranstaltungen mit Baustein  Digitale Entfluchtungsanalysen für Räumungskonzepte* {.fancyheader}
 
 *Update: Mannheim, 19. Januar 2017*
 
