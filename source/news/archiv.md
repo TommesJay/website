@@ -12,7 +12,7 @@
 
 ## 2016
 
-* [Vortrag](/news:2016-10-05-Symposium-Neue-Technologien) auf dem [6. Internationalen Symposium "Neue Technologien" am 05./06. Oktober 2016](https://www.bka.de/DE/UnsereAufgaben/Ermittlungsunterstuetzung/Technologiefrueherkennung/SymposiumTechnologien/symposiumTechnologien_node.html) in Stuttgart-Bad Cannstatt/Deutschland (24. August 2016)
+* [Vortrag](/news:2016-10-05-symposium-neue-technologien) auf dem [6. Internationalen Symposium "Neue Technologien" am 05./06. Oktober 2016](https://www.bka.de/DE/UnsereAufgaben/Ermittlungsunterstuetzung/Technologiefrueherkennung/SymposiumTechnologien/symposiumTechnologien_node.html) in Stuttgart-Bad Cannstatt/Deutschland (24. August 2016)
 * [Schulung](/news:2016-09-13-schulung-crowdit) am 13. September 2016 für [unsere Software crowd:it](unsere-software) (24. August 2016)
 * [Vortrag](/news:2016-06-28-vortrag-workshop-siko-mannheim) im Rahmen eines Workshops an der [IECA](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-und-entfluchtungsanalysen/) (28. Juni 2016, Mannheim)
 * [Vortrag](/news:2016-05-12-vortrag-fachforum-sicherheit-planen) auf dem [DETAIL Fachforum Sicherheit Planen](http://www.detail.de/artikel/detail-fachforum-sicherheit-planen-26076/) (12. Mai 2016, München)
