@@ -4,7 +4,7 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
-* [Seminar: Veranstaltungsplanung – aber sicher!](/news:2016-06-28-vortrag-workshop-siko-mannheim) mit der [IECA](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-fuer-gross-veranstaltungen-auf-grundlage-der-muster-versammlungsstaettenverordnung-mvstaettvo-mit-baustein-digitale-entfluchtungsanalysen/) (19. Januar 2017, Mannheim)
+* [Seminar: Veranstalt&shy;ungs&shy;planung – aber sicher!](/news:2016-06-28-vortrag-workshop-siko-mannheim) mit der [IECA](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-fuer-gross-veranstaltungen-auf-grundlage-der-muster-versammlungsstaettenverordnung-mvstaettvo-mit-baustein-digitale-entfluchtungsanalysen/) (19. Januar 2017, Mannheim)
 * [Vortrag auf dem DETAIL Fachforum Sicherheit Planen](/news:2016-05-12-vortrag-fachforum-sicherheit-planen) (12. Mai 2016, München)
 * [Vortrag auf der 15. Fach&shy;tag&shy;ung des VBBD e.V. - Verein der Brand&shy;schutz&shy;be&shy;auf&shy;trag&shy;ten in Deutsch&shy;land](/news:2016-05-10-vortrag-bei-der-vbbd-fachtagung) (9. Mai 2016, Hünfeld)
 

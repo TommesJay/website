@@ -13,9 +13,9 @@ Please contact us. We're happy to speak English (and some Spanish, French and Ru
 <div class="float-right newsbox border" markdown="1">
 #### News and Events
 
-* [Seminar (DE) Veranstaltungsplanung – aber sicher!](/news:2016-06-28-vortrag-workshop-siko-mannheim) (DE) [IECA announcement (DE)](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-fuer-gross-veranstaltungen-auf-grundlage-der-muster-versammlungsstaettenverordnung-mvstaettvo-mit-baustein-digitale-entfluchtungsanalysen/) (2017-01-19, Mannheim)
-* Talk (de): [Keynote at the Technical University, Wien](/news:2016-03-30-vortrag-an-der-tu-wien) (30. März 2016)
-* Exhibition (de): [accu:rate with Microsoft at the CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (14. - 18. März 2016, Hannover)
+* Seminar (de): [Veranstaltungs&shy;planung – aber sicher!](/news:2016-06-28-vortrag-workshop-siko-mannheim) [IECA announcement](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-fuer-gross-veranstaltungen-auf-grundlage-der-muster-versammlungsstaettenverordnung-mvstaettvo-mit-baustein-digitale-entfluchtungsanalysen/) (de) (2017-01-19, Mannheim)
+* Talk (de): [Keynote at the Technical University Vienna](/news:2016-03-30-vortrag-an-der-tu-wien) (2016-03-30, Vienna)
+* Exhibition (de): [accu:rate with Microsoft at the CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (2016-03-14, Hannover)
 
 
 [More News...](/news:archiv) (mostly German)  

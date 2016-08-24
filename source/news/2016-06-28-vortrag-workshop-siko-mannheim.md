@@ -1,7 +1,11 @@
 ![](/img/accurate-bild-3.jpg) {.fancyheader-img}
-# *IECA Seminar in Mannheim: Sicherheitskonzepte für (Groß-)Veranstaltungen mit Baustein  Digitale Entfluchtungsanalysen für Räumungskonzepte* {.fancyheader}
+# *<br />IECA Seminar in Mannheim* {.fancyheader}
 
-*Update: Mannheim, 19. Januar 2017*
+## Sicherheitskonzepte für (Groß-)Veranstaltungen mit Baustein Digitale Entfluchtungsanalysen für Räumungskonzepte
+
+**Update**
+
+*Mannheim, 19. Januar 2017*
 
 Am 19. Januar 2017 findet erneut ein [Seminar über Sicherheitskonzepte für (Groß-)Veranstaltungen](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-fuer-gross-veranstaltungen-auf-grundlage-der-muster-versammlungsstaettenverordnung-mvstaettvo-mit-baustein-digitale-entfluchtungsanalysen/) in Mannheim statt. 
 
