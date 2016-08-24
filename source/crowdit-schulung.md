@@ -16,7 +16,7 @@ Wenn Sie mögen, bringen Sie Ihr eigenes Projekt mit. Wir sehen es uns mit Ihnen
 Starthilfe.
 
 
-## Termine & Kosten
+## Termine und Kosten
 
 Die Schulungen finden jeweils von 10 Uhr bis 16 Uhr in München in unserem [Büro](kontakt) statt. 
 
