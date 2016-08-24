@@ -7,7 +7,7 @@ Am 13. September halten wir in unseren Büroräumen eine Einführungsschulung f�
 sowie einem Praxisteil, in dem die Teilnehmer direkt mit crowd:it arbeiten lernen. 
 [Mehr Details...](crowdit-schulung)
 
-Interesse? Melden Sie sich [hier](crowdit-schulung#termine) an!
+Interesse? Melden Sie sich [hier](crowdit-schulung#Termine & Kosten) an!
 
 
 #meta#
