@@ -1,6 +1,6 @@
 ﻿![](/img/accurate-bild-4.jpg) {.fancyheader-img}
 
-![Glückliche Schulungsteilnehmer](/img/IMG_20160809_183557_bearbeitet.jpg){.float-middle}
+![Glückliche Schulungsteilnehmer](/img/schulung-crowdit.png){.float-middle}
 
 # crowd:it Schulung
 
