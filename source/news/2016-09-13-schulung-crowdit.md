@@ -5,9 +5,9 @@
 
 Am 13. September halten wir in unseren Büroräumen eine Einführungsschulung für unsere Software crowd:it. Die Schulung besteht aus einem Theorieteil 
 sowie einem Praxisteil, in dem die Teilnehmer direkt mit crowd:it arbeiten lernen. 
-[Mehr Details...](Link zu unterseite mit schulung)
+[Mehr Details...](crowdit-schulung)
 
-Interesse? Melden Sie sich [hier](link zu formular oder mail?) an!
+Interesse? Melden Sie sich [hier](crowdit-schulung#termine) an!
 
 
 #meta#
