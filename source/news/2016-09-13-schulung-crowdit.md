@@ -5,7 +5,7 @@
 
 Am 13. September halten wir in unseren Büroräumen eine Einführungsschulung für unsere Software crowd:it. Die Schulung besteht aus einem Theorieteil 
 sowie einem Praxisteil, in dem die Teilnehmer direkt mit crowd:it arbeiten lernen. 
-[Mehr Details...](crowdit-schulung.md)
+[Mehr Details...](../crowdit-schulung.md)
 
 Interesse? Melden Sie sich [hier](mailto:schulung.092016@accu-rate.de) an!
 
