@@ -1,4 +1,7 @@
 ﻿![](/img/accurate-bild-4.jpg) {.fancyheader-img}
+
+![Glückliche Schulungsteilnehmer](/img/IMG_20160809_183557_bearbeitet.jpg){.float-middle}
+
 # crowd:it Schulung
 
 Um bestmöglichst mit [unserer Software](unsere-software.md) crowd:it arbeiten zu können, bieten wir in regelmäßigen Abständen Schulungstermine an. 
@@ -8,8 +11,8 @@ Um bestmöglichst mit [unserer Software](unsere-software.md) crowd:it arbeiten z
 Die Schulung besteht grundlegend aus zwei Teilen, einem Theorie- und einem Praxisteil. Im Theorieteil möchten wir Ihnen grundlegende Aspekte
 von Personenstromsimulationen erklären sowie einen Einblick in das Simulationsmodell geben.
 
-Während des Praxisteils sind Sie gefragt: Nach einer kurzen Einführung werden Sie mti unserer Software Ihre ersten eigenen Szenarien erstellen.
-Unterstützt durch uns. Wenn Sie mögen, können Sie ihr eigenes Projekt mitbringen. Wir sehen es uns mit Ihnen gemeinsam an und geben Ihnen
+Während des Praxisteils sind Sie gefragt: Nach einer kurzen Einführung werden Sie mit unserer Software Ihre ersten eigenen Szenarien und Simulationen erstellen.
+Wenn Sie mögen, bringen Sie Ihr eigenes Projekt mit. Wir sehen es uns mit Ihnen gemeinsam an und geben Ihnen
 Starthilfe.
 
 
@@ -32,7 +35,6 @@ Sie können an keinem der genannten Termine? Kontaktieren Sie uns, gemeinsam wer
 
 
 
-![Screenshot AutoCAD 2015](/img/screenshot-autocad-2015.png){.float-middle}
 
 
 #meta#
