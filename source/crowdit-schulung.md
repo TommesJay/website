@@ -20,9 +20,9 @@ Starthilfe.
 
 Die nächsten Termine sind:
 
-13.09.2016 [Zur Anmeldung](mailto:schulung.092016@accu-rate.de))
-11.10.2016 [Zur Anmeldung](mailto:schulung.102016@accu-rate.de))
-08.11.2016 [Zur Anmeldung](mailto:schulung.112016@accu-rate.de))
+* 13.09.2016 [Zur Anmeldung](mailto:schulung.092016@accu-rate.de)
+* 11.10.2016 [Zur Anmeldung](mailto:schulung.102016@accu-rate.de)
+* 08.11.2016 [Zur Anmeldung](mailto:schulung.112016@accu-rate.de)
 
 Die Schulungen finden jeweils von 10 Uhr bis 16 Uhr in München in unserem [Büro](kontakt) statt. 
 
