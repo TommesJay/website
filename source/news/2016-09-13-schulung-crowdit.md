@@ -7,8 +7,6 @@ Am 13. September halten wir in unseren Büroräumen eine Einführungsschulung f�
 sowie einem Praxisteil, in dem die Teilnehmer direkt mit crowd:it arbeiten lernen. 
 [Mehr Details...](Link zu unterseite mit schulung)
 
-Die Schulung beginnt um 10 Uhr - 16 Uhr. 
-
 Interesse? Melden Sie sich [hier](link zu formular oder mail?) an!
 
 
