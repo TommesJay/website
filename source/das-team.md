@@ -108,7 +108,7 @@ Der Geschäftsführer Roland G. Meier ist seit 2009 Sachverständiger für Veran
 
 Als Untermieter in der Münchner Niederlassung pflegen wir mit [hhpberlin](https://www.hhpberlin.de/) eine wertvolle Bürogemeinschaft.
 hhpberlin als ein sehr innovatives Brandschutzbüro unterstützt uns in Expertenfragen rund um das Thema Brandschutz.
-Aber nicht nur das: gemeinsam haben wir innovative Lösungen beispielsweise auf der [CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) vorgestellt.
+Aber nicht nur das: gemeinsam haben wir innovative Lösungen [beispielsweise auf der CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) vorgestellt.
 
 
 ## Wir danken:
