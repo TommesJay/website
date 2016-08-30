@@ -102,11 +102,13 @@ Ein Schwerpunkt des Unternehmens ist das Crowd Management (Besucherlenkung), das
 Die VDS GmbH leitet als Verbundkoordinator seit 2013 das auf drei Jahre angelegte Forschungsprojekt [MultikOSi](http://www.multikosi.de/), das vom [Bundesministerium für Bildung und Forschung](http://www.bmbf.de/) gefördert wird. Ziel des Projekts ist es, Unterstützungssysteme für die sichere Konzeption und Durchführung von städtischen Großveranstaltungen zu erforschen.
 Der Geschäftsführer Roland G. Meier ist seit 2009 Sachverständiger für Veranstaltungssicherheit und Versammlungsstätten und seit 2013 durch den [Deutschen Gutachter- und Sachverständigenverband (DGSV)](http://www.dgusv.de/) zertifiziert sowie geprüfte "Sicherheitsfachperson für Versammlungsstätten" (Zertifikat des [TÜV Saarland](http://www.tuev-saar.net/)). Er ist 1. Vorsitzender des [Bundesverbands Veranstaltungssicherheit](http://bvvs.org/).
 
-### hhpberlin Ingenieure für Brandschutz mbH {#hhpberlin}
+### hhpberlin Ingenieure für Brandschutz GmbH {#hhpberlin}
 
 ![hhpberlin](/img/team/hhp-logo.png) {.mugshot}
 
-Als Untermieter von [hhpberlin](https://www.hhpberlin.de/) pflegt accu:rate eine wertvolle Bürogemeinschaft. hhpberlin als ein sehr innovatives Brandschutzbüro unterstützt uns in Expertenfragen rund um das Thema Brandschutz. Aber nicht nur das: gemeinsame innovative Lösungen haben wir beispielsweise auf der [CeBIT 2016](news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) vorgestellt.
+Als Untermieter in der Münchner Niederlassung pflegen wir mit [hhpberlin](https://www.hhpberlin.de/) eine wertvolle Bürogemeinschaft.
+hhpberlin als ein sehr innovatives Brandschutzbüro unterstützt uns in Expertenfragen rund um das Thema Brandschutz.
+Aber nicht nur das: gemeinsam haben wir innovative Lösungen beispielsweise auf der [CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) vorgestellt.
 
 
 ## Wir danken:
