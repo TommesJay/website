@@ -1,7 +1,7 @@
 ﻿![Glückliche Schulungsteilnehmer](/img/schulung-crowdit.jpg) {.fancyheader-img}
 # *<br />crowd:it Schulung* {.fancyheader}
 
-Um bestmöglichst mit [unserer Software crowd:it](unsere-software.md) arbeiten zu können, bieten wir in regelmäßigen Abständen Schulungstermine an. 
+Um bestmöglichst mit [unserer Software crowd:it](unsere-software) arbeiten zu können, bieten wir in regelmäßigen Abständen Schulungstermine an. 
 
 
 ## Inhalte
