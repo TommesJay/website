@@ -2,8 +2,8 @@
 <div class="four columns">
     <strong>
         accu:rate GmbH<br />
-        Institute for <br />crowd simulation
     </strong>
+    Institute for <br />crowd simulation
 </div>
 <div class="four columns">
     Rosental 5<br />

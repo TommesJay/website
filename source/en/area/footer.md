@@ -2,10 +2,8 @@
 <div class="four columns">
     <strong>
         accu:rate GmbH<br />
-        Institute for <br />crowd simulation
     </strong>
-    <br />
-    c/o hhpberlin GmbH<br />
+    Institute for <br />crowd simulation
 </div>
 <div class="four columns">
     Rosental 5<br />
