@@ -106,7 +106,8 @@ The services of [VDS GmbH](http://www.vds-veranstaltung.de/) are based on 25 yea
 [![UnternehmerTUM](/img/associates/unternehmertum.png "UnternehmerTUM supported accu:rate from the very beginning.")](https://www.unternehmertum.de/)
 [![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Courtesy of Munich-based ej-technologies GmbH we received licenses for JProfiler, a software development tool for Java that helps us tremendiously in developing our simulation kernel.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
 [![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.gif "F24 AG supported us in 2015 with free office space as well as their tremendious experience.")](https://www.f24.com/)
-[![ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](/img/associates/abs-sicherheitsdienst.png "Vielen Dank an den ABS Sicherheitsdienst für die Professionalität und Offenheit!")](http://www.abs-sicherheitsdienst.de/)
+[![ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](/img/associates/abs-sicherheitsdienst.png "We thank ABS Sicherheitsdienst for their professionality und openness.")](http://www.abs-sicherheitsdienst.de/)
+[![hhpberlin Ingenieure für Brandschutz GmbH](/img/associates/hhpberlin_logo_color-small.png "hhpberlin GmbH lets us part of their Munich office and supports us with their invaluable expertise.")](https://www.f24.com/)
 </div>
 
 

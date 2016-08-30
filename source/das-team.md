@@ -104,7 +104,7 @@ Der Geschäftsführer Roland G. Meier ist seit 2009 Sachverständiger für Veran
 
 ### hhpberlin Ingenieure für Brandschutz GmbH {#hhpberlin}
 
-![hhpberlin](/img/team/hhp-logo.png) {.mugshot}
+![hhpberlin](/img/associates/hhpberlin_logo_color-small.png) {.mugshot}
 
 Als Untermieter in der Münchner Niederlassung pflegen wir mit [hhpberlin](https://www.hhpberlin.de/) eine wertvolle Bürogemeinschaft.
 hhpberlin als ein sehr innovatives Brandschutzbüro unterstützt uns in Expertenfragen rund um das Thema Brandschutz.
@@ -122,8 +122,9 @@ Aber nicht nur das: gemeinsam haben wir innovative Lösungen beispielsweise auf 
 [![TUM](/img/associates/tum.png "accu:rate ist eine Ausgründung des Lehrstuhls für Computergestützte Modellierung und Simulation der Technischen Universität München.")](https://www.tum.de/)
 [![UnternehmerTUM](/img/associates/unternehmertum.png "Von Beginn an wurde accu:rate durch die UnternehmerTUM begleitet und gefördert.")](https://www.unternehmertum.de/)
 [![The best Java profiler: JProfiler by ej-technologies](/img/associates/jprofiler_medium.png "Die Münchner Firma ej-technologies GmbH hat sehr günstig Lizenzen für ihr Softwareentwicklungs-Werkzeug JProfiler an accu:rate abgegeben.")](https://www.ej-technologies.com/products/jprofiler/overview.html)
-[![Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.](/img/associates/f24.gif "Die F24 AG greift uns mit wertvoller Erfahrung und Office-Space unter die Arme.")](https://www.f24.com/)
-[![ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](/img/associates/abs-sicherheitsdienst.png "Vielen Dank an den ABS Sicherheitsdienst für die Professionalität und Offenheit!")](http://www.abs-sicherheitsdienst.de/)
+[![F24 AG](/img/associates/f24.gif "Die F24 AG teilt ihre wertvoller Erfahrung mit uns und hat uns 2015 mit Office-Space unter die Arme gegriffen.")](https://www.f24.com/)
+[![ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](/img/associates/abs-sicherheitsdienst.png "Vielen Dank an den ABS Sicherheitsdienst für die Professionalität und Offenheit.")](http://www.abs-sicherheitsdienst.de/)
+[![hhpberlin Ingenieure für Brandschutz GmbH](/img/associates/hhpberlin_logo_color-small.png "Die hhpberlin GmbH vermietet uns einen Teil ihres Münchner Büros und unterstützt uns mit wertvoller Erfahrung.")](https://www.f24.com/)
 </div>
 
 
