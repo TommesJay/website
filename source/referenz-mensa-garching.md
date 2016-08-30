@@ -20,8 +20,8 @@ Die anschließende Simulation konnte dabei helfen ein Konzept auszuarbeiten, das
 Wenn auch Sie bereits in der Planungsphase Besucherströme für Ihr zu errichtendes Bauwerk überprüfen lassen wollen, dann [kontaktieren] (kontakt) Sie uns für ein unverbindliches Angebot. Wir freuen uns von Ihnen zu hören!
 
 #meta#
-pagetitle: Entfluchtungsanalyse für das Volksfest Landshuter Hochzeit
-description: "Landshuter Hochzeit: accu:rate analysiert und optimiert die Fluchtwege"
+pagetitle: "Ablaufsimulation für die neue Mensa am Forschungszentrum Garching"
+description: "Mensa am Forschungszentrum Garching: accu:rate analysiert Free-Flow Konzept"
 langs: [
     { code: "en", name: "English", url: "en:evacuation-simulation-cafetaria-garching", icon: "lang-en.png", text: "View this page in English" }
 ]
