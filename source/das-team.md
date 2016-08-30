@@ -104,7 +104,7 @@ Der Geschäftsführer Roland G. Meier ist seit 2009 Sachverständiger für Veran
 
 ### hhpberlin Ingenieure für Brandschutz GmbH {#hhpberlin}
 
-![hhpberlin](/img/associates/hhpberlin_logo_color-small.png) {.mugshot}
+![hhpberlin](img/associates/hhpberlin_logo_color-icon-small.png) {.mugshot}
 
 Als Untermieter in der Münchner Niederlassung pflegen wir mit [hhpberlin](https://www.hhpberlin.de/) eine wertvolle Bürogemeinschaft.
 hhpberlin als ein sehr innovatives Brandschutzbüro unterstützt uns in Expertenfragen rund um das Thema Brandschutz.
