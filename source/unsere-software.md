@@ -40,13 +40,21 @@ Sie eine andere CAD Software benutzen, wir freuen uns, wenn wir mit
 Ihnen weitere Plattformen erschließen können!
 
 
-## Wie funktioniert das beta programm?
+## Wie funktioniert das Beta Programm?
 
 Wir suchen technisch versierte Kunden, die an unserem Beta-Programm teilnehmen möchten.
 In der Beta-Version von crowd:it können Sie als Software-Tester eine Pre-Release-Software ausprobieren.
 Mit ihrem Feedback helfen Sie uns dabei Probleme zu erkennen und crowd:it noch besser zu machen.
 Sie erhalten unbegrenzt technischen Support.
 Dabei treten Sie mit unseren Entwicklern in Kontakt, um sicherzustellen, dass Sie ein Tool erhalten dass Sie bei ihren Projekten optimal unterstützt.
+
+
+## Einführungsseminar / Erstschulung
+
+Um von Anfang an bestmöglich mit crowd:it arbeiten zu können und einen frustrationsfreien Einstieg in die Simulation von Fußgängerströmen sicher zu stellen, bieten wir unseren Kunden eine Schulung an.
+Entweder in unseren Räumen in München, oder gegen Aufpreis bei Ihnen im Hause.
+Die Schulung ist als Workshop konzipiert: Auf einen kurzen Theorieteil folgt ein größerer und mehrteiliger Praxis-Block, in dem wir mit einem einfachen Beispiel beginnen und zuletzt gerne gemeinsam eines Ihrer Projekte angehen.
+[Mehr lesen...](crowdit-schulung)
 
 
 ## Muss ich für die Software zahlen?
