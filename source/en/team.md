@@ -78,12 +78,10 @@ Since 2010 she leads a research group at the Munich University of Applied Scienc
 Prof. Köster is member of the scientific committees of the [PED 2012](http://www.ivt.ethz.ch/news/archive/20120606_conference_ped_2012//), the [TGF 2013](http://www.fz-juelich.de/conferences/tgf13/EN/Home/home_node.html) and the [PED 2014](http://www.ped2014.nl/en), some of the most important conferences on crowd flow simulations.
 
 
-
 ### Technical University of Munich, Prof. Dr.-Ing. André Borrmann {#andre-borrmann}
 
 ![Photo: Prof. Dr-Ing. André Borrmann](/img/team/team-borrmann.jpg) {.mugshot}
 The [Chair of Computational Modeling and Simulation](https://www.cms.bgu.tum.de/) under the direction of [Prof. Dr.-Ing. André Borrmann](https://www.cms.bgu.tum.de/de/team/borrmann) researches on the modeling and simulation of pedestrian flows since its inception in 2012. One of the research priorities of the Department are scale transitions between different modeling levels (macroscopic, mesoscopic, microscopic) in pedestrian flow simulations. Among other thigs the Chair is involved in Research Cooperation [MultikOSi](http://www.multikosi.de/), which is promoted by the [BMBF](http://www.bmbf.de).
-
 
 
 ### VDS GmbH - Veranstaltung | Dienstleistung | Sicherheit, Roland G. Meier {#roland-meier}
@@ -92,6 +90,13 @@ The [Chair of Computational Modeling and Simulation](https://www.cms.bgu.tum.de/
 The services of [VDS GmbH](http://www.vds-veranstaltung.de/) are based on 25 years of professional qualification and practical know-how in visitor and event security. These include security consulting for operators, promoters and authorities and the generation and implementation of security concepts in the form of safety coordination for events. One focus of the company is the Crowd Management (visitor management), which was successfully used for example in the championship celebration of FC Bayern Munich in 2013. Since 2013 the VDS GmbH manages as project coordinator the research project [MultikOSi](http://www.multikosi.de/) promoted by the [Federal Ministry of Education and Research](http://www.bmbf.de/), that is spread over three years. The aim of the project is to explore support systems for the secure conception and implementation of major urban events. The managing director Roland G. Meier is an expert in event security and places of assembly since 2009. Since 2013 he is certified by the [German Association of Professional Experts (DGSV)](http://www.dgusv.de/) and accredited "Safety Expert for places of assembly" (certificate of the  [TÜV Saarland](http://www.tuev-saar.net/)). Mr. Meier is the first Chairman of the [Federal Association of Event Security](http://bvvs.org/).
 
 
+### hhpberlin Ingenieure für Brandschutz GmbH {#hhpberlin}
+
+![hhpberlin](img/associates/hhpberlin_logo_color-icon-small.png) {.mugshot}
+
+As a subtenant of their Munich branch office, we maintain a close relationship with [hhpberlin](https://www.hhpberlin.de/).
+Being a very innovative bureau for preventive fire protection, hhpberlin is more than able to support us with their expert knowledge.
+Furthermore, we have jointly presented cutting edge solutions for example [at the CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit).
 
 
 ## We extend our gratitude:
