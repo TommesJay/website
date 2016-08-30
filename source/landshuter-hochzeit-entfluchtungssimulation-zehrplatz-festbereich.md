@@ -2,7 +2,7 @@
 # *Entfluchtungsanalyse für die Landshuter Hochzeit* {.fancyheader}
 
 
-Foto: Michael Hackl, [Landshuter Hochzeit](http://www.landshuter-hochzeit.de/pressebilder_details/reiter-und-ritterspiele.html)
+[Landshuter Hochzeit](http://www.landshuter-hochzeit.de/pressebilder_details/reiter-und-ritterspiele.html)
 
 Hier ein Beispiel für eines unserer Projekte.
 
@@ -17,9 +17,8 @@ Die [Landshuter Hochzeit](http://www.landshuter-hochzeit.de/) ist ein mittelalte
 Photo: Christine Vincon, [Landshuter Hochzeit](http://www.landshuter-hochzeit.de/pressebilder_details/hochzeitszug.html)
 
 Der Festzug der Landshuter Hochzeit erinnert an den Einzug der Braut in die Stadt Landshut im Jahre 1475.
-Dabei spazieren über 2000 Mitwirkende über das Altstadtgelände bis hin zu den Turnier- und Zehrplätzen, auf denen das Fest stattfindet.
-Über mehrere Wochen finden dort Ritterturniere und andere mittelalterliche Festivitäten und Veranstaltungen statt, bei denen die Besucher in die Welt des Mittelalters zurückversetzt werden.
-Alle 4 Jahre lockt das Fest mehr als 100.000 Gäste aus aller Welt nach Landshut.
+In einem beeindruckenden Festzug ziehen über 200 Mitwirkende durch die Strassen der Stadt Landshut und finden sich dann auf dem Festgelände ein wo die Reiter und Ritterspiele mit dem authentischen Ritterturnier stattfinden.
+Alle 4 Jahre lockt das Fest mehr als 600.000 Gäste aus aller Welt nach Landshut.
 
 Gemeinsam mit unsererm Auftraggeber, dem [gemeinnützigen Verein "Die Förderer e.V."](http://www.landshuter-hochzeit.de/der-verein.html) haben wir mithilfe von Simulationen die Fluchtwegsgestaltung der Festivitäten untersucht und angepasst.
 
