@@ -23,6 +23,6 @@ Wenn auch Sie bereits in der Planungsphase Besucherströme für Ihr zu errichten
 pagetitle: Entfluchtungsanalyse für das Volksfest Landshuter Hochzeit
 description: "Landshuter Hochzeit: accu:rate analysiert und optimiert die Fluchtwege"
 langs: [
-    { code: "en", name: "English", url: "en:evacuation-simulation-landshuter-hochzeit", icon: "lang-en.png", text: "View this page in English" }
+    { code: "en", name: "English", url: "en:evacuation-simulation-cafetaria-garching", icon: "lang-en.png", text: "View this page in English" }
 ]
 
