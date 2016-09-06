@@ -11,6 +11,7 @@
 
 ## Presseartikel
 
+* IT:Agenten Blog: [Simulation statt Massenpanik](http://blog.it-agenten.com/2016/09/simulation-statt-massenpanik/), Interview mit Florian Sesser, 02.09.2016
 * Protector: [Großveranstaltungen und Sportarenen - Risiken mindern](http://www.sicherheit.info/SI/cms.nsf/si.ArticlesByDocID/1140702?Open&SessionID=3260196-122707), Fachartikel aus PROTECTOR 07-08/2016, S. 14 bis 16
 * Sichereseite.com: [Sicherheit von Anfang an: crowd:it](http://www.sichereseite.com/personenstromsimulation-software-crowdit), Florian Appelt, 24.02.2016
 * Brandschutzdialog: [Dynamik von Personenbewegungen](http://www.brandschutzdialog.de/dynamik-von-personenbewegungen/150/38192/), Februar 2016
