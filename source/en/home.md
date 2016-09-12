@@ -14,8 +14,8 @@ Please contact us. We're happy to speak English (and some Spanish, French and Ru
 #### News and Events
 
 * Seminar (de): [Veranstaltungs&shy;planung – aber sicher!](/news:2016-06-28-vortrag-workshop-siko-mannheim) [IECA announcement](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-fuer-gross-veranstaltungen-auf-grundlage-der-muster-versammlungsstaettenverordnung-mvstaettvo-mit-baustein-digitale-entfluchtungsanalysen/) (de) (2017-01-19, Mannheim)
-* Talk (de): [Keynote at the Technical University Vienna](/news:2016-03-30-vortrag-an-der-tu-wien) (2016-03-30, Vienna)
-* Exhibition (de): [accu:rate with Microsoft at the CeBIT 2016](/news:2016-02-26-accu-rate-mit-hhpberlin-und-microsoft-auf-der-cebit) (2016-03-14, Hannover)
+* Symposium: Florian Sesser is with [hhpberlin](https://www.hhpberlin.de/) at [30. Braunschweiger Brand&shy;schutz&shy;tage](http://www.brandschutztage.info/) (21./22. September)
+* Congress: Dr. Angelika Kneidl is with [hhpberlin](https://www.hhpberlin.de/) at the [12. European Congress on Disaster Management](http://www.civil-protection.com/) (20./21. September)
 
 
 [More News...](/news:archiv) (mostly German)  

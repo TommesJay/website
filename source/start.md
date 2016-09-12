@@ -4,8 +4,9 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
-* [Seminar: Veranstalt&shy;ungs&shy;planung – aber sicher!](/news:2016-06-28-vortrag-workshop-siko-mannheim) mit der [IECA](http://www.ieca-mannheim.de/seminare/veranstaltungsplanung-aber-sicher-sicherheitskonzepte-fuer-gross-veranstaltungen-auf-grundlage-der-muster-versammlungsstaettenverordnung-mvstaettvo-mit-baustein-digitale-entfluchtungsanalysen/) (19. Januar 2017, Mannheim)
 * [Vortrag](/news:2016-10-05-symposium-neue-technologien) auf dem [6. Inter&shy;nationalen Symposium "Neue Techno&shy;logien"](https://www.bka.de/DE/UnsereAufgaben/Ermittlungsunterstuetzung/Technologiefrueherkennung/SymposiumTechnologien/symposiumTechnologien_node.html) (5. Oktober 2016, Bad Cannstatt)
+* Fachtagung: Florian Sesser mit [hhpberlin](https://www.hhpberlin.de/) auf den [30. Braunschweiger Brand&shy;schutz&shy;tagen](http://www.brandschutztage.info/) (21./22. September)
+* Kongress: Dr. Angelika Kneidl mit [hhpberlin](https://www.hhpberlin.de/) auf dem [12. Europäischen Katastrophen&shy;schutz&shy;kongress](http://www.civil-protection.com/) (20./21. September)
 * [Schulung](/news:2016-09-13-schulung-crowdit) am 13. September 2016 für [unsere Software crowd:it](unsere-software) (24. August 2016)
 
 [Mehr Neuigkeiten...](/news:archiv)  
