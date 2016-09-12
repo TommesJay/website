@@ -2,7 +2,7 @@
 # *Entfluchtungsanalyse für die Landshuter Hochzeit* {.fancyheader}
 
 
-[Landshuter Hochzeit](http://www.landshuter-hochzeit.de/pressebilder_details/reiter-und-ritterspiele.html)
+Photo: [Landshuter Hochzeit Pressebilder](http://www.landshuter-hochzeit.de/pressebilder_details/reiter-und-ritterspiele.html)
 
 Hier ein Beispiel für eines unserer Projekte.
 
@@ -32,6 +32,3 @@ Sind auch Sie Veranstalter von stark frequentierten Festivitäten und Sie sind s
 #meta#
 pagetitle: Entfluchtungsanalyse für das Volksfest Landshuter Hochzeit
 description: "Landshuter Hochzeit: accu:rate analysiert und optimiert die Fluchtwege"
-langs: [
-    { code: "en", name: "English", url: "en:evacuation-simulation-landshuter-hochzeit", icon: "lang-en.png", text: "View this page in English" }
-]
