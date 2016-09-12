@@ -5,12 +5,22 @@ Hier finden Sie einige Beispiele unserer Projekte.
 Selbstverständlich beantworten wir gerne Ihre Fragen!
 Bitte [kontaktieren](kontakt) Sie uns.
 
+
+## [Entfluchtungssimulation für die Landshuter Hochzeit](landshuter-hochzeit-entfluchtungssimulation-zehrplatz-festbereich)
+[![Landshuter Hochzeit Thumbnail](/img/referenzen/landshuter-hochzeit-reisige-thumb.jpg "Landshuter Hochzeit Pressefoto")](landshuter-hochzeit-entfluchtungssimulation-zehrplatz-festbereich){.referenzpreview}
+In einem beeindruckenden Festzug ziehen über 2.000 Mitwirkende durch die Straßen der Stadt Landshut und finden sich dann auf dem Festgelände ein, wo die Reiter- und Ritterspiele mit dem authentischen Ritterturnier stattfinden.
+Alle vier Jahre lockt das Fest mehr als 600.000 Gäste allein an den Wochenenden aus aller Welt nach Landshut.
+Gemeinsam mit unserem Auftraggeber, dem gemeinnützigen Verein ["Die Förderer" e.V.](http://www.landshuter-hochzeit.de/der-verein.html) haben wir mithilfe von Simulationen die Fluchtwegsgestaltung der Festivitäten untersucht und angepasst.
+[Mehr lesen...](landshuter-hochzeit-entfluchtungssimulation-zehrplatz-festbereich)
+
+
 ## [Entfluchtungsanalyse des Rosenheimer Eishockeystadions](simulation-eishockeystadion-rosenheim)
 [![Rosenheimer Eishockeystadion Thumbnail](img/referenzen/rosenheim-eishockeystadion-thumbnail.png "Rosenheimer Eishockeystadion Simulation")](simulation-eishockeystadion-rosenheim) {.referenzpreview}
 Für die Stadt Rosenheim erstellte accu:rate eine Entfluchtungs-Simulation für das [Rosenheimer Eishockey Stadion (emilo-Stadion)](https://de.wikipedia.org/wiki/Emilo-Stadion).
 Wegen einer baulichen Umstrukturierung entsprach das Stadion nicht mehr den Vorgaben der VStättV, so dass Anzahl der zulässigen Besucher reduziert werden musste.
 Die baulichen Maßnahmen betrafen unter anderem auch die Fluchtwegstreppen auf der Nord-, Süd- und Ostseite des Stadions. 
 [Mehr lesen...](simulation-eishockeystadion-rosenheim)
+
 
 ## [Entfluchtungsanalyse für die Hanse Sail](simulation-entfluchtung-hanse-sail)
 [![Hanse Sail 3D Visualisierung Thumbnail](img/referenzen/hanse-30grad-thumb.jpg "Hanse Sail 3D Visualisierung")](simulation-entfluchtung-hanse-sail) {.referenzpreview}
