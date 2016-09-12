@@ -22,7 +22,7 @@ Das Fest wird jährlich von rund einer Million Menschen besucht.
 
 Unser Kunde, die [ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/), wollte mit Hilfe der Simulation von accu:rate das Räumungskonzept überprüfen und optimieren. Die Fragestellungen, die dabei auftraten, lauteten:
 
-[![ABS Sicherheitsdienst Logo](img/associates/abs-sicherheitsdienst.png)](http://www.abs-sicherheitsdienst.de/ "ABS Sicherheitsdienst GmbH") {.float-right}
+[![ABS Sicherheitsdienst Logo](img/associates/abs-sicherheitsdienst-large.png)](http://www.abs-sicherheitsdienst.de/ "ABS Sicherheitsdienst GmbH") {.float-right}
 
 * Wie lange dauert die Entfluchtung des Geländes?
 * Kommt es zu Staus, und wenn ja, wo?

@@ -18,7 +18,7 @@ Visitors have the unique opportunity to experience the traditional seafaring on 
 
 With the help of our simulation, our client [ABS Alarm- Bewachungs- und Sicherheitsdienst GmbH](http://www.abs-sicherheitsdienst.de/) wanted to prove and optimize the evacuation concept. The following questions arised:
 
-[![ABS Sicherheitsdienst Logo](img/associates/abs-sicherheitsdienst.png)](http://www.abs-sicherheitsdienst.de/ "ABS Sicherheitsdienst GmbH") {.float-right}
+[![ABS Sicherheitsdienst Logo](img/associates/abs-sicherheitsdienst-large.png)](http://www.abs-sicherheitsdienst.de/ "ABS Sicherheitsdienst GmbH") {.float-right}
 
 * How long will the evacuation of the festival area take?
 * Is there a congestion, and if so, where?
