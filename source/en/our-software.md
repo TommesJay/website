@@ -51,7 +51,7 @@ You will be in direct contact with our development team to ensure that you get a
 Unfortunately we can not comp the beta software, but of course you'll not only get the test software but also the complete version of crowd:it when it's released.
 
 
-Are you interested? [Please give us your name, email address and phone number!](http://eepurl.com/bW18HT)
+Are you interested? [Please give us your name, email address and phone number!](http://eepurl.com/bS5MYr)
 
 
 
