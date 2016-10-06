@@ -37,9 +37,9 @@ Die nächsten Termine sind:
 
 ### 2017
 
-* 08.02.2016 (Mittwoch)
-* 08.03.2016 (Mittwoch)
-* 06.04.2016 (Donnerstag)
+* 08.02.2017 (Mittwoch)
+* 08.03.2017 (Mittwoch)
+* 06.04.2017 (Donnerstag)
 
 Interesse? Geben Sie uns Bescheid, wir melden uns bei Ihnen.
 Senden Sie einfach eine eMail an <span class="mailadresse" data-to="info">info@javascript.anti.spam</span>.
