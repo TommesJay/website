@@ -29,9 +29,17 @@ Darin enthalten sind
 
 Die nächsten Termine sind:
 
-* 13.09.2016 (Dienstag)
+### 2016
+
 * 11.10.2016 (Dienstag)
 * 10.11.2016 (Donnerstag)
+* ??.12.2016 (??tag, **Berlin**)
+
+### 2017
+
+* 08.02.2016 (Mittwoch)
+* 08.03.2016 (Mittwoch)
+* 06.04.2016 (Donnerstag)
 
 Interesse? Geben Sie uns Bescheid, wir melden uns bei Ihnen.
 Senden Sie einfach eine eMail an <span class="mailadresse" data-to="info">info@javascript.anti.spam</span>.
