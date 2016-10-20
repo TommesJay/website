@@ -33,7 +33,7 @@ Die nächsten Termine sind:
 
 * 11.10.2016 (Dienstag)
 * 10.11.2016 (Donnerstag)
-* ??.12.2016 (??tag, **Berlin**)
+* 12.12.2016 (Montag, **Berlin**)
 
 ### 2017
 
