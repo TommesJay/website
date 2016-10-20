@@ -4,10 +4,10 @@
 <div class="float-right newsbox border" markdown="1">
 #### Aktuelles
 
+* [Neue Workshop-Termine](/crowdit-schulung) in München und Berlin für [unsere Software crowd:it](unsere-software) (20. Oktober 2016)
 * [Vortrag](/news:2016-10-05-symposium-neue-technologien) auf dem [6. Inter&shy;nationalen Symposium "Neue Techno&shy;logien"](https://www.bka.de/DE/UnsereAufgaben/Ermittlungsunterstuetzung/Technologiefrueherkennung/SymposiumTechnologien/symposiumTechnologien_node.html) (5. Oktober 2016, Bad Cannstatt)
 * Fachtagung: Florian Sesser mit [hhpberlin](https://www.hhpberlin.de/) auf den [30. Braunschweiger Brand&shy;schutz&shy;tagen](http://www.brandschutztage.info/) (21./22. September)
 * Kongress: Dr. Angelika Kneidl mit [hhpberlin](https://www.hhpberlin.de/) auf dem [12. Europäischen Katastrophen&shy;schutz&shy;kongress](http://www.civil-protection.com/) (20./21. September)
-* [Schulung](/news:2016-09-13-schulung-crowdit) am 13. September 2016 für [unsere Software crowd:it](unsere-software) (24. August 2016)
 
 [Mehr Neuigkeiten...](/news:archiv)  
 [Für Newsletter anmelden...](http://eepurl.com/bS5vNL)
