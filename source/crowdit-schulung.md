@@ -27,11 +27,20 @@ Darin enthalten sind
 - Ein Zertifikat über Ihre Teilnahme
 - Getränke und Snacks
 
-Die nächsten Termine sind:
+Die Termine lauten:
+
+### 2016
 
 * 13.09.2016 (Dienstag)
 * 11.10.2016 (Dienstag)
 * 10.11.2016 (Donnerstag)
+* 12.12.2016 (Montag, **in Berlin**)
+
+### 2017
+
+* 08.02.2017 (Mittwoch)
+* 08.03.2017 (Mittwoch)
+* 06.04.2017 (Donnerstag)
 
 Interesse? Geben Sie uns Bescheid, wir melden uns bei Ihnen.
 Senden Sie einfach eine eMail an <span class="mailadresse" data-to="info">info@javascript.anti.spam</span>.
