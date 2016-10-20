@@ -27,13 +27,14 @@ Darin enthalten sind
 - Ein Zertifikat über Ihre Teilnahme
 - Getränke und Snacks
 
-Die nächsten Termine sind:
+Die Termine lauten:
 
 ### 2016
 
+* 13.09.2016 (Dienstag)
 * 11.10.2016 (Dienstag)
 * 10.11.2016 (Donnerstag)
-* 12.12.2016 (Montag, **Berlin**)
+* 12.12.2016 (Montag, **in Berlin**)
 
 ### 2017
 
