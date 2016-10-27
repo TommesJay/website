@@ -33,7 +33,7 @@ Die Termine lauten:
 
 * 13.09.2016 (Dienstag)
 * 11.10.2016 (Dienstag)
-* 10.11.2016 (Donnerstag)
+* 16.11.2016 (Donnerstag)
 * 12.12.2016 (Montag, **in Berlin**)
 
 ### 2017
